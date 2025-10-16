@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1760510490000,
+  "lastPublished": 1760596890000,
   "layerName": "MajorEvent",
   "rights": {
     "copyright": "Transport for NSW",
@@ -2455,96 +2455,6 @@
     },
     {
       "type": "Feature",
-      "id": 251915,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.2235485,
-          -33.8919971
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "<p>Travel on transport is included in match tickets. Extra light rail services will run. Visit <a href=\"https://transportnsw.info/events/2025/10/one-day-international-cricket-australia-v-india\" target=\"_blank\">transportnsw.info</a> to plan your trip</p>",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [
-          {
-            "displayName": "Moore-Park-events-transport-map",
-            "fileName": "Moore-Park-events-transport-map.pdf",
-            "fileType": "PDF",
-            "linkName": "Moore-Park-events-transport-map",
-            "sizeInBytes": 692771,
-            "uniqueFileName": "133710_1751435855350_Moore-Park-events-transport-map.pdf"
-          },
-          {
-            "displayName": "ClearwayMap_MoorePark_North_DropOff",
-            "fileName": "ClearwayMap_MoorePark_North_DropOff.pdf",
-            "fileType": "PDF",
-            "linkName": "ClearwayMap_MoorePark_North_DropOff",
-            "sizeInBytes": 200555,
-            "uniqueFileName": "502106_1757029568911_ClearwayMap_MoorePark_North_DropOff.pdf"
-          }
-        ],
-        "isInitialReport": false,
-        "created": 1759901408000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Check signage",
-        "adviceC": "Use public transport",
-        "end": 1761393600000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1760318454884,
-        "otherAdvice": "<p><strong>One Day International Cricket: Australia v India at the Sydney Cricket Ground. Start of play at 2.30pm and end of play ay 10pm</strong></p><p>With up to 40,000 cricket fans expected, ticketholders are urged to catch public transport and leave the car at home to avoid traffic delays and the high demand for parking. </p><p>If you have to drive, carpool with your group and allow extra travel time as traffic will be heavier than usual as fans travel to and from the match.</p><p><strong>Changed traffic conditions:</strong></p><ul><li>Driver Avenue will be partially closed outside the stadium from 10.30am and will reopen once crowds have safely cleared the area.  </li><li>No through-traffic will be available on Driver Avenue, however access to EP2 Kippax car park will be maintained via Moore Park Road and access to EP3 grass car park and drop-off areas will be maintained from Lang Road.</li><li><strong>Special event clearways will be in effect on roads in Moore Park and surrounding areas</strong> <strong>from 3pm to midnight </strong>on sections of Albion St and Moore Park Rd, and <strong>from 6am to midnight </strong>on Cleveland St and Fitzroy St.</li></ul><p>Clearways are strict no-parking zones for all vehicle types, and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator.</p>",
-        "arrangementElements": [
-          {
-            "html": "<p>Special event clearways are strict no-parking zones for all vehicle types, and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator.</p><p><strong>Special event clearways will be in place on roads in Moore Park and surrounding areas</strong> <strong>from 3pm to midnight </strong>on sections of Albion Street and Moore Park Road, and <strong>from 6am to midnight </strong>on Cleveland Street and Fitzroy St.  </p><p><strong>From 6am to 12am</strong> </p><ul><li>Cleveland Street between South Dowling Street and City Road (southern side) </li><li>Cleveland Street between Abercrombie Street and South Dowling Street (northern side) </li><li>Fitzroy Street between South Dowling Street and Bourke Street (northern side) </li></ul><p><strong>From 3pm to 12am </strong> </p><ul><li>Albion Street between Bourke Street and Flinders Street (both sides) </li><li>Moore Park Road between Cook Road and Poate Road (southern side)  </li><li>Moore Park Road between Flinders Street and Green Road (northern side)  </li></ul>",
-            "title": "Special Event Clearways",
-            "id": "713330"
-          }
-        ],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1761310800000,
-        "displayName": "International Cricket",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "the SCG and Allianz Stadium",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "Moore Park Road, Anzac Parade, Lang Road, Eastern Distributor",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Moore Park",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 251917,
       "geometry": {
         "type": "Point",
@@ -3236,6 +3146,168 @@
     },
     {
       "type": "Feature",
+      "id": 250600.0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.9739109,
+          -33.2467681
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Australian National Field Days",
+            "linkURL": "https://anfd.com.au"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": 60,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1758757574000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Reduced speed limit",
+        "adviceB": "Exercise caution",
+        "adviceC": " ",
+        "end": 1761372000000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1760554863302,
+        "otherAdvice": "<p>The Australian National Field Days will be held at the Borenore site (15kms west of Orange NSW) from Thursday 23 Oct to Saturday 25 Oct.  A speed limit reduction of 60 km/h will be implemented on the Escort Way due to the increased traffic activity attending the event</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1761168600000,
+        "displayName": "Australian National Field Days - Borenore",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Borenore Road",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "The Escort Way",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Central NSW",
+            "secondLocation": "",
+            "suburb": "Borenore",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 251915,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2235485,
+          -33.8919971
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "<p>Travel on transport is included in match tickets. Extra light rail services will run. Visit <a href=\"https://transportnsw.info/events/2025/10/one-day-international-cricket-australia-v-india\" target=\"_blank\">transportnsw.info</a> to plan your trip</p>",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [
+          {
+            "displayName": "Moore-Park-events-transport-map",
+            "fileName": "Moore-Park-events-transport-map.pdf",
+            "fileType": "PDF",
+            "linkName": "Moore-Park-events-transport-map",
+            "sizeInBytes": 692771,
+            "uniqueFileName": "133710_1751435855350_Moore-Park-events-transport-map.pdf"
+          },
+          {
+            "displayName": "ClearwayMap_MoorePark_North_DropOff",
+            "fileName": "ClearwayMap_MoorePark_North_DropOff.pdf",
+            "fileType": "PDF",
+            "linkName": "ClearwayMap_MoorePark_North_DropOff",
+            "sizeInBytes": 200555,
+            "uniqueFileName": "502106_1757029568911_ClearwayMap_MoorePark_North_DropOff.pdf"
+          }
+        ],
+        "isInitialReport": false,
+        "created": 1759901408000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Check signage",
+        "adviceC": "Use public transport",
+        "end": 1761393600000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1760569180648,
+        "otherAdvice": "<p><strong>One Day International Cricket: Australia v India at the Sydney Cricket Ground. Start of play at 2.30pm and end of play ay 10pm</strong></p><p>With up to 40,000 cricket fans expected, ticketholders are urged to catch public transport and leave the car at home to avoid traffic delays and the high demand for parking. </p><p>If you have to drive, carpool with your group and allow extra travel time as traffic will be heavier than usual as fans travel to and from the match.</p><p><strong>Changed traffic conditions:</strong></p><ul><li>Driver Avenue will be partially closed outside the stadium from 10.30am and will reopen once crowds have safely cleared the area.  </li><li>No through-traffic will be available on Driver Avenue, however access to EP2 Kippax car park will be maintained via Moore Park Road and access to EP3 grass car park and drop-off areas will be maintained from Lang Road.</li><li><strong>Special event clearways will be in effect on roads in Moore Park and surrounding areas</strong> <strong>from 3pm to midnight </strong>on sections of Albion St, Fitzroy St. and Moore Park Rd, and <strong>from 6am to midnight </strong>on Cleveland St.</li></ul><p>Clearways are strict no-parking zones for all vehicle types, and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator.</p>",
+        "arrangementElements": [
+          {
+            "html": "<p>Special event clearways are strict no-parking zones for all vehicle types, and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator.</p><p><strong>Special event clearways will be in place on roads in Moore Park and surrounding areas</strong> <strong>from 3pm to midnight </strong>on sections of Albion Street and Moore Park Road, and <strong>from 6am to midnight </strong>on Cleveland Street and Fitzroy St.  </p><p><strong>From 6am to 12am</strong> </p><ul><li>Cleveland Street between South Dowling Street and City Road (southern side) </li><li>Cleveland Street between Abercrombie Street and South Dowling Street (northern side) </li><li>Fitzroy Street between South Dowling Street and Bourke Street (northern side) </li></ul><p><strong>From 3pm to 12am </strong> </p><ul><li>Albion Street between Bourke Street and Flinders Street (both sides) </li><li>Moore Park Road between Cook Road and Poate Road (southern side)  </li><li>Moore Park Road between Flinders Street and Green Road (northern side)  </li></ul>",
+            "title": "Special Event Clearways",
+            "id": "714983"
+          }
+        ],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1761310800000,
+        "displayName": "International Cricket",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "the SCG and Allianz Stadium",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "approaching",
+            "mainStreet": "Moore Park Road, Anzac Parade, Lang Road, Eastern Distributor",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Moore Park",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 251218,
       "geometry": {
         "type": "Point",
@@ -3249,13 +3321,6 @@
             "coordinates": [
               151.048786,
               -34.052845
-            ]
-          },
-          {
-            "type": "Point",
-            "coordinates": [
-              150.900871,
-              -34.396112
             ]
           },
           {
@@ -3401,23 +3466,23 @@
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1760486181539,
+        "lastUpdated": 1760576675684,
         "otherAdvice": "<p>Up to 10,000 cyclists will ride from Sydney to Fairy Meadow for the annual MS Gong Ride. The 80 km ride from Tempe Recreation Reserve starts from 6am and the 53km ride will start at Preston Park, Engadine from 8am. Both events finish at Thomas Dalton Park, Fairy Meadow by 3:45pm.</p><p><strong>Road and lane closures will be in place along sections of the course. </strong></p><ul><li><strong>4am to 9:30am from Tempe to Sutherland: </strong>sections of West Botany St, Holbeach Ave and Bestic St. The speed limit will be reduced to 60/km along Rocky Point Rd/Taren Point Rd from Sans Souci to Taren Point.</li><li><strong>5am to 10am from Sutherland to Waterfall: </strong>Lane closures on the Princes Hwy from Kirrawee to Loftus and the speed limit will be reduced to 60km/h from Kirrawee to Waterfall. Delays are expected travelling southbound on the Princes Hwy during this time. </li><li><strong>5am to 2:30pm in the Royal National Park: </strong>McKell Ave, Lady Wakehurst Dr, Sir Bertram Stevens Dr and Otford Rd. Access to the Royal National Park is via Farnell Ave only. The speed limit will be reduced to 40km/h along Lawrence Hargrave Dr from Stanwell Park to Thirroul from 6am to 3pm.</li><li><strong>5am to 4.30pm</strong> <strong>Bulli and Fairy Meadow: </strong>sections of Elliotts Rd near the finish area will be closed and the speed limit reduced to 40km/h on sections of Elliotts Rd.</li></ul><p>Motorists should exercise caution as cyclists will be sharing some roads along the course. Motorists are reminded when overtaking cyclists to leave a 1.5m distance on roads with speed limits over 60km/h and a 1m distance on roads 60km/h or under.</p><p><strong>Special event clearways will be in place along key sections of the course between 4am and 3pm.</strong></p><ul><li>Tempe to Kirrawee (from 4am to 10am)</li><li>Princes Hwy (from 4am to 11am)</li><li>Stanwell Park to Fairy Meadow (from 5am to 3pm)</li></ul><p>Clearways are strict no-parking zones for all vehicle types, and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed it will be relocated to the nearest legal parking space, use the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed\" target=\"_blank\">Find My Car</a> website or call 132 701 to find its new location.<strong>﻿</strong></p>",
         "arrangementElements": [
           {
             "html": "<p><strong>TEMPE TO BRIGHTON LE SANDS</strong></p><p><strong>FROM 4AM TO 9:30AM</strong></p><p><strong>TEMPE</strong></p><ul><li>Holbeach Avenue between Princes Highway and South Street (roundabout)</li><li>Tempe Recreational Reserve (Loop road and parking )</li></ul><p><strong>DOLLS POINT</strong></p><ul><li>Malua Street, Lane 1* between Sandringham Street and The Grand Parade (Northbound)</li></ul><p><strong>*</strong>Resident access to Sandringham Street and the Grand Parade via Napoleon Street</p><p><strong>FROM 4AM TO 9AM</strong></p><p><strong>ARNCLIFFE</strong></p><ul><li>West Botany Street between Princes Highway and Marsh Street (Southbound)</li></ul><p><strong>KYEEMAGH</strong></p><ul><li>Bestic Street between Jacobson Avenue and General Holmes Drive (Eastbound)</li></ul><p><strong>FROM 5:30AM TO 8AM</strong></p><p><strong>BANKSIA</strong></p><ul><li>Bestic Street* between West Botany Street and Francis Avenue (Eastbound)</li></ul><p>*Closure will be implemented due to glare from rising sun</p><p><strong>ENGADINE</strong></p><p><strong>FROM 5AM TO 9:30AM</strong></p><ul><li>Engadine Ave between Princes Highway and Preston Ave</li></ul><p><strong>ROYAL NATIONAL PARK, WATERFALL</strong></p><p><strong>FROM 5AM TO 2PM</strong></p><ul><li>McKell Avenue between Kooraban Street and Sir Bertram Stevens Drive</li><li>Sir Bertram Stevens Drive between McKell Avenue and Garie Rd</li></ul><p><strong>ROYAL NATIONAL PARK, OTFORD</strong></p><p><strong>FROM 5AM TO 2:30PM</strong></p><ul><li>Domville Road 1 between Otford Road and Lady Wakehurst Drive</li><li>Lady Wakehurst Drive between McKell Avenue and Otford Road</li><li>Lawrence Hargrave Drive 2 between Stonehaven Road and Otford Road (Eastbound)</li><li>Lawrence Hargrave Drive 2 between Otford Road and Chellow Dene Avenue (Southbound)</li><li>Otford Road between Lady Wakehurst Drive and Lawrence Hargrave Drive</li></ul><p>1. Resident access to Domville Road via Otford Rd.</p><p> 2. Access to properties along closed sections of Lawrence Hargrave Drive in Stanwell Tops will be maintained for residents. Motorists are advised to follow the directions of NSW Police and/or authorised traffic controllers on-site.</p><p><strong>BULLI</strong></p><p><strong>FROM 6AM TO 3PM</strong></p><ul><li>Point Street between Hill Street and Blackall Street (Eastbound)</li></ul><p><strong>FAIRY MEADOW</strong></p><p><strong>FROM 5AM TO 4.30PM    </strong></p><ul><li>Elliotts Rd from Squires Way/Carters Lane</li></ul><p><strong>LANE CLOSURES</strong></p><p><strong>Lane closures will be progressively reopened following the event.</strong></p><p><br></p><p><strong>FROM 4AM TO 9AM </strong></p><p><strong>TEMPE TO WOLLI CREEK</strong></p><ul><li>Princes Highway, Lane 1 between Ikea entry / exit and West Botany Road (Southbound)</li></ul><p><strong>BRIGHTON LE SANDS</strong></p><ul><li>The Grand Parade, Lane 1 between Henson Street and President Avenue (Southbound)</li></ul><p><strong>FROM 4AM TO 9:30AM</strong></p><p><strong>SANS SOUCI TO TAREN POINT</strong></p><ul><li>Rocky Point Road, Lane 1 between Fontainebleau Street and Taren Point Rd (Southbound)</li><li>Taren Point Road, Lane 1 between Rocky Point Road and Toorak Avenue (Southbound)    <strong>                </strong></li></ul><p><strong>FROM 5:30AM TO 10:00AM</strong></p><p><strong>TAREN POINT</strong></p><ul><li>Taren Point Road, Lane 1 between 226 Taren Point Rd and Captain Cook Dr (Southbound)</li><li>Taren Point Road, Middle Lane between Captain Cook Dr and Kingsway (Southbound)</li></ul><p><strong>FROM 4AM TO 10:30AM </strong></p><p><strong>KIRRAWEE, SUTHERLAND, LOFTUS, ENGADINE</strong></p><ul><li>Princes Highway, Lane 1 between President Avenue (Kirrawee) and Farnell Avenue (Loftus) (Southbound)</li></ul><p><strong>FROM 4AM-12MIDDAY </strong></p><p><strong>HEATHCOTE</strong></p><ul><li>Princes Highway, Lane 1 between Oliver St Heathcote and Kooraban St Waterfall (Southbound)</li></ul><p><strong>FROM 5AM TO 9.30AM</strong></p><p><strong>ENGADINE</strong></p><ul><li>Princes Highway, Lane 1 between 120m before and 100m after Engadine Ave, Engadine (Southbound)</li></ul>",
             "title": "Road and lane closures",
-            "id": "714352"
+            "id": "715064"
           },
           {
             "html": "<p>Special event clearways are <strong>strict no-parking zones </strong>for all vehicle types and apply even to local residents and Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed\" target=\"_blank\">Find My Car website</a> to find its new location, or alternatively call 132 701 to speak to an operator.</p><p><br></p><p><strong>TEMPE, WOLLI CREEK, BANKSIA, KYEEMAGH, BRIGHTON LE SANDS, SANDRINGHAM, SANS SOUCI, TAREN POINT, CARINGBAH, MIRANDA, GYMEA</strong></p><p><strong>FROM 4AM TO 10AM</strong></p><ul><li>Princes Highway between IKEA entry/exit (Tempe) and West Botany St (Wolli Creek) (Eastern side)</li><li>Princes Highway between Brodie Spark Drive and Gannon Street (Western side)</li><li>Bay Street between Princes Highway and Young Street (Tempe)</li><li>Holbeach Avenue between Princes Highway and South Street (roundabout)         </li><li>West Botany Street between Marsh Street (Arncliffe) and Bestic Street (Banksia) (Eastern side)</li><li>Bestic Street between West Botany Street and Francis Avenue (Banksia) (Northern side)</li><li>Bestic Street between Caroma Avenue and General Holmes Drive (Kyeemagh) (Northern side)</li><li>General Holmes Drive between Henson Street and Bruce Street (Brighton Le Sands) (Eastern side)</li><li>The Grand Parade between Bruce Street and President Avenue (Brighton Le Sands) (Eastern side)</li><li>Sandringham Street between The Grand Parade and Rocky Point Road (Sans Souci) (Southern side)</li><li>Rocky Point Road between Sandringham Street and Toorak Avenue (Taren Point) (Eastern side)</li><li>Taren Point Road between Toorak Avenue (Taren Point) and The Kingsway (Caringbah) (Eastern side)</li><li>The Kingsway between Taren Point Road and Princes Highway (Gymea) (Southern side)</li></ul><p><strong>ENGADINE TO HEATHCOTE</strong></p><p><strong>FROM 4AM TO 11AM</strong></p><ul><li>Princes Highway between No. 898 Princes Highway (150m east of Old Bush Road) and Whitton Street (Eastern side)</li></ul><p><strong>ENGADINE</strong></p><p><strong>FROM 5AM TO 9:30AM</strong></p><ul><li>Engadine Ave between Princes Highway and Preston Ave (Both sides)</li></ul><p><strong>FROM 5AM TO 3PM</strong></p><p><strong>COALCLIFF, SCARBOROUGH, COLEDALE, AUSTINMER, THIRROUL</strong></p><ul><li>Lawrence Hargrave Drive between 400m north of Coalcliff Station &amp; The Esplanade (Thirroul) (Eastern side)</li></ul><p><strong>BULLI, BELLAMBI, FAIRY MEADOW TO WOLLONGONG</strong></p><ul><li>Trinity Row between 30m north of Godolphin St (Bus Stop) and Farrell Road (Eastern side)</li><li>Farrell Road between Trinity Row and Carrington St (Southern side)</li><li>Pioneer Drive/Road between No. 11 Pioneer Drive (Woonona) and Carters Lane (Fairy Meadow) (Eastern side)</li><li>Carters Lane between Pioneer Road and Elliotts Road (Eastern side)</li><li>Elliotts Rd between Squires Way and carpark (Southern side)</li><li>Thomas Dalton Carpark from Elliotts Rd</li></ul>",
             "title": "Special Event Clearways",
-            "id": "714353"
+            "id": "715065"
           },
           {
             "html": "<p><strong>TEMPE TO ARNCLIFFE</strong></p><p><strong>FROM 4AM TO 9:30AM - REDUCED TO 40KM/H</strong></p><ul><li>Princes Hwy Ikea Entry between IKEA and West Botany Street, Arncliffe</li></ul><p><strong>SANS SOUCI TO TAREN POINT</strong></p><p><strong>FROM 4AM TO 10AM - REDUCED TO 60KM/H</strong></p><ul><li>Rocky Point Road, Lane 1 between Fontainebleau Street and Taren Point Road (southbound)</li><li>Taren Point Road, Lane 1 between Rocky Point Road and Toorak Avenue (southbound)</li></ul><p><strong>KIRRAWEE, LOFTUS</strong></p><p><strong>FROM 4AM TO 10:30AM - REDUCED TO 60KM/H</strong></p><ul><li>Princes Highway, Lane 1 between Minerva Street and Farnell Avenue (southbound)</li></ul><p><strong>LOFTUS TO WATERFALL</strong></p><p><strong>From 4AM TO 11:30AM - REDUCED TO 60KM/H</strong></p><ul><li>Princes Highway, Lane 1 between Farnell Avenue and Waterfall ramp off (southbound)</li></ul><p><strong>STANWELL PARK TO THIRROUL - REDUCED TO 40KM/H</strong></p><p><strong>FROM 6AM TO 3PM</strong></p><ul><li>Lawrence Hargrave Drive between Old Coast Road, Stanwell Park and The Esplanade, Thirroul</li></ul><p><strong>FAIRY MEADOW </strong></p><p><strong>FROM 9:30AM TO 4:30PM</strong></p><ul><li>Elliotts Rd Between Squires Way and Cowper St (Westbound)</li></ul>",
             "title": "Speed zone reduction",
-            "id": "714354"
+            "id": "715066"
           }
         ],
         "diversions": "",
@@ -3441,6 +3506,440 @@
             "region": "Sydney",
             "secondLocation": "",
             "suburb": "Tempe, Engadine to Fairy Meadow",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 252379,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.9019971,
+          -34.4270566
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2025/10/nbl-illawarra-hawks-v-new-zealand-breakers\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1760312298000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Use public transport",
+        "adviceB": "Allow extra travel time",
+        "adviceC": " ",
+        "end": 1761908400000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1760586267185,
+        "otherAdvice": "<p><strong>NBL Illawarra Hawks v New Zealand Breakers</strong> <strong>at WIN Entertainment Centre. Tip-off at 7.30pm, full time around 9.30pm.</strong></p><p>Traffic will be heavier than usual on roads approaching the Wollongong CBD and on local roads around WIN Entertainment Centre as fans travel to the match in the already busy evening peak.</p><p>Local roads around the stadium may close before, during and after the game for the safety of pedestrians.</p><p>Fans driving to the game on the freeway are encouraged to use the Masters Rd exit to avoid congestion at Mount Ousley Rd, both in and out of Wollongong.</p><p>Motorists should allow extra time for parking and be aware of increased pedestrian activity on local roads.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1761829200000,
+        "displayName": "NBL",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "WIN Stadium",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Harbour Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "South Coast",
+            "secondLocation": "",
+            "suburb": "Wollongong",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 252377,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.8355585,
+          -34.0507536
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2025/10/league-men-macarthur-fc-v-adelaide-united\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1760311806000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": " ",
+        "adviceC": " ",
+        "end": 1761561000000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1760586318402,
+        "otherAdvice": "<p><strong>A-League Men: Macarthur FC v Adelaide United at Campbelltown Sports Stadium. Kick-off at 7pm, full time around 9pm. </strong></p><p>Traffic will be heavier than usual as fans travel to the match in the already busy evening peak. Allow extra travel time on roads including Pembroke Rd, Rose Payten Dr and Leumeah Rd.</p><p>Motorists should also be aware of increased pedestrian activity in the area.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1761483600000,
+        "displayName": "A-League Men",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Campbelltown Sports Stadium",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "approaching",
+            "mainStreet": "Pembroke Road and Rose Payten Drive",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Leumeah",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 252382,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.7250318,
+          -32.9172128
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2025/11/league-men-newcastle-jets-v-sydney-fc\" target=\"_blank\">transportnsw.info</a> to plan your trip</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1760313052000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Plan your journey",
+        "adviceC": " ",
+        "end": 1761985800000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1760586352057,
+        "otherAdvice": "<p><strong>A-League Men: Newcastle Jets v Sydney FC at McDonald Jones Stadium. Kick-off at 5pm, full time around 7pm. </strong></p><p>Traffic may be heavier than usual as fans travel to and from the match. Allow extra travel time on Turton Rd, Griffiths Rd, Newcastle Rd, Lambton Rd and Bridges Rd through Broadmeadow while fans are making their way to and from the stadium.</p><p>For passenger drop-off, use the allocated 10-minute loading zone in the McDonald Jones Stadium car park. Entry is via the driveway off Turton Road.</p><p>Motorists should allow extra travel time and be aware of increased pedestrian activity on local roads.</p>",
+        "arrangementElements": [
+          {
+            "html": "<p><strong>SATURDAY 2 AUGUST</strong></p><p>Gates open at 11.15am</p><p>Titans v Bulldogs at 12.15pm</p><p>Wests Tigers v Roosters at 2.15pm</p><p>Finish around 6.15pm</p><p><strong>SUNDAY 3 AUGUST</strong></p><p>Gates open 10.50am</p><p>Cowboys v Warriors at 11.50am</p><p>Knights v Raiders 1.45pm</p><p>Eels v Dragons 3.45pm</p><p>Finish around 5.45pm.</p>",
+            "title": "Run Times",
+            "id": "715199"
+          }
+        ],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1761915600000,
+        "displayName": "A-League Men",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Turton Road",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Griffiths Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Hunter",
+            "secondLocation": "",
+            "suburb": "Broadmeadow",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 252386,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.3393829,
+          -33.4269183
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2025/11/league-double-header-central-coast-mariners\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1760314166000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Exercise caution",
+        "adviceC": " ",
+        "end": 1762072200000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1760586384881,
+        "otherAdvice": "<p><strong>A-League Double Men: Central Coast Mariners at polytec Stadium. Women v Adelaide United from 2.15pm, men v Wellington Phoenix at 5pm. Finish approx. 7pm. </strong></p><p>Traffic will be heavier than usual on roads approaching the stadium as fans travel to and from the stadium. Allow extra travel time and use local parking. </p><p>Dane Drive will be closed before the match between the Central Coast Highway and Donnison Street and will reopen once crowds have cleared the area.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1762002000000,
+        "displayName": "A-League Double Header",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Central Coast Highway",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Dane Drive",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Central Coast",
+            "secondLocation": "Donnison Street",
+            "suburb": "Gosford",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 252381,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.8343768,
+          -34.0515847
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2025/11/league-men-macarthur-fc-v-western-sydney-wanderers\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1760312701000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": " ",
+        "adviceC": " ",
+        "end": 1761995700000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1760586499504,
+        "otherAdvice": "<p><strong>A-League Men: Macarthur FC v Western Sydney Wanderers at Campbelltown Sports Stadium. Kick-off at 7.45pm, full time around 9.45pm. </strong></p><p>Traffic may be heavier than usual as fans travel to and from the match. Allow extra travel time on roads including Pembroke Rd, Rose Payten Dr and Leumeah Rd.</p><p>Motorists should also be aware of increased pedestrian activity in the area.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1761915600000,
+        "displayName": "A-League Men",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Campbelltown Sports Stadium",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "approaching",
+            "mainStreet": "Pembroke Road and Rose Payten Drive",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Leumeah",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 252786,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.084,
+          -33.8282
+        ],
+        "collections": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.076732,
+              -33.824501
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [
+              151.0676,
+              -33.83813
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "BBB Run",
+            "linkURL": "https://bbbrun.com.au/event-info/"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "<p>Route 526 and 533 buses will be diverting while roads are closed. Visit <a href=\"https://transportnsw.info/trip\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1760593184000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Use an alternative route",
+        "adviceB": "Use public transport",
+        "adviceC": " ",
+        "end": 1761436800000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1760593185206,
+        "otherAdvice": "<p><strong>Up to 1,500 people are expected to participate in the annual Billbergia Bennelong Bridge Run from 6.50am to 10am</strong>. </p><p>Changed traffic conditions including road closures will be in place to safely facilitate the event.</p><p>Motorists travelling around Rhodes, Wentworth Point and Olympic Park should allow additional travel time, follow diversions and directions of traffic controllers and be aware of increased pedestrian activity on local roads.</p><p><strong>Road closures:</strong></p><ul><li><strong>5am to 10am</strong>: sections of Kevin Coombs Ave, Marjorie Jackson Parkway, Holker Busway, Hill Rd, Footbridge Blvd, Wentworth Pl, Bennelong Bridge, Waterways St, Wentworth St, Shoreline Dr, Annie Leggett Promenade.</li></ul><p>Lane closures will also be in place on sections of Jamieson St and Holker St from 5am to 10am, along with stop/slow traffic conditions at the intersection of Hill Rd and Footbridge Boulevarde, and Jamieson St between Holker St and the shared pathway.</p>",
+        "arrangementElements": [
+          {
+            "html": "<p><strong>SYDNEY OLYMPIC PARK - FROM 5AM TO 10AM</strong></p><ul><li>Marjorie Jackson Parkway from Bennelong Parkway to Australia Avenue</li><li>Holker Busway from Hill Road to Kevin Coombes Avenue</li></ul><p><strong>RHODES, OLYMPIC PARK AND WENTWORTH POINT - FROM 5AM TO 10AM </strong></p><ul><li>Wentworth Place between Burroway Road and Footbridge Boulevarde</li><li>Bennelong Bridge between Shoreline Drive and Waterways Street</li><li>Waterways Street between Park Street North and Half Street</li><li>Wentworth Place between Footbridge Boulevard and Half Street</li><li>Shoreline Drive between Mary Street and Gauthorpe Street</li><li>Annie Leggett Promenade between Marquet Street and Shoreline Drive</li><li>Hill Road between Holker Street and the P5 Loop Road (both directions)</li><li>Hill Road between the P5 Loop Road and Bennelong Parkway (northbound)</li><li>Kevin Coombs Avenue between Olympic Boulevard and Australia Avenue (eastbound)</li></ul><p><strong>LANE CLOSURES - FROM 5AM TO 10AM</strong></p><ul><li>Jamieson Street between shared path and Holker Street (southbound lane)</li><li>Holker Street between Jamieson Street and Hill Road (eastbound lane)</li></ul>",
+            "title": "Road closures",
+            "id": "715284"
+          }
+        ],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1761397200000,
+        "displayName": "Fun Run",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "-",
+            "mainStreet": "Bennelong Bridge, Hill Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Rhodes, Wentworth Point, Sydney Olympic Park",
             "trafficVolume": ""
           }
         ],
