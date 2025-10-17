@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1760596890000,
+  "lastPublished": 1760683320000,
   "layerName": "MajorEvent",
   "rights": {
     "copyright": "Transport for NSW",
@@ -311,177 +311,6 @@
             "region": "Sydney",
             "secondLocation": "Heath Avenue",
             "suburb": "Hunters Hill",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 248674,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.2063261,
-          -33.8883582
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Northbound",
-            "finishTime": "11:59pm",
-            "fromDay": "Saturday",
-            "startTime": "2:00am",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Northbound",
-            "finishTime": "",
-            "fromDay": "Sunday",
-            "startTime": "all day",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Northbound",
-            "finishTime": "2:00am",
-            "fromDay": "Monday",
-            "startTime": "12:00am",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1757383019000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Check signage",
-        "adviceB": "Exercise caution",
-        "adviceC": " ",
-        "end": 1760886000000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT CLEARWAYS",
-        "lastUpdated": 1759454848617,
-        "otherAdvice": "<p>Special event clearways will be in place at the following locations to facilitate Sydney Trains trackwork replacement bus operations.</p><ul><li>Chalmers St, western side, between Cleveland St and Devonshire St, and</li><li>Chalmers St, eastern side, between Cleveland St and Rutland St.</li></ul><p>Special event clearways are strict no-parking zones for all vehicle types, and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://tfnswtowlink.my.site.com/findmycar/s/\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1760713200000,
-        "displayName": "SPECIAL EVENT CLEARWAYS Sydney Trains",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Cleveland Street",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Chalmers Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "Devonshire Street",
-            "suburb": "Surry Hills",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 251227,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.0624417,
-          -33.8424212
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2025/10/teddy-swims\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1759290594000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Use public transport",
-        "adviceC": " ",
-        "end": 1760617800000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1759789035673,
-        "otherAdvice": "<p><strong>Teddy Swims at Qudos Bank Arena from Tuesday 14 - Thursday 16 October. Show starts each night at 7.50pm and finishes each night around 10.30pm.</strong></p><p>Motorists should allow extra travel time on the M4, Parramatta Rd, Homebush Bay Drive, Silverwater Rd, Centenary Dr and Concord Rd. </p><p>If you have to drive, carpool with your group <a href=\"https://www.sydneyolympicpark.nsw.gov.au/parking\" target=\"_blank\">pre-book your parking online</a> ahead of time to secure a space – available until 11:59pm the night before the event unless sold out prior. </p><p>To get to your carpark and avoid the heavy traffic congestion expected at the Homebush Bay Drive roundabout, use Silverwater Road, Holker Street and Hill Road</p><p>Sydney Olympic Park Authority may close local roads in the precinct to ensure pedestrian safety during events. View the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a> for closure details</p>",
-        "arrangementElements": [
-          {
-            "html": "<p>Sydney Olympic Park Authority will close some local roads to accommodate increased public transport services and ensure pedestrian safety during events. For road closure details, visit the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">Sydney Olympic Park interactive map</a> for more details.  </p><p><strong>From 1.30am Monday 29 September – 1.00am Tuesday 7 October </strong></p><ul><li>Grand Parade from Showground Road to Australia Avenue</li></ul><p><strong>From 1.30am Friday 3 October – 1.00am Monday 6 October </strong></p><ul><li>Showground Road between Grand Parade and Murray Rose Avenue</li></ul><p><strong>From 1.30am Saturday 4 October – 1.00am Monday 6 October  </strong></p><ul><li>Dawn Fraser Avenue from Showground Rd to Edwin Flack Ave</li><li>Olympic Boulevard from Herb Elliot Ave to Northern Turning Circle</li><li>Showground Road from Grand Parade to Dawn Fraser</li><li>Murray Rose Avenue from Showground Road to Gate 15</li></ul><p><strong>From 12.00pm Saturday 4 October - 1.00am Monday 6 October  </strong></p><ul><li>Dawn Fraser from Showground Road to Park Street</li><li>Showground Road from Dawn Fraser Avenue to the rear of Novotel.</li></ul><p><strong>From 8.00pm Saturday 4 October - 1.00am Sunday 5 October  </strong></p><ul><li>Murray Rose Avenue from Gate 15 to Park Street.</li></ul><p><br></p>",
-            "title": "Road Closures",
-            "id": "710129"
-          }
-        ],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1760360400000,
-        "displayName": "Concert",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Qudos Bank Arena",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Sydney Olympic Park",
             "trafficVolume": ""
           }
         ],
@@ -3856,6 +3685,79 @@
     },
     {
       "type": "Feature",
+      "id": 251227,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0624417,
+          -33.8424212
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2025/10/teddy-swims\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1759290594000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use public transport",
+        "adviceC": " ",
+        "end": 1760617800000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1760617804815,
+        "otherAdvice": "<p><strong>Teddy Swims at Qudos Bank Arena from Tuesday 14 - Thursday 16 October. Show starts each night at 7.50pm and finishes each night around 10.30pm.</strong></p><p>Motorists should allow extra travel time on the M4, Parramatta Rd, Homebush Bay Drive, Silverwater Rd, Centenary Dr and Concord Rd. </p><p>If you have to drive, carpool with your group <a href=\"https://www.sydneyolympicpark.nsw.gov.au/parking\" target=\"_blank\">pre-book your parking online</a> ahead of time to secure a space – available until 11:59pm the night before the event unless sold out prior. </p><p>To get to your carpark and avoid the heavy traffic congestion expected at the Homebush Bay Drive roundabout, use Silverwater Road, Holker Street and Hill Road</p><p>Sydney Olympic Park Authority may close local roads in the precinct to ensure pedestrian safety during events. View the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a> for closure details</p>",
+        "arrangementElements": [
+          {
+            "html": "<p>Sydney Olympic Park Authority will close some local roads to accommodate increased public transport services and ensure pedestrian safety during events. For road closure details, visit the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">Sydney Olympic Park interactive map</a> for more details.  </p><p><strong>From 1.30am Monday 29 September – 1.00am Tuesday 7 October </strong></p><ul><li>Grand Parade from Showground Road to Australia Avenue</li></ul><p><strong>From 1.30am Friday 3 October – 1.00am Monday 6 October </strong></p><ul><li>Showground Road between Grand Parade and Murray Rose Avenue</li></ul><p><strong>From 1.30am Saturday 4 October – 1.00am Monday 6 October  </strong></p><ul><li>Dawn Fraser Avenue from Showground Rd to Edwin Flack Ave</li><li>Olympic Boulevard from Herb Elliot Ave to Northern Turning Circle</li><li>Showground Road from Grand Parade to Dawn Fraser</li><li>Murray Rose Avenue from Showground Road to Gate 15</li></ul><p><strong>From 12.00pm Saturday 4 October - 1.00am Monday 6 October  </strong></p><ul><li>Dawn Fraser from Showground Road to Park Street</li><li>Showground Road from Dawn Fraser Avenue to the rear of Novotel.</li></ul><p><strong>From 8.00pm Saturday 4 October - 1.00am Sunday 5 October  </strong></p><ul><li>Murray Rose Avenue from Gate 15 to Park Street.</li></ul><p><br></p>",
+            "title": "Road Closures",
+            "id": "715405"
+          }
+        ],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1760360400000,
+        "displayName": "Concert",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Qudos Bank Arena",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "approaching",
+            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Sydney Olympic Park",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 252786,
       "geometry": {
         "type": "Point",
@@ -3893,7 +3795,7 @@
         "weblinkUrl": null,
         "expectedDelay": -1,
         "ended": false,
-        "isNewIncident": true,
+        "isNewIncident": false,
         "publicTransport": "<p>Route 526 and 533 buses will be diverting while roads are closed. Visit <a href=\"https://transportnsw.info/trip\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
         "impactingNetwork": true,
         "subCategoryB": null,
@@ -3910,13 +3812,13 @@
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1760593185206,
-        "otherAdvice": "<p><strong>Up to 1,500 people are expected to participate in the annual Billbergia Bennelong Bridge Run from 6.50am to 10am</strong>. </p><p>Changed traffic conditions including road closures will be in place to safely facilitate the event.</p><p>Motorists travelling around Rhodes, Wentworth Point and Olympic Park should allow additional travel time, follow diversions and directions of traffic controllers and be aware of increased pedestrian activity on local roads.</p><p><strong>Road closures:</strong></p><ul><li><strong>5am to 10am</strong>: sections of Kevin Coombs Ave, Marjorie Jackson Parkway, Holker Busway, Hill Rd, Footbridge Blvd, Wentworth Pl, Bennelong Bridge, Waterways St, Wentworth St, Shoreline Dr, Annie Leggett Promenade.</li></ul><p>Lane closures will also be in place on sections of Jamieson St and Holker St from 5am to 10am, along with stop/slow traffic conditions at the intersection of Hill Rd and Footbridge Boulevarde, and Jamieson St between Holker St and the shared pathway.</p>",
+        "lastUpdated": 1760651367992,
+        "otherAdvice": "<p><strong>Up to 1,500 people are expected to participate in the annual Billbergia Bennelong Bridge Run from 6.50am to 10am</strong>.</p><p>Changed traffic conditions including road closures will be in place to safely facilitate the event.</p><p>Motorists travelling around Rhodes, Wentworth Point and Olympic Park should allow additional travel time, follow diversions and directions of traffic controllers and be aware of increased pedestrian activity on local roads.</p><p><strong>Road closures:</strong></p><ul><li><strong>4am to 11am</strong>: sections of Marjorie Jackson Parkway and Holker Busway</li><li><strong>5am to 10am</strong>: sections of Kevin Coombs Ave, Hill Rd, Footbridge Blvd, Wentworth Pl, Bennelong Bridge, Waterways St, Wentworth St, Shoreline Dr, Annie Leggett Promenade.</li></ul><p>Lane closures will also be in place on sections of Jamieson St and Holker St from 5am to 10am, along with stop/slow traffic conditions at the intersection of Hill Rd and Footbridge Boulevarde, and Jamieson St between Holker St and the shared pathway.</p>",
         "arrangementElements": [
           {
-            "html": "<p><strong>SYDNEY OLYMPIC PARK - FROM 5AM TO 10AM</strong></p><ul><li>Marjorie Jackson Parkway from Bennelong Parkway to Australia Avenue</li><li>Holker Busway from Hill Road to Kevin Coombes Avenue</li></ul><p><strong>RHODES, OLYMPIC PARK AND WENTWORTH POINT - FROM 5AM TO 10AM </strong></p><ul><li>Wentworth Place between Burroway Road and Footbridge Boulevarde</li><li>Bennelong Bridge between Shoreline Drive and Waterways Street</li><li>Waterways Street between Park Street North and Half Street</li><li>Wentworth Place between Footbridge Boulevard and Half Street</li><li>Shoreline Drive between Mary Street and Gauthorpe Street</li><li>Annie Leggett Promenade between Marquet Street and Shoreline Drive</li><li>Hill Road between Holker Street and the P5 Loop Road (both directions)</li><li>Hill Road between the P5 Loop Road and Bennelong Parkway (northbound)</li><li>Kevin Coombs Avenue between Olympic Boulevard and Australia Avenue (eastbound)</li></ul><p><strong>LANE CLOSURES - FROM 5AM TO 10AM</strong></p><ul><li>Jamieson Street between shared path and Holker Street (southbound lane)</li><li>Holker Street between Jamieson Street and Hill Road (eastbound lane)</li></ul>",
+            "html": "<p><strong>SYDNEY OLYMPIC PARK - FROM 4AM TO 11AM</strong></p><ul><li>Marjorie Jackson Parkway from Bennelong Parkway to Australia Avenue</li><li>Holker Busway from Hill Road to Kevin Coombes Avenue</li></ul><p><strong>RHODES, OLYMPIC PARK AND WENTWORTH POINT - FROM 5AM TO 10AM </strong></p><ul><li>Wentworth Place between Burroway Road and Footbridge Boulevarde</li><li>Bennelong Bridge between Shoreline Drive and Waterways Street</li><li>Waterways Street between Park Street North and Half Street</li><li>Wentworth Place between Footbridge Boulevard and Half Street</li><li>Shoreline Drive between Mary Street and Gauthorpe Street</li><li>Annie Leggett Promenade between Marquet Street and Shoreline Drive</li><li>Hill Road between Holker Street and the P5 Loop Road (both directions)</li><li>Hill Road between the P5 Loop Road and Bennelong Parkway (northbound)</li><li>Kevin Coombs Avenue between Olympic Boulevard and Australia Avenue (eastbound)</li></ul><p><strong>LANE CLOSURES - FROM 5AM TO 10AM</strong></p><ul><li>Jamieson Street between shared path and Holker Street (southbound lane)</li><li>Holker Street between Jamieson Street and Hill Road (eastbound lane)</li></ul>",
             "title": "Road closures",
-            "id": "715284"
+            "id": "715565"
           }
         ],
         "diversions": "",
@@ -3940,6 +3842,104 @@
             "region": "Sydney",
             "secondLocation": "",
             "suburb": "Rhodes, Wentworth Point, Sydney Olympic Park",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 248674,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2061116,
+          -33.8892761
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Northbound",
+            "finishTime": "11:59pm",
+            "fromDay": "Saturday",
+            "startTime": "2:00am",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Northbound",
+            "finishTime": "",
+            "fromDay": "Sunday",
+            "startTime": "all day",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Northbound",
+            "finishTime": "2:00am",
+            "fromDay": "Monday",
+            "startTime": "12:00am",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1757383019000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Check signage",
+        "adviceB": "Exercise caution",
+        "adviceC": " ",
+        "end": 1760886900000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT CLEARWAYS",
+        "lastUpdated": 1760669421049,
+        "otherAdvice": "<p>Special event clearways will be in place at the following locations to facilitate Sydney Trains trackwork replacement bus operations.</p><ul><li>Chalmers St, western side, between Cleveland St and Devonshire St, and</li><li>Chalmers St, eastern side, between Cleveland St and Rutland St.</li></ul><p>Special event clearways are strict no-parking zones for all vehicle types, and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://tfnswtowlink.my.site.com/findmycar/s/\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1760713200000,
+        "displayName": "SPECIAL EVENT CLEARWAYS Sydney Trains",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Cleveland Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Chalmers Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "Devonshire Street",
+            "suburb": "Surry Hills",
             "trafficVolume": ""
           }
         ],
