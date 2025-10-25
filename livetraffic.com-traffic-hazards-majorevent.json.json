@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1761288210000,
+  "lastPublished": 1761374310000,
   "layerName": "MajorEvent",
   "rights": {
     "copyright": "Transport for NSW",
@@ -470,79 +470,6 @@
     },
     {
       "type": "Feature",
-      "id": 251897,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.7243099,
-          -32.9189568
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2025/10/league-men-newcastle-jets-fc-v-melbourne-victory\" target=\"_blank\">transportnsw.info</a> to plan your trip</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1759898704000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Plan your journey",
-        "adviceC": " ",
-        "end": 1761303600000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1760318043351,
-        "otherAdvice": "<p><strong>A-League Men: Newcastle Jets FC v Melbourne Victory at McDonald Jones Stadium. Gates open 6.35pm, kick off at 7.35pm and finish at 9.30pm</strong></p><p>Traffic may be heavier than usual as fans travel to and from the match. Allow extra travel time on Turton Rd, Griffiths Rd, Newcastle Rd, Lambton Rd and Bridges Rd through Broadmeadow while fans are making their way to and from the stadium.</p><p>For passenger drop-off, use the allocated 10-minute loading zone in the McDonald Jones Stadium car park. Entry is via the driveway off Turton Road.</p><p>Motorists should allow extra travel time and be aware of increased pedestrian activity on local roads.</p>",
-        "arrangementElements": [
-          {
-            "html": "<p><strong>SATURDAY 2 AUGUST</strong></p><p>Gates open at 11.15am</p><p>Titans v Bulldogs at 12.15pm</p><p>Wests Tigers v Roosters at 2.15pm</p><p>Finish around 6.15pm</p><p><strong>SUNDAY 3 AUGUST</strong></p><p>Gates open 10.50am</p><p>Cowboys v Warriors at 11.50am</p><p>Knights v Raiders 1.45pm</p><p>Eels v Dragons 3.45pm</p><p>Finish around 5.45pm.</p>",
-            "title": "Run Times",
-            "id": "713325"
-          }
-        ],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1761224400000,
-        "displayName": "A-League Men",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Turton Road",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Griffiths Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Hunter",
-            "secondLocation": "",
-            "suburb": "Broadmeadow",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 251899,
       "geometry": {
         "type": "Point",
@@ -904,73 +831,6 @@
     },
     {
       "type": "Feature",
-      "id": 249188,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.1569947,
-          -33.9053053
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1757561320000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Use public transport",
-        "adviceC": " ",
-        "end": 1761366600000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1760318708214,
-        "otherAdvice": "<p><strong>AFLW: Sydney Swans v West Coast Eagles. First bounce at 1.05pm, full time around 3.05pm. </strong></p><p>Traffic may be heavier than usual on roads approaching Henson Park as attendees travel to and from the event. Travel with your group and allow extra travel time on Sydenham Rd, Illawarra Rd, Livingstone Rd and Addison Rd. </p><p><strong>Woodland St and Holmesdale St will be closed from 8.45am until 1.45pm on game day</strong>.</p><p>Limited parking is available at on Centennial St at Henson Park and on local surrounding streets. Plan to arrive early to secure a parking spot.</p><p>Motorists should also be aware of increased pedestrians in the area.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1761310800000,
-        "displayName": "AFLW",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Henson Park",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "Sydenham Road  and Centennial Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Marrickville",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 252402,
       "geometry": {
         "type": "Point",
@@ -1034,244 +894,6 @@
             "region": "Sydney",
             "secondLocation": "",
             "suburb": "Circular Quay",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 252611,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.9339987,
-          -29.6903504
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Jacaranda Festival",
-            "linkURL": "https://jacafest.com/"
-          }
-        ],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Closed",
-            "roadtype": "Road",
-            "direction": "Both directions",
-            "finishTime": "9:30am",
-            "fromDay": "Saturday",
-            "startTime": "8:30am",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1760482988000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Check signage",
-        "adviceB": "Use diversions",
-        "adviceC": "Exercise caution",
-        "end": 1761345000000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1760482989627,
-        "otherAdvice": "<p>The parade will be held on Saturday 25 October between 8:30am and 9:30am. Rolling road closures will be in place along Prince Street. </p>",
-        "arrangementElements": [],
-        "diversions": "<p>Follow signage and direction of traffic controllers for detours.</p>",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1761341400000,
-        "displayName": "SPECIAL EVENT Jacaranda Parade of Youth",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Victoria Street",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Prince Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "North Coast NSW",
-            "secondLocation": "Pound Street",
-            "suburb": "Grafton",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 252615,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.4994689,
-          -30.6421506
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Thunderbolts Festival",
-            "linkURL": "https://urallarotary.org.au/uralla-thunderbolts-festival/"
-          }
-        ],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "4:00pm",
-            "fromDay": "Saturday",
-            "startTime": "10:00am",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1760485827000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Check signage",
-        "adviceC": "Use diversions",
-        "end": 1761368400000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1760485827865,
-        "otherAdvice": "<p>The festival will be held between 10am and 4pm in Alma Park, Queen St, Uralla. The New England Highway will be closed between John &amp; King Streets from 10.30am to 11.30am for the Fleet Warbirds Parade. The detour is NOT suitable for Restricted Access Heavy vehicles that will be parked during the closure.</p>",
-        "arrangementElements": [],
-        "diversions": "<p>Light vehicles will be detoured via John, Maitland &amp; King Streets. Restricted Access Heavy vehicles travelling southbound on Thunderbolts Way will be stopped at Rocky River Road. Heavy vehicles will be parked on the New England Hwy (Bridge St) between John &amp; Park Streets for northbound vehicles and between King &amp; Hill Streets for southbound vehicles.</p>",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1761346800000,
-        "displayName": "Thunderbolts Festival",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "John Street",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "New England Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "New England North West",
-            "secondLocation": "King Street",
-            "suburb": "Uralla",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 250600.0,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          148.9739109,
-          -33.2467681
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Australian National Field Days",
-            "linkURL": "https://anfd.com.au"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": 60,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1758757574000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Reduced speed limit",
-        "adviceB": "Exercise caution",
-        "adviceC": " ",
-        "end": 1761372000000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1760554863302,
-        "otherAdvice": "<p>The Australian National Field Days will be held at the Borenore site (15kms west of Orange NSW) from Thursday 23 Oct to Saturday 25 Oct.  A speed limit reduction of 60 km/h will be implemented on the Escort Way due to the increased traffic activity attending the event</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1761168600000,
-        "displayName": "Australian National Field Days - Borenore",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Borenore Road",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "The Escort Way",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Central NSW",
-            "secondLocation": "",
-            "suburb": "Borenore",
             "trafficVolume": ""
           }
         ],
@@ -3156,166 +2778,6 @@
     },
     {
       "type": "Feature",
-      "id": 249601,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.2440485,
-          -33.8278742
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "<p>Some buses will be diverting while roads are closed. Plan your trip at <a href=\"https://transportnsw.info/\" target=\"_blank\">transportnsw.info</a>.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [
-          {
-            "displayName": "Parade_ClosureClearwayMap_Mosman_24Oct",
-            "fileName": "Parade_ClosureClearwayMap_Mosman_24Oct.pdf",
-            "fileType": "PDF",
-            "linkName": "Parade_ClosureClearwayMap_Mosman_24Oct",
-            "sizeInBytes": 327875,
-            "uniqueFileName": "292589_1758254128059_Parade_ClosureClearwayMap_Mosman_24Oct.pdf"
-          }
-        ],
-        "isInitialReport": false,
-        "created": 1757913429000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Exercise caution",
-        "adviceC": " ",
-        "end": 1761267600000,
-        "hideEndDate": true,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1761267655119,
-        "otherAdvice": "<p>Road closures and clearways will be in place in Mosman to safely facilitate the Freedom of Entry Parade for HMAS Penguin from 10.50am until 1.10pm.</p><p><strong>Roads closures </strong></p><ul><li><strong>From 10.50am until 11.50am: </strong>sections of Prince Albert St, Military Rd, Gouldsbury Rd, The Crescent, Myahgah Rd and surrounding local streets  </li><li><strong>Military Rd will be closed between Almora St and Middle Head Rd from 11.20am to 11.45am</strong></li></ul><p><strong>Special event clearways will be in effect from 9.30am to 12pm </strong>on sections of Prince Albert St, Bradleys Head Rd, Middle Head Rd, Military Rd, Raglan St, Avenue Rd, Belmont Rd, Gouldsbury St and The Crescent.  </p><p>Clearways are strict no-parking zones for all vehicle types and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed\" target=\"_blank\">Find My Car website</a> to find its new location, or alternatively call 132 701 to speak to an operator.</p>",
-        "arrangementElements": [
-          {
-            "html": "<p><strong>ROAD CLOSURES</strong></p><p><strong>From 10.50am to 11.35am:</strong> </p><ul><li><strong>Prince Albert Street</strong> between Milner Street and Bradleys Head Road (excluding roundabout)  </li></ul><p><strong>From 11.20am to 11.45am:</strong> </p><ul><li><strong>Military Road </strong>between Prince Albert Street &amp; Almora Street (roundabout remains open) </li><li><strong>Raglan Street (Wwest) </strong>between Military Road &amp; Carney Lane </li><li><strong>Raglan Street (Eeast)</strong> between Military Road &amp; Muston Street </li><li><strong>Avenue Road</strong> between Military Road &amp; Carney Lane </li><li><strong>Belmont Road </strong>between Military Road &amp; Gladstone Avenue  </li><li><strong>Gouldsbury Street </strong>between Military Road &amp; The Crescent  </li></ul><p><strong>From 11.20am to 11.50am:</strong> </p><ul><li><strong>The Crescent</strong> between Gouldsbury Street &amp; Myahgah Road </li><li><strong>Myahgah Road</strong> between Art Gallery Way &amp; The Crescent</li></ul><p><strong>SPECIAL EVENT CLEARWAYS</strong></p><p><strong>Clearways are strict no-parking zones</strong> for all vehicle types and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed\" target=\"_blank\">Find My Car website</a> to find its new location, or alternatively call 132 701 to speak to an operator.</p><p><strong>MOSMAN FROM 9.30AM TO 12PM</strong></p><ul><li>Prince Albert Street between Milner Street and Bradleys Head Road</li><li>Bradleys Head Road between Military Road and 96 Bradleys Head Road</li><li>Middle Head Road between Military Road and Martens Lane</li><li>Military Road between Prince Albert Street &amp; Almora Street</li><li>Raglan Street (west) between Military Road and Carney Lane </li><li>Raglan Street (east) between Military Road and Muston Street </li><li>Avenue Road between Military Road and Carney Lane </li><li>Belmont Road between Military Road and Gladstone Avenue  </li><li>Gouldsbury Street between Military Road and The Crescent  </li><li>The Crescent between Gouldsbury Street and Myahgah Road </li></ul>",
-            "title": "Road Closures & Special Event Clearways",
-            "id": "719849"
-          }
-        ],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1761224400000,
-        "displayName": "Parade",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Mosman Village Green",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "Military Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Mosman",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 253627,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.6179264,
-          -32.9576271
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "2:00pm",
-            "fromDay": "Saturday",
-            "startTime": "9:00am",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1761270921000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Expect delays",
-        "adviceB": "Exercise caution",
-        "adviceC": "Reduce your speed",
-        "end": 1761361200000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1761270922418,
-        "otherAdvice": "<p>The Lake Mac Emergency and Essential Services Expo will be held on Saturday 25 October at Speers Point Park.</p><p>Alternating (stop/slow) traffic conditions will be in place to allow motorists to pass in one direction at a time. </p><p>There will be increased pedestrian activity in the area. </p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1761343200000,
-        "displayName": "Lake Mac Emergency and Essential Services Expo",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Speers Point Park",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "The Esplanade",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Hunter",
-            "secondLocation": "",
-            "suburb": "Speers Point",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 253545,
       "geometry": {
         "type": "Point",
@@ -3485,25 +2947,176 @@
     },
     {
       "type": "Feature",
-      "id": 253143,
+      "id": 253685,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.7076492,
-          -34.440472
+          148.3904625,
+          -34.5593525
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1761288929000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Reduce your speed",
+        "adviceB": "Check signage",
+        "adviceC": "Exercise caution",
+        "end": 1761377400000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1761288930345,
+        "otherAdvice": "<p>The Harden Picnic Races will take place on Saturday 25 October.</p><p>A large attendance is expected. A speed reduction will be in place on Burley Griffin Way.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1761352200000,
+        "displayName": "Harden Picnic Races",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Burley Griffin Way",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Southern Highlands",
+            "secondLocation": "",
+            "suburb": "Harden",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 251897,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.7243099,
+          -32.9189568
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2025/10/league-men-newcastle-jets-fc-v-melbourne-victory\" target=\"_blank\">transportnsw.info</a> to plan your trip</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1759898704000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Plan your journey",
+        "adviceC": " ",
+        "end": 1761303600000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1761303662207,
+        "otherAdvice": "<p><strong>A-League Men: Newcastle Jets FC v Melbourne Victory at McDonald Jones Stadium. Gates open 6.35pm, kick off at 7.35pm and finish at 9.30pm</strong></p><p>Traffic may be heavier than usual as fans travel to and from the match. Allow extra travel time on Turton Rd, Griffiths Rd, Newcastle Rd, Lambton Rd and Bridges Rd through Broadmeadow while fans are making their way to and from the stadium.</p><p>For passenger drop-off, use the allocated 10-minute loading zone in the McDonald Jones Stadium car park. Entry is via the driveway off Turton Road.</p><p>Motorists should allow extra travel time and be aware of increased pedestrian activity on local roads.</p>",
+        "arrangementElements": [
+          {
+            "html": "<p><strong>SATURDAY 2 AUGUST</strong></p><p>Gates open at 11.15am</p><p>Titans v Bulldogs at 12.15pm</p><p>Wests Tigers v Roosters at 2.15pm</p><p>Finish around 6.15pm</p><p><strong>SUNDAY 3 AUGUST</strong></p><p>Gates open 10.50am</p><p>Cowboys v Warriors at 11.50am</p><p>Knights v Raiders 1.45pm</p><p>Eels v Dragons 3.45pm</p><p>Finish around 5.45pm.</p>",
+            "title": "Run Times",
+            "id": "720320"
+          }
+        ],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1761224400000,
+        "displayName": "A-League Men",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Turton Road",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Griffiths Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Hunter",
+            "secondLocation": "",
+            "suburb": "Broadmeadow",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 252611,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.9339987,
+          -29.6903504
         ],
         "collections": []
       },
       "properties": {
         "webLinks": [
           {
-            "linkText": "Boorowa Touch and Netball Carnival",
-            "linkURL": "https://stjboorowa.nsw.edu.au/touch-netball-carnival"
+            "linkText": "Jacaranda Festival",
+            "linkURL": "https://jacafest.com/"
           }
         ],
         "headline": "",
-        "periods": [],
-        "speedLimit": 40,
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Closed",
+            "roadtype": "Road",
+            "direction": "Both directions",
+            "finishTime": "9:30am",
+            "fromDay": "Saturday",
+            "startTime": "8:30am",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
         "ended": true,
@@ -3513,41 +3126,341 @@
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1760913173000,
+        "created": 1760482988000,
         "isMajor": false,
         "name": null,
         "subCategoryA": "null",
-        "adviceA": "Reduced speed limit",
-        "adviceB": "Check signage",
-        "adviceC": " ",
-        "end": 1761283800000,
+        "adviceA": "Check signage",
+        "adviceB": "Use diversions",
+        "adviceC": "Exercise caution",
+        "end": 1761345000000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1761283802390,
-        "otherAdvice": "<p>The Boorowa Touch and Netball Carnival is on Friday 24 October with changed traffic conditions in place from 8.30am to 4.30pm.</p><p>The carnival is expecting 7000 spectators and over 4,500 competitors from schools around Canberra and the State.</p><p>Alternating (stop/slow) traffic conditions will be in place on Jugiong Street to allow motorists to pass in one direction at a time.</p><p>A speed reduction of 40km/h will be in place on Lachlan Valley Way, Murringo Rd, Cunningar Rd, Bally Ryan Rd and Gereldine Rd.</p>",
+        "lastUpdated": 1761345061420,
+        "otherAdvice": "<p>The parade will be held on Saturday 25 October between 8:30am and 9:30am. Rolling road closures will be in place along Prince Street. </p>",
         "arrangementElements": [],
-        "diversions": "<p>Motorist are advised they can detour via Trucking Yard Rd, Court St and Brial St to avoid event traffic.</p>",
+        "diversions": "<p>Follow signage and direction of traffic controllers for detours.</p>",
         "additionalInfo": [],
         "weblinkName": null,
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1761255000000,
-        "displayName": "Boorowa Touch and Netball Carnival",
+        "start": 1761341400000,
+        "displayName": "SPECIAL EVENT Jacaranda Parade of Youth",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "",
+            "crossStreet": "Victoria Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Prince Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "North Coast NSW",
+            "secondLocation": "Pound Street",
+            "suburb": "Grafton",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 253627,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.6179264,
+          -32.9576271
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "2:00pm",
+            "fromDay": "Saturday",
+            "startTime": "9:00am",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1761270921000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Expect delays",
+        "adviceB": "Exercise caution",
+        "adviceC": "Reduce your speed",
+        "end": 1761361200000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1761361202211,
+        "otherAdvice": "<p>The Lake Mac Emergency and Essential Services Expo will be held on Saturday 25 October at Speers Point Park.</p><p>Alternating (stop/slow) traffic conditions will be in place to allow motorists to pass in one direction at a time. </p><p>There will be increased pedestrian activity in the area. </p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1761343200000,
+        "displayName": "Lake Mac Emergency and Essential Services Expo",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Speers Point Park",
             "delay": "",
             "impactedLanes": [],
             "locationQualifier": "at",
-            "mainStreet": "Ballyryan Road",
+            "mainStreet": "The Esplanade",
             "quadrant": "",
             "queueLength": 0,
-            "region": "Southern Highlands",
+            "region": "Hunter",
             "secondLocation": "",
-            "suburb": "Boorowa",
+            "suburb": "Speers Point",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 249188,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1569947,
+          -33.9053053
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1757561320000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use public transport",
+        "adviceC": " ",
+        "end": 1761366600000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1761366662208,
+        "otherAdvice": "<p><strong>AFLW: Sydney Swans v West Coast Eagles. First bounce at 1.05pm, full time around 3.05pm. </strong></p><p>Traffic may be heavier than usual on roads approaching Henson Park as attendees travel to and from the event. Travel with your group and allow extra travel time on Sydenham Rd, Illawarra Rd, Livingstone Rd and Addison Rd. </p><p><strong>Woodland St and Holmesdale St will be closed from 8.45am until 1.45pm on game day</strong>.</p><p>Limited parking is available at on Centennial St at Henson Park and on local surrounding streets. Plan to arrive early to secure a parking spot.</p><p>Motorists should also be aware of increased pedestrians in the area.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1761310800000,
+        "displayName": "AFLW",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Henson Park",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "approaching",
+            "mainStreet": "Sydenham Road  and Centennial Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Marrickville",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 252615,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.4994689,
+          -30.6421506
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Thunderbolts Festival",
+            "linkURL": "https://urallarotary.org.au/uralla-thunderbolts-festival/"
+          }
+        ],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "4:00pm",
+            "fromDay": "Saturday",
+            "startTime": "10:00am",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1760485827000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Check signage",
+        "adviceC": "Use diversions",
+        "end": 1761368400000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1761368402946,
+        "otherAdvice": "<p>The festival will be held between 10am and 4pm in Alma Park, Queen St, Uralla. The New England Highway will be closed between John &amp; King Streets from 10.30am to 11.30am for the Fleet Warbirds Parade. The detour is NOT suitable for Restricted Access Heavy vehicles that will be parked during the closure.</p>",
+        "arrangementElements": [],
+        "diversions": "<p>Light vehicles will be detoured via John, Maitland &amp; King Streets. Restricted Access Heavy vehicles travelling southbound on Thunderbolts Way will be stopped at Rocky River Road. Heavy vehicles will be parked on the New England Hwy (Bridge St) between John &amp; Park Streets for northbound vehicles and between King &amp; Hill Streets for southbound vehicles.</p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1761346800000,
+        "displayName": "Thunderbolts Festival",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "John Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "New England Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "New England North West",
+            "secondLocation": "King Street",
+            "suburb": "Uralla",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 250600.0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.9739109,
+          -33.2467681
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Australian National Field Days",
+            "linkURL": "https://anfd.com.au"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": 60,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1758757574000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Reduced speed limit",
+        "adviceB": "Exercise caution",
+        "adviceC": " ",
+        "end": 1761372000000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1761372002126,
+        "otherAdvice": "<p>The Australian National Field Days will be held at the Borenore site (15kms west of Orange NSW) from Thursday 23 Oct to Saturday 25 Oct.  A speed limit reduction of 60 km/h will be implemented on the Escort Way due to the increased traffic activity attending the event</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1761168600000,
+        "displayName": "Australian National Field Days - Borenore",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Borenore Road",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "The Escort Way",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Central NSW",
+            "secondLocation": "",
+            "suburb": "Borenore",
             "trafficVolume": ""
           }
         ],
