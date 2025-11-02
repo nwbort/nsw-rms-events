@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1761979230000,
+  "lastPublished": 1762065630000,
   "layerName": "MajorEvent",
   "rights": {
     "copyright": "Transport for NSW",
@@ -176,73 +176,6 @@
     },
     {
       "type": "Feature",
-      "id": 252381,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.8343768,
-          -34.0515847
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2025/11/league-men-macarthur-fc-v-western-sydney-wanderers\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1760312701000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": " ",
-        "adviceC": " ",
-        "end": 1761995700000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1760586499504,
-        "otherAdvice": "<p><strong>A-League Men: Macarthur FC v Western Sydney Wanderers at Campbelltown Sports Stadium. Kick-off at 7.45pm, full time around 9.45pm. </strong></p><p>Traffic may be heavier than usual as fans travel to and from the match. Allow extra travel time on roads including Pembroke Rd, Rose Payten Dr and Leumeah Rd.</p><p>Motorists should also be aware of increased pedestrian activity in the area.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1761915600000,
-        "displayName": "A-League Men",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Campbelltown Sports Stadium",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "Pembroke Road and Rose Payten Drive",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Leumeah",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 252390.0,
       "geometry": {
         "type": "Point",
@@ -301,82 +234,6 @@
             "region": "Sydney",
             "secondLocation": "",
             "suburb": "Sydney Olympic Park",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 252388,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.22614,
-          -33.9059142
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "<p>Race day tickets include travel on transport. Visit <a href=\"https://transportnsw.info/events/2025/11/everest-carnival-golden-eagle-day\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [
-          {
-            "displayName": "ClearwayMap_EverestCarnival_Randwick2025",
-            "fileName": "ClearwayMap_EverestCarnival_Randwick2025.pdf",
-            "fileType": "PDF",
-            "linkName": "ClearwayMap_EverestCarnival_Randwick2025",
-            "sizeInBytes": 2096557,
-            "uniqueFileName": "335015_1757297179023_ClearwayMap_EverestCarnival_Randwick2025.pdf"
-          }
-        ],
-        "isInitialReport": false,
-        "created": 1760314504000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Use public transport",
-        "adviceC": " ",
-        "end": 1761984000000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1760918184774,
-        "otherAdvice": "<p><strong>Everest Carnival: Golden Eagle Day at Royal Randwick Racecourse on Saturday 1 November. First race at 12.10pm, last race at 6pm. </strong></p><p>Traffic may be heavier than usual on Anzac Pde, Doncaster Ave, High St, Alison Rd and Darley Rd as crowds travel to and from the event.</p><p>The right-turn bay into Randwick Racecourse gate 1 on Alison Road (eastbound) will be closed. </p><p>Motorists should allow extra travel time and be aware of increased pedestrian activity on local roads.</p><p><strong>Special Event Clearways </strong></p><p>Special event clearways will be in place at the following times and locations: </p><ul><li><strong>4am – 7pm</strong>: Darley Road between Alison Road and the Grand Drive roundabout (western side) </li><li><strong>8am – 7pm</strong>: Ascot Street between Doncaster Avenue and the roundabout at the entry to Randwick Racecourse (both sides) </li><li><strong>3pm – 7pm</strong>: High Street between Gate Two Avenue and Anzac Parade (southern sides) </li></ul><p>Clearways are <strong>strict no-parking zones </strong>for all vehicle types and apply even to local residents and Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed\" target=\"_blank\">Find My Car website</a> to find its new location, or alternatively call 132 701 to speak to an operator.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1761915600000,
-        "displayName": "Everest Carnival",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Royal Randwick Racecourse",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "Anzac Parade, Alison Road, High Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Randwick",
             "trafficVolume": ""
           }
         ],
@@ -668,188 +525,6 @@
     },
     {
       "type": "Feature",
-      "id": 253528,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.7857158,
-          -32.9256627
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Strummingbird 2025",
-            "linkURL": "https://strummingbird.com.au/newcastle/info/getting-to-newcastle/"
-          }
-        ],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "All directions",
-            "finishTime": "11:00pm",
-            "fromDay": "Saturday",
-            "startTime": "11:00am",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>For train service disruption information, check <a href=\"https://transportnsw.info/alerts#/metro-train\" target=\"_blank\">trackwork and travel alerts</a> or plan your trip using the <a href=\"https://transportnsw.info/trip\" target=\"_blank\">Trip Planner</a>.</p><p>Light rail services will run every 7.5 minutes from 7am until midnight and every 30 minutes until 1am.</p><p>Ferry services run between Stockton and Queens Wharf and will run to their regular timetable.</p><p>Visit <a href=\"https://newcastletransport.info/plan-your-trip/ferry-services/\" target=\"_blank\">Newcastle Transport</a> for light rail and ferry information.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1761189895000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Check signage",
-        "adviceC": "Use diversions",
-        "end": 1761998400000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1761190043298,
-        "otherAdvice": "<p>Traffic may be heavier than usual on roads approaching the Newcastle Foreshore as attendees travel to and from the festival.</p><p>Local roads will be closed including Watt Street, Nobbys Road, Pasha Way and Horseshoe Beach Road.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1761955200000,
-        "displayName": "SPECIAL EVENT Strummingbird",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Foreshore Park",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Wharf Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Hunter",
-            "secondLocation": "",
-            "suburb": "Newcastle East",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 253378,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.9367251,
-          -29.6871532
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Jacaranda Festival 2025",
-            "linkURL": "https://jacafest.com/"
-          }
-        ],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Closed",
-            "roadtype": "Road",
-            "direction": "Both directions",
-            "finishTime": "3:00pm",
-            "fromDay": "Thursday",
-            "startTime": "6:00am",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Closed",
-            "roadtype": "Road",
-            "direction": "Both directions",
-            "finishTime": "7:00pm",
-            "fromDay": "Saturday",
-            "startTime": "7:00am",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1761096788000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Check signage",
-        "adviceB": "Use diversions",
-        "adviceC": "Allow extra travel time",
-        "end": 1761984000000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1761258739984,
-        "otherAdvice": "<p>There will be a number of road closures for Jacaranda festival.</p><p><strong>Thursday 30 October</strong> – Jacaranda Thursday 6am to 3pm </p><ul><li>Prince Street (from Bacon St to the Clarence River)</li><li>Pound St (between Wiseman Way and King St)</li><li>Fitzroy St (between Post Office Lane and Queen St)</li><li>Victoria St (between Post Office Lane and 76 Victoria St)</li></ul><p><strong>Saturday 1 Novembe</strong>r </p><ul><li>Vintage Motor Vehicle Display 7am to 2pm, Duke St (between Fitzroy and Victoria St) </li><li>Jacaranda Float Procession, 3pm to 7pm, Prince Street (Victoria St to Arthur St)</li></ul><p>Follow detour signage in place.</p>",
-        "arrangementElements": [
-          {
-            "html": "<p>Saturday 1 November from 3pm to 7pm, vehicles to be parked up during closure at either the BP truck stop south of Grafton on Big River Way or north at Whiporie Rest Area on Summerland Way.</p><p> </p><p> </p>",
-            "title": "Operators of oversize and/or overmass",
-            "id": "719682"
-          }
-        ],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1761764400000,
-        "displayName": "Jacaranda Festival",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Arthur Street",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Prince Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "North Coast NSW",
-            "secondLocation": "Victoria Street",
-            "suburb": "Grafton",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 252386,
       "geometry": {
         "type": "Point",
@@ -984,95 +659,6 @@
             "region": "Sydney",
             "secondLocation": "",
             "suburb": "Randwick",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 253545,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.7737397,
-          -34.5708403
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Eats and Beats",
-            "linkURL": "https://www.shellharbour.nsw.gov.au/whats-on/council/eats-and-beats-albion-park-0"
-          }
-        ],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Closed",
-            "roadtype": "Road",
-            "direction": "Both directions",
-            "finishTime": "11:00pm",
-            "fromDay": "Saturday",
-            "startTime": "4:00pm",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/\" target=\"_blank\">transportnsw.info</a> to plan your trip on public transport.</p>",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1761195616000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Use diversions",
-        "adviceC": " ",
-        "end": 1761998400000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1761541022741,
-        "otherAdvice": "<p>The Eats and Beats street festival will take place on Saturday 1 November with road closures in place.</p><p>In addition to the Tongarra Rd closure between Terry St and Russell St, there will also be a local road closure of McGrath Lane.</p>",
-        "arrangementElements": [
-          {
-            "html": "<p><strong>Vehicles up to 23 metres long and 3.3 metres wide will be detoured via Terry Street and Church Street.</strong> Noting, Macquarie Pass is only suitable for vehicles up to 19 metres and 50.5 tonnes.</p><p>Any heavy vehicles exceeding 23 metres long or 3.3 metres wide that are travelling to or from the Illawarra Highway (up to the base of Macquarie Pass) will be directed to park in designated parking areas located along the Princes Highway and the Illawarra Highway while road closures are in place. Operators of these vehicles are encouraged to delay their journeys.</p><p>Unless specified otherwise, operators of Class 1,2 &amp; 3 vehicles travelling under a Notice <strong>must</strong> consult their relevant enforceable network map to confirm a suitable <strong>approved</strong> alternative route.</p><p>Operators of Class 1, 2 &amp; 3 vehicles travelling under a Permit <strong>must not</strong> travel off the approved route listed in the permit unless an updated permit is obtained from the NHVR</p><p>Please review the <a href=\"https://cst-freightbranchstakeholderengagement.createsend1.com/t/j-i-wujldtd-l-j/\" target=\"_blank\">Restricted Access Vehicles map</a> to help you plan an alternative route if required.  </p>",
-            "title": "OSOM Arrangement",
-            "id": "721237"
-          }
-        ],
-        "diversions": "<p>Motorists will be detoured via Terry St and Russell St or Terry St and Taylor Rd.</p><p>Motorists may wish to also consider using Calderwood Rd and Church St.</p><p><br></p>",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1761973200000,
-        "displayName": "Eats and Beats",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Terry Street",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Tongarra Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "South Coast",
-            "secondLocation": "Russell St",
-            "suburb": "Albion Park",
             "trafficVolume": ""
           }
         ],
@@ -1481,220 +1067,6 @@
             "region": "South Coast",
             "secondLocation": "",
             "suburb": "Wollongong",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 251218,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.1587859,
-          -33.9270263
-        ],
-        "collections": [
-          {
-            "type": "Point",
-            "coordinates": [
-              151.048786,
-              -34.052845
-            ]
-          },
-          {
-            "type": "Point",
-            "coordinates": [
-              150.994348,
-              -34.135305
-            ]
-          },
-          {
-            "type": "Point",
-            "coordinates": [
-              150.973832,
-              -34.253463
-            ]
-          },
-          {
-            "type": "Point",
-            "coordinates": [
-              150.900869,
-              -34.396131
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Interactive closure and clearway map",
-            "linkURL": "https://experience.arcgis.com/experience/519fea92177c4e3ea1d773d43aa7617d"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>Extra trains will run for event participants. Visit <a href=\"https://transportnsw.info/events/2025/11/ms-gong-ride-2025\" target=\"_blank\">transportnsw.info</a> for more details.</p>",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [
-          {
-            "displayName": "MSGongRide_Map_1_Tempe_to_Arncliffe_",
-            "fileName": "MSGongRide_Map_1_Tempe_to_Arncliffe_.pdf",
-            "fileType": "PDF",
-            "linkName": "MSGongRide_Map_1_Tempe_to_Arncliffe_",
-            "sizeInBytes": 754726,
-            "uniqueFileName": "757656_1760485198586_MSGongRide_Map_1_Tempe_to_Arncliffe_.pdf"
-          },
-          {
-            "displayName": "MSGongRide_Map_2__Arncliffe to Ramsgate",
-            "fileName": "MSGongRide_Map_2__Arncliffe to Ramsgate.pdf",
-            "fileType": "PDF",
-            "linkName": "MSGongRide_Map_2__Arncliffe to Ramsgate",
-            "sizeInBytes": 1056792,
-            "uniqueFileName": "894166_1760485199797_MSGongRide_Map_2__Arncliffe to Ramsgate.pdf"
-          },
-          {
-            "displayName": "MSGongRide_Map 3_Ramsgate_to_Tarren_Point",
-            "fileName": "MSGongRide_Map 3_Ramsgate_to_Tarren_Point.pdf",
-            "fileType": "PDF",
-            "linkName": "MSGongRide_Map 3_Ramsgate_to_Tarren_Point",
-            "sizeInBytes": 421241,
-            "uniqueFileName": "394692_1760485202986_MSGongRide_Map 3_Ramsgate_to_Tarren_Point.pdf"
-          },
-          {
-            "displayName": "MSGongRide_Map 4_Tarren_Point_to_Sutherland",
-            "fileName": "MSGongRide_Map 4_Tarren_Point_to_Sutherland.pdf",
-            "fileType": "PDF",
-            "linkName": "MSGongRide_Map 4_Tarren_Point_to_Sutherland",
-            "sizeInBytes": 1240167,
-            "uniqueFileName": "998044_1760485204294_MSGongRide_Map 4_Tarren_Point_to_Sutherland.pdf"
-          },
-          {
-            "displayName": "MSGongRide_Map 5_Sutherland_to_Heathcote",
-            "fileName": "MSGongRide_Map 5_Sutherland_to_Heathcote.pdf",
-            "fileType": "PDF",
-            "linkName": "MSGongRide_Map 5_Sutherland_to_Heathcote",
-            "sizeInBytes": 692293,
-            "uniqueFileName": "276369_1760485205289_MSGongRide_Map 5_Sutherland_to_Heathcote.pdf"
-          },
-          {
-            "displayName": "MSGongRide_Map 6_Heathcote_to_Waterfall",
-            "fileName": "MSGongRide_Map 6_Heathcote_to_Waterfall.pdf",
-            "fileType": "PDF",
-            "linkName": "MSGongRide_Map 6_Heathcote_to_Waterfall",
-            "sizeInBytes": 738858,
-            "uniqueFileName": "383176_1760485206280_MSGongRide_Map 6_Heathcote_to_Waterfall.pdf"
-          },
-          {
-            "displayName": "MSGongRide_Map 7_Waterfall_to_Otford",
-            "fileName": "MSGongRide_Map 7_Waterfall_to_Otford.pdf",
-            "fileType": "PDF",
-            "linkName": "MSGongRide_Map 7_Waterfall_to_Otford",
-            "sizeInBytes": 758384,
-            "uniqueFileName": "679512_1760485347619_MSGongRide_Map 7_Waterfall_to_Otford.pdf"
-          },
-          {
-            "displayName": "MSGongRide_Map 8_Otford_to_Scarborough",
-            "fileName": "MSGongRide_Map 8_Otford_to_Scarborough.pdf",
-            "fileType": "PDF",
-            "linkName": "MSGongRide_Map 8_Otford_to_Scarborough",
-            "sizeInBytes": 479095,
-            "uniqueFileName": "764569_1760485196279_MSGongRide_Map 8_Otford_to_Scarborough.pdf"
-          },
-          {
-            "displayName": "MSGongRide_Map 9_Wombarra_to_Austinmer",
-            "fileName": "MSGongRide_Map 9_Wombarra_to_Austinmer.pdf",
-            "fileType": "PDF",
-            "linkName": "MSGongRide_Map 9_Wombarra_to_Austinmer",
-            "sizeInBytes": 413202,
-            "uniqueFileName": "753056_1760485197280_MSGongRide_Map 9_Wombarra_to_Austinmer.pdf"
-          },
-          {
-            "displayName": "MSGongRide_Map_10_Coledale_to_Bulli",
-            "fileName": "MSGongRide_Map_10_Coledale_to_Bulli.pdf",
-            "fileType": "PDF",
-            "linkName": "MSGongRide_Map_10_Coledale_to_Bulli",
-            "sizeInBytes": 516642,
-            "uniqueFileName": "548667_1760485200750_MSGongRide_Map_10_Coledale_to_Bulli.pdf"
-          },
-          {
-            "displayName": "MSGongRide_Map_11_Bulli_to_Bellambi",
-            "fileName": "MSGongRide_Map_11_Bulli_to_Bellambi.pdf",
-            "fileType": "PDF",
-            "linkName": "MSGongRide_Map_11_Bulli_to_Bellambi",
-            "sizeInBytes": 692153,
-            "uniqueFileName": "349946_1760485201906_MSGongRide_Map_11_Bulli_to_Bellambi.pdf"
-          },
-          {
-            "displayName": "MSGongRide_Map_12_Bellambi_to_North_Wollongong",
-            "fileName": "MSGongRide_Map_12_Bellambi_to_North_Wollongong.pdf",
-            "fileType": "PDF",
-            "linkName": "MSGongRide_Map_12_Bellambi_to_North_Wollongong",
-            "sizeInBytes": 893587,
-            "uniqueFileName": "122306_1760485371773_MSGongRide_Map_12_Bellambi_to_North_Wollongong.pdf"
-          }
-        ],
-        "isInitialReport": false,
-        "created": 1759287297000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Exercise caution",
-        "adviceB": "Allow extra travel time",
-        "adviceC": " ",
-        "end": 1762061400000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1761602237245,
-        "otherAdvice": "<p>Up to 10,000 cyclists will ride from Sydney to Fairy Meadow for the annual MS Gong Ride. The 80 km ride from Tempe Recreation Reserve starts from 6am and the 53km ride will start at Preston Park, Engadine from 8am. Both events finish at Thomas Dalton Park, Fairy Meadow by 3:45pm.</p><p><strong>Road and lane closures will be in place along sections of the course. </strong></p><ul><li><strong>4am to 9:30am from Tempe to Sutherland: </strong>sections of West Botany St, Holbeach Ave and Bestic St. The speed limit will be reduced to 60/km along Rocky Point Rd/Taren Point Rd from Sans Souci to Taren Point.</li><li><strong>5am to 10am from Sutherland to Waterfall: </strong>Lane closures on the Princes Hwy from Kirrawee to Loftus and the speed limit will be reduced to 60km/h from Kirrawee to Waterfall. Delays are expected travelling southbound on the Princes Hwy during this time. </li><li><strong>5am to 2:30pm in the Royal National Park: </strong>McKell Ave, Lady Wakehurst Dr, Sir Bertram Stevens Dr and Otford Rd. Access to the Royal National Park is via Farnell Ave only. The speed limit will be reduced to 40km/h along Lawrence Hargrave Dr from Stanwell Park to Thirroul from 6am to 3pm.</li><li><strong>5am to 4.30pm</strong> <strong>Bulli and Fairy Meadow: </strong>sections of Elliotts Rd near the finish area will be closed and the speed limit reduced to 40km/h on sections of Elliotts Rd.</li></ul><p>Motorists should exercise caution as cyclists will be sharing some roads along the course. Motorists are reminded when overtaking cyclists to leave a 1.5m distance on roads with speed limits over 60km/h and a 1m distance on roads 60km/h or under.</p><p><strong>Special event clearways will be in place along key sections of the course between 4am and 3pm.</strong></p><ul><li>Tempe to Kirrawee (from 4am to 10am)</li><li>Princes Hwy (from 4am to 11am)</li><li>Stanwell Park to Fairy Meadow (from 5am to 3pm)</li></ul><p>Clearways are strict no-parking zones for all vehicle types, and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed it will be relocated to the nearest legal parking space, use the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed\" target=\"_blank\">Find My Car</a> website or call 132 701 to find its new location.<strong>﻿</strong></p>",
-        "arrangementElements": [
-          {
-            "html": "<p><strong><em>TEMPE TO BRIGHTON LE SANDS</em></strong></p><p><strong>FROM 4AM TO 9.30AM</strong></p><p><strong>TEMPE</strong></p><ul><li>Holbeach Avenue between Princes Highway and South Street (roundabout)</li><li>Tempe Recreational Reserve (Loop road and parking )</li></ul><p><strong>DOLLS POINT</strong></p><ul><li>Malua Street, Lane 1* between Sandringham Street and The Grand Parade (Northbound)</li></ul><p><strong>*</strong>Resident access to Sandringham Street and the Grand Parade via Napoleon Street</p><p><strong>FROM 4AM TO 9AM</strong></p><p><strong>ARNCLIFFE</strong></p><ul><li>West Botany Street between Princes Highway and Marsh Street (Southbound)</li></ul><p><strong>KYEEMAGH</strong></p><ul><li>Bestic Street between Jacobson Avenue and General Holmes Drive (Eastbound)</li></ul><p><strong>FROM 5.30AM TO 8AM</strong></p><p><strong>BANKSIA</strong></p><ul><li>Bestic Street* between West Botany Street and Francis Avenue (Eastbound)</li></ul><p>*Closure will be implemented due to glare from rising sun</p><p><strong><em>ENGADINE</em></strong></p><p><strong>ENGADINE - FROM 5AM TO 9.30AM</strong></p><ul><li>Engadine Ave between Princes Highway and Preston Ave</li></ul><p><strong><em>ROYAL NATIONAL PARK</em></strong></p><p><strong>RNP AT WATERFALL - FROM 5AM TO 2PM</strong></p><ul><li>McKell Avenue between Kooraban Street and Sir Bertram Stevens Drive</li><li>Sir Bertram Stevens Drive between McKell Avenue and Garie Rd</li></ul><p><strong>RNP AT OTFORD - FROM 5AM TO 2:30PM</strong></p><ul><li>Domville Road 1 between Otford Road and Lady Wakehurst Drive</li><li>Lady Wakehurst Drive between McKell Avenue and Otford Road</li><li>Lawrence Hargrave Drive 2 between Stonehaven Road and Otford Road (Eastbound)</li><li>Lawrence Hargrave Drive 2 between Otford Road and Chellow Dene Avenue (Southbound)</li><li>Otford Road between Lady Wakehurst Drive and Lawrence Hargrave Drive</li></ul><p>1. Resident access to Domville Road via Otford Rd.</p><p>2. Access to properties along closed sections of Lawrence Hargrave Drive in Stanwell Tops will be maintained for residents. Motorists are advised to follow the directions of NSW Police and/or authorised traffic controllers on-site.</p><p><strong><em>BULLI</em></strong></p><p><strong>BULLI - FROM 6AM TO 3PM</strong></p><ul><li>Point Street between Hill Street and Blackall Street (Eastbound)</li></ul><p><strong><em>FAIRY MEADOW</em></strong></p><p><strong>FAIRY MEADOW - FROM 5AM TO 4.30PM    </strong></p><ul><li>Elliotts Rd from Squires Way/Carters Lane</li></ul><p><strong>LANE CLOSURES</strong></p><p><strong>FROM 4AM TO 9.30AM </strong></p><p><strong>TEMPE TO WOLLI CREEK</strong></p><ul><li>Princes Highway, Lane 1 between Ikea entry / exit and West Botany Road (Southbound)</li></ul><p><strong>BRIGHTON LE SANDS</strong></p><ul><li>The Grand Parade, Lane 1 between Henson Street and President Avenue (Southbound)</li></ul><p><strong>SANS SOUCI TO TAREN POINT</strong></p><ul><li>Rocky Point Road, Lane 1 between Fontainebleau Street and Taren Point Rd (Southbound)</li><li>Taren Point Road, Lane 1 between Rocky Point Road and Toorak Avenue (Southbound)    <strong>                </strong></li></ul><p><strong>FROM 5.30AM TO 10AM</strong></p><p><strong>TAREN POINT</strong></p><ul><li>Taren Point Road, Lane 1 between 226 Taren Point Rd and Captain Cook Dr (Southbound)</li><li>Taren Point Road, Middle Lane between Captain Cook Dr and Kingsway (Southbound)</li></ul><p><strong>FROM 4AM TO 10.30AM </strong></p><p><strong>KIRRAWEE, SUTHERLAND, LOFTUS, ENGADINE</strong></p><ul><li>Princes Highway, Lane 1 between President Avenue (Kirrawee) and Farnell Avenue (Loftus) (Southbound)</li></ul><p><strong>FROM 4AM TO 12PM (MIDDAY)</strong></p><p><strong>HEATHCOTE</strong></p><ul><li>Princes Highway, Lane 1 between Oliver St Heathcote and Kooraban St Waterfall (Southbound)</li></ul><p><strong>FROM 5AM TO 9.30AM</strong></p><p><strong>ENGADINE</strong></p><ul><li>Princes Highway, Lane 1 between 120m before and 100m after Engadine Ave, Engadine (Southbound)</li></ul>",
-            "title": "Road and lane closures",
-            "id": "721610"
-          },
-          {
-            "html": "<p>Special event clearways are <strong>strict no-parking zones </strong>for all vehicle types and apply even to local residents and Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed\" target=\"_blank\">Find My Car website</a> to find its new location, or alternatively call 132 701 to speak to an operator.</p><p><strong>TEMPE, WOLLI CREEK, BANKSIA, KYEEMAGH, BRIGHTON LE SANDS, SANDRINGHAM, SANS SOUCI, TAREN POINT, CARINGBAH, MIRANDA, GYMEA</strong></p><p><strong>FROM 4AM TO 10AM</strong></p><ul><li>Princes Highway between IKEA entry/exit (Tempe) and West Botany St (Wolli Creek) (Eastern side)</li><li>Princes Highway between Brodie Spark Drive and Gannon Street (Western side)</li><li>Bay Street between Princes Highway and Young Street (Tempe)</li><li>Holbeach Avenue between Princes Highway and South Street (roundabout)         </li><li>West Botany Street between Marsh Street (Arncliffe) and Bestic Street (Banksia) (Eastern side)</li><li>Bestic Street between West Botany Street and Francis Avenue (Banksia) (Northern side)</li><li>Bestic Street between Caroma Avenue and General Holmes Drive (Kyeemagh) (Northern side)</li><li>General Holmes Drive between Henson Street and Bruce Street (Brighton Le Sands) (Eastern side)</li><li>The Grand Parade between Bruce Street and President Avenue (Brighton Le Sands) (Eastern side)</li><li>Sandringham Street between The Grand Parade and Rocky Point Road (Sans Souci) (Southern side)</li><li>Rocky Point Road between Sandringham Street and Toorak Avenue (Taren Point) (Eastern side)</li><li>Taren Point Road between Toorak Avenue (Taren Point) and The Kingsway (Caringbah) (Eastern side)</li><li>The Kingsway between Taren Point Road and Princes Highway (Gymea) (Southern side)</li></ul><p><strong>ENGADINE TO HEATHCOTE</strong></p><p><strong>FROM 4AM TO 11AM</strong></p><ul><li>Princes Highway between No. 898 Princes Highway (150m east of Old Bush Road) and Whitton Street (Eastern side)</li></ul><p><strong>ENGADINE</strong></p><p><strong>FROM 5AM TO 9:30AM</strong></p><ul><li>Engadine Ave between Princes Highway and Preston Ave (Both sides)</li></ul><p><strong>FROM 5AM TO 3PM</strong></p><p><strong>COALCLIFF, SCARBOROUGH, COLEDALE, AUSTINMER, THIRROUL</strong></p><ul><li>Lawrence Hargrave Drive between 400m north of Coalcliff Station &amp; The Esplanade (Thirroul) (Eastern side)</li></ul><p><strong>BULLI, BELLAMBI, FAIRY MEADOW TO WOLLONGONG</strong></p><ul><li>Trinity Row between 30m north of Godolphin St (Bus Stop) and Farrell Road (Eastern side)</li><li>Farrell Road between Trinity Row and Carrington St (Southern side)</li><li>Pioneer Drive/Road between No. 11 Pioneer Drive (Woonona) and Carters Lane (Fairy Meadow) (Eastern side)</li><li>Carters Lane between Pioneer Road and Elliotts Road (Eastern side)</li><li>Elliotts Rd between Squires Way and carpark (Southern side)</li><li>Thomas Dalton Carpark from Elliotts Rd</li></ul>",
-            "title": "Special Event Clearways",
-            "id": "721611"
-          },
-          {
-            "html": "<p><strong>TEMPE TO ARNCLIFFE</strong></p><p><strong>FROM 4AM TO 9:30AM - REDUCED TO 40KM/H</strong></p><ul><li>Princes Hwy Ikea Entry between IKEA and West Botany Street, Arncliffe</li></ul><p><strong>SANS SOUCI TO TAREN POINT</strong></p><p><strong>FROM 4AM TO 10AM - REDUCED TO 60KM/H</strong></p><ul><li>Rocky Point Road, Lane 1 between Fontainebleau Street and Taren Point Road (southbound)</li><li>Taren Point Road, Lane 1 between Rocky Point Road and Toorak Avenue (southbound)</li></ul><p><strong>KIRRAWEE, LOFTUS</strong></p><p><strong>FROM 4AM TO 10:30AM - REDUCED TO 60KM/H</strong></p><ul><li>Princes Highway, Lane 1 between Minerva Street and Farnell Avenue (southbound)</li></ul><p><strong>LOFTUS TO WATERFALL</strong></p><p><strong>From 4AM TO 11:30AM - REDUCED TO 60KM/H</strong></p><ul><li>Princes Highway, Lane 1 between Farnell Avenue and Waterfall ramp off (southbound)</li></ul><p><strong>STANWELL PARK TO THIRROUL - REDUCED TO 40KM/H</strong></p><p><strong>FROM 6AM TO 3PM</strong></p><ul><li>Lawrence Hargrave Drive between Old Coast Road, Stanwell Park and The Esplanade, Thirroul</li></ul><p><strong>FAIRY MEADOW </strong></p><p><strong>FROM 9:30AM TO 4:30PM</strong></p><ul><li>Elliotts Rd Between Squires Way and Cowper St (Westbound)</li></ul>",
-            "title": "Speed zone reduction",
-            "id": "721612"
-          }
-        ],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1762002000000,
-        "displayName": "MS Gong Ride",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Princes Hwy, Royal National Park, Lawrence Hargrave Dr",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Tempe, Engadine to Fairy Meadow",
             "trafficVolume": ""
           }
         ],
@@ -2294,12 +1666,111 @@
     },
     {
       "type": "Feature",
-      "id": 252379,
+      "id": 253378,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.9019971,
-          -34.4270566
+          152.9367251,
+          -29.6871532
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Jacaranda Festival 2025",
+            "linkURL": "https://jacafest.com/"
+          }
+        ],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Closed",
+            "roadtype": "Road",
+            "direction": "Both directions",
+            "finishTime": "3:00pm",
+            "fromDay": "Thursday",
+            "startTime": "6:00am",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Closed",
+            "roadtype": "Road",
+            "direction": "Both directions",
+            "finishTime": "7:00pm",
+            "fromDay": "Saturday",
+            "startTime": "7:00am",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1761096788000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Check signage",
+        "adviceB": "Use diversions",
+        "adviceC": "Allow extra travel time",
+        "end": 1761984000000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1761984002498,
+        "otherAdvice": "<p>There will be a number of road closures for Jacaranda festival.</p><p><strong>Thursday 30 October</strong> – Jacaranda Thursday 6am to 3pm </p><ul><li>Prince Street (from Bacon St to the Clarence River)</li><li>Pound St (between Wiseman Way and King St)</li><li>Fitzroy St (between Post Office Lane and Queen St)</li><li>Victoria St (between Post Office Lane and 76 Victoria St)</li></ul><p><strong>Saturday 1 Novembe</strong>r </p><ul><li>Vintage Motor Vehicle Display 7am to 2pm, Duke St (between Fitzroy and Victoria St) </li><li>Jacaranda Float Procession, 3pm to 7pm, Prince Street (Victoria St to Arthur St)</li></ul><p>Follow detour signage in place.</p>",
+        "arrangementElements": [
+          {
+            "html": "<p>Saturday 1 November from 3pm to 7pm, vehicles to be parked up during closure at either the BP truck stop south of Grafton on Big River Way or north at Whiporie Rest Area on Summerland Way.</p><p> </p><p> </p>",
+            "title": "Operators of oversize and/or overmass",
+            "id": "724738"
+          }
+        ],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1761764400000,
+        "displayName": "Jacaranda Festival",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Arthur Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Prince Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "North Coast NSW",
+            "secondLocation": "Victoria Street",
+            "suburb": "Grafton",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 252388,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.22614,
+          -33.9059142
         ],
         "collections": []
       },
@@ -2312,24 +1783,33 @@
         "expectedDelay": -1,
         "ended": true,
         "isNewIncident": false,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2025/10/nbl-illawarra-hawks-v-new-zealand-breakers\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "publicTransport": "<p>Race day tickets include travel on transport. Visit <a href=\"https://transportnsw.info/events/2025/11/everest-carnival-golden-eagle-day\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
         "impactingNetwork": false,
         "subCategoryB": null,
-        "arrangementAttachments": [],
+        "arrangementAttachments": [
+          {
+            "displayName": "ClearwayMap_EverestCarnival_Randwick2025",
+            "fileName": "ClearwayMap_EverestCarnival_Randwick2025.pdf",
+            "fileType": "PDF",
+            "linkName": "ClearwayMap_EverestCarnival_Randwick2025",
+            "sizeInBytes": 2096557,
+            "uniqueFileName": "335015_1757297179023_ClearwayMap_EverestCarnival_Randwick2025.pdf"
+          }
+        ],
         "isInitialReport": false,
-        "created": 1760312298000,
+        "created": 1760314504000,
         "isMajor": false,
         "name": null,
         "subCategoryA": "null",
-        "adviceA": "Use public transport",
-        "adviceB": "Allow extra travel time",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use public transport",
         "adviceC": " ",
-        "end": 1761908400000,
+        "end": 1761984000000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1761908463413,
-        "otherAdvice": "<p><strong>NBL Illawarra Hawks v New Zealand Breakers</strong> <strong>at WIN Entertainment Centre. Tip-off at 7.30pm, full time around 9.30pm.</strong></p><p>Traffic will be heavier than usual on roads approaching the Wollongong CBD and on local roads around WIN Entertainment Centre as fans travel to the match in the already busy evening peak.</p><p>Local roads around the stadium may close before, during and after the game for the safety of pedestrians.</p><p>Fans driving to the game on the freeway are encouraged to use the Masters Rd exit to avoid congestion at Mount Ousley Rd, both in and out of Wollongong.</p><p>Motorists should allow extra time for parking and be aware of increased pedestrian activity on local roads.</p>",
+        "lastUpdated": 1761984002969,
+        "otherAdvice": "<p><strong>Everest Carnival: Golden Eagle Day at Royal Randwick Racecourse on Saturday 1 November. First race at 12.10pm, last race at 6pm. </strong></p><p>Traffic may be heavier than usual on Anzac Pde, Doncaster Ave, High St, Alison Rd and Darley Rd as crowds travel to and from the event.</p><p>The right-turn bay into Randwick Racecourse gate 1 on Alison Road (eastbound) will be closed. </p><p>Motorists should allow extra travel time and be aware of increased pedestrian activity on local roads.</p><p><strong>Special Event Clearways </strong></p><p>Special event clearways will be in place at the following times and locations: </p><ul><li><strong>4am – 7pm</strong>: Darley Road between Alison Road and the Grand Drive roundabout (western side) </li><li><strong>8am – 7pm</strong>: Ascot Street between Doncaster Avenue and the roundabout at the entry to Randwick Racecourse (both sides) </li><li><strong>3pm – 7pm</strong>: High Street between Gate Two Avenue and Anzac Parade (southern sides) </li></ul><p>Clearways are <strong>strict no-parking zones </strong>for all vehicle types and apply even to local residents and Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed\" target=\"_blank\">Find My Car website</a> to find its new location, or alternatively call 132 701 to speak to an operator.</p>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
@@ -2337,21 +1817,260 @@
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1761829200000,
-        "displayName": "NBL",
+        "start": 1761915600000,
+        "displayName": "Everest Carnival",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "WIN Stadium",
+            "crossStreet": "Royal Randwick Racecourse",
             "delay": "",
             "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Harbour Street",
+            "locationQualifier": "approaching",
+            "mainStreet": "Anzac Parade, Alison Road, High Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Randwick",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 252381,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.8343768,
+          -34.0515847
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2025/11/league-men-macarthur-fc-v-western-sydney-wanderers\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1760312701000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": " ",
+        "adviceC": " ",
+        "end": 1761995700000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1761995762869,
+        "otherAdvice": "<p><strong>A-League Men: Macarthur FC v Western Sydney Wanderers at Campbelltown Sports Stadium. Kick-off at 7.45pm, full time around 9.45pm. </strong></p><p>Traffic may be heavier than usual as fans travel to and from the match. Allow extra travel time on roads including Pembroke Rd, Rose Payten Dr and Leumeah Rd.</p><p>Motorists should also be aware of increased pedestrian activity in the area.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1761915600000,
+        "displayName": "A-League Men",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Campbelltown Sports Stadium",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "approaching",
+            "mainStreet": "Pembroke Road and Rose Payten Drive",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Leumeah",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 253545,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.7737397,
+          -34.5708403
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Eats and Beats",
+            "linkURL": "https://www.shellharbour.nsw.gov.au/whats-on/council/eats-and-beats-albion-park-0"
+          }
+        ],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Closed",
+            "roadtype": "Road",
+            "direction": "Both directions",
+            "finishTime": "11:00pm",
+            "fromDay": "Saturday",
+            "startTime": "4:00pm",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/\" target=\"_blank\">transportnsw.info</a> to plan your trip on public transport.</p>",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1761195616000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use diversions",
+        "adviceC": " ",
+        "end": 1761998400000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1761996766584,
+        "otherAdvice": "<p>The Eats and Beats street festival will take place on Saturday 1 November with road closures in place.</p><p>In addition to the Tongarra Rd closure between Terry St and Russell St, there will also be a local road closure of McGrath Lane.</p>",
+        "arrangementElements": [
+          {
+            "html": "<p><strong>Vehicles up to 23 metres long and 3.3 metres wide will be detoured via Terry Street and Church Street.</strong> Noting, Macquarie Pass is only suitable for vehicles up to 19 metres and 50.5 tonnes.</p><p>Any heavy vehicles exceeding 23 metres long or 3.3 metres wide that are travelling to or from the Illawarra Highway (up to the base of Macquarie Pass) will be directed to park in designated parking areas located along the Princes Highway and the Illawarra Highway while road closures are in place. Operators of these vehicles are encouraged to delay their journeys.</p><p>Unless specified otherwise, operators of Class 1,2 &amp; 3 vehicles travelling under a Notice <strong>must</strong> consult their relevant enforceable network map to confirm a suitable <strong>approved</strong> alternative route.</p><p>Operators of Class 1, 2 &amp; 3 vehicles travelling under a Permit <strong>must not</strong> travel off the approved route listed in the permit unless an updated permit is obtained from the NHVR</p><p>Please review the <a href=\"https://cst-freightbranchstakeholderengagement.createsend1.com/t/j-i-wujldtd-l-j/\" target=\"_blank\">Restricted Access Vehicles map</a> to help you plan an alternative route if required.  </p>",
+            "title": "OSOM Arrangement",
+            "id": "724772"
+          }
+        ],
+        "diversions": "<p>Motorists will be detoured via Terry St and Russell St or Terry St and Taylor Rd.</p><p>Motorists may wish to also consider using Calderwood Rd and Church St.</p><p><br></p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1761973200000,
+        "displayName": "Eats and Beats",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Terry Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Tongarra Road",
             "quadrant": "",
             "queueLength": 0,
             "region": "South Coast",
+            "secondLocation": "Russell St",
+            "suburb": "Albion Park",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 253528,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.7857158,
+          -32.9256627
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Strummingbird 2025",
+            "linkURL": "https://strummingbird.com.au/newcastle/info/getting-to-newcastle/"
+          }
+        ],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "All directions",
+            "finishTime": "11:00pm",
+            "fromDay": "Saturday",
+            "startTime": "11:00am",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p>For train service disruption information, check <a href=\"https://transportnsw.info/alerts#/metro-train\" target=\"_blank\">trackwork and travel alerts</a> or plan your trip using the <a href=\"https://transportnsw.info/trip\" target=\"_blank\">Trip Planner</a>.</p><p>Light rail services will run every 7.5 minutes from 7am until midnight and every 30 minutes until 1am.</p><p>Ferry services run between Stockton and Queens Wharf and will run to their regular timetable.</p><p>Visit <a href=\"https://newcastletransport.info/plan-your-trip/ferry-services/\" target=\"_blank\">Newcastle Transport</a> for light rail and ferry information.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1761189895000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Check signage",
+        "adviceC": "Use diversions",
+        "end": 1761998400000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1761998403289,
+        "otherAdvice": "<p>Traffic may be heavier than usual on roads approaching the Newcastle Foreshore as attendees travel to and from the festival.</p><p>Local roads will be closed including Watt Street, Nobbys Road, Pasha Way and Horseshoe Beach Road.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1761955200000,
+        "displayName": "SPECIAL EVENT Strummingbird",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Foreshore Park",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Wharf Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Hunter",
             "secondLocation": "",
-            "suburb": "Wollongong",
+            "suburb": "Newcastle East",
             "trafficVolume": ""
           }
         ],
@@ -2382,7 +2101,7 @@
         "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
-        "ended": false,
+        "ended": true,
         "isNewIncident": false,
         "publicTransport": "<p>Route 311 buses are diverting around the closures and missing some stops. Check bus service alerts and plan your trip at <a href=\"https://transportnsw.info/alerts\" target=\"_blank\">transportnsw.info</a>.</p>",
         "impactingNetwork": false,
@@ -2409,36 +2128,20 @@
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1761940820346,
+        "lastUpdated": 1762000202798,
         "otherAdvice": "<p>Road closures and special event clearways are in place for the City of Sydney&#39;s Sydney Streets event on Darlinghurst Rd. The event runs from 11am until 8pm.</p><p><strong>Road closures from 7am to 11:30pm: </strong></p><ul><li>Darlinghurst Rd between Roslyn St and Macleay St</li><li>Macleay St between Darlinghurst Rd and Greenknowe Ave.</li><li>Sections of Orwell St and Hughes St will be closed.</li><li>Motorists will be detoured via Greenknowe Ave and Macleay St and via Darlinghurst Rd and Roslyn St.</li></ul><p>Allow extra travel time, follow the directions of traffic control and be aware of increased pedestrian activity</p><p><strong>Special event clearways are in effect from 7am until 9:30pm </strong>on sections of Darlinghurst Rd, Macleay St, Orwell St, Baroda St, Hughes St and other local roads.</p><p>Clearways are strict no-parking zones for all vehicle types, and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://tfnswtowlink.force.com/findmycar/s/\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operators</p>",
         "arrangementElements": [
           {
             "html": "<p><strong>Road Closures</strong></p><p><strong>From 7am to 11:30pm</strong></p><ul><li>Darlinghurst Rd between Roslyn St and Macleay St</li><li>Macleay St between Greenknowe Ave and Darlinghurst Rd</li><li>Orwell St between Orwell Ln and Macleay St</li><li>Hughes St from Orwell Ln to Macleay St</li></ul><p><strong>Special Event Clearways</strong></p><p><strong>From 7am to 9:30pm</strong></p><ul><li>Darlinghurst Rd between Roslyn St and Macleay St                                     </li><li>Barncleuth Ln between Barncleuth Sq and Rosyln St (western side)</li><li>Baroda St between Baroda Lane and Ward Ave</li><li>Hughes St between Orwell Ln and Macleay St</li><li>Macleay St between Darlinghurst Rd and Greenknowe Ave</li><li>Orwell St between Orwell Ln and Macleay St</li></ul><p>*Police Vehicles Excepted </p>",
             "title": "Road closures and special event clearways",
-            "id": "724534"
+            "id": "724785"
           }
         ],
         "diversions": "",
         "additionalInfo": [],
         "weblinkName": null,
         "attendingGroups": null,
-        "encodedPolylines": [
-          {
-            "levels": "",
-            "direction": "BOTH_DIRECTIONS",
-            "coords": "j{vmEk~~y[i@gBCEEC??ECUCq@K??[Gw@S??WC??aAA??]CYE??_@E????"
-          },
-          {
-            "levels": "",
-            "direction": "BOTH_DIRECTIONS",
-            "coords": "bpvmE}c_z[GvAAL"
-          },
-          {
-            "levels": "",
-            "direction": "BOTH_DIRECTIONS",
-            "coords": "psvmEy`_z[JwA"
-          }
-        ],
+        "encodedPolylines": [],
         "duration": null,
         "start": 1761915600000,
         "displayName": "Sydney Streets event",
@@ -2464,69 +2167,182 @@
     },
     {
       "type": "Feature",
-      "id": 253518,
+      "id": 251218,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.2127004,
-          -33.8726982
+          150.913936,
+          -34.3299697
         ],
         "collections": []
       },
       "properties": {
         "webLinks": [
           {
-            "linkText": "Sydney Zombie Walk",
-            "linkURL": "https://sydneyzombiewalk.com.au/"
+            "linkText": "Interactive closure and clearway map",
+            "linkURL": "https://experience.arcgis.com/experience/519fea92177c4e3ea1d773d43aa7617d"
           }
         ],
-        "headline": "",
+        "headline": "MS Gong Ride BULLI Princes Hwy, Royal National Park, Lawrence Hargrave Dr",
         "periods": [],
         "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
         "ended": true,
         "isNewIncident": false,
-        "publicTransport": "<p>Buses will be diverting while closures are in place. Visit <a href=\"https://transportnsw.info\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
+        "publicTransport": "<p>Extra trains will run for event participants. Visit <a href=\"https://transportnsw.info/events/2025/11/ms-gong-ride-2025\" target=\"_blank\">transportnsw.info</a> for more details.</p>",
+        "impactingNetwork": true,
         "subCategoryB": null,
-        "arrangementAttachments": [],
+        "arrangementAttachments": [
+          {
+            "displayName": "MSGongRide_Map_1_Tempe_to_Arncliffe_",
+            "fileName": "MSGongRide_Map_1_Tempe_to_Arncliffe_.pdf",
+            "fileType": "PDF",
+            "linkName": "MSGongRide_Map_1_Tempe_to_Arncliffe_",
+            "sizeInBytes": 754726,
+            "uniqueFileName": "757656_1760485198586_MSGongRide_Map_1_Tempe_to_Arncliffe_.pdf"
+          },
+          {
+            "displayName": "MSGongRide_Map_2__Arncliffe to Ramsgate",
+            "fileName": "MSGongRide_Map_2__Arncliffe to Ramsgate.pdf",
+            "fileType": "PDF",
+            "linkName": "MSGongRide_Map_2__Arncliffe to Ramsgate",
+            "sizeInBytes": 1056792,
+            "uniqueFileName": "894166_1760485199797_MSGongRide_Map_2__Arncliffe to Ramsgate.pdf"
+          },
+          {
+            "displayName": "MSGongRide_Map 3_Ramsgate_to_Tarren_Point",
+            "fileName": "MSGongRide_Map 3_Ramsgate_to_Tarren_Point.pdf",
+            "fileType": "PDF",
+            "linkName": "MSGongRide_Map 3_Ramsgate_to_Tarren_Point",
+            "sizeInBytes": 421241,
+            "uniqueFileName": "394692_1760485202986_MSGongRide_Map 3_Ramsgate_to_Tarren_Point.pdf"
+          },
+          {
+            "displayName": "MSGongRide_Map 4_Tarren_Point_to_Sutherland",
+            "fileName": "MSGongRide_Map 4_Tarren_Point_to_Sutherland.pdf",
+            "fileType": "PDF",
+            "linkName": "MSGongRide_Map 4_Tarren_Point_to_Sutherland",
+            "sizeInBytes": 1240167,
+            "uniqueFileName": "998044_1760485204294_MSGongRide_Map 4_Tarren_Point_to_Sutherland.pdf"
+          },
+          {
+            "displayName": "MSGongRide_Map 5_Sutherland_to_Heathcote",
+            "fileName": "MSGongRide_Map 5_Sutherland_to_Heathcote.pdf",
+            "fileType": "PDF",
+            "linkName": "MSGongRide_Map 5_Sutherland_to_Heathcote",
+            "sizeInBytes": 692293,
+            "uniqueFileName": "276369_1760485205289_MSGongRide_Map 5_Sutherland_to_Heathcote.pdf"
+          },
+          {
+            "displayName": "MSGongRide_Map 6_Heathcote_to_Waterfall",
+            "fileName": "MSGongRide_Map 6_Heathcote_to_Waterfall.pdf",
+            "fileType": "PDF",
+            "linkName": "MSGongRide_Map 6_Heathcote_to_Waterfall",
+            "sizeInBytes": 738858,
+            "uniqueFileName": "383176_1760485206280_MSGongRide_Map 6_Heathcote_to_Waterfall.pdf"
+          },
+          {
+            "displayName": "MSGongRide_Map 7_Waterfall_to_Otford",
+            "fileName": "MSGongRide_Map 7_Waterfall_to_Otford.pdf",
+            "fileType": "PDF",
+            "linkName": "MSGongRide_Map 7_Waterfall_to_Otford",
+            "sizeInBytes": 758384,
+            "uniqueFileName": "679512_1760485347619_MSGongRide_Map 7_Waterfall_to_Otford.pdf"
+          },
+          {
+            "displayName": "MSGongRide_Map 8_Otford_to_Scarborough",
+            "fileName": "MSGongRide_Map 8_Otford_to_Scarborough.pdf",
+            "fileType": "PDF",
+            "linkName": "MSGongRide_Map 8_Otford_to_Scarborough",
+            "sizeInBytes": 479095,
+            "uniqueFileName": "764569_1760485196279_MSGongRide_Map 8_Otford_to_Scarborough.pdf"
+          },
+          {
+            "displayName": "MSGongRide_Map 9_Wombarra_to_Austinmer",
+            "fileName": "MSGongRide_Map 9_Wombarra_to_Austinmer.pdf",
+            "fileType": "PDF",
+            "linkName": "MSGongRide_Map 9_Wombarra_to_Austinmer",
+            "sizeInBytes": 413202,
+            "uniqueFileName": "753056_1760485197280_MSGongRide_Map 9_Wombarra_to_Austinmer.pdf"
+          },
+          {
+            "displayName": "MSGongRide_Map_10_Coledale_to_Bulli",
+            "fileName": "MSGongRide_Map_10_Coledale_to_Bulli.pdf",
+            "fileType": "PDF",
+            "linkName": "MSGongRide_Map_10_Coledale_to_Bulli",
+            "sizeInBytes": 516642,
+            "uniqueFileName": "548667_1760485200750_MSGongRide_Map_10_Coledale_to_Bulli.pdf"
+          },
+          {
+            "displayName": "MSGongRide_Map_11_Bulli_to_Bellambi",
+            "fileName": "MSGongRide_Map_11_Bulli_to_Bellambi.pdf",
+            "fileType": "PDF",
+            "linkName": "MSGongRide_Map_11_Bulli_to_Bellambi",
+            "sizeInBytes": 692153,
+            "uniqueFileName": "349946_1760485201906_MSGongRide_Map_11_Bulli_to_Bellambi.pdf"
+          },
+          {
+            "displayName": "MSGongRide_Map_12_Bellambi_to_North_Wollongong",
+            "fileName": "MSGongRide_Map_12_Bellambi_to_North_Wollongong.pdf",
+            "fileType": "PDF",
+            "linkName": "MSGongRide_Map_12_Bellambi_to_North_Wollongong",
+            "sizeInBytes": 893587,
+            "uniqueFileName": "122306_1760485371773_MSGongRide_Map_12_Bellambi_to_North_Wollongong.pdf"
+          }
+        ],
         "isInitialReport": false,
-        "created": 1761182902000,
-        "isMajor": false,
+        "created": 1759287297000,
+        "isMajor": true,
         "name": null,
         "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Expect delays",
+        "adviceA": "Exercise caution",
+        "adviceB": "Allow extra travel time",
         "adviceC": " ",
-        "end": 1761978600000,
+        "end": 1762061400000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1761978601352,
-        "otherAdvice": "<p><strong>Thousands of people will take part in the annual Sydney Zombie Walk on Saturday 1 November at St Marys Cathedral. Event starts at 10am. Walk starts from 3pm.</strong></p><p>The following road closures will be in place to accommodate the event:</p><p><strong>From 8am to 5pm:</strong> College St between Prince Albert Rd and William St/Park St</p><p><strong>From 2.30pm to 5pm</strong>: </p><ul><li>Prince Albert Rd between Macquarie St and St Marys Rd  </li><li>Macquarie St between Hunter St and St James Rd  </li><li>St James Rd between Elizabeth St and Macquarie St  </li><li>King St between Elizabeth St and Phillip St  </li><li>Phillip St between King St and Hunter St  </li><li>Elizabeth St southbound from Kings St to Hunter St </li></ul><p>Motorists can detour around the closures via Elizabeth St.</p><p>Motorists travelling in the area should allow extra time, watch out for pedestrians and follow directions of Traffic Controllers and NSW Police.</p>",
-        "arrangementElements": [],
+        "lastUpdated": 1762061401730,
+        "otherAdvice": "<p><strong>Access arrangements to the Royal National Park have returned to normal.</strong> Some closures still remain around BuLli and Fairy Meadow.</p><ul><li><strong>CLOSED until 4.30pm</strong> <strong>Bulli and Fairy Meadow: </strong>sections of Elliotts Rd near the finish area are closed and the speed limit reduced to 40km/h on sections of Elliotts Rd.</li></ul><p>Motorists should exercise caution as cyclists will be sharing some roads along the course. Motorists are reminded when overtaking cyclists to leave a 1.5m distance on roads with speed limits over 60km/h and a 1m distance on roads 60km/h or under.</p><p><strong>Special event clearways are in place from Stanwell Park to Fairy Meadow (from 5am to 3pm)</strong></p><p>Clearways are strict no-parking zones for all vehicle types, and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed it will be relocated to the nearest legal parking space, use the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed\" target=\"_blank\">Find My Car</a> website or call 132 701 to find its new location.<strong>﻿</strong></p>",
+        "arrangementElements": [
+          {
+            "html": "<p><strong><em>TEMPE TO BRIGHTON LE SANDS</em></strong></p><p><strong>FROM 4AM TO 9.30AM</strong></p><p><strong>TEMPE</strong></p><ul><li>Holbeach Avenue between Princes Highway and South Street (roundabout)</li><li>Tempe Recreational Reserve (Loop road and parking )</li></ul><p><strong>DOLLS POINT</strong></p><ul><li>Malua Street, Lane 1* between Sandringham Street and The Grand Parade (Northbound)</li></ul><p><strong>*</strong>Resident access to Sandringham Street and the Grand Parade via Napoleon Street</p><p><strong>FROM 4AM TO 9AM</strong></p><p><strong>ARNCLIFFE</strong></p><ul><li>West Botany Street between Princes Highway and Marsh Street (Southbound)</li></ul><p><strong>KYEEMAGH</strong></p><ul><li>Bestic Street between Jacobson Avenue and General Holmes Drive (Eastbound)</li></ul><p><strong>FROM 5.30AM TO 8AM</strong></p><p><strong>BANKSIA</strong></p><ul><li>Bestic Street* between West Botany Street and Francis Avenue (Eastbound)</li></ul><p>*Closure will be implemented due to glare from rising sun</p><p><strong><em>ENGADINE</em></strong></p><p><strong>ENGADINE - FROM 5AM TO 9.30AM</strong></p><ul><li>Engadine Ave between Princes Highway and Preston Ave</li></ul><p><strong><em>ROYAL NATIONAL PARK</em></strong></p><p><strong>RNP AT WATERFALL - FROM 5AM TO 2PM</strong></p><ul><li>McKell Avenue between Kooraban Street and Sir Bertram Stevens Drive</li><li>Sir Bertram Stevens Drive between McKell Avenue and Garie Rd</li></ul><p><strong>RNP AT OTFORD - FROM 5AM TO 2:30PM</strong></p><ul><li>Domville Road 1 between Otford Road and Lady Wakehurst Drive</li><li>Lady Wakehurst Drive between McKell Avenue and Otford Road</li><li>Lawrence Hargrave Drive 2 between Stonehaven Road and Otford Road (Eastbound)</li><li>Lawrence Hargrave Drive 2 between Otford Road and Chellow Dene Avenue (Southbound)</li><li>Otford Road between Lady Wakehurst Drive and Lawrence Hargrave Drive</li></ul><p>1. Resident access to Domville Road via Otford Rd.</p><p>2. Access to properties along closed sections of Lawrence Hargrave Drive in Stanwell Tops will be maintained for residents. Motorists are advised to follow the directions of NSW Police and/or authorised traffic controllers on-site.</p><p><strong><em>BULLI</em></strong></p><p><strong>BULLI - FROM 6AM TO 3PM</strong></p><ul><li>Point Street between Hill Street and Blackall Street (Eastbound)</li></ul><p><strong><em>FAIRY MEADOW</em></strong></p><p><strong>FAIRY MEADOW - FROM 5AM TO 4.30PM    </strong></p><ul><li>Elliotts Rd from Squires Way/Carters Lane</li></ul><p><strong>LANE CLOSURES</strong></p><p><strong>FROM 4AM TO 9.30AM </strong></p><p><strong>TEMPE TO WOLLI CREEK</strong></p><ul><li>Princes Highway, Lane 1 between Ikea entry / exit and West Botany Road (Southbound)</li></ul><p><strong>BRIGHTON LE SANDS</strong></p><ul><li>The Grand Parade, Lane 1 between Henson Street and President Avenue (Southbound)</li></ul><p><strong>SANS SOUCI TO TAREN POINT</strong></p><ul><li>Rocky Point Road, Lane 1 between Fontainebleau Street and Taren Point Rd (Southbound)</li><li>Taren Point Road, Lane 1 between Rocky Point Road and Toorak Avenue (Southbound)    <strong>                </strong></li></ul><p><strong>FROM 5.30AM TO 10AM</strong></p><p><strong>TAREN POINT</strong></p><ul><li>Taren Point Road, Lane 1 between 226 Taren Point Rd and Captain Cook Dr (Southbound)</li><li>Taren Point Road, Middle Lane between Captain Cook Dr and Kingsway (Southbound)</li></ul><p><strong>FROM 4AM TO 10.30AM </strong></p><p><strong>KIRRAWEE, SUTHERLAND, LOFTUS, ENGADINE</strong></p><ul><li>Princes Highway, Lane 1 between President Avenue (Kirrawee) and Farnell Avenue (Loftus) (Southbound)</li></ul><p><strong>FROM 4AM TO 12PM (MIDDAY)</strong></p><p><strong>HEATHCOTE</strong></p><ul><li>Princes Highway, Lane 1 between Oliver St Heathcote and Kooraban St Waterfall (Southbound)</li></ul><p><strong>FROM 5AM TO 9.30AM</strong></p><p><strong>ENGADINE</strong></p><ul><li>Princes Highway, Lane 1 between 120m before and 100m after Engadine Ave, Engadine (Southbound)</li></ul><p><br></p>",
+            "title": "Road and lane closures",
+            "id": "725018"
+          },
+          {
+            "html": "<p>Special event clearways are <strong>strict no-parking zones </strong>for all vehicle types and apply even to local residents and Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed\" target=\"_blank\">Find My Car website</a> to find its new location, or alternatively call 132 701 to speak to an operator.</p><p><br></p><p><strong>TEMPE, WOLLI CREEK, BANKSIA, KYEEMAGH, BRIGHTON LE SANDS, SANDRINGHAM, SANS SOUCI, TAREN POINT, CARINGBAH, MIRANDA, GYMEA</strong></p><p><strong>FROM 4AM TO 10AM</strong></p><ul><li>Princes Highway between IKEA entry/exit (Tempe) and West Botany St (Wolli Creek) (Eastern side)</li><li>Princes Highway between Brodie Spark Drive and Gannon Street (Western side)</li><li>Bay Street between Princes Highway and Young Street (Tempe)</li><li>Holbeach Avenue between Princes Highway and South Street (roundabout)         </li><li>West Botany Street between Marsh Street (Arncliffe) and Bestic Street (Banksia) (Eastern side)</li><li>Bestic Street between West Botany Street and Francis Avenue (Banksia) (Northern side)</li><li>Bestic Street between Caroma Avenue and General Holmes Drive (Kyeemagh) (Northern side)</li><li>General Holmes Drive between Henson Street and Bruce Street (Brighton Le Sands) (Eastern side)</li><li>The Grand Parade between Bruce Street and President Avenue (Brighton Le Sands) (Eastern side)</li><li>Sandringham Street between The Grand Parade and Rocky Point Road (Sans Souci) (Southern side)</li><li>Rocky Point Road between Sandringham Street and Toorak Avenue (Taren Point) (Eastern side)</li><li>Taren Point Road between Toorak Avenue (Taren Point) and The Kingsway (Caringbah) (Eastern side)</li><li>The Kingsway between Taren Point Road and Princes Highway (Gymea) (Southern side)</li></ul><p><strong>ENGADINE TO HEATHCOTE</strong></p><p><strong>FROM 4AM TO 11AM</strong></p><ul><li>Princes Highway between No. 898 Princes Highway (150m east of Old Bush Road) and Whitton Street (Eastern side)</li></ul><p><strong>ENGADINE</strong></p><p><strong>FROM 5AM TO 9:30AM</strong></p><ul><li>Engadine Ave between Princes Highway and Preston Ave (Both sides)</li></ul><p><strong>FROM 5AM TO 3PM</strong></p><p><strong>COALCLIFF, SCARBOROUGH, COLEDALE, AUSTINMER, THIRROUL</strong></p><ul><li>Lawrence Hargrave Drive between 400m north of Coalcliff Station &amp; The Esplanade (Thirroul) (Eastern side)</li></ul><p><strong>BULLI, BELLAMBI, FAIRY MEADOW TO WOLLONGONG</strong></p><ul><li>Trinity Row between 30m north of Godolphin St (Bus Stop) and Farrell Road (Eastern side)</li><li>Farrell Road between Trinity Row and Carrington St (Southern side)</li><li>Pioneer Drive/Road between No. 11 Pioneer Drive (Woonona) and Carters Lane (Fairy Meadow) (Eastern side)</li><li>Carters Lane between Pioneer Road and Elliotts Road (Eastern side)</li><li>Elliotts Rd between Squires Way and carpark (Southern side)</li><li>Thomas Dalton Carpark from Elliotts Rd</li></ul>",
+            "title": "Special Event Clearways",
+            "id": "725019"
+          },
+          {
+            "html": "<p><strong>TEMPE TO ARNCLIFFE</strong></p><p><strong>FROM 4AM TO 9:30AM - REDUCED TO 40KM/H</strong></p><ul><li>Princes Hwy Ikea Entry between IKEA and West Botany Street, Arncliffe</li></ul><p><strong>SANS SOUCI TO TAREN POINT</strong></p><p><strong>FROM 4AM TO 10AM - REDUCED TO 60KM/H</strong></p><ul><li>Rocky Point Road, Lane 1 between Fontainebleau Street and Taren Point Road (southbound)</li><li>Taren Point Road, Lane 1 between Rocky Point Road and Toorak Avenue (southbound)</li></ul><p><strong>KIRRAWEE, LOFTUS</strong></p><p><strong>FROM 4AM TO 10:30AM - REDUCED TO 60KM/H</strong></p><ul><li>Princes Highway, Lane 1 between Minerva Street and Farnell Avenue (southbound)</li></ul><p><strong>LOFTUS TO WATERFALL</strong></p><p><strong>From 4AM TO 11:30AM - REDUCED TO 60KM/H</strong></p><ul><li>Princes Highway, Lane 1 between Farnell Avenue and Waterfall ramp off (southbound)</li></ul><p><strong>STANWELL PARK TO THIRROUL - REDUCED TO 40KM/H</strong></p><p><strong>FROM 6AM TO 3PM</strong></p><ul><li>Lawrence Hargrave Drive between Old Coast Road, Stanwell Park and The Esplanade, Thirroul</li></ul><p><strong>FAIRY MEADOW </strong></p><p><strong>FROM 9:30AM TO 4:30PM</strong></p><ul><li>Elliotts Rd Between Squires Way and Cowper St (Westbound)</li></ul>",
+            "title": "Speed zone reduction",
+            "id": "725020"
+          }
+        ],
         "diversions": "",
         "additionalInfo": [],
         "weblinkName": null,
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1761915600000,
-        "displayName": "Special event",
+        "start": 1762002000000,
+        "displayName": "MS Gong Ride",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Park Street",
+            "crossStreet": "",
             "delay": "",
             "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "College Street",
+            "locationQualifier": "at",
+            "mainStreet": "Princes Hwy, Royal National Park, Lawrence Hargrave Dr",
             "quadrant": "",
             "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "Prince Albert Rd",
-            "suburb": "Sydney CBD",
+            "region": "South Coast",
+            "secondLocation": "",
+            "suburb": "Bulli",
             "trafficVolume": ""
           }
         ],
