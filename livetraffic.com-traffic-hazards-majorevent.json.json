@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1762411350000,
+  "lastPublished": 1762497780000,
   "layerName": "MajorEvent",
   "rights": {
     "copyright": "Transport for NSW",
@@ -381,73 +381,6 @@
             "region": "Sydney",
             "secondLocation": "",
             "suburb": "Lilyfield",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 253396,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.901482,
-          -34.4293225
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2025/11/nitro-circus-off-rails-world-tour-wollongong\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1761101670000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Use public transport",
-        "adviceB": "Allow extra travel time",
-        "adviceC": " ",
-        "end": 1762515000000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1761545717660,
-        "otherAdvice": "<p><strong>Nitro Circus &#39;Off The Rails&#39; World Tour</strong> <strong>at WIN Stadium. Show starts at 7.30pm, finishes around 9.30pm.</strong></p><p>Traffic will be heavier than usual on roads approaching the Wollongong CBD and on local roads as fans travel to the show in the already busy evening peak.</p><p>Local roads around the stadium may close before, during and after the show for the safety of pedestrians.</p><p>Fans driving to the game on the freeway are encouraged to use the Masters Rd exit to avoid congestion at Mount Ousley Rd, both in and out of Wollongong.</p><p>Motorists should allow extra time for parking and be aware of increased pedestrian activity on local roads.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1762434000000,
-        "displayName": "Show",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "WIN Stadium",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Harbour Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "South Coast",
-            "secondLocation": "",
-            "suburb": "Wollongong",
             "trafficVolume": ""
           }
         ],
@@ -892,79 +825,6 @@
             "region": "Central NSW",
             "secondLocation": "",
             "suburb": "Coonabarabran",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 253230.0,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.0658203,
-          -33.8467609
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>Concert tickets include travel on public transport. Express trains and Major Event Buses will run. Visit <a href=\"https://transportnsw.info/Oasis\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1760995787000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Use public transport",
-        "adviceB": "Allow extra travel time",
-        "adviceC": " ",
-        "end": 1762605000000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1761865950250,
-        "otherAdvice": "<p><strong>Oasis Live &#39;25 concerts at Accor Stadium on Friday 7 and Saturday 8 November. Gates open from 6pm, concert finishes around 10.45pm each night. </strong></p><p>With around 70,000 concert-goers expected at each show, significant traffic delays are expected on roads approaching the precinct. </p><p>Motorists should allow plenty of extra travel time on roads approaching Olympic Park including the M4 Mwy, Homebush Bay Dr, Concord Rd, Lane Cove Rd, Parramatta Rd, Centenary Dr and Silverwater Rd.</p><ul><li><strong>PARKING: </strong>Do not drive unless you have pre-booked parking. <a href=\"https://www.sydneyolympicpark.nsw.gov.au/parking\" target=\"_blank\">Pre-book online</a> ahead of time to secure a space as parking will be in high demand. A flat rate $35 parking fee applies. </li><li>If you have pre-booked your parking, follow the directions of staff and have your parking ticket ready to show at the car park entry.</li><li>Carpool with your group and allow plenty of extra travel time. Significant traffic delays are expected, especially on Friday during the busy evening peak.</li><li>Alternatively, consider parking at a nearby train station commuter car park and continuing your trip by train to Olympic Park, at no extra cost.</li></ul><p>Sydney Olympic Park Authority will close local roads in the precinct to ensure pedestrian safety during the event and to accommodate additional transport services. For road closure details, view the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a>.</p>",
-        "arrangementElements": [
-          {
-            "html": "<p>Sydney Olympic Park Authority will close local roads in the precinct to ensure pedestrian safety during the event and to accommodate additional transport services. For road closure details, view the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a>.</p><p><strong>ROAD CLOSURES </strong></p><p><strong>FROM 7PM THURSDAY 6 TO 3AM SUNDAY 9 NOVEMBER</strong></p><ul><li>Dawn Fraser Avenue from Olympic Boulevard to Showground Road </li></ul><p><strong>FROM 1.30AM ON FRIDAY 7 TO 3AM SUNDAY 9 NOVEMBER</strong></p><ul><li>Dawn Fraser Avenue from Showground Road to Edwin Flack Avenue </li><li>Olympic Boulevard from Herb Elliott Avenue to Kevin Coombs Avenue </li><li>Grand Parade from Olympic Boulevard to Showground Road</li><li>Showground Road from Grand Parade to Dawn Fraser Avenue</li><li>Murray Rose Avenue from Showground Road to Gate 15 </li></ul><p><strong>FROM 12PM ON FRIDAY 7 TO 3AM SUNDAY 9 November</strong></p><ul><li>Kevin Coombs Avenue from Pondage Link to Australia Avenue (eastbound) <strong> </strong></li></ul><p><strong>FROM 1PM ON FRIDAY 7 TO 3AM SATURDAY8 NOVEMBER</strong></p><p><strong>FROM 1PM ON SATURDAY 8 TO 3AM SUNDAY 9 NOVEMBER</strong></p><ul><li>Shirley Strickland Avenue from the P4 roundabout and Rod Laver Drive</li><li>Rod Laver Drive from Shirley Strickland Avenue to the Tennis Centre </li></ul><p><strong>FROM 2PM ON FRIDAY 7 TO 3AM SUNDAY 9 NOVEMBER</strong></p><ul><li>Olympic Boulevard from Sarah Durak Avenue to Herb Elliott Avenue </li></ul><p><strong>FROM 2PM ON FRIDAY 7 TO 3AM SATURDAY8 NOVEMBER</strong></p><p><strong>FROM 2PM ON SATURDAY 8 TO 3AM SUNDAY NOVEMBER</strong></p><ul><li>Showground Road from Dawn Fraser Avenue to Novotel Loading Dock</li><li>Dawn Fraser Avenue from Park Street to Showground Road </li></ul><p><strong>FROM 5PM on Friday 7 TO 3AM SATURDAY8 NOVEMBER</strong></p><p><strong>FROM 4.30PM ON SATURDAY 8 TO 3AM SUNDAY 9 NOVEMBER</strong></p><ul><li>Kevin Coombs Avenue from Pondage Link and Australia Avenue (westbound) </li><li>Holker Busway from Hill Road to Australia Avenue</li></ul><p><strong>FROM 9.30PM ON FRIDAY TO 1AM SATURDAY 8 NOVEMBER</strong></p><p><strong>FROM 9.30PM ON SATURDAY 8 TO 1AM SUNDAY 9 NOVEMBER</strong></p><ul><li>Pondage Link from Hill Road to Edwin Flack Avenue</li><li>Edwin Flack Avenue from Birnie Avenue to Old Hill Link (northbound) *Buses excepted. </li><li>Edwin Flack Avenue from Pondage Link to Old Hill Link (westbound) *Buses excepted. </li><li>Murray Rose Avenue from Park Street to Australia Avenue </li><li>Dawn Fraser Avenue from Park Street to Australia Avenue *Buses excepted. </li><li>Herb Elliott Avenue from Park Street to Showground Road</li></ul>",
-            "title": "Road Closures",
-            "id": "723853"
-          }
-        ],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1762434000000,
-        "displayName": "Oasis concerts",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Accor Stadium",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road, Centenary Drive",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Sydney Olympic Park",
             "trafficVolume": ""
           }
         ],
@@ -1682,12 +1542,12 @@
     },
     {
       "type": "Feature",
-      "id": 253394,
+      "id": 253396,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.9017796,
-          -34.4279762
+          150.901482,
+          -34.4293225
         ],
         "collections": []
       },
@@ -1698,26 +1558,26 @@
         "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
-        "ended": true,
+        "ended": false,
         "isNewIncident": false,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2025/11/nbl-illawarra-hawks-v-melbourne-united\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2025/11/nitro-circus-off-rails-world-tour-wollongong\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
         "impactingNetwork": false,
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1761101488000,
+        "created": 1761101670000,
         "isMajor": false,
         "name": null,
         "subCategoryA": "null",
         "adviceA": "Use public transport",
         "adviceB": "Allow extra travel time",
         "adviceC": " ",
-        "end": 1762340400000,
+        "end": 1762515000000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1762340464649,
-        "otherAdvice": "<p><strong>NBL Illawarra Hawks v Melbourne United</strong> <strong>at WIN Entertainment Centre. Tip-off at 7.30pm, full time around 9.30pm.</strong></p><p>Traffic will be heavier than usual on roads approaching the Wollongong CBD and on local roads around WIN Entertainment Centre as fans travel to the match in the already busy evening peak.</p><p>Local roads around the stadium may close before, during and after the game for the safety of pedestrians.</p><p>Fans driving to the game on the freeway are encouraged to use the Masters Rd exit to avoid congestion at Mount Ousley Rd, both in and out of Wollongong.</p><p>Motorists should allow extra time for parking and be aware of increased pedestrian activity on local roads.</p>",
+        "lastUpdated": 1762452167765,
+        "otherAdvice": "<p><strong>Nitro Circus &#39;Off The Rails&#39; World Tour</strong> <strong>at WIN Stadium. Show starts at 7.30pm, finishes around 9.30pm.</strong></p><p>Traffic will be heavier than usual on roads approaching the Wollongong CBD and on local roads as fans travel to the show in the already busy evening peak.</p><p>Local roads around the stadium may close before, during and after the show for the safety of pedestrians.</p><p>Fans driving to the game on the freeway are encouraged to use the Masters Rd exit to avoid congestion at Mount Ousley Rd, both in and out of Wollongong.</p><p>Motorists should allow extra time for parking and be aware of increased pedestrian activity on local roads.</p>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
@@ -1725,8 +1585,8 @@
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1762261200000,
-        "displayName": "NBL",
+        "start": 1762434000000,
+        "displayName": "Show",
         "roads": [
           {
             "conditionTendency": "",
@@ -1740,6 +1600,145 @@
             "region": "South Coast",
             "secondLocation": "",
             "suburb": "Wollongong",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 252727,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.162117,
+          -33.8950952
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1760565390000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Use diversions",
+        "adviceB": "Exercise caution",
+        "adviceC": " ",
+        "end": 1762822800000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1762455606835,
+        "otherAdvice": "<p>Remembrance Day Services will take place in Grenfell on the 11 November 2025. The Mid Western Hwy (Camp St) will be closed between East St and Forbes St to facilitate the event.</p>",
+        "arrangementElements": [],
+        "diversions": "<p>Detour for all vehicles will be via East St, Young St and Wood St.</p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1762817400000,
+        "displayName": "Remembrance Day - Grenfell",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "East Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Mid Western Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Central NSW",
+            "secondLocation": "Forbes Street",
+            "suburb": "Grenfell",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 255011,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2077083,
+          -33.8674418
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "NSW Gov - Remembrance Day service",
+            "linkURL": "https://www.nsw.gov.au/about-nsw/remembrance-day"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "<p>Travel on transport is free for veterans and their families. Trains, metro and bus services run frequently to and from Martin Place. Light Rail services will be held briefly near Martin Place between 10.58am and 11.03am. Visit <a href=\"https://transportnsw.info\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1762487845000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": " ",
+        "adviceC": " ",
+        "end": 1762822800000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1762487846120,
+        "otherAdvice": "<p><strong>Crowds are expected to gather at the Cenotaph in Martin Place for the official NSW Remembrance Day service commencing just after 10am.</strong></p><p>Limited seating will be provided for members of the public, which can be accessed from George Street. Standing areas are accessible from both George Street and Pitt Street.</p><p>Changed traffic conditions including temporary road closures may be in place.</p><p>Motorists should allow extra time if travelling through the city before and after the service. Follow the directions of NSW Police and traffic controllers on site.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1762779600000,
+        "displayName": "Remembrance Day",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "George Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Martin Place",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "Pitt Street",
+            "suburb": "Sydney CBD",
             "trafficVolume": ""
           }
         ],
@@ -1777,18 +1776,8 @@
             "roadextent": "Affected",
             "roadtype": "",
             "direction": "Northbound",
-            "finishTime": "",
+            "finishTime": "10:00am",
             "fromDay": "Sunday",
-            "startTime": "all day",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Northbound",
-            "finishTime": "2:00am",
-            "fromDay": "Monday",
             "startTime": "12:00am",
             "toDay": ""
           }
@@ -1810,11 +1799,11 @@
         "adviceA": "Check signage",
         "adviceB": "Exercise caution",
         "adviceC": " ",
-        "end": 1762700400000,
+        "end": 1762614000000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SPECIAL EVENT CLEARWAYS",
-        "lastUpdated": 1762378294566,
+        "lastUpdated": 1762489855073,
         "otherAdvice": "<p>Special event clearways will be in place at the following locations to facilitate Sydney Trains trackwork replacement bus operations:</p><ul><li>Chalmers St, western side, between Cleveland St and Devonshire St, and</li><li>Chalmers St, eastern side, between Cleveland St and Rutland St.</li></ul><p>Special event clearways are strict no-parking zones for all vehicle types, and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully, as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://tfnswtowlink.my.site.com/findmycar/s/\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator.</p>",
         "arrangementElements": [],
         "diversions": "",
@@ -1838,6 +1827,79 @@
             "region": "Sydney",
             "secondLocation": "Devonshire Street",
             "suburb": "Surry Hills",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 253230.0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0658203,
+          -33.8467609
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "<p>Concert tickets include travel on public transport. Express trains and Major Event Buses will run. Visit <a href=\"https://transportnsw.info/Oasis\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1760995787000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Use public transport",
+        "adviceB": "Allow extra travel time",
+        "adviceC": " ",
+        "end": 1762605000000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1762492990112,
+        "otherAdvice": "<p><strong>Oasis Live &#39;25 concerts at Accor Stadium on Friday 7 and Saturday 8 November. Gates open from 6pm, concert finishes around 10.45pm each night. </strong></p><p>With around 70,000 concert-goers expected at each show, significant traffic delays are expected on roads approaching the precinct. </p><p>Motorists should allow plenty of extra travel time on roads approaching Olympic Park including the M4 Mwy, Homebush Bay Dr, Concord Rd, Lane Cove Rd, Parramatta Rd, Centenary Dr and Silverwater Rd.</p><ul><li><strong>PARKING: </strong>Do not drive unless you have pre-booked parking. <a href=\"https://www.sydneyolympicpark.nsw.gov.au/parking\" target=\"_blank\">Pre-book online</a> ahead of time to secure a space as parking will be in high demand. A flat rate $35 parking fee applies. </li><li>If you have pre-booked your parking, follow the directions of staff and have your parking ticket ready to show at the car park entry.</li><li>Carpool with your group and allow plenty of extra travel time. Significant traffic delays are expected, especially on Friday during the busy evening peak.</li><li>Alternatively, consider parking at a nearby train station commuter car park and continuing your trip by train to Olympic Park, at no extra cost.</li></ul><p>Sydney Olympic Park Authority will close local roads in the precinct to ensure pedestrian safety during the event and to accommodate additional transport services. For road closure details, view the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a>.</p>",
+        "arrangementElements": [
+          {
+            "html": "<p>Sydney Olympic Park Authority will close local roads in the precinct to ensure pedestrian safety during the event and to accommodate additional transport services. For road closure details, view the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a>.</p><p><strong>ROAD CLOSURES </strong></p><p><strong>FROM 7PM THURSDAY 6 TO 3AM SUNDAY 9 NOVEMBER</strong></p><ul><li>Dawn Fraser Avenue from Olympic Boulevard to Showground Road </li></ul><p><strong>FROM 1.30AM ON FRIDAY 7 TO 3AM SUNDAY 9 NOVEMBER</strong></p><ul><li>Dawn Fraser Avenue from Showground Road to Edwin Flack Avenue </li><li>Olympic Boulevard from Herb Elliott Avenue to Kevin Coombs Avenue </li><li>Grand Parade from Olympic Boulevard to Showground Road</li><li>Showground Road from Grand Parade to Dawn Fraser Avenue</li><li>Murray Rose Avenue from Showground Road to Gate 15 </li></ul><p><strong>FROM 12PM ON FRIDAY 7 TO 3AM SUNDAY 9 November</strong></p><ul><li>Kevin Coombs Avenue from Pondage Link to Australia Avenue (eastbound) <strong> </strong></li></ul><p><strong>FROM 1PM ON FRIDAY 7 TO 3AM SATURDAY8 NOVEMBER</strong></p><p><strong>FROM 1PM ON SATURDAY 8 TO 3AM SUNDAY 9 NOVEMBER</strong></p><ul><li>Shirley Strickland Avenue from the P4 roundabout and Rod Laver Drive</li><li>Rod Laver Drive from Shirley Strickland Avenue to the Tennis Centre </li></ul><p><strong>FROM 2PM ON FRIDAY 7 TO 3AM SUNDAY 9 NOVEMBER</strong></p><ul><li>Olympic Boulevard from Sarah Durak Avenue to Herb Elliott Avenue </li></ul><p><strong>FROM 2PM ON FRIDAY 7 TO 3AM SATURDAY8 NOVEMBER</strong></p><p><strong>FROM 2PM ON SATURDAY 8 TO 3AM SUNDAY NOVEMBER</strong></p><ul><li>Showground Road from Dawn Fraser Avenue to Novotel Loading Dock</li><li>Dawn Fraser Avenue from Park Street to Showground Road </li></ul><p><strong>FROM 5PM on Friday 7 TO 3AM SATURDAY8 NOVEMBER</strong></p><p><strong>FROM 4.30PM ON SATURDAY 8 TO 3AM SUNDAY 9 NOVEMBER</strong></p><ul><li>Kevin Coombs Avenue from Pondage Link and Australia Avenue (westbound) </li><li>Holker Busway from Hill Road to Australia Avenue</li></ul><p><strong>FROM 9.30PM ON FRIDAY TO 1AM SATURDAY 8 NOVEMBER</strong></p><p><strong>FROM 9.30PM ON SATURDAY 8 TO 1AM SUNDAY 9 NOVEMBER</strong></p><ul><li>Pondage Link from Hill Road to Edwin Flack Avenue</li><li>Edwin Flack Avenue from Birnie Avenue to Old Hill Link (northbound) *Buses excepted. </li><li>Edwin Flack Avenue from Pondage Link to Old Hill Link (westbound) *Buses excepted. </li><li>Murray Rose Avenue from Park Street to Australia Avenue </li><li>Dawn Fraser Avenue from Park Street to Australia Avenue *Buses excepted. </li><li>Herb Elliott Avenue from Park Street to Showground Road</li></ul>",
+            "title": "Road Closures",
+            "id": "728430"
+          }
+        ],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1762434000000,
+        "displayName": "Oasis concerts",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Accor Stadium",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "approaching",
+            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road, Centenary Drive",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Sydney Olympic Park",
             "trafficVolume": ""
           }
         ],
