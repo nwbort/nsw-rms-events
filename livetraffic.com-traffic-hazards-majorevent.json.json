@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1762583880000,
+  "lastPublished": 1762670370000,
   "layerName": "MajorEvent",
   "rights": {
     "copyright": "Transport for NSW",
@@ -174,224 +174,6 @@
             "region": "Sydney",
             "secondLocation": "St Johns Rd",
             "suburb": "Glebe",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 253404,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.1539571,
-          -33.8691719
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2025/11/league-men-sydney-fc-v-macarthur-fc\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1761102927000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Use public transport",
-        "adviceC": " ",
-        "end": 1762670700000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1761545463461,
-        "otherAdvice": "<p><strong>A-League Men: Sydney FC v Macarthur FC at Leichhardt Oval on Sunday. Kick-off 3pm, full time at 4.45pm</strong></p><p>Traffic may be heavier than usual on James St, Perry St, Balmain Rd, Mary St and Glover St as attendees travel to and from the match.</p><p>A section of Mary Street may close before the game and will reopen when crowds have cleared the area. Traffic will be detoured via Chapel Street while the closure is in place.   </p><p>Motorists requiring access to other venues in the park should use either Maliyawul St or Glover St.</p><p>Attendees driving to the game should allow extra travel time for parking and be aware of increased pedestrian activity on local roads.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1762606800000,
-        "displayName": "A-League Men",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Mary Street",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Glover Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Lilyfield",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 253399,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.0602681,
-          -33.8459763
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2025/11/nbl-sydney-kings-v-new-zealand-breakers\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1761102412000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Use public transport",
-        "adviceC": " ",
-        "end": 1762674300000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1761693239455,
-        "otherAdvice": "<p><strong>NBL: Sydney Kings v New Zealand Breakers at Qudos Bank Arena on Sunday. Match starts at 4.15pm and finishes 6.15pm </strong></p><p>Traffic may be heavier than usual on roads approaching Sydney Olympic Park as attendees travel to and from the event.</p><p>Motorists should allow extra travel time on the M4, Parramatta Road, Homebush Bay Drive and Concord Road. </p><p>If you have to drive, carpool with your group <a href=\"https://www.sydneyolympicpark.nsw.gov.au/parking\" target=\"_blank\">pre-book your parking online</a> ahead of time to secure a space – available until 11:59pm the night before the event unless sold out prior. </p><p>To get to your carpark and avoid the heavy traffic congestion expected at the Homebush Bay Drive roundabout, use Silverwater Road, Holker Street and Hill Road</p><p>Roads may be closed in the precinct, for closure details, visit the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">Sydney Olympic Park interactive map</a> for more details.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1762606800000,
-        "displayName": "NBL",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Qudos Bank Arena",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Sydney Olympic Park",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 253401,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.0016216,
-          -33.808181
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "<p>Match tickets include travel on transport. Buses will divert while roads are closed after the game. Visit <a href=\"https://transportnsw.info/events/2025/11/nrl-pacific-championship-finals\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [
-          {
-            "displayName": "CommBankStadium_Transport_WalkingRoute_Map",
-            "fileName": "CommBankStadium_Transport_WalkingRoute_Map.pdf",
-            "fileType": "PDF",
-            "linkName": "CommBankStadium_Transport_WalkingRoute_Map",
-            "sizeInBytes": 3930899,
-            "uniqueFileName": "919826_1728350438314_CommBankStadium_Transport_WalkingRoute_Map.pdf"
-          },
-          {
-            "displayName": "CommBankStadium_EventRoadClosureMap_PLR",
-            "fileName": "CommBankStadium_EventRoadClosureMap_PLR.pdf",
-            "fileType": "PDF",
-            "linkName": "CommBankStadium_EventRoadClosureMap_PLR",
-            "sizeInBytes": 276835,
-            "uniqueFileName": "689282_1760318577717_CommBankStadium_EventRoadClosureMap_PLR.pdf"
-          }
-        ],
-        "isInitialReport": false,
-        "created": 1761102704000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Use public transport",
-        "adviceC": " ",
-        "end": 1762675200000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1761693330158,
-        "otherAdvice": "<p><strong>NRL Pacific Championship Finals at CommBank Stadium on Sunday. First game starts at 11.35am and last match finishes around 5.50pm. </strong></p><p>With up to 20,000 people expected, traffic will be heavy on roads approaching Parramatta and nearby car parks are expected to be in high demand.</p><p>Allow extra travel time on roads including Parramatta Road, Church Street, Victoria Road, James Ruse Drive and Pennant Hills Road. </p><p>Motorists should also exercise caution as pedestrian activity will be high on roads between Parramatta Interchange and the stadium. </p><p>Drivers are reminded that light rail services are running through Parramatta CBD. Trams can’t stop quickly or easily – so exercise extra caution when driving in the area. </p><p><strong>Road closures </strong></p><p>Roads around the stadium will close from <strong>5.50pm to 6.20pm</strong> approx. to allow crowds to safely leave the venue. Roads will re-open once crowds have cleared the area. </p><ul><li>O’Connell Street from Grose Street to George Street </li><li>Ross Street from O’Connell Street to Trott Street </li><li>Victoria Road from O’Connell Street to Villiers Street </li></ul><p>While closures are in place motorists are encouraged to avoid driving through Parramatta CBD and detour around the closures via Grose Street, Brickfield Street, Victoria Road and Wilde Avenue in both directions. </p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1762606800000,
-        "displayName": "NRL",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Victoria Road",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "O'Connell Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Parramatta",
             "trafficVolume": ""
           }
         ],
@@ -1048,81 +830,6 @@
     },
     {
       "type": "Feature",
-      "id": 254685,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          147.9744803,
-          -35.7728191
-        ],
-        "collections": [
-          {
-            "type": "Point",
-            "coordinates": [
-              148.121794,
-              -35.407908
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1762213870000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Reduce your speed",
-        "adviceB": "Check signage",
-        "adviceC": "Exercise caution",
-        "end": 1762668000000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1762213870602,
-        "otherAdvice": "<p>The Snowy Valley Cycle Challenge is on again with competitors competing in multiple road courses from Adelong, Tumut to Tumbarumba.</p><p>A speed reduction will be in place at Batlow Rd and Wondalga Rd intersection, and the Tumbarumba Rd and Jingellic Rd intersection with escort vehicles behind riders.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1762633800000,
-        "displayName": "Snowy Valleys Cycle Challenge",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Tumbarumba Road",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "-",
-            "mainStreet": "Batlow Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Snowy Mountains",
-            "secondLocation": "",
-            "suburb": "Adelong - Tumbarumba",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 254693,
       "geometry": {
         "type": "Point",
@@ -1469,12 +1176,12 @@
     },
     {
       "type": "Feature",
-      "id": 253396,
+      "id": 253398,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.901482,
-          -34.4293225
+          151.0218621,
+          -33.8202055
         ],
         "collections": []
       },
@@ -1487,24 +1194,24 @@
         "expectedDelay": -1,
         "ended": true,
         "isNewIncident": false,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2025/11/nitro-circus-off-rails-world-tour-wollongong\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "publicTransport": "<p>Race day tickets include travel on transport. Visit <a href=\"https://transportnsw.info/events/2025/11/ladies-day-everest-carnival\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
         "impactingNetwork": false,
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1761101670000,
+        "created": 1761102261000,
         "isMajor": false,
         "name": null,
         "subCategoryA": "null",
-        "adviceA": "Use public transport",
-        "adviceB": "Allow extra travel time",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use public transport",
         "adviceC": " ",
-        "end": 1762515000000,
+        "end": 1762588800000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1762515046212,
-        "otherAdvice": "<p><strong>Nitro Circus &#39;Off The Rails&#39; World Tour</strong> <strong>at WIN Stadium. Show starts at 7.30pm, finishes around 9.30pm.</strong></p><p>Traffic will be heavier than usual on roads approaching the Wollongong CBD and on local roads as fans travel to the show in the already busy evening peak.</p><p>Local roads around the stadium may close before, during and after the show for the safety of pedestrians.</p><p>Fans driving to the game on the freeway are encouraged to use the Masters Rd exit to avoid congestion at Mount Ousley Rd, both in and out of Wollongong.</p><p>Motorists should allow extra time for parking and be aware of increased pedestrian activity on local roads.</p>",
+        "lastUpdated": 1762588861165,
+        "otherAdvice": "<p><strong>Everest Carnival - Ladies Day at Rosehill Gardens Racecourse. First race at 11.30am, last race from 6.05pm. </strong></p><p>Traffic may be heavier than usual on roads approaching the racecourse as attendees travel to and from the event. Allow extra travel time on roads including James Ruse Drive and Hassall St.   </p><p>Drivers are reminded that light rail services are running between Westmead, Parramatta and Carlingford. Trams can’t stop quickly or easily – so exercise extra caution when driving in the area.</p><p>Special event clearway parking restrictions will be in effect <strong>from 7am to 8pm </strong>on Grand Avenue from approx. 100m prior to Gate 1 Australian Turf Club Rosehill Gardens to opposite Grand Avenue North.</p><p>Clearways are <strong>strict no-parking zones </strong>for all vehicle types and apply even to local residents and Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed\" target=\"_blank\">Find My Car website</a> to find its new location, or alternatively call 132 701 to speak to an operator.</p>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
@@ -1512,94 +1219,21 @@
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1762434000000,
-        "displayName": "Show",
+        "start": 1762520400000,
+        "displayName": "Race Day",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "WIN Stadium",
+            "crossStreet": "Rosehill Gardens Racecourse",
             "delay": "",
             "impactedLanes": [],
             "locationQualifier": "at",
-            "mainStreet": "Harbour Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "South Coast",
-            "secondLocation": "",
-            "suburb": "Wollongong",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 253230.0,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.0658203,
-          -33.8467609
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>Concert tickets include travel on public transport. Express trains and Major Event Buses will run. Visit <a href=\"https://transportnsw.info/Oasis\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1760995787000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Use public transport",
-        "adviceB": "Allow extra travel time",
-        "adviceC": " ",
-        "end": 1762605000000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1762541064937,
-        "otherAdvice": "<p><strong>Oasis Live &#39;25 concerts at Accor Stadium on Friday 7 and Saturday 8 November. Gates open from 6pm, concert finishes around 10.45pm each night. </strong></p><p>With around 70,000 concert-goers expected at each show, significant traffic delays are expected on roads approaching the precinct. </p><p>Motorists should allow plenty of extra travel time on roads approaching Olympic Park including the M4 Mwy, Homebush Bay Dr, Concord Rd, Lane Cove Rd, Parramatta Rd, Centenary Dr and Silverwater Rd.</p><ul><li><strong>PARKING: </strong>Do not drive unless you have pre-booked parking. <a href=\"https://www.sydneyolympicpark.nsw.gov.au/parking\" target=\"_blank\">Pre-book online</a> ahead of time to secure a space as parking will be in high demand. A flat rate $35 parking fee applies. </li><li>If you have pre-booked your parking, follow the directions of staff and have your parking ticket ready to show at the car park entry.</li><li>Carpool with your group and allow plenty of extra travel time. Significant traffic delays are expected, especially on Friday during the busy evening peak.</li><li>Alternatively, consider parking at a nearby train station commuter car park and continuing your trip by train to Olympic Park, at no extra cost.</li></ul><p>Sydney Olympic Park Authority will close local roads in the precinct to ensure pedestrian safety during the event and to accommodate additional transport services. For road closure details, view the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a>.</p>",
-        "arrangementElements": [
-          {
-            "html": "<p>Sydney Olympic Park Authority will close local roads in the precinct to ensure pedestrian safety during the event and to accommodate additional transport services. For road closure details, view the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a>.</p><p><strong>ROAD CLOSURES </strong></p><p><strong>FROM 7PM THURSDAY 6 TO 3AM SUNDAY 9 NOVEMBER</strong></p><ul><li>Dawn Fraser Avenue from Olympic Boulevard to Showground Road </li></ul><p><strong>FROM 1.30AM ON FRIDAY 7 TO 3AM SUNDAY 9 NOVEMBER</strong></p><ul><li>Dawn Fraser Avenue from Showground Road to Edwin Flack Avenue </li><li>Olympic Boulevard from Herb Elliott Avenue to Kevin Coombs Avenue </li><li>Grand Parade from Olympic Boulevard to Showground Road</li><li>Showground Road from Grand Parade to Dawn Fraser Avenue</li><li>Murray Rose Avenue from Showground Road to Gate 15 </li></ul><p><strong>FROM 12PM ON FRIDAY 7 TO 3AM SUNDAY 9 November</strong></p><ul><li>Kevin Coombs Avenue from Pondage Link to Australia Avenue (eastbound) <strong> </strong></li></ul><p><strong>FROM 1PM ON FRIDAY 7 TO 3AM SATURDAY8 NOVEMBER</strong></p><p><strong>FROM 1PM ON SATURDAY 8 TO 3AM SUNDAY 9 NOVEMBER</strong></p><ul><li>Shirley Strickland Avenue from the P4 roundabout and Rod Laver Drive</li><li>Rod Laver Drive from Shirley Strickland Avenue to the Tennis Centre </li></ul><p><strong>FROM 2PM ON FRIDAY 7 TO 3AM SUNDAY 9 NOVEMBER</strong></p><ul><li>Olympic Boulevard from Sarah Durak Avenue to Herb Elliott Avenue </li></ul><p><strong>FROM 2PM ON FRIDAY 7 TO 3AM SATURDAY8 NOVEMBER</strong></p><p><strong>FROM 2PM ON SATURDAY 8 TO 3AM SUNDAY NOVEMBER</strong></p><ul><li>Showground Road from Dawn Fraser Avenue to Novotel Loading Dock</li><li>Dawn Fraser Avenue from Park Street to Showground Road </li></ul><p><strong>FROM 5PM on Friday 7 TO 3AM SATURDAY8 NOVEMBER</strong></p><p><strong>FROM 4.30PM ON SATURDAY 8 TO 3AM SUNDAY 9 NOVEMBER</strong></p><ul><li>Kevin Coombs Avenue from Pondage Link and Australia Avenue (westbound) </li><li>Holker Busway from Hill Road to Australia Avenue</li></ul><p><strong>FROM 9.30PM ON FRIDAY TO 1AM SATURDAY 8 NOVEMBER</strong></p><p><strong>FROM 9.30PM ON SATURDAY 8 TO 1AM SUNDAY 9 NOVEMBER</strong></p><ul><li>Pondage Link from Hill Road to Edwin Flack Avenue</li><li>Edwin Flack Avenue from Birnie Avenue to Old Hill Link (northbound) *Buses excepted. </li><li>Edwin Flack Avenue from Pondage Link to Old Hill Link (westbound) *Buses excepted. </li><li>Murray Rose Avenue from Park Street to Australia Avenue </li><li>Dawn Fraser Avenue from Park Street to Australia Avenue *Buses excepted. </li><li>Herb Elliott Avenue from Park Street to Showground Road</li></ul>",
-            "title": "Road Closures",
-            "id": "728660"
-          }
-        ],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1762434000000,
-        "displayName": "Oasis concerts",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Accor Stadium",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road, Centenary Drive",
+            "mainStreet": "James Ruse Drive",
             "quadrant": "",
             "queueLength": 0,
             "region": "Sydney",
             "secondLocation": "",
-            "suburb": "Sydney Olympic Park",
+            "suburb": "Rosehill",
             "trafficVolume": ""
           }
         ],
@@ -1625,7 +1259,7 @@
         "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
-        "ended": false,
+        "ended": true,
         "isNewIncident": false,
         "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2025/11/nitro-circus-off-rails-world-tour-broadmeadow\" target=\"_blank\">transportnsw.info</a> to plan your trip</p>",
         "impactingNetwork": false,
@@ -1643,13 +1277,13 @@
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1762541124101,
+        "lastUpdated": 1762600517588,
         "otherAdvice": "<p><strong>Nitro Circus &#39;Off The Rails&#39; at McDonald Jones Stadium. Show starts at 7.30pm, finishes around 9.30pm. </strong></p><p>Traffic may be heavier than usual as fans travel to and from the show. Allow extra travel time on Turton Rd, Griffiths Rd, Newcastle Rd, Lambton Rd and Bridges Rd through Broadmeadow.</p><p>For passenger drop-off, use the allocated 10-minute loading zone in the McDonald Jones Stadium car park. Entry is via the driveway off Turton Road.</p><p>Motorists should allow extra travel time and be aware of increased pedestrian activity on local roads.</p>",
         "arrangementElements": [
           {
             "html": "<p><strong>SATURDAY 2 AUGUST</strong></p><p>Gates open at 11.15am</p><p>Titans v Bulldogs at 12.15pm</p><p>Wests Tigers v Roosters at 2.15pm</p><p>Finish around 6.15pm</p><p><strong>SUNDAY 3 AUGUST</strong></p><p>Gates open 10.50am</p><p>Cowboys v Warriors at 11.50am</p><p>Knights v Raiders 1.45pm</p><p>Eels v Dragons 3.45pm</p><p>Finish around 5.45pm.</p>",
             "title": "Run Times",
-            "id": "728661"
+            "id": "728884"
           }
         ],
         "diversions": "",
@@ -1682,12 +1316,12 @@
     },
     {
       "type": "Feature",
-      "id": 253398,
+      "id": 253230.0,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.0218621,
-          -33.8202055
+          151.0658203,
+          -33.8467609
         ],
         "collections": []
       },
@@ -1698,48 +1332,54 @@
         "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
-        "ended": false,
+        "ended": true,
         "isNewIncident": false,
-        "publicTransport": "<p>Race day tickets include travel on transport. Visit <a href=\"https://transportnsw.info/events/2025/11/ladies-day-everest-carnival\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
+        "publicTransport": "<p>Concert tickets include travel on public transport. Express trains and Major Event Buses will run. Visit <a href=\"https://transportnsw.info/Oasis\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": true,
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1761102261000,
+        "created": 1760995787000,
         "isMajor": false,
         "name": null,
         "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Use public transport",
+        "adviceA": "Use public transport",
+        "adviceB": "Allow extra travel time",
         "adviceC": " ",
-        "end": 1762588800000,
+        "end": 1762605000000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1762541136847,
-        "otherAdvice": "<p><strong>Everest Carnival - Ladies Day at Rosehill Gardens Racecourse. First race at 11.30am, last race from 6.05pm. </strong></p><p>Traffic may be heavier than usual on roads approaching the racecourse as attendees travel to and from the event. Allow extra travel time on roads including James Ruse Drive and Hassall St.   </p><p>Drivers are reminded that light rail services are running between Westmead, Parramatta and Carlingford. Trams can’t stop quickly or easily – so exercise extra caution when driving in the area.</p><p>Special event clearway parking restrictions will be in effect <strong>from 7am to 8pm </strong>on Grand Avenue from approx. 100m prior to Gate 1 Australian Turf Club Rosehill Gardens to opposite Grand Avenue North.</p><p>Clearways are <strong>strict no-parking zones </strong>for all vehicle types and apply even to local residents and Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed\" target=\"_blank\">Find My Car website</a> to find its new location, or alternatively call 132 701 to speak to an operator.</p>",
-        "arrangementElements": [],
+        "lastUpdated": 1762605003052,
+        "otherAdvice": "<p><strong>Oasis Live &#39;25 concerts at Accor Stadium on Friday 7 and Saturday 8 November. Gates open from 6pm, concert finishes around 10.45pm each night. </strong></p><p>With around 70,000 concert-goers expected at each show, significant traffic delays are expected on roads approaching the precinct. </p><p>Motorists should allow plenty of extra travel time on roads approaching Olympic Park including the M4 Mwy, Homebush Bay Dr, Concord Rd, Lane Cove Rd, Parramatta Rd, Centenary Dr and Silverwater Rd.</p><ul><li><strong>PARKING: </strong>Do not drive unless you have pre-booked parking. <a href=\"https://www.sydneyolympicpark.nsw.gov.au/parking\" target=\"_blank\">Pre-book online</a> ahead of time to secure a space as parking will be in high demand. A flat rate $35 parking fee applies. </li><li>If you have pre-booked your parking, follow the directions of staff and have your parking ticket ready to show at the car park entry.</li><li>Carpool with your group and allow plenty of extra travel time. Significant traffic delays are expected, especially on Friday during the busy evening peak.</li><li>Alternatively, consider parking at a nearby train station commuter car park and continuing your trip by train to Olympic Park, at no extra cost.</li></ul><p>Sydney Olympic Park Authority will close local roads in the precinct to ensure pedestrian safety during the event and to accommodate additional transport services. For road closure details, view the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a>.</p>",
+        "arrangementElements": [
+          {
+            "html": "<p>Sydney Olympic Park Authority will close local roads in the precinct to ensure pedestrian safety during the event and to accommodate additional transport services. For road closure details, view the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a>.</p><p><strong>ROAD CLOSURES </strong></p><p><strong>FROM 7PM THURSDAY 6 TO 3AM SUNDAY 9 NOVEMBER</strong></p><ul><li>Dawn Fraser Avenue from Olympic Boulevard to Showground Road </li></ul><p><strong>FROM 1.30AM ON FRIDAY 7 TO 3AM SUNDAY 9 NOVEMBER</strong></p><ul><li>Dawn Fraser Avenue from Showground Road to Edwin Flack Avenue </li><li>Olympic Boulevard from Herb Elliott Avenue to Kevin Coombs Avenue </li><li>Grand Parade from Olympic Boulevard to Showground Road</li><li>Showground Road from Grand Parade to Dawn Fraser Avenue</li><li>Murray Rose Avenue from Showground Road to Gate 15 </li></ul><p><strong>FROM 12PM ON FRIDAY 7 TO 3AM SUNDAY 9 November</strong></p><ul><li>Kevin Coombs Avenue from Pondage Link to Australia Avenue (eastbound) <strong> </strong></li></ul><p><strong>FROM 1PM ON FRIDAY 7 TO 3AM SATURDAY8 NOVEMBER</strong></p><p><strong>FROM 1PM ON SATURDAY 8 TO 3AM SUNDAY 9 NOVEMBER</strong></p><ul><li>Shirley Strickland Avenue from the P4 roundabout and Rod Laver Drive</li><li>Rod Laver Drive from Shirley Strickland Avenue to the Tennis Centre </li></ul><p><strong>FROM 2PM ON FRIDAY 7 TO 3AM SUNDAY 9 NOVEMBER</strong></p><ul><li>Olympic Boulevard from Sarah Durak Avenue to Herb Elliott Avenue </li></ul><p><strong>FROM 2PM ON FRIDAY 7 TO 3AM SATURDAY8 NOVEMBER</strong></p><p><strong>FROM 2PM ON SATURDAY 8 TO 3AM SUNDAY NOVEMBER</strong></p><ul><li>Showground Road from Dawn Fraser Avenue to Novotel Loading Dock</li><li>Dawn Fraser Avenue from Park Street to Showground Road </li></ul><p><strong>FROM 5PM on Friday 7 TO 3AM SATURDAY8 NOVEMBER</strong></p><p><strong>FROM 4.30PM ON SATURDAY 8 TO 3AM SUNDAY 9 NOVEMBER</strong></p><ul><li>Kevin Coombs Avenue from Pondage Link and Australia Avenue (westbound) </li><li>Holker Busway from Hill Road to Australia Avenue</li></ul><p><strong>FROM 9.30PM ON FRIDAY TO 1AM SATURDAY 8 NOVEMBER</strong></p><p><strong>FROM 9.30PM ON SATURDAY 8 TO 1AM SUNDAY 9 NOVEMBER</strong></p><ul><li>Pondage Link from Hill Road to Edwin Flack Avenue</li><li>Edwin Flack Avenue from Birnie Avenue to Old Hill Link (northbound) *Buses excepted. </li><li>Edwin Flack Avenue from Pondage Link to Old Hill Link (westbound) *Buses excepted. </li><li>Murray Rose Avenue from Park Street to Australia Avenue </li><li>Dawn Fraser Avenue from Park Street to Australia Avenue *Buses excepted. </li><li>Herb Elliott Avenue from Park Street to Showground Road</li></ul>",
+            "title": "Road Closures",
+            "id": "728887"
+          }
+        ],
         "diversions": "",
         "additionalInfo": [],
         "weblinkName": null,
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1762520400000,
-        "displayName": "Race Day",
+        "start": 1762434000000,
+        "displayName": "Oasis concerts",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Rosehill Gardens Racecourse",
+            "crossStreet": "Accor Stadium",
             "delay": "",
             "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "James Ruse Drive",
+            "locationQualifier": "approaching",
+            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road, Centenary Drive",
             "quadrant": "",
             "queueLength": 0,
             "region": "Sydney",
             "secondLocation": "",
-            "suburb": "Rosehill",
+            "suburb": "Sydney Olympic Park",
             "trafficVolume": ""
           }
         ],
@@ -1786,7 +1426,7 @@
         "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
-        "ended": false,
+        "ended": true,
         "isNewIncident": false,
         "publicTransport": "",
         "impactingNetwork": false,
@@ -1804,7 +1444,7 @@
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SPECIAL EVENT CLEARWAYS",
-        "lastUpdated": 1762541197381,
+        "lastUpdated": 1762614063389,
         "otherAdvice": "<p>Special event clearways will be in place at the following locations to facilitate Sydney Trains trackwork replacement bus operations:</p><ul><li>Chalmers St, western side, between Cleveland St and Devonshire St, and</li><li>Chalmers St, eastern side, between Cleveland St and Rutland St.</li></ul><p>Special event clearways are strict no-parking zones for all vehicle types, and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully, as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://tfnswtowlink.my.site.com/findmycar/s/\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator.</p>",
         "arrangementElements": [],
         "diversions": "",
@@ -1876,7 +1516,7 @@
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1762541216946,
+        "lastUpdated": 1762627332749,
         "otherAdvice": "<p>The Lismore Cycling Festival will be held on Saturday 8 and Sunday 9 November. Traffic controllers will be on site to direct motorists. </p>",
         "arrangementElements": [],
         "diversions": "",
@@ -1900,6 +1540,374 @@
             "region": "North Coast NSW",
             "secondLocation": "Larkin Lane",
             "suburb": "Lismore",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 253401,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0016216,
+          -33.808181
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "<p>Match tickets include travel on transport. Buses will divert while roads are closed after the game. Visit <a href=\"https://transportnsw.info/events/2025/11/nrl-pacific-championship-finals\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [
+          {
+            "displayName": "CommBankStadium_Transport_WalkingRoute_Map",
+            "fileName": "CommBankStadium_Transport_WalkingRoute_Map.pdf",
+            "fileType": "PDF",
+            "linkName": "CommBankStadium_Transport_WalkingRoute_Map",
+            "sizeInBytes": 3930899,
+            "uniqueFileName": "919826_1728350438314_CommBankStadium_Transport_WalkingRoute_Map.pdf"
+          },
+          {
+            "displayName": "CommBankStadium_EventRoadClosureMap_PLR",
+            "fileName": "CommBankStadium_EventRoadClosureMap_PLR.pdf",
+            "fileType": "PDF",
+            "linkName": "CommBankStadium_EventRoadClosureMap_PLR",
+            "sizeInBytes": 276835,
+            "uniqueFileName": "689282_1760318577717_CommBankStadium_EventRoadClosureMap_PLR.pdf"
+          }
+        ],
+        "isInitialReport": false,
+        "created": 1761102704000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use public transport",
+        "adviceC": " ",
+        "end": 1762675200000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1762627364403,
+        "otherAdvice": "<p><strong>NRL Pacific Championship Finals at CommBank Stadium on Sunday. First game starts at 11.35am and last match finishes around 5.50pm. </strong></p><p>With up to 20,000 people expected, traffic will be heavy on roads approaching Parramatta and nearby car parks are expected to be in high demand.</p><p>Allow extra travel time on roads including Parramatta Road, Church Street, Victoria Road, James Ruse Drive and Pennant Hills Road. </p><p>Motorists should also exercise caution as pedestrian activity will be high on roads between Parramatta Interchange and the stadium. </p><p>Drivers are reminded that light rail services are running through Parramatta CBD. Trams can’t stop quickly or easily – so exercise extra caution when driving in the area. </p><p><strong>Road closures </strong></p><p>Roads around the stadium will close from <strong>5.50pm to 6.20pm</strong> approx. to allow crowds to safely leave the venue. Roads will re-open once crowds have cleared the area. </p><ul><li>O’Connell Street from Grose Street to George Street </li><li>Ross Street from O’Connell Street to Trott Street </li><li>Victoria Road from O’Connell Street to Villiers Street </li></ul><p>While closures are in place motorists are encouraged to avoid driving through Parramatta CBD and detour around the closures via Grose Street, Brickfield Street, Victoria Road and Wilde Avenue in both directions. </p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1762606800000,
+        "displayName": "NRL",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Victoria Road",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "O'Connell Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Parramatta",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 253399,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0602681,
+          -33.8459763
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2025/11/nbl-sydney-kings-v-new-zealand-breakers\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1761102412000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use public transport",
+        "adviceC": " ",
+        "end": 1762674300000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1762627411470,
+        "otherAdvice": "<p><strong>NBL: Sydney Kings v New Zealand Breakers at Qudos Bank Arena on Sunday. Match starts at 4.15pm and finishes 6.15pm </strong></p><p>Traffic may be heavier than usual on roads approaching Sydney Olympic Park as attendees travel to and from the event.</p><p>Motorists should allow extra travel time on the M4, Parramatta Road, Homebush Bay Drive and Concord Road. </p><p>If you have to drive, carpool with your group <a href=\"https://www.sydneyolympicpark.nsw.gov.au/parking\" target=\"_blank\">pre-book your parking online</a> ahead of time to secure a space – available until 11:59pm the night before the event unless sold out prior. </p><p>To get to your carpark and avoid the heavy traffic congestion expected at the Homebush Bay Drive roundabout, use Silverwater Road, Holker Street and Hill Road</p><p>Roads may be closed in the precinct, for closure details, visit the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">Sydney Olympic Park interactive map</a> for more details.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1762606800000,
+        "displayName": "NBL",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Qudos Bank Arena",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "approaching",
+            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Sydney Olympic Park",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 253404,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1539571,
+          -33.8691719
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2025/11/league-men-sydney-fc-v-macarthur-fc\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1761102927000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use public transport",
+        "adviceC": " ",
+        "end": 1762670700000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1762627441091,
+        "otherAdvice": "<p><strong>A-League Men: Sydney FC v Macarthur FC at Leichhardt Oval on Sunday. Kick-off 3pm, full time at 4.45pm</strong></p><p>Traffic may be heavier than usual on James St, Perry St, Balmain Rd, Mary St and Glover St as attendees travel to and from the match.</p><p>A section of Mary Street may close before the game and will reopen when crowds have cleared the area. Traffic will be detoured via Chapel Street while the closure is in place.   </p><p>Motorists requiring access to other venues in the park should use either Maliyawul St or Glover St.</p><p>Attendees driving to the game should allow extra travel time for parking and be aware of increased pedestrian activity on local roads.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1762606800000,
+        "displayName": "A-League Men",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Mary Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Glover Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Lilyfield",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 254677,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.1259302,
+          -36.2349885
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Australian National Busking Championship",
+            "linkURL": "https://busking.com.au/"
+          }
+        ],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Closed",
+            "roadtype": "Highway",
+            "direction": "Both directions",
+            "finishTime": "3:00pm",
+            "fromDay": "Saturday",
+            "startTime": "9:00am",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1762211383000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Exercise caution",
+        "adviceB": "Use diversions",
+        "adviceC": " ",
+        "end": 1763179200000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1762643385873,
+        "otherAdvice": "<p>The Australian National Busking Championship is coming to Cooma on Saturday 15 November, celebrating music and street performance.</p><p>The Snowy Mountains Hwy will be closed between Vale St and Bombala St.</p><p>Detours will be in place.</p><p>Motorists are advised to be aware of increased pedestrian activity in the area.</p>",
+        "arrangementElements": [],
+        "diversions": "<p>Detour via Bombala St, Commissioner St, Vale St and Massie St.</p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1763157600000,
+        "displayName": "Australian National Busking Championship",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Bombala Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Snowy Mountains Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Snowy Mountains",
+            "secondLocation": "Vale Street",
+            "suburb": "Cooma",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 254685,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.9744803,
+          -35.7728191
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1762213870000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Reduce your speed",
+        "adviceB": "Check signage",
+        "adviceC": "Exercise caution",
+        "end": 1762668000000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1762668003853,
+        "otherAdvice": "<p>The Snowy Valley Cycle Challenge is on again with competitors competing in multiple road courses from Adelong, Tumut to Tumbarumba.</p><p>A speed reduction will be in place at Batlow Rd and Wondalga Rd intersection, and the Tumbarumba Rd and Jingellic Rd intersection with escort vehicles behind riders.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1762633800000,
+        "displayName": "Snowy Valleys Cycle Challenge",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Tumbarumba Road",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "-",
+            "mainStreet": "Batlow Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Snowy Mountains",
+            "secondLocation": "",
+            "suburb": "Adelong - Tumbarumba",
             "trafficVolume": ""
           }
         ],
