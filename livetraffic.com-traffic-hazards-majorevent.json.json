@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1763102550000,
+  "lastPublished": 1763188650000,
   "layerName": "MajorEvent",
   "rights": {
     "copyright": "Transport for NSW",
@@ -87,93 +87,6 @@
             "region": "Sydney",
             "secondLocation": "The Grand Parade",
             "suburb": "Brighton-Le-Sands",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 253147,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.192936,
-          -33.8844121
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "City of Sydney - Sydney Streets Program",
-            "linkURL": "https://whatson.cityofsydney.nsw.gov.au/events/sydney-streets-on-glebe-point-road?utm_source=google&utm_medium=search&utm_campaign=sydneystreets&keyword_k=sydney%20streets%20glebe&gad_source=1&gclid=CjwKCAiAh6y9BhBREiwApBLHC_4g8wdl0HH2XzMFMtrdxG7IpLN6ZDX2"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>Route buses 370, 431 and 433 will be diverting around road closures and missing some stops. Check bus service alerts and plan your trip at <a href=\"http://transportnsw.info/alerts\" target=\"_blank\">transportnsw.info</a>.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [
-          {
-            "displayName": "Glebe_SydneyStreets_RoadClosures_Clearways_Map",
-            "fileName": "Glebe_SydneyStreets_RoadClosures_Clearways_Map.pdf",
-            "fileType": "PDF",
-            "linkName": "Glebe_SydneyStreets_RoadClosures_Clearways_Map",
-            "sizeInBytes": 293895,
-            "uniqueFileName": "225741_1761189086441_Glebe_SydneyStreets_RoadClosures_Clearways_Map.pdf"
-          }
-        ],
-        "isInitialReport": false,
-        "created": 1760915144000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Check signage",
-        "adviceB": "Allow extra travel time",
-        "adviceC": " ",
-        "end": 1763209800000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1761189210925,
-        "otherAdvice": "<p>Road closures and special event clearways will be in place for the City of Sydney - Sydney Streets event on Glebe Point Rd. The event runs from 11am until 8pm.</p><p><strong>The following roads will close from 7am to 11.30pm</strong></p><ul><li>Glebe Point Rd between St Johns Rd and Broadway, and adjoining roads including sections of Cowper St, Derwent Ln, Derby Pl, Francis St, Mitchell St and Norton St.</li></ul><p>Allow extra travel time, follow the directions of traffic control and be aware of increased pedestrian activity. Police may restrict vehicle access along closed roads, including residents and businesses.</p><p><strong>Special event clearways will be in effect from 7am until 9:30pm on sections of Glebe Point Rd, Francis St, Derby Pl, Cowper St, Norton St and Mitchell St. </strong></p><p>Clearways are <strong>strict no-parking zones</strong> for all vehicle types and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://tfnswtowlink.force.com/findmycar/s/\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator.</p>",
-        "arrangementElements": [
-          {
-            "html": "<p><strong>ROAD CLOSURES </strong></p><p><strong>7AM - 11:30PM </strong></p><ul><li>Cowper St between Glebe Point Rd and Campbell St</li><li>Derwent Ln between Glebe Point Rd and Mitchell St</li><li>Derwent Ln between Derby Pl and Broadway</li><li>Derby Pl between Glebe Point Rd and Broadway</li><li>Francis St between Grose St and Glebe Point Rd</li><li>Glebe Point Rd between St Johns Rd and Broadway</li><li>Mitchell St between Derwent St and Campbell St</li><li>Norton St Between Glebe Point Rd and Campbell St</li></ul><p><br></p><p><strong>SPECIAL EVENT CLEARWAYS</strong></p><p><strong>7AM - 9:30PM</strong></p><ul><li>Cowper Street between Glebe Point Rd and Campbell Ln</li><li>Derby Pl between Glebe Point Rd and Derwent Ln</li><li>Francis St between Glebe Point Rd and Grose St</li><li>Glebe Point Rd between St Johns Rd and Broadway</li><li>Mitchell St between Derwent Ln and Campbell Ln</li><li>Norton St between Glebe Point Rd and Campbell Ln</li></ul><p>Clearways are <strong>strict no-parking zones</strong> for all vehicle types and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://tfnswtowlink.force.com/findmycar/s/\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator.</p>",
-            "title": "Road Closures & Special Event Clearways",
-            "id": "719112"
-          }
-        ],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1763125200000,
-        "displayName": "Sydney Streets Event",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Broadway",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Glebe Point Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "St Johns Rd",
-            "suburb": "Glebe",
             "trafficVolume": ""
           }
         ],
@@ -1280,161 +1193,6 @@
     },
     {
       "type": "Feature",
-      "id": 211785,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.273279,
-          -33.894735
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Bondi2Berry Ride",
-            "linkURL": "https://www.dementiaresearchcommunity.com/bondi2berry-ride/"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1729549710000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Reduce your speed",
-        "adviceB": "Exercise caution",
-        "adviceC": " ",
-        "end": 1763177400000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1762819637038,
-        "otherAdvice": "<p>Cyclists will take part in the The Bondi2Berry 155km ride from Bondi Beach at 5.50am to Berry on the South Coast by 2:30pm.</p><p>Road closures will not be in place however motorists should exercise caution as they share roads with cyclists during the event.</p><p>The first group will leave Bondi at 5.50am travelling via Bondi Rd, Darley Rd, South Dowling St, General Holmes Dr, Grand Pde, Rocky Point Rd, Taren Point Rd, The Kingsway and the Princes Hwy through the Royal National Park to Stanwell Tops.</p><p>Cyclists will then continue along the coast via Otford Rd, Lawrence Hargrave Dr, Grand Pacific Dr, Princes Hwy, Memorial Dr and Squires Way into Wollongong. From there, cyclists will travel via Windang Rd and the Princes Hwy to Kiama before the last leg of the ride to Berry via Crooked River Rd, Beach Rd and Queen St.</p><p>Motorists may experience some delays along the cycle route particularly on Lawrence Hargrave Drive from Stanwell Park to Thirroul and the Princes Hwy at Bulli as they share roads with cyclists. Allow extra time and exercise caution. </p><p>Drivers are reminded when overtaking cyclists to leave a 1.5m distance on roads with speed limits over 60km/h and a 1m distance on roads 60km/h or under.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1763146800000,
-        "displayName": "Bondi2Berry cycle",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "via General Holmes Dr, Grand Pde, Kingsway, Princes Hwy, Lawrence Hargrave Drive",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Bondi to Berry",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 255340.0,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          144.843,
-          -34.5123
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Rainbow on the Plains Festival",
-            "linkURL": "https://www.rainbowontheplains.com.au/"
-          }
-        ],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Closed",
-            "roadtype": "Highway",
-            "direction": "Both directions",
-            "finishTime": "1:00pm",
-            "fromDay": "Saturday",
-            "startTime": "12:00pm",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1762823698000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Use diversions",
-        "adviceB": " ",
-        "adviceC": " ",
-        "end": 1763172000000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1762823699461,
-        "otherAdvice": "<p>The annual Hay Mardi Gras Parade - Rainbow on the Plains festival is taking place along the Cobb Highway on Saturday. </p><p>Detours will be in place.</p>",
-        "arrangementElements": [],
-        "diversions": "<p>Motorists heading northbound will be detoured via along Brunker St, Pine St and Murray St.</p><p>Motorists heading southbound will be detoured via along Cadell St, Pine St and Brunker St. </p>",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1763168400000,
-        "displayName": "Mardi Gras Parade",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Brunker Street",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Cobb Highway (Lachlan St)",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Riverina",
-            "secondLocation": "Cadell Street",
-            "suburb": "Hay",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 254094,
       "geometry": {
         "type": "Point",
@@ -2196,6 +1954,377 @@
             "region": "Sydney",
             "secondLocation": "Fitzroy Street",
             "suburb": "Kirribilli",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 253147,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1908519,
+          -33.8829268
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "City of Sydney - Sydney Streets Program",
+            "linkURL": "https://whatson.cityofsydney.nsw.gov.au/events/sydney-streets-on-glebe-point-road?utm_source=google&utm_medium=search&utm_campaign=sydneystreets&keyword_k=sydney%20streets%20glebe&gad_source=1&gclid=CjwKCAiAh6y9BhBREiwApBLHC_4g8wdl0HH2XzMFMtrdxG7IpLN6ZDX2"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "<p>Route buses 370, 431 and 433 are diverting around road closures and missing some stops. Check bus service alerts and plan your trip at <a href=\"http://transportnsw.info/alerts\" target=\"_blank\">transportnsw.info</a>.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [
+          {
+            "displayName": "Glebe_SydneyStreets_RoadClosures_Clearways_Map",
+            "fileName": "Glebe_SydneyStreets_RoadClosures_Clearways_Map.pdf",
+            "fileType": "PDF",
+            "linkName": "Glebe_SydneyStreets_RoadClosures_Clearways_Map",
+            "sizeInBytes": 293895,
+            "uniqueFileName": "915588_1761189149161_Glebe_SydneyStreets_RoadClosures_Clearways_Map.pdf"
+          }
+        ],
+        "isInitialReport": false,
+        "created": 1760915144000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Check signage",
+        "adviceB": "Allow extra travel time",
+        "adviceC": " ",
+        "end": 1763209800000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1763150461687,
+        "otherAdvice": "<p>Road closures and special event clearways are in place for the City of Sydney - Sydney Streets event on Glebe Point Rd. The event runs from 11am until 8pm.</p><p><strong>The following roads are closed from 7am to 11.30pm</strong></p><ul><li>Glebe Point Rd between St Johns Rd and Broadway, and adjoining roads including sections of Cowper St, Derwent Ln, Derby Pl, Francis St, Mitchell St and Norton St.</li></ul><p>Allow extra travel time, follow the directions of traffic control and be aware of increased pedestrian activity. Police may restrict vehicle access along closed roads, including residents and businesses.</p><p><strong>Special event clearways will be in effect from 7am until 9:30pm on sections of Glebe Point Rd, Francis St, Derby Pl, Cowper St, Norton St and Mitchell St. </strong></p><p>Clearways are <strong>strict no-parking zones</strong> for all vehicle types and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://tfnswtowlink.force.com/findmycar/s/\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator.</p>",
+        "arrangementElements": [
+          {
+            "html": "<p><strong>ROAD CLOSURES</strong></p><p><strong>7AM - 11:30PM </strong></p><ul><li>Cowper St between Glebe Point Rd and Campbell St</li><li>Derwent Ln between Glebe Point Rd and Mitchell St</li><li>Derwent Ln between Derby Pl and Broadway</li><li>Derby Pl between Glebe Point Rd and Broadway</li><li>Francis St between Grose St and Glebe Point Rd</li><li>Glebe Point Rd between St Johns Rd and Broadway</li><li>Mitchell St between Derwent St and Campbell St</li><li>Norton St Between Glebe Point Rd and Campbell St</li></ul><p><strong>SPECIAL EVENT CLEARWAYS</strong></p><p><strong>7AM - 9:30PM</strong></p><ul><li>Cowper Street between Glebe Point Rd and Campbell Ln</li><li>Derby Pl between Glebe Point Rd and Derwent Ln</li><li>Francis St between Glebe Point Rd and Grose St</li><li>Glebe Point Rd between St Johns Rd and Broadway</li><li>Mitchell St between Derwent Ln and Campbell Ln</li><li>Norton St between Glebe Point Rd and Campbell Ln</li></ul><p>Clearways are <strong>strict no-parking zones</strong> for all vehicle types and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://tfnswtowlink.force.com/findmycar/s/\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator.</p>",
+            "title": "Road Closures & Special Event Clearways",
+            "id": "732490"
+          }
+        ],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [
+          {
+            "levels": "",
+            "direction": "BOTH_DIRECTIONS",
+            "coords": "`jxmE_{wy[lAoB??r@iA??z@uAhAgB??zAcC??`AaB??PWV_@??~@{A??Xc@??bAaB??z@sA??T[DGHGFCDC"
+          },
+          {
+            "levels": "",
+            "direction": "BOTH_DIRECTIONS",
+            "coords": "zmxmEaaxy[GGi@g@CGo@i@KK"
+          },
+          {
+            "levels": "",
+            "direction": "BOTH_DIRECTIONS",
+            "coords": "drxmE{fxy[iAcAk@g@"
+          },
+          {
+            "levels": "",
+            "direction": "BOTH_DIRECTIONS",
+            "coords": "pxxmEuoxy[oAgAIEWS[Y"
+          },
+          {
+            "levels": "",
+            "direction": "BOTH_DIRECTIONS",
+            "coords": "b{xmEmsxy[FG??IKCKAC?E?EEgAAS"
+          },
+          {
+            "levels": "",
+            "direction": "BOTH_DIRECTIONS",
+            "coords": "~zxmEcrxy[j@h@BBB?B?BABADI??LQtA{BBABAh@I"
+          },
+          {
+            "levels": "",
+            "direction": "BOTH_DIRECTIONS",
+            "coords": "prxmEofxy[\\\\ZXbAdAJL"
+          },
+          {
+            "levels": "",
+            "direction": "BOTH_DIRECTIONS",
+            "coords": "pwxmEsmxy[z@x@"
+          },
+          {
+            "levels": "",
+            "direction": "BOTH_DIRECTIONS",
+            "coords": "lyxmEykxy[eA`B{A~B"
+          }
+        ],
+        "duration": null,
+        "start": 1763125200000,
+        "displayName": "Sydney Streets Event",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Broadway",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Glebe Point Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "St Johns Rd",
+            "suburb": "Glebe",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 242845,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.454815,
+          -34.5037005
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Bong Bong Picnic Races",
+            "linkURL": "https://www.bongbongprc.com.au"
+          }
+        ],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "6:00pm",
+            "fromDay": "Friday",
+            "startTime": "10:00am",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": 40,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1753074334000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Check signage",
+        "adviceB": "Exercise caution",
+        "adviceC": "Reduced speed limit",
+        "end": 1763708400000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1763161271813,
+        "otherAdvice": "<p>Alternating (stop/slow) traffic conditions will be in place to assist with entering and exiting of the event.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1763679600000,
+        "displayName": "Bong Bong Races",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Bong Bong Picnic Racecourse",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Kangaloon Rd",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Southern Highlands",
+            "secondLocation": "",
+            "suburb": "Bowral",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 255340.0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.843,
+          -34.5123
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Rainbow on the Plains Festival",
+            "linkURL": "https://www.rainbowontheplains.com.au/"
+          }
+        ],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Closed",
+            "roadtype": "Highway",
+            "direction": "Both directions",
+            "finishTime": "1:00pm",
+            "fromDay": "Saturday",
+            "startTime": "12:00pm",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1762823698000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Use diversions",
+        "adviceB": " ",
+        "adviceC": " ",
+        "end": 1763172000000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1763172003070,
+        "otherAdvice": "<p>The annual Hay Mardi Gras Parade - Rainbow on the Plains festival is taking place along the Cobb Highway on Saturday. </p><p>Detours will be in place.</p>",
+        "arrangementElements": [],
+        "diversions": "<p>Motorists heading northbound will be detoured via along Brunker St, Pine St and Murray St.</p><p>Motorists heading southbound will be detoured via along Cadell St, Pine St and Brunker St. </p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1763168400000,
+        "displayName": "Mardi Gras Parade",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Brunker Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Cobb Highway (Lachlan St)",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Riverina",
+            "secondLocation": "Cadell Street",
+            "suburb": "Hay",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 211785,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.273279,
+          -33.894735
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Bondi2Berry Ride",
+            "linkURL": "https://www.dementiaresearchcommunity.com/bondi2berry-ride/"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1729549710000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Reduce your speed",
+        "adviceB": "Exercise caution",
+        "adviceC": " ",
+        "end": 1763177400000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1763177408787,
+        "otherAdvice": "<p>Cyclists will take part in the The Bondi2Berry 155km ride from Bondi Beach at 5.50am to Berry on the South Coast by 2:30pm.</p><p>Road closures will not be in place however motorists should exercise caution as they share roads with cyclists during the event.</p><p>The first group will leave Bondi at 5.50am travelling via Bondi Rd, Darley Rd, South Dowling St, General Holmes Dr, Grand Pde, Rocky Point Rd, Taren Point Rd, The Kingsway and the Princes Hwy through the Royal National Park to Stanwell Tops.</p><p>Cyclists will then continue along the coast via Otford Rd, Lawrence Hargrave Dr, Grand Pacific Dr, Princes Hwy, Memorial Dr and Squires Way into Wollongong. From there, cyclists will travel via Windang Rd and the Princes Hwy to Kiama before the last leg of the ride to Berry via Crooked River Rd, Beach Rd and Queen St.</p><p>Motorists may experience some delays along the cycle route particularly on Lawrence Hargrave Drive from Stanwell Park to Thirroul and the Princes Hwy at Bulli as they share roads with cyclists. Allow extra time and exercise caution. </p><p>Drivers are reminded when overtaking cyclists to leave a 1.5m distance on roads with speed limits over 60km/h and a 1m distance on roads 60km/h or under.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1763146800000,
+        "displayName": "Bondi2Berry cycle",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "via General Holmes Dr, Grand Pde, Kingsway, Princes Hwy, Lawrence Hargrave Drive",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Bondi to Berry",
             "trafficVolume": ""
           }
         ],
