@@ -1,99 +1,12 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1763188650000,
+  "lastPublished": 1763275350000,
   "layerName": "MajorEvent",
   "rights": {
     "copyright": "Transport for NSW",
     "licence": "https://opendata.transport.nsw.gov.au/dataset/live-traffic-hazards"
   },
   "features": [
-    {
-      "type": "Feature",
-      "id": 253188,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.1553044,
-          -33.9604587
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Greek Fest",
-            "linkURL": "https://greekfestivalofsydney.com.au/"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>Route 478 buses will be diverting while roads are closed. Visit <a href=\"https://transportnsw.info\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [
-          {
-            "displayName": "GreekFestival2025_ClosuresClearwaysMap",
-            "fileName": "GreekFestival2025_ClosuresClearwaysMap.pdf",
-            "fileType": "PDF",
-            "linkName": "GreekFestival2025_ClosuresClearwaysMap",
-            "sizeInBytes": 316585,
-            "uniqueFileName": "485448_1760935940530_GreekFestival2025_ClosuresClearwaysMap.pdf"
-          }
-        ],
-        "isInitialReport": false,
-        "created": 1760936222000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Use diversions",
-        "adviceC": "Check signage",
-        "end": 1763308800000,
-        "hideEndDate": true,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1761180172285,
-        "otherAdvice": "<p>The Greek Festival will be taking place on Bay St on Sunday 16 Nov. Road closures and parking restrictions will be in effect.</p><p>Motorist are advised to allow extra travel time, be aware of increased pedestrian activity and follow the directions of traffic controllers on site.</p><p><strong>From</strong> <strong>2am Sunday 16 Nov to 3am Monday 17 Nov the following roads will be closed:</strong></p><ul><li>Bay St between Queens Rd and The Grand Pde</li><li>Bay St between Crawford St and Queens Rd (Eastbound lanes)</li><li>Moate Ave between Bay St and Saywell Ln</li></ul><p>Motorists travelling on The Grand Parade will be detoured via local roads.</p><p><strong>Special event clearways will be in effect from 2am Sunday 16 Nov until 3am Monday 17 Nov on sections of Moate St and Bay St. </strong></p><p>Clearways are strict no-parking zones for all vehicle types, and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator.</p>",
-        "arrangementElements": [
-          {
-            "html": "<p><strong>ROAD CLOSURES</strong></p><p><strong>From</strong> <strong>2am Sunday 16 Nov to 3am Monday 17 Nov</strong></p><ul><li>Bay Street between Queens Road and The Grand Parade</li><li>Bay Street between Crawford Street and Queens Road (Eastbound)</li><li>Moate Avenue between Bay Street and Saywell Lane</li></ul><p><strong>SPECIAL EVENT CLEARWAYS</strong></p><p><strong>From</strong> <strong>2am Sunday 16 Nov to 3am Monday 17 Nov</strong></p><ul><li>Bay Street between Queens Street and The Grand Parade (Both sides)</li><li>Moate Avenue between Bay Street and Saywell Lane (Both sides)</li></ul>",
-            "title": "Road Closures & Special Event Clearways",
-            "id": "718973"
-          }
-        ],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1763218800000,
-        "displayName": "Greek Festival",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Crawford Road",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Bay Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "The Grand Parade",
-            "suburb": "Brighton-Le-Sands",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
     {
       "type": "Feature",
       "id": 253611,
@@ -183,73 +96,6 @@
     },
     {
       "type": "Feature",
-      "id": 254080.0,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.9020589,
-          -34.4266618
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2025/11/nbl-illawarra-hawks-v-sydney-kings\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1761696581000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Use public transport",
-        "adviceB": "Allow extra travel time",
-        "adviceC": " ",
-        "end": 1763272800000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1762129712566,
-        "otherAdvice": "<p><strong>NBL Illawarra Hawks v Sydney Kings</strong> <strong>at WIN Entertainment Centre on Sunday. Tip-off at 2.30pm, full time around 4.30pm.</strong></p><p>Traffic will be heavier than usual on roads approaching the Wollongong CBD and on local roads around WIN Entertainment Centre as fans travel to the match.</p><p>Local roads around the stadium may close before, during and after the game for the safety of pedestrians.</p><p>Fans driving to the game on the freeway are encouraged to use the Masters Rd exit to avoid congestion at Mount Ousley Rd, both in and out of Wollongong.</p><p>Motorists should allow extra time for parking and be aware of increased pedestrian activity on local roads.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1763211600000,
-        "displayName": "NBL",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "WIN Entertainment Centre",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Harbour Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "South Coast",
-            "secondLocation": "",
-            "suburb": "Wollongong",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 254693,
       "geometry": {
         "type": "Point",
@@ -323,73 +169,6 @@
     },
     {
       "type": "Feature",
-      "id": 254077,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.2141965,
-          -33.8699593
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2025/11/raydia-festival-2025\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1761696031000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Use public transport",
-        "adviceC": " ",
-        "end": 1763208000000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1762318429674,
-        "otherAdvice": "<p><strong>Raydia Festival at The Domain on Saturday, from 3pm to 10pm.</strong></p><p>With thousands of attendees expected, traffic will be heavier than usual in the CBD as crowds travel to and from the event.</p><p>If you are catching rideshare or taxis, use the dedicated drop-off location on Hospital Road at Art Gallery Road. For pick-ups after the event head towards Elizabeth Street or Sir John Young Crescent.  </p><p>Roads within and around The Domain will close for crowd safety before, during and after the event. Motorists should avoid driving through the area or expect delays and detours.</p><p><strong>From 7pm to 11pm </strong></p><ul><li>Art Gallery Road from Hospital Road to Mrs Macquarie Road </li></ul><p><strong>From 9pm to 11pm </strong></p><ul><li>St Mary’s Rd from Prince Albert Rd to Sir John Young Cr </li><li>Prince Albert Rd from College St to Art Gallery Rd </li><li>Hospital Rd from Art Gallery Rd to Shakespeare Pl</li></ul>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1763125200000,
-        "displayName": "Festival",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "The Domain",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "to",
-            "mainStreet": "Macquarie St, Prince Albert Rd, College St, Art Gallery Rd",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Sydney CBD",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 254765,
       "geometry": {
         "type": "Point",
@@ -448,150 +227,6 @@
             "region": "Sydney",
             "secondLocation": "",
             "suburb": "Sydney CBD",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 255205,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.8302261,
-          -34.2375832
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Illawarra Convoy",
-            "linkURL": "https://illawarraconvoy.com.au/"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": 40,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/\" target=\"_blank\">transportnsw.info</a> to plan your trip on public transport.</p><p>A free shuttle bus will be running from 8.30am to 3.40pm from Stockland Shellharbour to Shellharbour Airport.</p>",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1762726174000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Reduced speed limit",
-        "adviceB": "Exercise caution",
-        "adviceC": "Allow extra travel time",
-        "end": 1763269200000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1762726175312,
-        "otherAdvice": "<p>More than 800 trucks and 900 motorbikes will form part of the annual Illawarra convoy travelling from Appin and Bulli Tops to finish near Shellharbour Airport in Albion Park Rail. Motorbikes will leave from West Cliff Colliery, Appin from 8:15am, trucks will leave from Maddens Plains at 8.30am.</p><p>The convoy will travel via Appin Rd, Old Princes Hwy, M1 Princes Mwy, Masters Rd, Five Islands Rd, King St, Windang Rd, Shellharbour Rd, Lake Entrance Road, New Lake Entrance Rd and Princes Hwy. The convoy will finish at the Convoy shop, corner of Airport Rd and Princes Hwy, Albion Park Rail. Bikes will arrive from 9.15am and trucks from 10am.</p><p>Motorists may experience traffic delays along the convoy route. </p><p><strong>Speed reductions will be in effect at various times and locations between 4.30am and 3pm on sections of Appin Rd, M1 Princes Mwy and Princes Hwy.</strong></p><p><strong>The Old Princes Highway at Madden Plains will be closed between Helensburgh and Maddens Plains while trucks form up to participate in the convoy.</strong></p><p><strong>The right-hand turn from Old Mount Ousley Rd onto the M1 Princes Mwy/Mount Ousley Rd will be closed between 7am and 12pm. The convoy will travel in one lane along the route. </strong></p><p>Motorists are advised to take care as they share roads with the convoy vehicles and allow extra travel time in the area while changed traffic conditions are in place</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1763229600000,
-        "displayName": "Illawarra Convoy",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "via Appin Road, Old Princes Highway, M1 Motorway,",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Appin to Albion Park Rail",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 254084,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.1997249,
-          -33.8768986
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Stardew Valley Symphony of the Season",
-            "linkURL": "https://iccsydneytheatre.com/event/stardew-valley-symphony-of-seasons/"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "<p>L1 light rail services run regularly to stops at Darling Harbour. Visit <a href=\"https://transportnsw.info/\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1761697736000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Use public transport",
-        "adviceB": "Allow extra travel time",
-        "adviceC": " ",
-        "end": 1763208000000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1762727903531,
-        "otherAdvice": "<p><strong>Stardew Valley Symphony of the Season Concert on Saturday 15 November at ICC Sydney Theatre</strong>. <strong>Show begins at 8pm.</strong></p><p>Allow extra travel time on roads in the city and Pyrmont around Darling Harbour as traffic may be heavier than usual as attendees travel to the concert.</p><p>Motorists should exercise caution and be aware of increased pedestrian activity on local roads.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1763125200000,
-        "displayName": "Concert",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Harbour Street",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Darling Drive",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Sydney",
             "trafficVolume": ""
           }
         ],
@@ -882,154 +517,6 @@
     },
     {
       "type": "Feature",
-      "id": 255262,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.1762162,
-          -33.8661919
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "White Bay Power Station - Soluna",
-            "linkURL": "https://www.whitebaypowerstation.com/events"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>Buses run regularly to Rozelle. Plan your trip at <a href=\"https://transportnsw.info\" target=\"_blank\">transportnsw.info</a></p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1762748514000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Use public transport",
-        "adviceB": "Allow extra travel time",
-        "adviceC": " ",
-        "end": 1763211540000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1762748581313,
-        "otherAdvice": "<p><strong>Soluna at White Bay Power Station on Saturday 15 November from 3pm.</strong></p><p>Traffic will be heavy on roads approaching White Bay Power Station as large crowds travel to and from the event,</p><p>Attendees driving should carpool with their group, plan to arrive early to secure parking,</p><p>Motorists should allow extra travel time on Victoria Rd, the City West Link and Robert St.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1763125200000,
-        "displayName": "Music event",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "White Bay Power Station",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Robert Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Rozelle",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 254079,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.0016216,
-          -33.808181
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>Event tickets include travel on transport. Buses will divert while roads are closed after the event. Visit <a href=\"https://transportnsw.info/events/2025/11/nitro-circus-off-rails-world-tour-parramatta\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [
-          {
-            "displayName": "CommBankStadium_Transport_WalkingRoute_Map",
-            "fileName": "CommBankStadium_Transport_WalkingRoute_Map.pdf",
-            "fileType": "PDF",
-            "linkName": "CommBankStadium_Transport_WalkingRoute_Map",
-            "sizeInBytes": 3930899,
-            "uniqueFileName": "919826_1728350438314_CommBankStadium_Transport_WalkingRoute_Map.pdf"
-          }
-        ],
-        "isInitialReport": false,
-        "created": 1761696452000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Use public transport",
-        "adviceC": " ",
-        "end": 1763206200000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1762813024525,
-        "otherAdvice": "<p><strong>Nitro Circus &quot;Off The Rails&quot; Tour at CommBank Stadium on Saturday. Show starts at 7.30pm and ends at 9.30pm.</strong></p><p>Traffic will be heavy on roads approaching Parramatta and nearby car parks are expected to be in high demand.</p><p>Allow extra travel time on roads including Parramatta Road, Church Street, Victoria Road, James Ruse Drive and Pennant Hills Road. </p><p>Motorists should also exercise caution as pedestrian activity will be high on roads between Parramatta Interchange and the stadium. </p><p>Drivers are reminded that light rail services are running through Parramatta CBD. Trams can’t stop quickly or easily – so exercise extra caution when driving in the area. </p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1763125200000,
-        "displayName": "Show",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Victoria Road",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "O'Connell Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Parramatta",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 254563,
       "geometry": {
         "type": "Point",
@@ -1188,156 +675,6 @@
           }
         ],
         "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 254094,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.668263,
-          -33.7595689
-        ],
-        "collections": [
-          {
-            "type": "Point",
-            "coordinates": [
-              150.726261,
-              -33.587068
-            ]
-          },
-          {
-            "type": "Point",
-            "coordinates": [
-              150.660952,
-              -33.546775
-            ]
-          },
-          {
-            "type": "Point",
-            "coordinates": [
-              150.460412,
-              -33.522832
-            ]
-          },
-          {
-            "type": "Point",
-            "coordinates": [
-              150.281339,
-              -33.511673
-            ]
-          },
-          {
-            "type": "Point",
-            "coordinates": [
-              150.255983,
-              -33.589733
-            ]
-          },
-          {
-            "type": "Point",
-            "coordinates": [
-              150.710889,
-              -33.603118
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Vic100 event website",
-            "linkURL": "https://goforbroke.org.au/vic100/"
-          },
-          {
-            "linkText": "TfNSW Interactive road closure map - Vic100",
-            "linkURL": "https://experience.arcgis.com/experience/7e38c54485cf42abb17ea7349a6ee24f"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2025/11/vic100\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [
-          {
-            "displayName": "VIC100_Kurrajong-Bell_RoadClosure_Map",
-            "fileName": "VIC100_Kurrajong-Bell_RoadClosure_Map.pdf",
-            "fileType": "PDF",
-            "linkName": "VIC100_Kurrajong-Bell_RoadClosure_Map",
-            "sizeInBytes": 1382612,
-            "uniqueFileName": "360769_1761781079362_VIC100_Kurrajong-Bell_RoadClosure_Map.pdf"
-          },
-          {
-            "displayName": "VIC100_MountVictoria_RoadClosure_Map",
-            "fileName": "VIC100_MountVictoria_RoadClosure_Map.pdf",
-            "fileType": "PDF",
-            "linkName": "VIC100_MountVictoria_RoadClosure_Map",
-            "sizeInBytes": 448206,
-            "uniqueFileName": "939045_1761791578522_VIC100_MountVictoria_RoadClosure_Map.pdf"
-          },
-          {
-            "displayName": "VIC100_Overview_RoadClosure_Map",
-            "fileName": "VIC100_Overview_RoadClosure_Map.pdf",
-            "fileType": "PDF",
-            "linkName": "VIC100_Overview_RoadClosure_Map",
-            "sizeInBytes": 3678017,
-            "uniqueFileName": "353305_1761791582479_VIC100_Overview_RoadClosure_Map.pdf"
-          }
-        ],
-        "isInitialReport": false,
-        "created": 1761701447000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Expect delays",
-        "adviceC": "Use an alternative route",
-        "end": 1763270100000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1762838236199,
-        "otherAdvice": "<p>The inaugural Vic100 cycling event will travel 100km from Penrith to Mount Victoria via Bells Line of Road. Closures will be in place along parts of the course, while on other sections cyclists will share roads with motorists. The ride starts from Tench Reserve in Jamisontown, near Penrith, and finishes at the Victoria and Albert Guest House in Mount Victoria. </p><p><strong>Road closures:</strong></p><p>Roads will be closed between 6.30am and 12pm along parts of the course including Bells Line of Road. Some roads around the start area in Penrith will close from 4.30am and roads around the finish area in Mount Victoria will remain closed til 4pm.</p><p><strong>Bells Line of Rd closures:</strong></p><ul><li>Bells Line of Road will be closed to through traffic between Bell and Kurrajong from 6.30am to 12pm midday. </li><li>Bells Line of Rd will reopen between Kurrajong, Old Bells Line of Rd and Bilpin, Valley Ridges Rd at 10am but remain closed between Bell and Bilpin until 12pm midday.</li><li><strong>Motorists travelling between Lithgow and Sydney on Sunday morning will need to use the Great Western Highway instead.</strong></li><li>Cyclists will be travelling from Kurrajong to Bell in the westbound lane of Bells Line of Rd. Local traffic from properties along Bells Line of Rd needing to exit while the event is underway will be permitted to travel in the eastbound lane only, under direction of traffic control and under a reduced 40km/h speed limit.</li></ul><p><strong>Darling Causeway closures:</strong></p><ul><li>The Darling Causeway will be closed from Bell to Mount Victoria from 9.30am to 12.30pm. </li><li>Motorists from Lithgow or Dargan can travel eastbound as far as Bell then will get turned around to return towards Lithgow. Motorists travelling between Mount Victoria and Lithgow can use the Great Western Hwy.</li></ul><p><strong>Local closures - Kurrajong, Jamisontown and Mount Victoria:</strong></p><ul><li><strong>4:30am to 8am </strong>sections of Jamison Rd and Tench Ave</li><li><strong>5:45am to 8:30am </strong>sections of Old Kurrajong Rd, Crowleys Ln and Yarramundi Ln</li><li><strong>6am to 9.30am</strong> Old Bells Line of Road northbound between Grose Vale Road and Bells Line of Road</li><li><strong>Between 9.30am and 4pm </strong>sections of Station St until 1pm and Harley Ave until 4pm near Mount Victoria station</li></ul>",
-        "arrangementElements": [
-          {
-            "html": "<p><strong>ROAD CLOSURES</strong></p><p><strong>Penrith City Council</strong></p><p><strong>Jamisontown </strong></p><p><strong>From 4:30am to 8:00am</strong></p><ul><li>Jamison Rd between Tench Ave and Mulgoa Rd (Westbound)</li><li>Tench Ave between Access Rd to Tench Reserve Boat Ramp and northern entry to Nepean Shores, The East Bank (Both directions)</li><li>Tench Ave between the northern entry to Nepean Shores, The East Bank and Jamison Rd (Southbound)</li></ul><p><strong>Agnes Banks</strong></p><p><strong>From 5:45am to 8:30am</strong></p><ul><li>Crowleys Ln between Castlereagh Rd and Yarramundi Ln (Both directions)</li><li>Old Kurrajong Rd between Yarramundi Ln and Kurrajong Rd (Both directions)</li><li>Yarramundi Ln between Crowleys Ln and Old Kurrajong Rd (Both directions)</li></ul><p><strong>Hawkesbury City Council</strong></p><p><strong>Kurrajong </strong></p><p><strong>From 6:00am to 9:30am</strong></p><ul><li>Old Bells Line of Road between Grose Vale Road and Bells Line of Road (Northbound)</li></ul><p><strong>Kurrajong Heights &amp; Hills, Bilpin and</strong></p><p><strong>From 7:00am to 10:00am</strong></p><ul><li>Bells Line of Road between Old Bells Line of Road and Valley Ridges Rd (Both directions)</li></ul><p><strong>Blue Mountains City Council</strong></p><p><strong>Bell, Mt Tomah &amp; Berambing</strong></p><p><strong>From 6:30am to 12:00pm</strong></p><ul><li>Bells Line of Road between Darling Causeway and Valley Ridges Rd (Eastbound)</li></ul><p><strong>From 7:00am to 12:00pm</strong></p><ul><li>Bells Line of Road between Valley Ridges Rd and Darling Causeway (Westbound)</li></ul><p><strong>From 9:30am to 12:30pm</strong></p><ul><li>Darling Causeway between Bells Line of Road and Hartley Vale Road (Both directions)</li></ul><p><strong>Mt Victoria</strong></p><p><strong>From 9:30am to 12:30pm</strong></p><ul><li>Darling Causeway Hartley Vale Road and Station St (Both directions)</li></ul><p><strong>From 9:30am to 1pm</strong></p><ul><li>Station Street between Great Western Highway and Cobb Lane (Both directions)</li></ul><p><strong>From 9:30am to 4pm</strong></p><ul><li>Harley Ave between Station St and Patrick St (Both directions)</li></ul><p><br></p><p><strong>SPEED ZONE REDUCTIONS</strong></p><p><strong>Blue Mountains &amp; Hawkesbury Council</strong></p><p><strong>From 5:45am to 8:30am</strong></p><p><strong>60 km/hr to 40km /hr</strong></p><ul><li>Bells Line of Rd between Old Kurrajong Rd and Pitt Ln (Both directions)</li><li>Pitt Lane between Bells Line of Rd and Riverview St (Both directions)</li></ul><p><strong>From 6:30am to 12:00pm</strong></p><p><strong>80 km/hr to 40km /hr</strong></p><ul><li>Bells Line of Rd Olds Bell Line of Road and Darling Causeway (Both directions)</li></ul><p><br></p>",
-            "title": "Road Closures and Speed Zone Reductions",
-            "id": "730255"
-          }
-        ],
-        "diversions": "<p>Motorists travelling between Lithgow and Sydney on Sunday between 6.30am and 12pm will need to use the Great Western Highway instead while Bells Line of Rd is closed.</p>",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1763211600000,
-        "displayName": "Vic100 cycle ride",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Bells Line of Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Jamisontown to Mount Victoria",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "Local road",
         "CategoryIcon": "PublicEvent"
       }
     },
@@ -1596,229 +933,6 @@
     },
     {
       "type": "Feature",
-      "id": 254677,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          149.1259302,
-          -36.2349885
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Australian National Busking Championship",
-            "linkURL": "https://busking.com.au/"
-          }
-        ],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Closed",
-            "roadtype": "Highway",
-            "direction": "Both directions",
-            "finishTime": "3:00pm",
-            "fromDay": "Weekend",
-            "startTime": "9:00am",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1762211383000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Exercise caution",
-        "adviceB": "Use diversions",
-        "adviceC": " ",
-        "end": 1763265600000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1763072169106,
-        "otherAdvice": "<p>The Australian National Busking Championship is coming to Cooma on Saturday 15 and Sunday 16 November, celebrating music and street performance.</p><p>The Snowy Mountains Hwy will be closed between Vale St and Bombala St.</p><p>Detours will be in place.</p><p>Motorists are advised to be aware of increased pedestrian activity in the area.</p>",
-        "arrangementElements": [],
-        "diversions": "<p>Detour via Bombala St, Commissioner St, Vale St and Massie St.</p>",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1763157600000,
-        "displayName": "Australian National Busking Championship",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Bombala Street",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Snowy Mountains Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Snowy Mountains",
-            "secondLocation": "Vale Street",
-            "suburb": "Cooma",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 253862,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.065618,
-          -33.8465004
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>Concert tickets include travel on public transport. Express trains and Major Event Buses will run. Visit <a href=\"https://transportnsw.info/events/2025/11/metallica\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1761537014000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Use public transport",
-        "adviceB": "Allow extra travel time",
-        "adviceC": " ",
-        "end": 1763210700000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1763072240598,
-        "otherAdvice": "<p><strong>Metallica concert at Accor Stadium on Saturday 15 November. Gates open from 5pm, concert finishes around 11pm. </strong></p><p>With around 70,000 concert-goers expected, significant traffic delays are expected on roads approaching the precinct. </p><p>Motorists should allow plenty of extra travel time on roads approaching Olympic Park including the M4 Mwy, Homebush Bay Dr, Concord Rd, Lane Cove Rd, Parramatta Rd, Centenary Dr and Silverwater Rd.</p><ul><li><strong>PARKING IS SOLD OUT: </strong>all available pre-booked parking spaces have now sold out in Olympic Park for Saturday 15 November. Do not drive unless you have pre-booked as there will be no parking available at Olympic Park. Catch transport instead with travel included in your concert ticket and express trains and major event buses running.</li><li>If you have pre-booked your parking, follow the directions of staff and have your parking ticket ready to show at the car park entry.</li><li>Carpool with your group and allow plenty of extra travel time. Significant traffic delays are expected.</li><li>Alternatively, consider parking at a nearby train station commuter car park and continuing your trip by train or bus to Olympic Park, at no extra cost.</li></ul><p>Sydney Olympic Park Authority will close local roads in the precinct to ensure pedestrian safety during the event and to accommodate additional transport services. For road closure details, view the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a>.</p>",
-        "arrangementElements": [
-          {
-            "html": "<p>Sydney Olympic Park Authority will close local roads in the precinct to ensure pedestrian safety during the event and to accommodate additional transport services. For road closure details, view the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a>.</p><p><strong>ROAD CLOSURES </strong></p><p><strong>From 7.00pm Friday 14 November – 3.00am Sunday 16 November  </strong></p><ul><li>Dawn Fraser Avenue from Olympic Boulevard to Showground Road *Buses excepted.</li></ul><p><strong>From 1.30am Saturday 15 November – 3.00am Sunday 16 November </strong></p><ul><li>Dawn Fraser Avenue from Showground Road to Edwin Flack Avenue</li><li>Olympic Boulevard from Herb Elliott Avenue to Kevin Coombs Avenue</li><li>Grand Parade from Olympic Boulevard to Showground Road</li><li>Showground Road from Grand Parade to Dawn Fraser Avenue</li><li>Murray Rose Avenue from Showground Road to Gate 15</li></ul><p><strong>From 8.00am Saturday 15 November – 3.00am Sunday 16 November </strong></p><ul><li>Kevin Coombs Avenue between Pondage Link and Australia Avenue (eastbound)</li><li>Kevin Coombs Avenue between Pondage Link and Australia Avenue (westbound)</li><li>Holker Busway from Hill Road to Australia Avenue</li></ul><p><strong>From 9.00am Saturday 15 November – 3.00am Sunday 16 November </strong></p><ul><li>Shirley Strickland Avenue between P4 Roundabout and Rod Laver Avenue.</li><li>Rod Laver Drive at the rear of Tennis Centre back to Shirley Strickland Avenue West</li></ul><p><strong>From 10.00am Saturday 15 November – 3.00am Sunday 16 November </strong></p><ul><li>Olympic Boulevard between Sarah Durack Avenue and Herb Elliott Avenue</li></ul><p><strong>From 11.00am Saturday 15 November – 3.00am Sunday 16 November </strong></p><ul><li>Showground Road from Dawn Fraser Avenue to the Novotel Loading Dock.</li><li>Dawn Fraser Avenue from Park Street to Showground Road.</li></ul><p><strong>From 10.00pm Saturday 15 November – 1.00am Sunday 16 November </strong></p><ul><li>Edwin Flack Avenue from Pondage Link to Old Hill Link (westbound). *Buses excepted.</li><li>Pondage Link from Hill Road to Edwin Flack Avenue - (Inbound to Sydney Olympic Park only) *Buses excepted.</li><li>Edwin Flack Avenue (northbound) from Bernie Avenue to Old Hill Link *Buses excepted.</li><li>Murray Rose Avenue from Park Street to Australia Avenue</li><li>Dawn Fraser Avenue from Park Street to Australia Avenue *Buses excepted.</li><li>Herb Elliott Avenue closed at Park Street.</li></ul><p><br></p>",
-            "title": "Road Closures",
-            "id": "731826"
-          }
-        ],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1763125200000,
-        "displayName": "Metallica concert",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Accor Stadium",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road, Centenary Drive",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Sydney Olympic Park",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 253602,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.0714955,
-          -33.8454183
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2025/11/boiler-room\" target=\"_blank\">transportnsw.info</a><a href=\"https://transportnsw.info/events/2024/11/pearl-jam-dark-matter-tour\" target=\"_blank\"> </a>to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1761257158000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Use public transport",
-        "adviceB": "Allow extra travel time",
-        "adviceC": " ",
-        "end": 1763210700000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1763072259040,
-        "otherAdvice": "<p><strong>Boiler Room at Sydney Showground on Saturday 15 November from 2pm until 11pm. </strong></p><p>With a sold out crowd of 10,000 expected, and the Metallica concert with 70,000 fans expected at nearby Accor Stadium, significant traffic delays are expected on roads approaching the precinct.  </p><p>Motorists should allow plenty of extra travel time on roads approaching Olympic Park including the M4 Mwy, Homebush Bay Dr, Concord Rd, Lane Cove Rd, Parramatta Rd, Centenary Dr and Silverwater Rd.</p><ul><li><strong>PARKING IS SOLD OUT: </strong>all available pre-booked parking spaces have now sold out in Olympic Park for Saturday 15 November. Do not drive unless you have pre-booked as there will be no parking available at Olympic Park. Catch transport instead.</li><li>If you have pre-booked your parking, follow the directions of staff and have your parking ticket ready to show at the car park entry.</li><li>Carpool with your group and allow plenty of extra travel time. Significant traffic delays are expected.</li><li>Alternatively, consider parking at a nearby train station commuter car park and continuing your trip by train to Olympic Park.</li></ul><p>Sydney Olympic Park Authority will close local roads in the precinct and traffic congestion is expected before and after the match. For road closure details, visit the Sydney Olympic Park Authority <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a>.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1763125200000,
-        "displayName": "Indoor dance party",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Sydney Showground",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road, Centenary Drive",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Sydney Olympic Park",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 255690.0,
       "geometry": {
         "type": "Point",
@@ -1882,211 +996,6 @@
             "region": "Sydney",
             "secondLocation": "",
             "suburb": "Circular Quay",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 255696,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.2131508,
-          -33.848211
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "North Sydney Council - North Sydney Streets",
-            "linkURL": "https://www.northsydney.nsw.gov.au/streets"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/\" target=\"_blank\">transportnsw.info</a> to plan your trip on public transport.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1763082041000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Use public transport",
-        "adviceC": " ",
-        "end": 1763274600000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1763089753586,
-        "otherAdvice": "<p>North Sydney Streets event, a free, all-day celebration of food, music and culture will be held on Broughton St on Sunday from 12pm to 5pm.</p><p><strong>From 8am to 10pm, Broughton St will close between Willoughby St and Fitzroy St, as well as surrounding local roads.</strong></p><p>Motorists should follow detours and allow extra travel time as delays are expected on roads in the area.</p><p>Exercise caution and watch out for pedestrians.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1763211600000,
-        "displayName": "Street Festival",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Willoughby St",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Broughton Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "Fitzroy Street",
-            "suburb": "Kirribilli",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 253147,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.1908519,
-          -33.8829268
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "City of Sydney - Sydney Streets Program",
-            "linkURL": "https://whatson.cityofsydney.nsw.gov.au/events/sydney-streets-on-glebe-point-road?utm_source=google&utm_medium=search&utm_campaign=sydneystreets&keyword_k=sydney%20streets%20glebe&gad_source=1&gclid=CjwKCAiAh6y9BhBREiwApBLHC_4g8wdl0HH2XzMFMtrdxG7IpLN6ZDX2"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>Route buses 370, 431 and 433 are diverting around road closures and missing some stops. Check bus service alerts and plan your trip at <a href=\"http://transportnsw.info/alerts\" target=\"_blank\">transportnsw.info</a>.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [
-          {
-            "displayName": "Glebe_SydneyStreets_RoadClosures_Clearways_Map",
-            "fileName": "Glebe_SydneyStreets_RoadClosures_Clearways_Map.pdf",
-            "fileType": "PDF",
-            "linkName": "Glebe_SydneyStreets_RoadClosures_Clearways_Map",
-            "sizeInBytes": 293895,
-            "uniqueFileName": "915588_1761189149161_Glebe_SydneyStreets_RoadClosures_Clearways_Map.pdf"
-          }
-        ],
-        "isInitialReport": false,
-        "created": 1760915144000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Check signage",
-        "adviceB": "Allow extra travel time",
-        "adviceC": " ",
-        "end": 1763209800000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1763150461687,
-        "otherAdvice": "<p>Road closures and special event clearways are in place for the City of Sydney - Sydney Streets event on Glebe Point Rd. The event runs from 11am until 8pm.</p><p><strong>The following roads are closed from 7am to 11.30pm</strong></p><ul><li>Glebe Point Rd between St Johns Rd and Broadway, and adjoining roads including sections of Cowper St, Derwent Ln, Derby Pl, Francis St, Mitchell St and Norton St.</li></ul><p>Allow extra travel time, follow the directions of traffic control and be aware of increased pedestrian activity. Police may restrict vehicle access along closed roads, including residents and businesses.</p><p><strong>Special event clearways will be in effect from 7am until 9:30pm on sections of Glebe Point Rd, Francis St, Derby Pl, Cowper St, Norton St and Mitchell St. </strong></p><p>Clearways are <strong>strict no-parking zones</strong> for all vehicle types and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://tfnswtowlink.force.com/findmycar/s/\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator.</p>",
-        "arrangementElements": [
-          {
-            "html": "<p><strong>ROAD CLOSURES</strong></p><p><strong>7AM - 11:30PM </strong></p><ul><li>Cowper St between Glebe Point Rd and Campbell St</li><li>Derwent Ln between Glebe Point Rd and Mitchell St</li><li>Derwent Ln between Derby Pl and Broadway</li><li>Derby Pl between Glebe Point Rd and Broadway</li><li>Francis St between Grose St and Glebe Point Rd</li><li>Glebe Point Rd between St Johns Rd and Broadway</li><li>Mitchell St between Derwent St and Campbell St</li><li>Norton St Between Glebe Point Rd and Campbell St</li></ul><p><strong>SPECIAL EVENT CLEARWAYS</strong></p><p><strong>7AM - 9:30PM</strong></p><ul><li>Cowper Street between Glebe Point Rd and Campbell Ln</li><li>Derby Pl between Glebe Point Rd and Derwent Ln</li><li>Francis St between Glebe Point Rd and Grose St</li><li>Glebe Point Rd between St Johns Rd and Broadway</li><li>Mitchell St between Derwent Ln and Campbell Ln</li><li>Norton St between Glebe Point Rd and Campbell Ln</li></ul><p>Clearways are <strong>strict no-parking zones</strong> for all vehicle types and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://tfnswtowlink.force.com/findmycar/s/\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator.</p>",
-            "title": "Road Closures & Special Event Clearways",
-            "id": "732490"
-          }
-        ],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [
-          {
-            "levels": "",
-            "direction": "BOTH_DIRECTIONS",
-            "coords": "`jxmE_{wy[lAoB??r@iA??z@uAhAgB??zAcC??`AaB??PWV_@??~@{A??Xc@??bAaB??z@sA??T[DGHGFCDC"
-          },
-          {
-            "levels": "",
-            "direction": "BOTH_DIRECTIONS",
-            "coords": "zmxmEaaxy[GGi@g@CGo@i@KK"
-          },
-          {
-            "levels": "",
-            "direction": "BOTH_DIRECTIONS",
-            "coords": "drxmE{fxy[iAcAk@g@"
-          },
-          {
-            "levels": "",
-            "direction": "BOTH_DIRECTIONS",
-            "coords": "pxxmEuoxy[oAgAIEWS[Y"
-          },
-          {
-            "levels": "",
-            "direction": "BOTH_DIRECTIONS",
-            "coords": "b{xmEmsxy[FG??IKCKAC?E?EEgAAS"
-          },
-          {
-            "levels": "",
-            "direction": "BOTH_DIRECTIONS",
-            "coords": "~zxmEcrxy[j@h@BBB?B?BABADI??LQtA{BBABAh@I"
-          },
-          {
-            "levels": "",
-            "direction": "BOTH_DIRECTIONS",
-            "coords": "prxmEofxy[\\\\ZXbAdAJL"
-          },
-          {
-            "levels": "",
-            "direction": "BOTH_DIRECTIONS",
-            "coords": "pwxmEsmxy[z@x@"
-          },
-          {
-            "levels": "",
-            "direction": "BOTH_DIRECTIONS",
-            "coords": "lyxmEykxy[eA`B{A~B"
-          }
-        ],
-        "duration": null,
-        "start": 1763125200000,
-        "displayName": "Sydney Streets Event",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Broadway",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Glebe Point Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "St Johns Rd",
-            "suburb": "Glebe",
             "trafficVolume": ""
           }
         ],
@@ -2179,80 +1088,73 @@
     },
     {
       "type": "Feature",
-      "id": 255340.0,
+      "id": 254079,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          144.843,
-          -34.5123
+          151.0016216,
+          -33.808181
         ],
         "collections": []
       },
       "properties": {
-        "webLinks": [
-          {
-            "linkText": "Rainbow on the Plains Festival",
-            "linkURL": "https://www.rainbowontheplains.com.au/"
-          }
-        ],
+        "webLinks": [],
         "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Closed",
-            "roadtype": "Highway",
-            "direction": "Both directions",
-            "finishTime": "1:00pm",
-            "fromDay": "Saturday",
-            "startTime": "12:00pm",
-            "toDay": ""
-          }
-        ],
+        "periods": [],
         "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
         "ended": true,
         "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
+        "publicTransport": "<p>Event tickets include travel on transport. Buses will divert while roads are closed after the event. Visit <a href=\"https://transportnsw.info/events/2025/11/nitro-circus-off-rails-world-tour-parramatta\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
         "subCategoryB": null,
-        "arrangementAttachments": [],
+        "arrangementAttachments": [
+          {
+            "displayName": "CommBankStadium_Transport_WalkingRoute_Map",
+            "fileName": "CommBankStadium_Transport_WalkingRoute_Map.pdf",
+            "fileType": "PDF",
+            "linkName": "CommBankStadium_Transport_WalkingRoute_Map",
+            "sizeInBytes": 3930899,
+            "uniqueFileName": "919826_1728350438314_CommBankStadium_Transport_WalkingRoute_Map.pdf"
+          }
+        ],
         "isInitialReport": false,
-        "created": 1762823698000,
+        "created": 1761696452000,
         "isMajor": false,
         "name": null,
         "subCategoryA": "null",
-        "adviceA": "Use diversions",
-        "adviceB": " ",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use public transport",
         "adviceC": " ",
-        "end": 1763172000000,
+        "end": 1763206200000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1763172003070,
-        "otherAdvice": "<p>The annual Hay Mardi Gras Parade - Rainbow on the Plains festival is taking place along the Cobb Highway on Saturday. </p><p>Detours will be in place.</p>",
+        "lastUpdated": 1763206247458,
+        "otherAdvice": "<p><strong>Nitro Circus &quot;Off The Rails&quot; Tour at CommBank Stadium on Saturday. Show starts at 7.30pm and ends at 9.30pm.</strong></p><p>Traffic will be heavy on roads approaching Parramatta and nearby car parks are expected to be in high demand.</p><p>Allow extra travel time on roads including Parramatta Road, Church Street, Victoria Road, James Ruse Drive and Pennant Hills Road. </p><p>Motorists should also exercise caution as pedestrian activity will be high on roads between Parramatta Interchange and the stadium. </p><p>Drivers are reminded that light rail services are running through Parramatta CBD. Trams can’t stop quickly or easily – so exercise extra caution when driving in the area. </p>",
         "arrangementElements": [],
-        "diversions": "<p>Motorists heading northbound will be detoured via along Brunker St, Pine St and Murray St.</p><p>Motorists heading southbound will be detoured via along Cadell St, Pine St and Brunker St. </p>",
+        "diversions": "",
         "additionalInfo": [],
         "weblinkName": null,
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1763168400000,
-        "displayName": "Mardi Gras Parade",
+        "start": 1763125200000,
+        "displayName": "Show",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Brunker Street",
+            "crossStreet": "Victoria Road",
             "delay": "",
             "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Cobb Highway (Lachlan St)",
+            "locationQualifier": "at",
+            "mainStreet": "O'Connell Street",
             "quadrant": "",
             "queueLength": 0,
-            "region": "Riverina",
-            "secondLocation": "Cadell Street",
-            "suburb": "Hay",
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Parramatta",
             "trafficVolume": ""
           }
         ],
@@ -2262,24 +1164,751 @@
     },
     {
       "type": "Feature",
-      "id": 211785,
+      "id": 254084,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.273279,
-          -33.894735
+          151.1997249,
+          -33.8768986
         ],
         "collections": []
       },
       "properties": {
         "webLinks": [
           {
-            "linkText": "Bondi2Berry Ride",
-            "linkURL": "https://www.dementiaresearchcommunity.com/bondi2berry-ride/"
+            "linkText": "Stardew Valley Symphony of the Season",
+            "linkURL": "https://iccsydneytheatre.com/event/stardew-valley-symphony-of-seasons/"
           }
         ],
         "headline": "",
         "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p>L1 light rail services run regularly to stops at Darling Harbour. Visit <a href=\"https://transportnsw.info/\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1761697736000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Use public transport",
+        "adviceB": "Allow extra travel time",
+        "adviceC": " ",
+        "end": 1763208000000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1763208062141,
+        "otherAdvice": "<p><strong>Stardew Valley Symphony of the Season Concert on Saturday 15 November at ICC Sydney Theatre</strong>. <strong>Show begins at 8pm.</strong></p><p>Allow extra travel time on roads in the city and Pyrmont around Darling Harbour as traffic may be heavier than usual as attendees travel to the concert.</p><p>Motorists should exercise caution and be aware of increased pedestrian activity on local roads.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1763125200000,
+        "displayName": "Concert",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Harbour Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Darling Drive",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Sydney",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 254077,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2141965,
+          -33.8699593
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2025/11/raydia-festival-2025\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1761696031000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use public transport",
+        "adviceC": " ",
+        "end": 1763208000000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1763208062236,
+        "otherAdvice": "<p><strong>Raydia Festival at The Domain on Saturday, from 3pm to 10pm.</strong></p><p>With thousands of attendees expected, traffic will be heavier than usual in the CBD as crowds travel to and from the event.</p><p>If you are catching rideshare or taxis, use the dedicated drop-off location on Hospital Road at Art Gallery Road. For pick-ups after the event head towards Elizabeth Street or Sir John Young Crescent.  </p><p>Roads within and around The Domain will close for crowd safety before, during and after the event. Motorists should avoid driving through the area or expect delays and detours.</p><p><strong>From 7pm to 11pm </strong></p><ul><li>Art Gallery Road from Hospital Road to Mrs Macquarie Road </li></ul><p><strong>From 9pm to 11pm </strong></p><ul><li>St Mary’s Rd from Prince Albert Rd to Sir John Young Cr </li><li>Prince Albert Rd from College St to Art Gallery Rd </li><li>Hospital Rd from Art Gallery Rd to Shakespeare Pl</li></ul>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1763125200000,
+        "displayName": "Festival",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "The Domain",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "to",
+            "mainStreet": "Macquarie St, Prince Albert Rd, College St, Art Gallery Rd",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Sydney CBD",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 253147,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1908519,
+          -33.8829268
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "City of Sydney - Sydney Streets Program",
+            "linkURL": "https://whatson.cityofsydney.nsw.gov.au/events/sydney-streets-on-glebe-point-road?utm_source=google&utm_medium=search&utm_campaign=sydneystreets&keyword_k=sydney%20streets%20glebe&gad_source=1&gclid=CjwKCAiAh6y9BhBREiwApBLHC_4g8wdl0HH2XzMFMtrdxG7IpLN6ZDX2"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p>Route buses 370, 431 and 433 are diverting around road closures and missing some stops. Check bus service alerts and plan your trip at <a href=\"http://transportnsw.info/alerts\" target=\"_blank\">transportnsw.info</a>.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [
+          {
+            "displayName": "Glebe_SydneyStreets_RoadClosures_Clearways_Map",
+            "fileName": "Glebe_SydneyStreets_RoadClosures_Clearways_Map.pdf",
+            "fileType": "PDF",
+            "linkName": "Glebe_SydneyStreets_RoadClosures_Clearways_Map",
+            "sizeInBytes": 293895,
+            "uniqueFileName": "915588_1761189149161_Glebe_SydneyStreets_RoadClosures_Clearways_Map.pdf"
+          }
+        ],
+        "isInitialReport": false,
+        "created": 1760915144000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Check signage",
+        "adviceB": "Allow extra travel time",
+        "adviceC": " ",
+        "end": 1763209800000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1763209802635,
+        "otherAdvice": "<p>Road closures and special event clearways are in place for the City of Sydney - Sydney Streets event on Glebe Point Rd. The event runs from 11am until 8pm.</p><p><strong>The following roads are closed from 7am to 11.30pm</strong></p><ul><li>Glebe Point Rd between St Johns Rd and Broadway, and adjoining roads including sections of Cowper St, Derwent Ln, Derby Pl, Francis St, Mitchell St and Norton St.</li></ul><p>Allow extra travel time, follow the directions of traffic control and be aware of increased pedestrian activity. Police may restrict vehicle access along closed roads, including residents and businesses.</p><p><strong>Special event clearways will be in effect from 7am until 9:30pm on sections of Glebe Point Rd, Francis St, Derby Pl, Cowper St, Norton St and Mitchell St. </strong></p><p>Clearways are <strong>strict no-parking zones</strong> for all vehicle types and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://tfnswtowlink.force.com/findmycar/s/\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator.</p>",
+        "arrangementElements": [
+          {
+            "html": "<p><strong>ROAD CLOSURES</strong></p><p><strong>7AM - 11:30PM </strong></p><ul><li>Cowper St between Glebe Point Rd and Campbell St</li><li>Derwent Ln between Glebe Point Rd and Mitchell St</li><li>Derwent Ln between Derby Pl and Broadway</li><li>Derby Pl between Glebe Point Rd and Broadway</li><li>Francis St between Grose St and Glebe Point Rd</li><li>Glebe Point Rd between St Johns Rd and Broadway</li><li>Mitchell St between Derwent St and Campbell St</li><li>Norton St Between Glebe Point Rd and Campbell St</li></ul><p><strong>SPECIAL EVENT CLEARWAYS</strong></p><p><strong>7AM - 9:30PM</strong></p><ul><li>Cowper Street between Glebe Point Rd and Campbell Ln</li><li>Derby Pl between Glebe Point Rd and Derwent Ln</li><li>Francis St between Glebe Point Rd and Grose St</li><li>Glebe Point Rd between St Johns Rd and Broadway</li><li>Mitchell St between Derwent Ln and Campbell Ln</li><li>Norton St between Glebe Point Rd and Campbell Ln</li></ul><p>Clearways are <strong>strict no-parking zones</strong> for all vehicle types and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://tfnswtowlink.force.com/findmycar/s/\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator.</p>",
+            "title": "Road Closures & Special Event Clearways",
+            "id": "732754"
+          }
+        ],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1763125200000,
+        "displayName": "Sydney Streets Event",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Broadway",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Glebe Point Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "St Johns Rd",
+            "suburb": "Glebe",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 253602,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0714955,
+          -33.8454183
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2025/11/boiler-room\" target=\"_blank\">transportnsw.info</a><a href=\"https://transportnsw.info/events/2024/11/pearl-jam-dark-matter-tour\" target=\"_blank\"> </a>to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1761257158000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Use public transport",
+        "adviceB": "Allow extra travel time",
+        "adviceC": " ",
+        "end": 1763210700000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1763210707045,
+        "otherAdvice": "<p><strong>Boiler Room at Sydney Showground on Saturday 15 November from 2pm until 11pm. </strong></p><p>With a sold out crowd of 10,000 expected, and the Metallica concert with 70,000 fans expected at nearby Accor Stadium, significant traffic delays are expected on roads approaching the precinct.  </p><p>Motorists should allow plenty of extra travel time on roads approaching Olympic Park including the M4 Mwy, Homebush Bay Dr, Concord Rd, Lane Cove Rd, Parramatta Rd, Centenary Dr and Silverwater Rd.</p><ul><li><strong>PARKING IS SOLD OUT: </strong>all available pre-booked parking spaces have now sold out in Olympic Park for Saturday 15 November. Do not drive unless you have pre-booked as there will be no parking available at Olympic Park. Catch transport instead.</li><li>If you have pre-booked your parking, follow the directions of staff and have your parking ticket ready to show at the car park entry.</li><li>Carpool with your group and allow plenty of extra travel time. Significant traffic delays are expected.</li><li>Alternatively, consider parking at a nearby train station commuter car park and continuing your trip by train to Olympic Park.</li></ul><p>Sydney Olympic Park Authority will close local roads in the precinct and traffic congestion is expected before and after the match. For road closure details, visit the Sydney Olympic Park Authority <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a>.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1763125200000,
+        "displayName": "Indoor dance party",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Sydney Showground",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "approaching",
+            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road, Centenary Drive",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Sydney Olympic Park",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 253862,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.065618,
+          -33.8465004
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p>Concert tickets include travel on public transport. Express trains and Major Event Buses will run. Visit <a href=\"https://transportnsw.info/events/2025/11/metallica\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1761537014000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Use public transport",
+        "adviceB": "Allow extra travel time",
+        "adviceC": " ",
+        "end": 1763210700000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1763210707026,
+        "otherAdvice": "<p><strong>Metallica concert at Accor Stadium on Saturday 15 November. Gates open from 5pm, concert finishes around 11pm. </strong></p><p>With around 70,000 concert-goers expected, significant traffic delays are expected on roads approaching the precinct. </p><p>Motorists should allow plenty of extra travel time on roads approaching Olympic Park including the M4 Mwy, Homebush Bay Dr, Concord Rd, Lane Cove Rd, Parramatta Rd, Centenary Dr and Silverwater Rd.</p><ul><li><strong>PARKING IS SOLD OUT: </strong>all available pre-booked parking spaces have now sold out in Olympic Park for Saturday 15 November. Do not drive unless you have pre-booked as there will be no parking available at Olympic Park. Catch transport instead with travel included in your concert ticket and express trains and major event buses running.</li><li>If you have pre-booked your parking, follow the directions of staff and have your parking ticket ready to show at the car park entry.</li><li>Carpool with your group and allow plenty of extra travel time. Significant traffic delays are expected.</li><li>Alternatively, consider parking at a nearby train station commuter car park and continuing your trip by train or bus to Olympic Park, at no extra cost.</li></ul><p>Sydney Olympic Park Authority will close local roads in the precinct to ensure pedestrian safety during the event and to accommodate additional transport services. For road closure details, view the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a>.</p>",
+        "arrangementElements": [
+          {
+            "html": "<p>Sydney Olympic Park Authority will close local roads in the precinct to ensure pedestrian safety during the event and to accommodate additional transport services. For road closure details, view the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a>.</p><p><strong>ROAD CLOSURES </strong></p><p><strong>From 7.00pm Friday 14 November – 3.00am Sunday 16 November  </strong></p><ul><li>Dawn Fraser Avenue from Olympic Boulevard to Showground Road *Buses excepted.</li></ul><p><strong>From 1.30am Saturday 15 November – 3.00am Sunday 16 November </strong></p><ul><li>Dawn Fraser Avenue from Showground Road to Edwin Flack Avenue</li><li>Olympic Boulevard from Herb Elliott Avenue to Kevin Coombs Avenue</li><li>Grand Parade from Olympic Boulevard to Showground Road</li><li>Showground Road from Grand Parade to Dawn Fraser Avenue</li><li>Murray Rose Avenue from Showground Road to Gate 15</li></ul><p><strong>From 8.00am Saturday 15 November – 3.00am Sunday 16 November </strong></p><ul><li>Kevin Coombs Avenue between Pondage Link and Australia Avenue (eastbound)</li><li>Kevin Coombs Avenue between Pondage Link and Australia Avenue (westbound)</li><li>Holker Busway from Hill Road to Australia Avenue</li></ul><p><strong>From 9.00am Saturday 15 November – 3.00am Sunday 16 November </strong></p><ul><li>Shirley Strickland Avenue between P4 Roundabout and Rod Laver Avenue.</li><li>Rod Laver Drive at the rear of Tennis Centre back to Shirley Strickland Avenue West</li></ul><p><strong>From 10.00am Saturday 15 November – 3.00am Sunday 16 November </strong></p><ul><li>Olympic Boulevard between Sarah Durack Avenue and Herb Elliott Avenue</li></ul><p><strong>From 11.00am Saturday 15 November – 3.00am Sunday 16 November </strong></p><ul><li>Showground Road from Dawn Fraser Avenue to the Novotel Loading Dock.</li><li>Dawn Fraser Avenue from Park Street to Showground Road.</li></ul><p><strong>From 10.00pm Saturday 15 November – 1.00am Sunday 16 November </strong></p><ul><li>Edwin Flack Avenue from Pondage Link to Old Hill Link (westbound). *Buses excepted.</li><li>Pondage Link from Hill Road to Edwin Flack Avenue - (Inbound to Sydney Olympic Park only) *Buses excepted.</li><li>Edwin Flack Avenue (northbound) from Bernie Avenue to Old Hill Link *Buses excepted.</li><li>Murray Rose Avenue from Park Street to Australia Avenue</li><li>Dawn Fraser Avenue from Park Street to Australia Avenue *Buses excepted.</li><li>Herb Elliott Avenue closed at Park Street.</li></ul><p><br></p>",
+            "title": "Road Closures",
+            "id": "732755"
+          }
+        ],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1763125200000,
+        "displayName": "Metallica concert",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Accor Stadium",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "approaching",
+            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road, Centenary Drive",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Sydney Olympic Park",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 255262,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1762162,
+          -33.8661919
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "White Bay Power Station - Soluna",
+            "linkURL": "https://www.whitebaypowerstation.com/events"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p>Buses run regularly to Rozelle. Plan your trip at <a href=\"https://transportnsw.info\" target=\"_blank\">transportnsw.info</a></p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1762748514000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Use public transport",
+        "adviceB": "Allow extra travel time",
+        "adviceC": " ",
+        "end": 1763211540000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1763211541239,
+        "otherAdvice": "<p><strong>Soluna at White Bay Power Station on Saturday 15 November from 3pm.</strong></p><p>Traffic will be heavy on roads approaching White Bay Power Station as large crowds travel to and from the event,</p><p>Attendees driving should carpool with their group, plan to arrive early to secure parking,</p><p>Motorists should allow extra travel time on Victoria Rd, the City West Link and Robert St.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1763125200000,
+        "displayName": "Music event",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "White Bay Power Station",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Robert Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Rozelle",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 253188,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1553044,
+          -33.9604587
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Greek Fest",
+            "linkURL": "https://greekfestivalofsydney.com.au/"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "<p>Route 478 buses are diverting while roads are closed. Visit <a href=\"https://transportnsw.info\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [
+          {
+            "displayName": "GreekFestival2025_ClosuresClearwaysMap",
+            "fileName": "GreekFestival2025_ClosuresClearwaysMap.pdf",
+            "fileType": "PDF",
+            "linkName": "GreekFestival2025_ClosuresClearwaysMap",
+            "sizeInBytes": 316585,
+            "uniqueFileName": "485448_1760935940530_GreekFestival2025_ClosuresClearwaysMap.pdf"
+          }
+        ],
+        "isInitialReport": false,
+        "created": 1760936222000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use diversions",
+        "adviceC": "Check signage",
+        "end": 1763308800000,
+        "hideEndDate": true,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1763218862892,
+        "otherAdvice": "<p>The Greek Festival is taking place today on Bay St. Road closures and parking restrictions are in effect.</p><p>Motorist are advised to allow extra travel time, be aware of increased pedestrian activity and follow the directions of traffic controllers on site.</p><p><strong>From</strong> <strong>2am Sunday 16 Nov to 3am Monday 17 Nov the following roads are closed:</strong></p><ul><li>Bay St between Queens Rd and The Grand Pde</li><li>Bay St between Crawford St and Queens Rd (Eastbound lanes)</li><li>Moate Ave between Bay St and Saywell Ln</li></ul><p>Motorists travelling on The Grand Parade are being detoured via local roads.</p><p><strong>Special event clearways are in effect from 2am Sunday 16 Nov until 3am Monday 17 Nov on sections of Moate St and Bay St. </strong></p><p>Clearways are strict no-parking zones for all vehicle types, and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator.</p>",
+        "arrangementElements": [
+          {
+            "html": "<p><strong>ROAD CLOSURES</strong></p><p><strong>From</strong> <strong>2am Sunday 16 Nov to 3am Monday 17 Nov</strong></p><ul><li>Bay Street between Queens Road and The Grand Parade</li><li>Bay Street between Crawford Street and Queens Road (Eastbound)</li><li>Moate Avenue between Bay Street and Saywell Lane</li></ul><p><strong>SPECIAL EVENT CLEARWAYS</strong></p><p><strong>From</strong> <strong>2am Sunday 16 Nov to 3am Monday 17 Nov</strong></p><ul><li>Bay Street between Queens Street and The Grand Parade (Both sides)</li><li>Moate Avenue between Bay Street and Saywell Lane (Both sides)</li></ul>",
+            "title": "Road Closures & Special Event Clearways",
+            "id": "732776"
+          }
+        ],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [
+          {
+            "levels": "",
+            "direction": "BOTH_DIRECTIONS",
+            "coords": "`wgnEadqy[t@gCJ[NYFQLc@FOFSFWDM@CPm@HWLc@BGTu@??@IDO@A?C@I"
+          },
+          {
+            "levels": "",
+            "direction": "ONE_DIRECTION",
+            "coords": "htgnEs}py[b@mA\\kARo@"
+          },
+          {
+            "levels": "",
+            "direction": "ONE_DIRECTION",
+            "coords": "txgnEmiqy[g@W]Q"
+          }
+        ],
+        "duration": null,
+        "start": 1763218800000,
+        "displayName": "Greek Festival",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Crawford Road",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Bay Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "The Grand Parade",
+            "suburb": "Brighton-Le-Sands",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 254094,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.7108878,
+          -33.6031177
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Vic100 event website",
+            "linkURL": "https://goforbroke.org.au/vic100/"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2025/11/vic100\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [
+          {
+            "displayName": "VIC100_Kurrajong-Bell_RoadClosure_Map",
+            "fileName": "VIC100_Kurrajong-Bell_RoadClosure_Map.pdf",
+            "fileType": "PDF",
+            "linkName": "VIC100_Kurrajong-Bell_RoadClosure_Map",
+            "sizeInBytes": 1382612,
+            "uniqueFileName": "360769_1761781079362_VIC100_Kurrajong-Bell_RoadClosure_Map.pdf"
+          },
+          {
+            "displayName": "VIC100_MountVictoria_RoadClosure_Map",
+            "fileName": "VIC100_MountVictoria_RoadClosure_Map.pdf",
+            "fileType": "PDF",
+            "linkName": "VIC100_MountVictoria_RoadClosure_Map",
+            "sizeInBytes": 448206,
+            "uniqueFileName": "939045_1761791578522_VIC100_MountVictoria_RoadClosure_Map.pdf"
+          },
+          {
+            "displayName": "VIC100_Overview_RoadClosure_Map",
+            "fileName": "VIC100_Overview_RoadClosure_Map.pdf",
+            "fileType": "PDF",
+            "linkName": "VIC100_Overview_RoadClosure_Map",
+            "sizeInBytes": 3678017,
+            "uniqueFileName": "353305_1761791582479_VIC100_Overview_RoadClosure_Map.pdf"
+          }
+        ],
+        "isInitialReport": false,
+        "created": 1761701447000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Expect delays",
+        "adviceC": "Use an alternative route",
+        "end": 1763270100000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1763265434031,
+        "otherAdvice": "<p>800 riders are expected to take part in the inaugural Vic100 cycle ride travelling 100km from Penrith to Mount Victoria via Bells Line of Road. Closures will be in place along parts of the course, while on other sections cyclists will share roads with motorists. The ride starts from Tench Reserve in Jamisontown, near Penrith, and finishes at the Victoria and Albert Guest House in Mount Victoria. </p><p><strong>Road closures</strong></p><p>Roads will be closed between 6.30am and 12pm along parts of the course including Bells Line of Road. Some roads around the start area in Penrith will close from 4.30am and some roads around the finish area in Mount Victoria will remain closed til 4pm near the finish line.</p><p><strong>Bells Line of Rd closures:</strong></p><ul><li>Bells Line of Road will be closed between Bell and Kurrajong between 6.30am and midday. The road will reopen in stages with access reopened by 10am from Kurrajong and Bilpin, and 12pm from Bell.</li><li><strong>Motorists travelling between Lithgow and Sydney on Sunday morning will need to use the Great Western Highway instead.</strong></li><li>Bells Line of Rd closed in both directions between Kurrajong, Old Bells Line of Rd and Bilpin, Valley Ridges Rd from 7am to 10am.</li><li>From Bell, no access to Bells Line of Rd from 6.30am until 12pm midday.</li><li>From Bilpin, westbound access towards Bell closed 7am until midday, eastbound access towards Kurrajong closed 7am to 10am.</li><li><strong>Local access: </strong>Cyclists will be travelling from Kurrajong to Bell in the westbound lane of Bells Line of Rd. Local traffic from properties along Bells Line of Rd needing to exit while the event is underway will be permitted to travel in the eastbound lane only, under direction of traffic control and under a reduced 40km/h speed limit.</li></ul><p><strong>Darling Causeway closures:</strong></p><ul><li>The Darling Causeway will be closed from Bell to Mount Victoria from 9.30am to 12.30pm. </li><li>During this time, motorists from Lithgow or Dargan can travel eastbound as far as Bell then will get turned around to return westbound back towards Lithgow. Motorists travelling between Mount Victoria and Lithgow can use the Great Western Hwy.</li></ul><p><strong>Local closures - Kurrajong, Jamistown and Mount Victoria:</strong></p><ul><li><strong>4:30am to 8am </strong>sections of Jamison Rd and Tench Ave</li><li><strong>5:45am to 8:30am </strong>sections of Old Kurrajong Rd, Crowleys Ln and Yarramundi Ln</li><li><strong>6am to 9.30am</strong> Old Bells Line of Road northbound between Grose Vale Road and Bells Line of Road</li><li><strong>Between 9.30am and 4pm </strong>sections of Station St and Harley Ave near Mount Victoria station</li></ul>",
+        "arrangementElements": [
+          {
+            "html": "<p><strong>ROAD CLOSURES</strong></p><p><strong>Penrith City Council</strong></p><p><strong>Jamisontown </strong></p><p><strong>From 4:30am to 8:00am</strong></p><ul><li>Jamison Rd between Tench Ave and Mulgoa Rd (Westbound)</li><li>Tench Ave between Access Rd to Tench Reserve Boat Ramp and northern entry to Nepean Shores, The East Bank (Both directions)</li><li>Tench Ave between the northern entry to Nepean Shores, The East Bank and Jamison Rd (Southbound)</li></ul><p><strong>Agnes Banks</strong></p><p><strong>From 5:45am to 8:30am</strong></p><ul><li>Crowleys Ln between Castlereagh Rd and Yarramundi Ln (Both directions)</li><li>Old Kurrajong Rd between Yarramundi Ln and Kurrajong Rd (Both directions)</li><li>Yarramundi Ln between Crowleys Ln and Old Kurrajong Rd (Both directions)</li></ul><p><strong>Hawkesbury City Council</strong></p><p><strong>Kurrajong </strong></p><p><strong>From 6:00am to 9:30am</strong></p><ul><li>Old Bells Line of Road between Grose Vale Road and Bells Line of Road (Northbound)</li></ul><p><strong>Kurrajong Heights &amp; Hills, Bilpin and</strong></p><p><strong>From 7:00am to 10:00am</strong></p><ul><li>Bells Line of Road between Old Bells Line of Road and Valley Ridges Rd (Both directions)</li></ul><p><strong>Blue Mountains City Council</strong></p><p><strong>Bell, Mt Tomah &amp; Berambing</strong></p><p><strong>From 6:30am to 12:00pm</strong></p><ul><li>Bells Line of Road between Darling Causeway and Valley Ridges Rd (Eastbound)</li></ul><p><strong>From 7:00am to 12:00pm</strong></p><ul><li>Bells Line of Road between Valley Ridges Rd and Darling Causeway (Westbound)</li></ul><p><strong>From 9:30am to 12:30pm</strong></p><ul><li>Darling Causeway between Bells Line of Road and Hartley Vale Road (Both directions)</li></ul><p><strong>Mt Victoria</strong></p><p><strong>From 9:30am to 12:30pm</strong></p><ul><li>Darling Causeway Hartley Vale Road and Station St (Both directions)</li></ul><p><strong>From 9:30am to 1pm</strong></p><ul><li>Station Street between Great Western Highway and Cobb Lane (Both directions)</li></ul><p><strong>From 9:30am to 4pm</strong></p><ul><li>Harley Ave between Station St and Patrick St (Both directions)</li></ul><p><br></p><p><strong>SPEED ZONE REDUCTIONS</strong></p><p><strong>Blue Mountains &amp; Hawkesbury Council</strong></p><p><strong>From 5:45am to 8:30am</strong></p><p><strong>60 km/hr to 40km /hr</strong></p><ul><li>Bells Line of Rd between Old Kurrajong Rd and Pitt Ln (Both directions)</li><li>Pitt Lane between Bells Line of Rd and Riverview St (Both directions)</li></ul><p><strong>From 6:30am to 12:00pm</strong></p><p><strong>80 km/hr to 40km /hr</strong></p><ul><li>Bells Line of Rd Olds Bell Line of Road and Darling Causeway (Both directions)</li></ul><p><br></p>",
+            "title": "Road Closures and Speed Zone Reductions",
+            "id": "732951"
+          }
+        ],
+        "diversions": "<p>Motorists travelling between Lithgow and Sydney on Sunday between 6.30am and 12pm will need to use the Great Western Highway instead while Bells Line of Rd is closed.</p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1763211600000,
+        "displayName": "Vic100 cycle ride",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Bells Line of Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Jamisontown to Mount Victoria",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "Local road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 255205,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.8302261,
+          -34.2375832
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Illawarra Convoy",
+            "linkURL": "https://illawarraconvoy.com.au/"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": 40,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/\" target=\"_blank\">transportnsw.info</a> to plan your trip on public transport.</p><p>A free shuttle bus will be running from 8.30am to 3.40pm from Stockland Shellharbour to Shellharbour Airport.</p>",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1762726174000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Reduced speed limit",
+        "adviceB": "Exercise caution",
+        "adviceC": "Allow extra travel time",
+        "end": 1763269200000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1763265550386,
+        "otherAdvice": "<p>More than 800 trucks and 900 motorbikes will form part of the annual Illawarra convoy travelling from Appin and Bulli Tops to finish near Shellharbour Airport in Albion Park Rail. Motorbikes will leave from West Cliff Colliery, Appin from 8:15am, trucks will leave from Maddens Plains at 8.30am.</p><p>The convoy will travel via Appin Rd, Old Princes Hwy, M1 Princes Mwy, Masters Rd, Five Islands Rd, King St, Windang Rd, Shellharbour Rd, Lake Entrance Rd, New Lake Entrance Rd, and Princes Hwy. The convoy will finish at the Convoy shop, corner of Airport Rd and Princes Hwy, Albion Park Rail. Bikes will arrive from 9.15am and trucks from 10am.</p><p>Motorists may experience traffic delays along the convoy route. </p><p><strong>Speed reductions will be in effect at various times and locations between 4.30am and 3pm on sections of Appin Rd, M1 Princes Mwy and Princes Hwy.</strong></p><p><strong>The Old Princes Hwy at Madden Plains will be closed between Helensburgh and Maddens Plains while trucks form up to participate in the convoy.</strong></p><p><strong>The right-hand turn from Old Mount Ousley Rd onto the M1 Princes Mwy/Mount Ousley Rd will be closed between 7am and 12pm. The convoy will travel in one lane along the route. </strong></p><p>Motorists are advised to take care as they share roads with the convoy vehicles and allow extra travel time in the area while changed traffic conditions are in place</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1763229600000,
+        "displayName": "Illawarra Convoy",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "via Appin Road, Old Princes Highway, M1 Motorway,",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Appin to Albion Park Rail",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 254677,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.1259302,
+          -36.2349885
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Australian National Busking Championship",
+            "linkURL": "https://busking.com.au/"
+          }
+        ],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Closed",
+            "roadtype": "Highway",
+            "direction": "Both directions",
+            "finishTime": "3:00pm",
+            "fromDay": "Weekend",
+            "startTime": "9:00am",
+            "toDay": ""
+          }
+        ],
         "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
@@ -2290,19 +1919,86 @@
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1729549710000,
+        "created": 1762211383000,
         "isMajor": false,
         "name": null,
         "subCategoryA": "null",
-        "adviceA": "Reduce your speed",
-        "adviceB": "Exercise caution",
+        "adviceA": "Exercise caution",
+        "adviceB": "Use diversions",
         "adviceC": " ",
-        "end": 1763177400000,
+        "end": 1763265600000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1763177408787,
-        "otherAdvice": "<p>Cyclists will take part in the The Bondi2Berry 155km ride from Bondi Beach at 5.50am to Berry on the South Coast by 2:30pm.</p><p>Road closures will not be in place however motorists should exercise caution as they share roads with cyclists during the event.</p><p>The first group will leave Bondi at 5.50am travelling via Bondi Rd, Darley Rd, South Dowling St, General Holmes Dr, Grand Pde, Rocky Point Rd, Taren Point Rd, The Kingsway and the Princes Hwy through the Royal National Park to Stanwell Tops.</p><p>Cyclists will then continue along the coast via Otford Rd, Lawrence Hargrave Dr, Grand Pacific Dr, Princes Hwy, Memorial Dr and Squires Way into Wollongong. From there, cyclists will travel via Windang Rd and the Princes Hwy to Kiama before the last leg of the ride to Berry via Crooked River Rd, Beach Rd and Queen St.</p><p>Motorists may experience some delays along the cycle route particularly on Lawrence Hargrave Drive from Stanwell Park to Thirroul and the Princes Hwy at Bulli as they share roads with cyclists. Allow extra time and exercise caution. </p><p>Drivers are reminded when overtaking cyclists to leave a 1.5m distance on roads with speed limits over 60km/h and a 1m distance on roads 60km/h or under.</p>",
+        "lastUpdated": 1763265603512,
+        "otherAdvice": "<p>The Australian National Busking Championship is coming to Cooma on Saturday 15 and Sunday 16 November, celebrating music and street performance.</p><p>The Snowy Mountains Hwy will be closed between Vale St and Bombala St.</p><p>Detours will be in place.</p><p>Motorists are advised to be aware of increased pedestrian activity in the area.</p>",
+        "arrangementElements": [],
+        "diversions": "<p>Detour via Bombala St, Commissioner St, Vale St and Massie St.</p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1763157600000,
+        "displayName": "Australian National Busking Championship",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Bombala Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Snowy Mountains Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Snowy Mountains",
+            "secondLocation": "Vale Street",
+            "suburb": "Cooma",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 254080.0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.9020589,
+          -34.4266618
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2025/11/nbl-illawarra-hawks-v-sydney-kings\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1761696581000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Use public transport",
+        "adviceB": "Allow extra travel time",
+        "adviceC": " ",
+        "end": 1763272800000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1763272861870,
+        "otherAdvice": "<p><strong>NBL Illawarra Hawks v Sydney Kings</strong> <strong>at WIN Entertainment Centre on Sunday. Tip-off at 2.30pm, full time around 4.30pm.</strong></p><p>Traffic will be heavier than usual on roads approaching the Wollongong CBD and on local roads around WIN Entertainment Centre as fans travel to the match.</p><p>Local roads around the stadium may close before, during and after the game for the safety of pedestrians.</p><p>Fans driving to the game on the freeway are encouraged to use the Masters Rd exit to avoid congestion at Mount Ousley Rd, both in and out of Wollongong.</p><p>Motorists should allow extra time for parking and be aware of increased pedestrian activity on local roads.</p>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
@@ -2310,21 +2006,93 @@
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1763146800000,
-        "displayName": "Bondi2Berry cycle",
+        "start": 1763211600000,
+        "displayName": "NBL",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "",
+            "crossStreet": "WIN Entertainment Centre",
             "delay": "",
             "impactedLanes": [],
             "locationQualifier": "at",
-            "mainStreet": "via General Holmes Dr, Grand Pde, Kingsway, Princes Hwy, Lawrence Hargrave Drive",
+            "mainStreet": "Harbour Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "South Coast",
+            "secondLocation": "",
+            "suburb": "Wollongong",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 255696,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2131508,
+          -33.848211
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "North Sydney Council - North Sydney Streets",
+            "linkURL": "https://www.northsydney.nsw.gov.au/streets"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/\" target=\"_blank\">transportnsw.info</a> to plan your trip on public transport.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1763082041000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use public transport",
+        "adviceC": " ",
+        "end": 1763274600000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1763274664609,
+        "otherAdvice": "<p>North Sydney Streets event, a free, all-day celebration of food, music and culture will be held on Broughton St on Sunday from 12pm to 5pm.</p><p><strong>From 8am to 10pm, Broughton St will close between Willoughby St and Fitzroy St, as well as surrounding local roads.</strong></p><p>Motorists should follow detours and allow extra travel time as delays are expected on roads in the area.</p><p>Exercise caution and watch out for pedestrians.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1763211600000,
+        "displayName": "Street Festival",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Willoughby St",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Broughton Street",
             "quadrant": "",
             "queueLength": 0,
             "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Bondi to Berry",
+            "secondLocation": "Fitzroy Street",
+            "suburb": "Kirribilli",
             "trafficVolume": ""
           }
         ],
