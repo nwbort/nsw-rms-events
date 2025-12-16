@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1765781430000,
+  "lastPublished": 1765867830000,
   "layerName": "MajorEvent",
   "rights": {
     "copyright": "Transport for NSW",
@@ -2832,73 +2832,6 @@
     },
     {
       "type": "Feature",
-      "id": 257977,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.3391583,
-          -33.428209
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2025/12/carols-in-stadium\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1764731217000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Exercise caution",
-        "adviceC": " ",
-        "end": 1766227500000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1765410516241,
-        "otherAdvice": "<p><strong>Carols in the Stadium at polytec Stadium. Show starts at 5.30pm, show ends at 9pm</strong></p><p>Traffic will be heavier than usual on roads approaching the stadium as attendees travel to and from the stadium. Allow extra travel time and use local parking. </p><p>Dane Drive will be closed before the show from 4pm between the Central Coast Highway and Donnison Street and will reopen once crowds have cleared the area.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1766149200000,
-        "displayName": "Concert",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Central Coast Highway",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Dane Drive",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Central Coast",
-            "secondLocation": "Donnison Street",
-            "suburb": "Gosford",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 257978,
       "geometry": {
         "type": "Point",
@@ -3325,423 +3258,6 @@
             "region": "Sydney",
             "secondLocation": "",
             "suburb": "Circular Quay",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 258926,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          149.7224712,
-          -34.7534979
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": 40,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1765494657000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Reduced speed limit",
-        "adviceB": "Exercise caution",
-        "adviceC": "Check signage",
-        "end": 1765706400000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1765706464308,
-        "otherAdvice": "<p>Goulburn&#39;s Christmas in the Park will take place on 14 December in Belmore Park.</p><p>A speed reduction will be in place on Sloan St for the duration of the event and motorists will not be able to make a right hand turn from Sloan St into Montague St.</p><p>Motorists are urged to exercise caution with an expected increase in pedestrian activity in the area.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1765688400000,
-        "displayName": "Christmas in the park",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Sloane Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Southern Highlands",
-            "secondLocation": "",
-            "suburb": "Goulburn",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 258806,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.62022,
-          -32.961336
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Event website",
-            "linkURL": "https://www.lakemac.com.au/Events-directory/Council-events/Lake-Mac-Carols-2025"
-          }
-        ],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "9:30pm",
-            "fromDay": "Sunday",
-            "startTime": "3:00pm",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1765406840000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Check signage",
-        "adviceC": "Reduce your speed",
-        "end": 1765708200000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1765708201487,
-        "otherAdvice": "<p>Local road detours may be in place. Portable traffic signals will be placed at the pedestrian crossing to manage queuing. </p><p><br></p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1765684800000,
-        "displayName": "SPECIAL EVENT Lake Mac Carols",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Park Road",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "The Esplanade",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Hunter",
-            "secondLocation": "",
-            "suburb": "Speers Point",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 256099,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.1798333,
-          -33.796478
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Northbound",
-            "finishTime": "11:59pm",
-            "fromDay": "Saturday",
-            "startTime": "2:00am",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Northbound",
-            "finishTime": "",
-            "fromDay": "Sunday",
-            "startTime": "all day",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Northbound",
-            "finishTime": "2:00am",
-            "fromDay": "Monday",
-            "startTime": "12:00am",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1763443802000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Check signage",
-        "adviceB": "Exercise caution",
-        "adviceC": " ",
-        "end": 1765724400000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT CLEARWAYS",
-        "lastUpdated": 1765724402944,
-        "otherAdvice": "<p>Special event clearways will be in place to facilitate Sydney Trains trackwork replacement bus operations</p><p>Clearways are<strong> strict no-parking zones</strong> for all vehicle types and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1765551600000,
-        "displayName": "SPECIAL EVENT CLEARWAYS Sydney Trains Trackwork",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Pacific Highway",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Brown Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "Railway Street",
-            "suburb": "Chatswood",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 257952,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.2756981,
-          -33.8899899
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Elrow XXL Bondi Beach Music festival NYE 2025",
-            "linkURL": "https://fuzzy.com.au/events/elrow-bondi-beach-xxl/"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "<p>Plan your trip at <a href=\"https://transportnsw.info/events/2025/12/elrow-xxl-nye-bondi-beach\" target=\"_blank\">transportnsw.info</a>.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1764722024000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Expect delays",
-        "adviceB": "Use public transport",
-        "adviceC": "Check signage",
-        "end": 1767191400000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1765748775013,
-        "otherAdvice": "<p><strong>Elrow Bondi Beach XXL - New Year&#39;s Eve, from 6pm to 12.30am.</strong></p><p>With large crowds expected, traffic will be heavy on roads approaching Bondi Beach.  Motorists should allow extra travel time and expect delays on Campbell Pde, Bondi Rd, Old South Head Rd and Syd Einfeld Dr. </p><p><strong>Local roads and carparks at Bondi Beach will be closed before, during and after the event </strong></p><ul><li>A section of Park Drive South (carpark behind Bondi Pavilion, south of Beach Rd) will close from 10pm Saturday 27 December 2025 and will remain closed until 6am Sunday 4 January 2026.</li><li>A section of car park on Queen Elizabeth Drive between Campbell Parade and Bondi Surf Life Saving Club will close from 4pm Tuesday 30 December 2025 and will remain closed until 6am on Thursday 1 January 2026.</li><li>Road closures will be in place on Campbell Parade southbound between Curlewis Street and Sir Thomas Mitchell Road from 11:30pm Wednesday 31 December 2025 to approximately 1am Thursday 1 January 2026.</li></ul><p>Clearways are strict no-parking zones for all vehicle types, and apply even to local residents and businesses with parking permits or TfNSW Mobility Scheme permit holders. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed/what-to-do\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator.</p>",
-        "arrangementElements": [
-          {
-            "html": "<p><strong>Road closures</strong></p><p><strong>From 11:30pm Wednesday 31 December to 1am Thursday 1 January</strong></p><ul><li>Campbell Pde southbound between Curlewis St and Sir Thomas Mitchell Rd</li></ul><p>Carpark Closures</p><p><strong>From 10pm Saturday 27 December to 6am Sunday 4 January 2026</strong></p><ul><li>Park Drive South car parking bays from bay #377 to Beach Rd western side</li><li>Park Drive South car parking bay #320 opposite Curlewis St eastern side to end of the street</li></ul><p><strong>From 4pm Tuesday 30 December 2025 to 6am Thursday 1 January 2026</strong></p><ul><li>Queen Elizabeth Drive Car parking bays from Campbell Parade roundabout to Bondi Surf Life Saving Club</li></ul><p><strong>Special Event Clearways</strong></p><p><strong>From 10pm Saturday 27 December to 6am Sunday 4 January 2026</strong></p><ul><li>Park Drive South car parking bays from bay #377 to Beach Rd western side</li><li>Park Drive South car parking bays #320 to end eastern side</li></ul><p><strong>From 4pm Tuesday 30 December 2025 to 6am Thursday 1 January 2026</strong></p><ul><li>Queen Elizabeth Drive from Campbell Parade roundabout to Bondi Surf Life Saving Club pedestrian crossing both sides</li></ul><p>Clearways are <strong>strict </strong>no-parking zones for all vehicle types, and apply even to local residents and businesses with parking permits or TfNSW Mobility Scheme permit holders. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://tfnswtowlink.force.com/findmycar/s/\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator.</p>",
-            "title": "Road Closures and Special Event Clearways",
-            "id": "751439"
-          }
-        ],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1767099600000,
-        "displayName": "Music festival",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Queen Elizabeth Drive",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Campbell Parade",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Bondi",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 257761,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.25678,
-          -33.9208629
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Randwick Council - Coogee New Year's Eve 2025",
-            "linkURL": "https://www.randwick.nsw.gov.au/community/whats-on/major-events/coogee-sparkles"
-          },
-          {
-            "linkText": "NYE 2025 TfNSW Interactive Road Closure and Clearway map",
-            "linkURL": "https://experience.arcgis.com/experience/d6152a01b02949bc99a2da6dcfe598cf"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "<p>Route 313, 370, 373 and 374 buses will be diverting and using different stops. Visit <a href=\"https://transportnsw.info/sydney-nye\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [
-          {
-            "displayName": "NYE25_Coogee_RoadClosures_Clearways_Map",
-            "fileName": "NYE25_Coogee_RoadClosures_Clearways_Map.pdf",
-            "fileType": "PDF",
-            "linkName": "NYE25_Coogee_RoadClosures_Clearways_Map",
-            "sizeInBytes": 297940,
-            "uniqueFileName": "871174_1764563838540_NYE25_Coogee_RoadClosures_Clearways_Map.pdf"
-          }
-        ],
-        "isInitialReport": false,
-        "created": 1764564090000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Check signage",
-        "adviceB": "Use public transport",
-        "adviceC": " ",
-        "end": 1767181500000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1765761199174,
-        "otherAdvice": "<p>Road closures, clearways and restricted access will be place as large crowds celebrate New Year&#39;s Eve at Coogee Beach for the Coogee Sparkles event.</p><p><strong>Road closures from 5.30pm to 10.30pm:</strong></p><ul><li>Alfreda St between Brook St and Arden St</li><li>Arden St between Carr St and Bream St</li><li>Brook St between Dolphin St and Coogee Bay Rd</li><li>Coogee Bay Rd between Brook St and Arden St</li><li>Dolphin St from Brook St to Arden St/end of the road at Coogee Pavilion</li><li>Sections of Baden St, Beach St, Brook St, Hill St, Ormond Gdn and Vicar St will also close.</li><li>Carparks at Coogee beach off Dolphin St will also close from 12pm midday until 10.30pm.</li></ul><p><strong>Special event clearways will be in effect from 4pm to 10:30pm on Alfreda St, Arden St, Beach St, Bream St, Brook St, Dolphin St and Coogee Bay Rd. </strong>Clearways will be in effect on a section of Brook St from 12pm midday to 10.30pm NYE.</p><p>Clearways are strict no-parking zones for all vehicle types, and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in signposted clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed/what-to-do\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator.</p>",
-        "arrangementElements": [
-          {
-            "html": "<p><strong>ROAD CLOSURES</strong></p><p><strong>FROM 5:30PM TO 10:30PM 31 DECEMBER 2025</strong></p><ul><li>Alfreda St between Brook St and Arden St</li><li>Arden St between Carr St and Bream St</li><li>Baden St from Beach St</li><li>Beach St between Bream St and southern end</li><li>Brook St between Coogee Bay Rd and Dolphin St</li><li>Coogee Bay Rd between Brook St and Arden St</li><li>Dolphin St between Brook St and Arden St</li><li>Dolphin St from Arden St</li><li>Hill St between Bream St and Dolphin St</li><li>Ormond Garden from Brook St</li><li>Vicar St from Coogee Bay Rd</li></ul><p><strong>SPECIAL EVENT CLEARWAYS </strong></p><p>Clearways are strict no parking zones for all vehicle types, and apply even to local residents and businesses with parking permits or TfNSW Mobility Scheme permit holders. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed/what-to-do\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator.</p><p><strong>FROM 12PM TO 10:30PM 31 DECEMBER 2025</strong></p><ul><li>Brook St between Dolphin St and Alfreda St eastern side</li></ul><p><strong>FROM 4PM TO 10:30PM 31 DECEMBER 2025</strong></p><ul><li>Alfreda St between Brook St and Arden St</li><li>Arden St between Bream St and Carr St</li><li>Baden St at Beach St (15 car parking spaces) southern side</li><li>Beach St between Bream St and southern end </li><li>Bream St between Arden St and #80 bream St southern side</li><li>Bream St between #81 Bream St to Arden St northern side</li><li>Brook St between #120 Brook St and Dolphin St western side</li><li>Brook St between Alfreda St and Coogee Bay Rd eastern side</li><li>Brook St between Dolphin St and 2 car parking spaces western side</li><li>Coogee Bay Rd between Arden St and Brook St</li><li>Dolphin St between Brook St and Arden St</li><li>Dolphin St between Arden St and eastern end</li></ul>",
-            "title": "Road closures & Special event clearways",
-            "id": "751560"
-          }
-        ],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1767099600000,
-        "displayName": "Sydney New Year's Eve",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Coogee Beach",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "Arden Street, Coogee Bay Road, Dolphin Street, Alfreda Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Coogee",
             "trafficVolume": ""
           }
         ],
@@ -4263,47 +3779,42 @@
     },
     {
       "type": "Feature",
-      "id": 254106,
+      "id": 258578,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.2134914,
-          -33.8590895
+          151.7252155,
+          -32.9168359
         ],
         "collections": []
       },
       "properties": {
-        "webLinks": [
-          {
-            "linkText": "What’s on at Sydney Opera House Forecourt",
-            "linkURL": "https://www.sydneyoperahouse.com/whats-on?date=All&venue%5B1846%5D=1846"
-          }
-        ],
+        "webLinks": [],
         "headline": "",
         "periods": [],
         "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/\" target=\"_blank\">transportnsw.info </a>to plan your trip on public transport.</p>",
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2025/12/league-men-newcastle-jets-fc-v-macarthur-fc\" target=\"_blank\">transportnsw.info</a> to plan your trip</p>",
         "impactingNetwork": false,
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1761707654000,
+        "created": 1765239559000,
         "isMajor": false,
         "name": null,
         "subCategoryA": "null",
         "adviceA": "Allow extra travel time",
-        "adviceB": "Use public transport",
+        "adviceB": "Plan your journey",
         "adviceC": " ",
-        "end": 1765713600000,
+        "end": 1766746800000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1765771922093,
-        "otherAdvice": "<p><strong>Concert nights at Sydney Opera House Forecourt:</strong></p><ul><li><strong>CANCELLED Sunday 15 December</strong>: Kirk Franklin. Gates open at 6pm.</li></ul><p>Allow extra time travelling in the area as traffic will be heavier than usual on approaches to the Opera House as attendees make their way to each concert, particularly during the already busy weeknight peak. Public transport is the best way to get to the event.</p>",
+        "lastUpdated": 1765831756514,
+        "otherAdvice": "<p><strong>A-League Men: Newcastle Jets FC v Macarthur FC at McDonald Jones Stadium. Kick off at 7.35pm and finish at approx. 9.30pm.</strong></p><p>Traffic may be heavier than usual as fans travel to and from the match. Allow extra travel time on Turton Rd, Griffiths Rd, Newcastle Rd, Lambton Rd and Bridges Rd through Broadmeadow while fans are making their way to and from the stadium.</p><p>For passenger drop-off, use the allocated 10-minute loading zone in the McDonald Jones Stadium car park. Entry is via the driveway off Turton Road.</p><p>Motorists should allow extra travel time and be aware of increased pedestrian activity on local roads.</p>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
@@ -4311,21 +3822,155 @@
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1764594000000,
-        "displayName": "Concerts",
+        "start": 1766667600000,
+        "displayName": "A-League Men",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Sydney Opera House",
+            "crossStreet": "Turton Road",
             "delay": "",
             "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "Macquarie Street",
+            "locationQualifier": "at",
+            "mainStreet": "Griffiths Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Hunter",
+            "secondLocation": "",
+            "suburb": "Broadmeadow",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 258710.0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1539571,
+          -33.8691719
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2025/12/league-men-sydney-fc-v-auckland-fc\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1765335431000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use public transport",
+        "adviceC": " ",
+        "end": 1766825100000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1765831924834,
+        "otherAdvice": "<p><strong>A-League Men: Sydney FC v Auckland FC at Leichhardt Oval. Kick-off 5pm, full time around 7pm.</strong></p><p>Traffic will be heavier than usual on James St, Perry St, Balmain Rd, Mary St and Glover St as attendees travel to and from the match.</p><p>A section of Mary Street may close before the game and will reopen when crowds have cleared the area. Traffic will be detoured via Chapel St while the closure is in place.   </p><p>Motorists requiring access to other venues in the area should use either Maliyawul St or Glover St.</p><p>Attendees driving to the game should allow extra travel time for parking and be aware of increased pedestrian activity on local roads.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1766754000000,
+        "displayName": "A-League Men",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Leichhardt Oval",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Glover Street and Mary Street",
             "quadrant": "",
             "queueLength": 0,
             "region": "Sydney",
             "secondLocation": "",
-            "suburb": "Circular Quay",
+            "suburb": "Lilyfield",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 257977,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.3391583,
+          -33.428209
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2025/12/carols-in-stadium\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1764731217000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Exercise caution",
+        "adviceC": " ",
+        "end": 1766227500000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1765842134965,
+        "otherAdvice": "<p><strong>Carols in the Stadium at polytec Stadium. Show starts at 5.30pm, show ends at 9pm</strong></p><p>Traffic will be heavier than usual on roads approaching the stadium as attendees travel to and from the stadium. Allow extra travel time and use local parking. </p><p>Dane Drive will be closed before the show from 3.30pm between the Central Coast Highway and Donnison Street and will reopen at 10pm.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1766149200000,
+        "displayName": "Concert",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Central Coast Highway",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Dane Drive",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Central Coast",
+            "secondLocation": "Donnison Street",
+            "suburb": "Gosford",
             "trafficVolume": ""
           }
         ],
