@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1766299350000,
+  "lastPublished": 1766386050000,
   "layerName": "MajorEvent",
   "rights": {
     "copyright": "Transport for NSW",
@@ -465,124 +465,6 @@
             "region": "Sydney",
             "secondLocation": "",
             "suburb": "Dover Heights",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 257900.0,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.2119155,
-          -33.8492021
-        ],
-        "collections": [
-          {
-            "type": "Point",
-            "coordinates": [
-              151.203763,
-              -33.848588
-            ]
-          },
-          {
-            "type": "Point",
-            "coordinates": [
-              151.199085,
-              -33.837409
-            ]
-          },
-          {
-            "type": "Point",
-            "coordinates": [
-              151.206909,
-              -33.838727
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "North Sydney Council - New Year's Eve 2025",
-            "linkURL": "https://www.northsydney.nsw.gov.au/nye"
-          },
-          {
-            "linkText": "NYE 2025 TfNSW Interactive Road Closure and Clearway map",
-            "linkURL": "https://experience.arcgis.com/experience/d6152a01b02949bc99a2da6dcfe598cf"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>Buses will be diverting while roads are closed from 3pm. Buses that usually run to Blue St North Sydney will use stops on Berry St and Miller St near McLaren St. Ferries will not stop at McMahons Point from 10am and Milsons Point from 2pm on NYE. Visit <a href=\"https://transportnsw.info/sydney-nye\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [
-          {
-            "displayName": "NYE25_NorthSydney_RoadClosureClearwayMap",
-            "fileName": "NYE25_NorthSydney_RoadClosureClearwayMap.pdf",
-            "fileType": "PDF",
-            "linkName": "NYE25_NorthSydney_RoadClosureClearwayMap",
-            "sizeInBytes": 1253331,
-            "uniqueFileName": "160459_1764657174955_NYE25_NorthSydney_RoadClosureClearwayMap.pdf"
-          }
-        ],
-        "isInitialReport": false,
-        "created": 1764657211000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Check signage",
-        "adviceB": "Use public transport",
-        "adviceC": "Allow extra travel time",
-        "end": 1767196800000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1764722975082,
-        "otherAdvice": "<p><strong>With major road closures and parking restrictions in place this New Year&#39;s Eve attendees should leave the car at home and catch public transport instead.</strong></p><p>Roads along the waterfront in Milsons Point, Lavender Bay and Blues Point start closing the night before on Tuesday 30 December.</p><p>On New Year&#39;s Eve roads key roads in North Sydney CBD close from 3pm follow by major closures in Milsons Point, Kirribilli and Lavender Bay from 5pm. Roads will reopen by 3am on 1 January.</p><p><strong>Key road closure timings:</strong></p><ul><li><strong>7pm 30 Dec – 3am 1 Jan: </strong>harbourfront roads around vantage points in Milsons Point, Kirribilli and McMahons Point will close including Blues Point Rd, Lavender Cres, Kirribilli Ave, Olympic Dr, Broughton St, Pitt St, Railway Ave and Henry Lawson Ave.</li><li><strong>8am 31 Dec – 3am 1 Jan: </strong>sections of Blues Point Rd from French St, Alfred St Sth and local roads surrounding vantage points will close. </li><li><strong>12pm 31 Dec - 3am 1 Jan: </strong>Fitzroy St between Alfred St South and Broughton St. Use High St instead.</li><li><strong>3pm 31 Dec – 3am 1 Jan:</strong> Blue St at North Sydney Station and Ennis Rd from Broughton St at Milsons Point Station will close.</li><li><strong>5pm 31 Dec – 3am 1 Jan: </strong>more <strong>major roads</strong> in North Sydney, McMahons Point, Milsons Point and Waverton including sections of Miller St, Blues Point Rd, Lavender St, Union St, Balls Head Rd, Pacific Hwy southbound, Alfred St South, Walker St, Denison St and surrounding local roads. </li><li>From 5pm access to Kirribilli and Milsons Point is via Military Rd only due to the closure of Pacific Hwy southbound.</li><li><strong>8pm 31 Dec – 3am 1 Jan: </strong>the Pacific Hwy northbound off ramp to North Sydney from Sydney Harbour Bridge. Use the Miller St or Military Rd off-ramps instead for access to North Sydney.</li><li><strong>11pm – 1.30am: </strong>Sydney Harbour Bridge closed in both directions and Western Distributor fully closed between Pyrmont and the city. Arthur St southbound between Berry St and Mount St, all traffic to turn left on to Warringah Fwy northbound.</li></ul><p><strong>Special event clearways will be in effect on various roads in Kirribilli, Lavender Bay, McMahons Point, Milsons Point and North Sydney between 1pm NYE and 3am NYD. On some streets clearways in Milsons Point, Kirribilli and McMahons Point will be in effect from 6pm 30 Dec.</strong></p><p>Clearways are strict no-parking zones for all vehicle types, and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in signposted clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed/what-to-do\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator.</p>",
-        "arrangementElements": [
-          {
-            "html": "<p>Road closures affect both directions unless stated otherwise.</p><p><strong>North Sydney / Milsons Point / McMahons Point / Lavender Bay / Kirribilli / Waverton</strong></p><p><strong>From 7pm 30 Dec 2025 to 3am 1 Jan 2026</strong></p><ul><li>Blues Point Rd 2 from Warung St                                                       </li><li>Broughton St between Fitzroy St and Olympic Dr                                                       </li><li>Henry Lawson Ave 2 from Blues Point Rd                                                       </li><li>Lavender Crescent 2 from Lavender St                                                       </li><li>Kirribilli Ave 1 between Jeffreys St and Broughton St                                                       </li><li>Olympic Dr between Broughton St and Alfred St South                                                       </li><li>Pitt St between Broughton St and Jeffreys St                                                       </li><li>Railway Ave from Lavender Crescent                                                       </li></ul><p>1 Traffic will be diverted into Jeffreys St (Contra-Flow) and continue to Fitzroy St. Existing one-way signage will be covered.</p><p>2 Resident access only between 7pm Mon 30 Dec and 7am 31 Dec</p><p><strong>CAHILL EXPRESSWAY</strong></p><p><strong>From 4am 31 December 2025 to 6am 1 January 2026</strong></p><ul><li>Cahill Exp from Warringah Fwy</li><li>Cahill Exp off ramp to Eastern Distributor</li><li>Cahill Exp on ramp from / to Domain Tunnel</li><li>Cahill Exp overpass between Bradfield Hwy and Conservatorium Rd</li><li>Conservatorium Rd from / to Macquarie St</li><li>High St on ramp between High St and Cahill Exp</li><li>Mount St on ramp between Mount St and Cahill Exp</li><li>Sydney Harbour Bridge lanes 7 and 8 of Cahill Exp</li></ul><p><strong>North Sydney / Milsons Point / McMahons Point / Lavender Bay / Kirribilli / Waverton</strong></p><p><strong>from 8am 31 Dec 2025 to 3am 1 Jan 2026</strong></p><ul><li>Alfred St South 4 between Olympic Dr and Dind St</li><li>Bayview St 4 from King George St to East Cres St</li><li>Blues Point Rd 4 between East Cres St and Warung St</li><li>Burton St between Alfred St S and Broughton St</li><li>East Crescent St 4 between Blues Point Rd and Warung St</li><li>French St 4 from Blues Point Rd</li><li>Harbourview Cres 3 from Lavender St </li><li>Mary Wollstonecraft Ln between Dind St and Paul St</li><li>McManus St 4 from Blues Point Rd</li><li>Middle St 4 from East Cres St </li><li>Northcliff St 4 between Paul St and Dind St</li><li>Nottingham Lane 4 from French St</li><li>Parker St 4 between Blues Point Rd and East Cres St</li><li>Paul St 4 between Alfred St South and Mary Wollstonecraft Ln</li><li>Waiwera St 4 from King George St to East Cres St</li><li>Warung St 4 between Blues Point Rd and East Cres St</li><li>Wellington Ln from King George St</li><li>West Cres St 4 from Blues Point Rd </li></ul><p><strong>Notes:</strong></p><p>4 Resident access only until 6pm. No access from 6pm to 3am.</p><p>3 Resident access only until 3pm. No access from 3pm to 3am. Resident pedestrian access only from 3pm</p><p>Subject to Police discretion on the day. Police may close early for pedestrian safety requirements. Vehicles parked within road closures will be restricted from exiting prior to roads reopening.</p><p><strong>From 12pm 31 Dec 2025 to 3am 1 Jan 2026</strong></p><ul><li>Fitzroy St between Alfred St South and Broughton St</li></ul><p><strong>From 3pm 31 Dec 2025 to 3am 1 Jan 2026</strong></p><ul><li>Blue St 5 between Miller St and Pacific Hwy</li><li>Ennis Rd 4 from Broughton St</li></ul><p><strong>Notes:</strong></p><p>5 Police to allow access to Sydney Trains Staff</p><p>4 Resident access only until 6pm. No access from 6pm to 3am.</p><p><strong>From 5pm 31 Dec 2025 to 3am 1 Jan 2026</strong></p><ul><li>Alfred St South 4 between Lavender St and Dind St</li><li>Ancrum St 6 from Bank Ln </li><li>Ancrum St from Euroka Ln</li><li>Arthur St (Middlemiss Tunnel) between Middlemiss St and Pacific Hwy</li><li>Arthur St 4 from Lavender St </li><li>Arthur Ln 6 from Arthur St</li><li>Balls Head Dr from Balls Head Rd</li><li>Balls Head Rd from Bay Rd</li><li>Bank Ln 4 from Union St </li><li>Bank St 6 from Union St </li><li>Bay Rd 4 between Crows Nest Rd and Balls Head Rd</li><li>Beulah St between Kirribilli Ave and Waruda St</li><li>Bligh St between Broughton St and Carabella St</li><li>Blue St between William St and Miller St</li><li>Blues Point Rd 4 between Miller St and East Cres St</li><li>Bradly Ave from Hipwood St</li><li>Broughton St 6 between McDougall St and Fitzroy St</li><li>Burton St between Humphrey Pl and Carabella St</li><li>Carabella St between Willoughby St and Kirribilli Ave</li><li>Cliff St 4, 7 between Alfred St South and Lavender St Northbound</li><li>Chuter St between Union St and Victoria St</li><li>Commodore Cres from Union St</li><li>Commodore St from Dumbarton St</li><li>Crescent Pl between Broughton St and Bligh St</li><li>Denison St 11 between Spring St and Berry St</li><li>Dind St 4, 7 between Alfred St South and Glen St</li><li>Dumbarton St between Union St and Victoria St</li><li>Elamang Ave between Willoughby St and Peel St</li><li>Euroka Ln 6 between Euroka St and Ancrum St</li><li>Euroka St 6 between Union St and Euroka Ln</li><li>Fitzroy St between Broughton St and Carabella St</li><li>Gas Ln from Miller St </li><li>Glen St 7 between Dind St and Alfred St South Northbound</li><li>Greenway Dr 6 from Broughton St</li><li>Hill St from Walker St</li><li>Hipwood St 6 between McDougall St and High St</li><li>Holbrook Ave from Carabella St</li><li>Holt St between Victoria St and Chuter St</li><li>Horace St 6 from Balls Head Rd</li><li>Humphrey Pl between Crescent Pl and Bligh St</li><li>Hunter Cres 6 from William St </li><li>Jeffreys St between Fitzroy St and Kirribilli Ave</li><li>John St from Dumbarton St</li><li>King George St 6 between Blues Point Rd and Bay View St</li><li>Kirribilli Ave from Jeffreys St</li><li>Larkin St from Woolcott St</li><li>Lavender St 4 between Bradfield Hwy and Blues Point Rd</li><li>Little Spring St11 between Berry St and Spring St</li><li>Mackenzie St 6 between Miller St and Walker St</li><li>McBurney Ln between Parkes St and Peel St</li><li>McDougall St 4 between Broughton St and Willoughby St</li><li>McDougall St 4 West from Broughton St  </li><li>Middlemiss St 6 between Walker St and Lavender St</li><li>Miller St between Blue St and Berry St</li><li>Miller St 4 between Lavender St and Mackenzie St</li><li>Mil Mil St from Blues Point Rd</li><li>Mitchel St between Blues Point Rd and Victoria St</li><li>Mount St between Pacific Hwy and Wheeler Ln</li><li>Mount St11 between Denison St and Walker St</li><li>Munro St </li><li>Pacific Hwy between Berry St and Arthur St Southbound</li><li>Parkes St between Upper Pitt St and Carabella St</li><li>Peel St from Upper Pitt St</li><li>Plunkett St from Kirribilli Ave</li><li>Princes Pl from Mil Mil St</li><li>Princes St between Queens Ave and Blues Point Rd</li><li>Queens Ave between Victoria St and Mil Mil St</li><li>Robertson Ln between Fitzroy St and Parkes St</li><li>Ross St 6 from Bay Rd </li><li>Spring St11 between Denison St and Walker St</li><li>Thomas St between Union St and Victoria St</li><li>Union St6 between Euroka St and Blues Point Rd</li><li>Union St 4 from Euroka St and Commodore Cres</li><li>Upper Pitt St between Jeffreys St and Peel St</li><li>Victoria Pl between Victoria St and Holt St</li><li>Victoria St between Blues Point Rd and Dumbarton St</li><li>Victoria St between Dumbarton St and Munro St</li><li>Waiwera St 4 between Lavender St and King George St</li><li>Walker St 4 between Lavender St and Middlemiss St</li><li>Walker St6 between Mount St and Pacific Hwy</li><li>Walker St6 between Berry St and Mount St Southbound</li><li>Walker Ln 6 from Middlemiss St</li><li>Waruda St from Beulah St</li><li>Waterhen Dr from Balls Head Rd</li><li>Webb St from Victoria St</li><li>Whatmore Ln 6 from Bay Rd</li><li>Willoughby St from Broughton St</li><li>William St 6 between Blues Point Rd and Pacific Hwy</li><li>Wilona Ave 6 from Miller St</li><li>Winslow Ln from Winslow St</li><li>Winslow St from Willoughby St</li><li>Wood St between Balls Head Rd and Larkin St</li><li>Woolcott Ave from Dumbarton St</li><li>Woolcott St 6 between Balls Head Rd and Euroka St</li></ul><p><strong>Notes:</strong></p><p>4. Resident access only until 6pm. No access from 6pm to 3am.</p><p>6. Resident access only until 5pm. No access from 5pm to 3am.No access to Blues Point Rd from Miller St. Blues Point Rd and Lavender St resident access via Bay Rd, Carr St, Euroka St and Union St. Waverton Peninsula residential access is via Bay Rd. Kirribilli resident access via High St and McDougall St until 5pm.</p><p>7. Vehicles will be allowed to exit the area until 8pm via Cliff St.</p><p>11. Managed access for residents and businesses</p><p><strong> </strong>Subject to Police discretion on the day. Police may close early for pedestrian safety requirements. Vehicles parked within road closures will be restricted from exiting prior to roads reopening.</p><p>Restrictions apply also to all streets south of Woolcott St, south of Union St and south of High St (excluding High St).</p><p><strong>From 8pm 31 Dec 2025 to 3am 1 Jan 2026</strong></p><ul><li>Pacific Hwy northbound from Bradfield Hwy off-ramp to William St</li></ul><p><strong>Note:</strong> Including Greenwood Plaza car park</p><p><strong>From 11pm 31 Dec 2025 to 1:30am 1 Jan 2026</strong></p><ul><li>Arthur St 8 between Berry St and Mount St Southbound</li></ul><p>8 All traffic to turn left on to Warringah Fwy northbound</p><p><strong>SYDNEY HARBOUR BRIDGE</strong></p><p><strong>From 2pm 31 December 2025 to 4am  1 January 2026</strong></p><ul><li>Grosvenor St off ramp1 between Sydney Harbour Bridge and Grosvenor St</li></ul><p><strong>Note: </strong>1. Grosvenor St will be closed eastbound from 2:00pm. Traffic will enter the city via York St until 10:00pm.</p><p><strong>From 11pm 31 December 2025 to 1:30am 1 January 2026</strong></p><ul><li>Bridge deck all Bradfield Hwy lanes (1 to 6) of Sydney Harbour Bridge</li><li>Clarence St on ramp from Jamison St to Sydney Harbour Bridge</li><li>Clarence St on ramp Bus Lane to Sydney Harbour Bridge</li><li>Falcon St on ramp to Sydney Harbour Bridge</li><li>Mount St on ramp to Sydney Harbour Bridge</li><li>Western Distributor on ramp between Harbour St and Sydney Harbour Bridge</li><li>Western Distributor on ramp between King St off ramp and Sydney Harbour Bridge</li></ul><p> </p>",
-            "title": "Road Closures",
-            "id": "743909"
-          },
-          {
-            "html": "<p>Clearways are strict no-parking zones for all vehicle types, and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in signposted clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed/what-to-do\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator.</p><p><strong>Milsons Point / McMahons Point</strong></p><p><strong>From 6pm 30 Dec 2025 to 3am 1 Jan 2026</strong></p><ul><li>Blues Point Rd from Warung St</li><li>Henry Lawson Ave from Blues Point Rd </li><li>Broughton St between Olympic Dr and Fitzroy St</li><li>Jeffrey St between Pitt St and Kirribilli Ave</li><li>Kirribilli Ave between Broughton St and Jeffreys St</li><li>Olympic Dr between Kirribilli Ave and Alfred St South</li><li>Pitt St between Broughton St and Jeffreys St</li></ul><p><strong>Milsons Point / McMahons Point/ Neutral B ay</strong></p><p><strong>From 6am 31 Dec 2025 to 3am 1 Jan 2026</strong></p><ul><li>Alfred St South from Luna Park sign (Dind Street) to Olympic Dr </li><li>Blues Point Rd between Mil Mil St and Warung St</li><li>Burton St between Alfred St South and Broughton St</li><li>Ernest St between Park Ave and Ben Boyd Rd</li><li>Fitzroy St between Alfred St and Broughton St</li><li>Harbourview Cres From Lavender St</li><li>Northcliff St between Paul St and Dind St</li><li>Milsons Rd between Cremorne Rd and Wharf Rd</li></ul><p><strong>North Sydney / Milsons Point / McMahons Point / Lavender Bay / Kirribilli / Waverton</strong></p><p><strong>From 1pm 31 Dec 2025 to 3am 1 Jan 2026</strong></p><ul><li>Alfred St South between Dind St and Lavender St</li><li>Arthur St (Middlemiss Tunnel) between Middlemiss St and Pacific Hwy</li><li>Bay Rd* between Pacific Hwy and Edward St</li><li>Berry St * between Pacific Hwy to Warringah Freeway ramps Northern side</li><li>Berry St between Warringah Freeway ramp and Pacific Hwy Southern side</li><li>Blue St* between William St and Pacific Hwy</li><li>Blues Point Rd between Blue St and Mil Mil St </li><li>Broughton St between Fitzroy St and McDougall St</li><li>Clark Rd between High St and McDougall St</li><li>Ennis Rd between Broughton St and roundabout</li><li>Gas Ln from Miller St</li><li>High St between Clark Rd and Cahill Expressway on-ramp</li><li>Lavender St between Alfred St South and Blues Point Rd</li><li>Larkin St From Wood St to the end heading north</li><li>McLaren St* between Pacific Hwy and Miller St Southern side</li><li>Middlemiss St between Walker St and Lavender St</li><li>Miller St* between Berry St and McLaren St</li><li>Miller St between McLaren St and Falcon St</li><li>Miller St between Berry St and Blue St</li><li>Mount St between Pacific Hwy and Wheeler Ln</li><li>Pacific Hwy * between McLaren St and Miller St Northern side</li><li>Pacific Hwy between Berry St and Miller St Southern side</li><li>William St between Blues Point Rd and Pacific Hwy</li></ul><p>* Authorised Route Buses excepted</p><p><strong>NORTH SYDNEY / MILSONS POINT / MCMAHONS POINT / LAVENDER BAY / KIRRIBILLI / WAVERTON</strong></p><p><strong>From 3pm 31 Dec 2025 to 3am 1 Jan 2026</strong></p><ul><li>Arthur St between Pacific Hwy and Berry St Western side</li><li>Denison St between Mount St and Berry St</li><li>Falcon St between Pacific Hwy and Warringah Freeway Northern side</li><li>Falcon St between Warringah Freeway and Military Rd Southern side</li><li>Military Rd  between Falcon St and Spit Rd  </li><li>Mount St between Arthur St and Denison St</li><li>Pacific Hwy between Miller St and Arthur St Northern side</li><li>Pacific Hwy between Blue St and Miller St Southern side</li><li>Walker St Pacific Hwy to Berry St</li></ul>",
-            "title": "Special Event Clearways",
-            "id": "743910"
-          }
-        ],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1767099600000,
-        "displayName": "Sydney New Year's Eve",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Blues Point Road, Miller St, Lavender St, Pacific Hwy",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "North Sydney, McMahons Point, Milsons Point, Kirribilli",
             "trafficVolume": ""
           }
         ],
@@ -1368,129 +1250,6 @@
     },
     {
       "type": "Feature",
-      "id": 257899,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.2075091,
-          -33.8634437
-        ],
-        "collections": [
-          {
-            "type": "Point",
-            "coordinates": [
-              151.192869,
-              -33.863617
-            ]
-          },
-          {
-            "type": "Point",
-            "coordinates": [
-              151.211248,
-              -33.873462
-            ]
-          },
-          {
-            "type": "Point",
-            "coordinates": [
-              151.203565,
-              -33.856992
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "City of Sydney - New Year's Eve 2025",
-            "linkURL": "https://www.sydneynewyearseve.com/"
-          },
-          {
-            "linkText": "NYE 2025 TfNSW Interactive Road Closure and Clearway map",
-            "linkURL": "https://experience.arcgis.com/experience/d6152a01b02949bc99a2da6dcfe598cf"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>Transport services will be significantly affected by road closures in the city. Visit <a href=\"https://transportnsw.info/events/2023/12/sydney-new-years-eve-2023\" target=\"_blank\">transportnsw.info/sydney-nye</a> for all the details you need to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [
-          {
-            "displayName": "NYE25_Balmain_Birchgrove_RoadClosuresClearwaysMap",
-            "fileName": "NYE25_Balmain_Birchgrove_RoadClosuresClearwaysMap.pdf",
-            "fileType": "PDF",
-            "linkName": "NYE25_Balmain_Birchgrove_RoadClosuresClearwaysMap",
-            "sizeInBytes": 1310678,
-            "uniqueFileName": "899006_1764808020512_NYE25_Balmain_Birchgrove_RoadClosuresClearwaysMap.pdf"
-          },
-          {
-            "displayName": "NYE25_NorthSydney_RoadClosureClearwayMap",
-            "fileName": "NYE25_NorthSydney_RoadClosureClearwayMap.pdf",
-            "fileType": "PDF",
-            "linkName": "NYE25_NorthSydney_RoadClosureClearwayMap",
-            "sizeInBytes": 1253331,
-            "uniqueFileName": "933251_1764808046073_NYE25_NorthSydney_RoadClosureClearwayMap.pdf"
-          },
-          {
-            "displayName": "NYE25_SydneyCBD_RoadClosureClearwayMap",
-            "fileName": "NYE25_SydneyCBD_RoadClosureClearwayMap.pdf",
-            "fileType": "PDF",
-            "linkName": "NYE25_SydneyCBD_RoadClosureClearwayMap",
-            "sizeInBytes": 1283297,
-            "uniqueFileName": "457054_1765247928739_NYE25_SydneyCBD_RoadClosureClearwayMap.pdf"
-          }
-        ],
-        "isInitialReport": false,
-        "created": 1764656368000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Check signage",
-        "adviceB": "Use public transport",
-        "adviceC": "Avoid the area",
-        "end": 1767207600000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1765247974133,
-        "otherAdvice": "<p><strong>Significant road closures and widespread parking restrictions will be in effect across the Sydney CBD and Pyrmont as hundreds of thousands of people gather at harbour vantage points for the New Year&#39;s Eve 9pm and midnight fireworks.</strong></p><p>Do not drive on NYE - parking is limited and access to properties and car parks will be restricted. Catch public transport.</p><p><strong>KEY ROAD CLOSURES:</strong></p><ul><li>The Cahill Expressway southbound lanes 7 and 8 on the Harbour Bridge and Circular Quay Overpass will close from 4am on NYE. The Cahill Walk will also close.</li><li>Roads in Circular Quay and The Rocks close from 12pm and 2pm, including the Harbour Bridge Grosvenor St off-ramp, use York St instead. </li><li>Major closures in the city centre and Pyrmont from 5pm and 7pm.</li><li>From 7pm the only way to travel east/west across the city is via Goulburn St or the Cross City Tunnel. From the Harbour Bridge there will also be no access to Harbour St at Darling Harbour. Use York St or Glebe Off-ramps</li><li>The Harbour Bridge walkway and cycleway close from 6pm to 2am. CBD cycleways across the city will close when roads close.</li><li>By 11pm the city is locked down with no vehicle access, only through traffic available via the Cross City Tunnel and Harbour Tunnel</li><li>The Sydney Harbour Bridge will be closed in both directions from 11pm until 1.30am. The citybound lanes of the Anzac Bridge, Western Distributor, M4 / M8 citybound tunnels and Iron Cove Link will also be closed from 11pm to 1.30am.</li><li>Roads start reopening from 1.30am on NYD including the Harbour Bridge, with most roads reopened by 4am.</li><li>See the <a href=\"https://experience.arcgis.com/experience/d6152a01b02949bc99a2da6dcfe598cf\" target=\"_blank\">interactive map</a> for full details of all the road closure locations and times.</li></ul><p><strong>Special event clearway parking restrictions will be in effect on most roads in the city and Pyrmont from 6am NYE until 4am NYD. </strong>Clearways are strict no-parking zones for all vehicle types, and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in signposted clearways will be towed and a fee applies. If your vehicle is towed, search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed/what-to-do\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1767099600000,
-        "displayName": "Sydney New Year's Eve",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "-",
-            "mainStreet": "Major roads including Cahill Expressway, Sydney Harbour Bridge, Western Distributor",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Sydney CBD and Pyrmont",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 257773,
       "geometry": {
         "type": "Point",
@@ -2079,156 +1838,6 @@
     },
     {
       "type": "Feature",
-      "id": 255690.0,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.2112519,
-          -33.8617699
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Le Jolly Market",
-            "linkURL": "https://lejollymarket.com.au/"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/\" target=\"_blank\">transportnsw.info</a> to plan your trip on public transport.</p>",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1763080718000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Exercise caution",
-        "adviceB": "Allow extra travel time",
-        "adviceC": "Use public transport",
-        "end": 1766318400000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1765559137131,
-        "otherAdvice": "<p><strong>Large crowds are expected to attend the Le Jolly Market from Thursday 11 to Sunday 21 December. Weekdays between 4pm and 10.30pm and weekends between 11am and 10.30pm (hours vary).</strong></p><p>The Christmas markets are being held at Customs House Forecourt (on Alfred St).</p><p>Traffic will be heavy in the area throughout the event. Motorists are advised to allow additional travel time and be aware of increased pedestrian activity.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1765371600000,
-        "displayName": "Christmas Markets",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Customs House Forecourt",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Alfred Street and Loftus Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Circular Quay",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 259268,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.7099303,
-          -32.9140586
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "9:30pm",
-            "fromDay": "Sunday",
-            "startTime": "5:00pm",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1765763983000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Exercise caution",
-        "adviceC": "Check signage",
-        "end": 1766313000000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1765763984023,
-        "otherAdvice": "<p>Lambton Park Carols will be held at Lambton Oval and is a free, family-friendly event with Christmas carnival fair from 5pm, carols at 7pm and fireworks at 9pm. Motorists should allow extra travel time and be aware of increased pedestrian activity on local roads.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1766296800000,
-        "displayName": "Lambton Park Carols",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Howe Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Hunter",
-            "secondLocation": "",
-            "suburb": "Lambton",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 259270.0,
       "geometry": {
         "type": "Point",
@@ -2649,73 +2258,6 @@
             "impactedLanes": [],
             "locationQualifier": "approaching",
             "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road, Centenary Drive",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Sydney Olympic Park",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 257979,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.0609599,
-          -33.8441756
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>Trackwork is taking place on Tuesday 30 December and Sunday 11 January that will affect how you travel to Olympic Park. Visit <a href=\"https://transportnsw.info/events\" target=\"_blank\">transportnsw.info</a> to plan your trip. </p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1764731444000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Use public transport",
-        "adviceC": " ",
-        "end": 1768119300000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1765921314747,
-        "otherAdvice": "<p><strong>Upcoming NBL matches at Qudos Bank Arena:</strong></p><ul><li><strong>Sunday 21 December: </strong><a href=\"https://transportnsw.info/events/2025/12/nbl-sydney-kings-v-cairns-taipans\" target=\"_blank\">Sydney Kings v Cairns Taipans</a>. Tip off at 4.30pm, full time around 6.30pm.</li><li><strong>Thursday 25 December: </strong><a href=\"https://transportnsw.info/events/2025/12/nbl-sydney-kings-v-illawarra-hawks\" target=\"_blank\">Sydney Kings v Illawar﻿ra Hawks</a>. Tip off at 8.30pm, full time around 10.30pm.</li><li><strong>Tuesday 30 December: </strong><a href=\"https://transportnsw.info/events/2025/12/nbl-sydney-kings-v-brisbane-bullets\" target=\"_blank\">Sydney Kings v Brisbane Bullets</a>. WNBL match from 5pm. NBL tip off at 7.30pm, full time around 9.30pm.</li><li><strong>Monday 5 January: </strong><a href=\"https://transportnsw.info/events/2026/01/nbl-sydney-kings-v-se-melbourne-phoenix\" target=\"_blank\">Sydney Kings v S.E. Melbourne Phoenix</a>. WNBL match from 5pm. NBL tip off at 7.30pm, full time around 9.30pm.</li><li><strong>Sunday 11 January: : </strong><a href=\"https://transportnsw.info/events/2026/01/nbl-sydney-kings-v-melbourne-united\" target=\"_blank\">Sydney Kings v Melbourne United</a>. Tip off at 4.30pm, full time around 6.30pm.</li></ul><p>Traffic will be heavier than usual as fans make their way to and from Olympic Park, particularly during peak travel times and while other events are on in the precinct. </p><p>Motorists should allow extra travel time on the M4, Parramatta Rd, Homebush Bay Drive, Silverwater Rd, Centenary Dr and Concord Rd. </p><p>If you have to drive, carpool with your group <a href=\"https://www.sydneyolympicpark.nsw.gov.au/parking\" target=\"_blank\">pre-book your parking online</a> ahead of time to secure a space – available until 11:59pm the night before the event unless sold out prior. </p><p>To get to your carpark and avoid the heavy traffic congestion expected at the Homebush Bay Drive roundabout, use Silverwater Road, Holker Street and Hill Road</p><p>Sydney Olympic Park Authority may close local roads in the precinct to ensure pedestrian safety during the event. View the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a> for closure details</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1766235600000,
-        "displayName": "NBL",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Qudos Bank Arena",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road",
             "quadrant": "",
             "queueLength": 0,
             "region": "Sydney",
@@ -3474,207 +3016,6 @@
     },
     {
       "type": "Feature",
-      "id": 257970.0,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.2261474,
-          -33.9059453
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2025/12/race-day\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1764730492000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Use public transport",
-        "adviceC": " ",
-        "end": 1766217600000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1766217602753,
-        "otherAdvice": "<p><strong>Race Day at Royal Randwick Racecourse.</strong> Gates open 11.15am, start 12:20pm and finish 6pm.</p><p>Traffic will be heavier than usual on Anzac Pde, Doncaster Ave, High St, Alison Rd and Darley Rd as crowds travel to the event.</p><p>Motorists should allow extra travel time and be aware of increased pedestrian activity on local roads.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1766149200000,
-        "displayName": "Race Day",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Royal Randwick Racecourse",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "Anzac Parade, Alison Road, High Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Randwick",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 257978,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.7245444,
-          -32.9182011
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2025/12/league-men-newcastle-jets-fc-v-sydney-fc\" target=\"_blank\">transportnsw.info</a> to plan your trip</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1764731311000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Plan your journey",
-        "adviceC": " ",
-        "end": 1766218500000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1766218546060,
-        "otherAdvice": "<p><strong>A-League Men: Newcastle Jets FC v Sydney FC at McDonald Jones Stadium. Gates open 4pm, kick off at 5pm and finish at 6.45pm</strong></p><p>Traffic may be heavier than usual as fans travel to and from the match. Allow extra travel time on Turton Rd, Griffiths Rd, Newcastle Rd, Lambton Rd and Bridges Rd through Broadmeadow while fans are making their way to and from the stadium.</p><p>For passenger drop-off, use the allocated 10-minute loading zone in the McDonald Jones Stadium car park. Entry is via the driveway off Turton Road.</p><p>Motorists should allow extra travel time and be aware of increased pedestrian activity on local roads.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1766149200000,
-        "displayName": "A-League Men",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Turton Road",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Griffiths Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Hunter",
-            "secondLocation": "",
-            "suburb": "Broadmeadow",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 257972,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.9015667,
-          -34.4289698
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2025/12/nbl-illawarra-hawks-v-adelaide-36ers\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1764730648000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Use public transport",
-        "adviceB": "Allow extra travel time",
-        "adviceC": " ",
-        "end": 1766221200000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1766221201720,
-        "otherAdvice": "<p><strong>NBL Illawarra Hawks v Adelaide 36ers at WIN Entertainment Centre. Tip-off at 5.30pm, full time around 7.30pm.</strong></p><p>Traffic will be heavier than usual on roads approaching the Wollongong CBD and on local roads around WIN Entertainment Centre as fans travel to the match.</p><p>Local roads around the stadium may close before, during and after the game for the safety of pedestrians.</p><p>Fans driving to the game on the freeway are encouraged to use the Masters Rd exit to avoid congestion at Mount Ousley Rd, both in and out of Wollongong.</p><p>Motorists should allow extra time for parking and be aware of increased pedestrian activity on local roads.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1766149200000,
-        "displayName": "NBL",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "WIN Entertainment Centre",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Harbour Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "South Coast",
-            "secondLocation": "",
-            "suburb": "Wollongong",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 258709,
       "geometry": {
         "type": "Point",
@@ -3800,369 +3141,6 @@
             "region": "Sydney",
             "secondLocation": "",
             "suburb": "Randwick",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 257977,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.3391583,
-          -33.428209
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2025/12/carols-in-stadium\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1764731217000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Exercise caution",
-        "adviceC": " ",
-        "end": 1766227500000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1766227501284,
-        "otherAdvice": "<p><strong>Carols in the Stadium at polytec Stadium. Show starts at 5.30pm, show ends at 9pm</strong></p><p>Traffic will be heavier than usual on roads approaching the stadium as attendees travel to and from the stadium. Allow extra travel time and use local parking. </p><p>Dane Drive will be closed before the show from 3.30pm between the Central Coast Highway and Donnison Street and will reopen at 10pm.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1766149200000,
-        "displayName": "Concert",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Central Coast Highway",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Dane Drive",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Central Coast",
-            "secondLocation": "Donnison Street",
-            "suburb": "Gosford",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 257975,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.0688338,
-          -33.840499
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "<p>Match tickets include travel on rail services. Visit <a href=\"https://transportnsw.info/events/2025/12/bbl-sydney-thunder-v-sydney-sixers\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1764731080000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Use public transport",
-        "adviceB": "Allow extra travel time",
-        "adviceC": " ",
-        "end": 1766232000000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1766232004049,
-        "otherAdvice": "<p><strong>BBL Sydney Thunder v Sydney Sixers at ENGIE Stadium on Saturday 20 December. First ball at 7.15pm, end of play approximately at 10.15pm</strong></p><p>Traffic will be heavier than usual on roads approaching Sydney Olympic Park as attendees travel to and from the match.  </p><p>Motorists should allow extra travel time on roads including the M4 Mwy, Homebush Bay Dr, Concord Rd, Lane Cove Rd, Parramatta Rd, Centenary Dr and Silverwater Rd.</p><p>Attendees who need to drive should <a href=\"https://www.sydneyolympicpark.nsw.gov.au/parking\" target=\"_blank\">pre-book parking online</a> ahead of time to secure a space, available until 11:59pm the night before the event unless sold out prior.</p><p>If you have pre-booked your parking, follow the directions of staff and have your parking ticket ready to show at the car park entry.</p><p>Sydney Olympic Park Authority may close some local roads to ensure pedestrian safety during the event. For road closure details, visit the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">Sydney Olympic Park interactive map</a> for more details.  </p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1766149200000,
-        "displayName": "Cricket",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "ENGIE Stadium",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road, Centenary Drive",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Sydney Olympic Park",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 257973,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.2145048,
-          -33.86975
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2025/12/carols-in-domain\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1764730918000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Use public transport",
-        "adviceC": " ",
-        "end": 1766234700000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1766234701500,
-        "otherAdvice": "<p><strong>Carols in the Domain at The Domain Sydney on Saturday. Gate open from 1pm and event finishes at 11pm.</strong></p><p>With thousands of attendees expected, traffic will be heavier than usual in the CBD as crowds travel to and from the event.</p><p>If you are catching rideshare or taxis, use the dedicated drop-off location on Hospital Road at Art Gallery Road. For pick-ups after the event head towards Elizabeth Street or Sir John Young Crescent.  </p><p>Roads within and around The Domain Sydney will close for crowd safety before, during and after the event. Motorists should avoid driving through the area or expect delays and detours.</p><p><strong>The following roads will be closed from 8pm to 11:30pm </strong> </p><ul><li>Art Gallery Road from Hospital Road to Mrs Macquarie Road </li></ul><p><strong>The following roads will be closed between 9.30pm to 11:30pm</strong> </p><ul><li>St Mary’s Rd from Prince Albert Rd to Sir John Young Cr </li><li>Prince Albert Rd from Macquarie St to Art Gallery Rd </li><li>Hospital Rd from Art Gallery Rd to Shakespeare Pl </li><li>Macquarie St from Hunter St to Prince Albert Rd </li><li>St James Rd from Elizabeth St to Macquarie St </li><li>College St from Park St to Prince Albert Rd </li><li>Cathedral St at St Marys Rd </li></ul><p><br></p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1766149200000,
-        "displayName": "Christmas Carols",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "The Domain",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "to",
-            "mainStreet": "Macquarie St, Prince Albert Rd, College St, Art Gallery Rd",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Sydney CBD",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 255542,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.1996976,
-          -33.8768603
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "What's on at ICC Sydney Theatre",
-            "linkURL": "https://iccsydney.com.au/whats-on/"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "<p>L1 light rail services run regularly to stops at Darling Harbour. Visit <a href=\"https://transportnsw.info/\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1762989674000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Use public transport",
-        "adviceB": "Exercise caution",
-        "adviceC": "Allow extra travel time",
-        "end": 1766234700000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1766234701913,
-        "otherAdvice": "<p><strong>Events at ICC Sydney Theatre:</strong></p><ul><li><strong>Oprah Winfrey - Thursday 4 December</strong></li><li><strong>Jimmy Yang - Friday 5 December</strong></li><li><strong>Kelsea Ballerini - Saturday 6 + Sunday 7 December</strong></li><li><strong>Jacob Collier - Thursday 11 December</strong></li><li><strong>Patrizio Buanne - Thursday 11 December</strong></li><li><strong>The Wiggles Tree of Wisdom Big Show - Saturday 20 December</strong></li></ul><p><strong>﻿</strong>Allow extra travel time on roads in the city and Pyrmont around Darling Harbour as traffic may be heavier than usual as attendees travel to the shows, particularly during peak evening periods.</p><p>Motorists should exercise caution and be aware of increased pedestrian activity on local roads.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1764766800000,
-        "displayName": "Concert",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Harbour Street",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Darling Drive",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Sydney",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 256808,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.2232299,
-          -33.8891356
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "<p>Travel on transport is included in concert tickets, additional light rail services will run frequently before and after the show. Visit <a href=\"https://transportnsw.info/events/2025/12/dom-dolla\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [
-          {
-            "displayName": "Moore-Park-events-transport-map",
-            "fileName": "Moore-Park-events-transport-map.pdf",
-            "fileType": "PDF",
-            "linkName": "Moore-Park-events-transport-map",
-            "sizeInBytes": 692771,
-            "uniqueFileName": "327493_1763955212233_Moore-Park-events-transport-map.pdf"
-          },
-          {
-            "displayName": "ClearwayMap_MoorePark_NorthSouth_DropOff",
-            "fileName": "ClearwayMap_MoorePark_NorthSouth_DropOff.pdf",
-            "fileType": "PDF",
-            "linkName": "ClearwayMap_MoorePark_NorthSouth_DropOff",
-            "sizeInBytes": 748406,
-            "uniqueFileName": "592267_1763955113078_ClearwayMap_MoorePark_NorthSouth_DropOff.pdf"
-          }
-        ],
-        "isInitialReport": false,
-        "created": 1764019319000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Expect delays",
-        "adviceB": "Check signage",
-        "adviceC": " ",
-        "end": 1766234700000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1766234702718,
-        "otherAdvice": "<p><strong>Dom Dolla at Allianz Stadium. Show starts at 5.30pm, finishes around 11pm.</strong></p><p>With up to 40,000 fans expected, ticketholders are urged to leave the car at home and catch public transport to avoid heavy traffic and the high demand for parking.</p><p>Traffic delays are expected on roads in and around Moore Park as attendees make their way to and from the concert.</p><p>Motorists should plan to arrive early and allow of extra travel time on the Eastern Distributor, Moore Park Rd, Cleveland St, Anzac Pde and Lang Rd.</p><p><strong>Changed traffic conditions </strong></p><ul><li>Driver Ave will be partially closed outside the stadium from 3pm and will reopen once crowds have safely left the area.</li><li>No through-traffic will be available on Driver Ave, however access to EP2 and EP3 grass car parks and drop-off areas will be maintained from Moore Park Rd and Lang Rd.</li><li>Drop-off locations: Errol Flynn Boulevard, Driver Avenue or Moore Park Road at Oatley Road opposite the Stadium.<em> </em></li><li>Pick-up locations: Errol Flynn Boulevard or Moore Park Road at Oatley Road opposite the Stadium.</li><li>To avoid traffic delays, consider parking or get dropped off further away and walking to the Stadium.</li></ul><p><strong>Special event clearways will be in place on roads in Moore Park and surrounding areas from 3pm to midnight on sections of Albion St, Fitzroy St, Lang Rd and Moore Park Rd, and from 6am to midnight on sections of Cleveland St.  </strong></p><p>Clearways are strict no-parking zones for all vehicle types, and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed/what-to-do\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator.</p>",
-        "arrangementElements": [
-          {
-            "html": "<p>Clearways are strict no-parking zones for all vehicle types, and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed/what-to-do\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator.</p><p><strong>SURRY HILLS / MOORE PARK</strong></p><p><strong>From 6am to midnight </strong></p><ul><li>Cleveland Street between South Dowling Street and City Road (southern side) </li><li>Cleveland Street between Abercrombie Street and South Dowling Street (northern side)</li></ul><p><strong>From 3pm to midnight </strong></p><ul><li>Albion Street between Bourke Street and Flinders Street (both sides) </li><li>Fitzroy Street between South Dowling Street and Bourke Street (northern side) </li><li>Lang Road between Anzac Parade and Errol Flynn Boulevard (northern side)    </li><li>Moore Park Road between Flinders Street and Greens Road (northern side) </li><li>Moore Park Road between Cook Road and Poate Road (southern side) </li><li>Moore Park Road from approx. 80m west of Oatley Road to approx. 75m east of Oatley Road (northern side) </li></ul>",
-            "title": "Special Event Clearways",
-            "id": "756091"
-          }
-        ],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1766149200000,
-        "displayName": "Concert",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Allianz Stadium",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "Moore Park Road, Anzac Parade, Lang Road, Eastern Distributor",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Moore Park",
             "trafficVolume": ""
           }
         ],
@@ -4548,88 +3526,6 @@
     },
     {
       "type": "Feature",
-      "id": 259733,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.2751827,
-          -33.8902095
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>Plan your trip by transport at <a href=\"https://transportnsw.info\" target=\"_blank\">transportnsw.info</a>.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [
-          {
-            "displayName": "Bondi_RoadClosures_ClearwaysMap_21Dec2025",
-            "fileName": "Bondi_RoadClosures_ClearwaysMap_21Dec2025.pdf",
-            "fileType": "PDF",
-            "linkName": "Bondi_RoadClosures_ClearwaysMap_21Dec2025",
-            "sizeInBytes": 539077,
-            "uniqueFileName": "155529_1766116936132_Bondi_RoadClosures_ClearwaysMap_21Dec2025.pdf"
-          }
-        ],
-        "isInitialReport": false,
-        "created": 1766116659000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Use public transport",
-        "adviceB": "Check signage",
-        "adviceC": " ",
-        "end": 1766315700000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1766267284436,
-        "otherAdvice": "<p>Road closures and special event clearway parking restrictions will be in place on Sunday for an event.</p><p>Traffic will be heavier than usual in the area, so motorists are advised to allow extra travel time, follow diversions and the directions of Traffic Controllers and NSW Police.</p><p><strong>Road closures 4pm to 10pm:</strong></p><ul><li>Campbell Pde between Ramsgate Ave and Queen Elizabeth Dr roundabout</li><li>Sections of Curlewis St, Hall St, Wairoa Ave, Warners Ave, Hastings Pde, Beach Rd and Military Rd will also close.</li></ul><p><strong>Special event clearways will be in effect along Bondi Rd, Campbell Pde, Park Drive and Queen Elizabeth Dr from 1pm to 10pm.</strong></p><p>Clearways are strict no-parking zones for all vehicle types, and apply even to local residents and businesses with parking permits or TfNSW Mobility Scheme permit holders. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed/what-to-do\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator.</p>",
-        "arrangementElements": [
-          {
-            "html": "<p><strong>ROAD CLOSURES</strong></p><p><strong>Bondi Beach</strong></p><p><strong>From 4pm to 10pm</strong></p><ul><li>Beach Rd between Campbell Pde and Gould St Both directions</li><li>Campbell Pde between Ramsgate Ave and Queen Elizabeth Dr roundabout Both directions</li><li>Curlewis St between Campbell Pde and Gould St Both directions</li><li>Hall St between Campbell Pde and Gould St Both directions</li><li>Hastings Pde between Gould St and Wairoa Ave Both directions</li><li>Military Rd between Blair St and Wallis Pde Southbound</li><li>Wairoa Ave between Campbell Pde and Warners Ave Both directions</li><li>Wairoa Ave between Blair St and Wallis Pde Southbound</li><li>Warners Ave between Campbell Pde and Wairoa Ave Both directions</li></ul><p><strong>Special Event Clearways</strong></p><p><strong>Bondi Beach</strong></p><p><strong>From 1pm to 10pm</strong></p><ul><li>Bondi Rd between Syd Einfeld Dr and Dudley St Both sides</li><li>Bondi Rd1 between Dudley St and Francis St Northern side</li><li>Bondi Rd between Francis St and Dudley St Southern side</li><li>Campbell Pde between Francis St and Ramsgate Ave Both sides</li><li>Campbell Pde 2 Parking on Campbell between the north and southbound lanes. Between Wairoa Ave and Queen Elizabeth Dr Both sides</li><li>Park Drive from Queen Elizabeth Dr Both sides</li><li>Queen Elizabeth Drive (Bondi Beach Carpark) 3 between Campbell Pde roundabout and Bondi Surf Life Saving Club (pedestrian crossing), south of Ramsgate Ave. Both sides</li></ul><p>Notes</p><p>1. Authorised Route Buses Excepted </p><p>2. Police vehicles Excepted.</p><p>2. Includes all car parking spaces.</p>",
-            "title": "Road Closures and Special Event Clearways",
-            "id": "756198"
-          }
-        ],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1766235600000,
-        "displayName": "SPECIAL EVENT Day of Reflection",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Ramsgate Avenue",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Campbell Parade",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "Queen Elizabeth Drive",
-            "suburb": "Bondi",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 258559,
       "geometry": {
         "type": "Point",
@@ -4697,6 +3593,546 @@
             "region": "Hunter",
             "secondLocation": "",
             "suburb": "Heatherbrae & Hexham to Beresfield",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 257979,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0609599,
+          -33.8441756
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "<p>Trackwork is taking place on Tuesday 30 December and Sunday 11 January that will affect how you travel to Olympic Park. Visit <a href=\"https://transportnsw.info/events\" target=\"_blank\">transportnsw.info</a> to plan your trip. </p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1764731444000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use public transport",
+        "adviceC": " ",
+        "end": 1768119300000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1766304046508,
+        "otherAdvice": "<p><strong>Upcoming NBL matches at Qudos Bank Arena:</strong></p><ul><li><strong>Thursday 25 December: </strong><a href=\"https://transportnsw.info/events/2025/12/nbl-sydney-kings-v-illawarra-hawks\" target=\"_blank\">Sydney Kings v Illawar﻿ra Hawks</a>. Tip off at 8.30pm, full time around 10.30pm.</li><li><strong>Tuesday 30 December: </strong><a href=\"https://transportnsw.info/events/2025/12/nbl-sydney-kings-v-brisbane-bullets\" target=\"_blank\">Sydney Kings v Brisbane Bullets</a>. WNBL match from 5pm. NBL tip off at 7.30pm, full time around 9.30pm.</li><li><strong>Monday 5 January: </strong><a href=\"https://transportnsw.info/events/2026/01/nbl-sydney-kings-v-se-melbourne-phoenix\" target=\"_blank\">Sydney Kings v S.E. Melbourne Phoenix</a>. WNBL match from 5pm. NBL tip off at 7.30pm, full time around 9.30pm.</li><li><strong>Sunday 11 January: </strong><a href=\"https://transportnsw.info/events/2026/01/nbl-sydney-kings-v-melbourne-united\" target=\"_blank\">Sydney Kings v Melbourne United</a>. Tip off at 4.30pm, full time around 6.30pm.</li></ul><p>Traffic will be heavier than usual as fans make their way to and from Olympic Park, particularly during peak travel times and while other events are on in the precinct.</p><p>Motorists should allow extra travel time on the M4, Parramatta Rd, Homebush Bay Drive, Silverwater Rd, Centenary Dr and Concord Rd. </p><p>If you have to drive, carpool with your group <a href=\"https://www.sydneyolympicpark.nsw.gov.au/parking\" target=\"_blank\">pre-book your parking online</a> ahead of time to secure a space – available until 11:59pm the night before the event unless sold out prior. </p><p>To get to your carpark and avoid the heavy traffic congestion expected at the Homebush Bay Drive roundabout, use Silverwater Road, Holker Street and Hill Road</p><p>Sydney Olympic Park Authority may close local roads in the precinct to ensure pedestrian safety during the event. View the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a> for closure details</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1766235600000,
+        "displayName": "NBL",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Qudos Bank Arena",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "approaching",
+            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Sydney Olympic Park",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 259268,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.7099303,
+          -32.9140586
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "9:30pm",
+            "fromDay": "Sunday",
+            "startTime": "5:00pm",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1765763983000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Exercise caution",
+        "adviceC": "Check signage",
+        "end": 1766313000000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1766313063799,
+        "otherAdvice": "<p>Lambton Park Carols will be held at Lambton Oval and is a free, family-friendly event with Christmas carnival fair from 5pm, carols at 7pm and fireworks at 9pm. Motorists should allow extra travel time and be aware of increased pedestrian activity on local roads.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1766296800000,
+        "displayName": "Lambton Park Carols",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Howe Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Hunter",
+            "secondLocation": "",
+            "suburb": "Lambton",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 259733,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2751827,
+          -33.8902095
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p>Plan your trip by transport at <a href=\"https://transportnsw.info\" target=\"_blank\">transportnsw.info</a>.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [
+          {
+            "displayName": "Bondi_RoadClosures_ClearwaysMap_21Dec2025",
+            "fileName": "Bondi_RoadClosures_ClearwaysMap_21Dec2025.pdf",
+            "fileType": "PDF",
+            "linkName": "Bondi_RoadClosures_ClearwaysMap_21Dec2025",
+            "sizeInBytes": 539077,
+            "uniqueFileName": "155529_1766116936132_Bondi_RoadClosures_ClearwaysMap_21Dec2025.pdf"
+          }
+        ],
+        "isInitialReport": false,
+        "created": 1766116659000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Use public transport",
+        "adviceB": "Check signage",
+        "adviceC": " ",
+        "end": 1766315700000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1766315701711,
+        "otherAdvice": "<p>Road closures and special event clearway parking restrictions will be in place on Sunday for an event.</p><p>Traffic will be heavier than usual in the area, so motorists are advised to allow extra travel time, follow diversions and the directions of Traffic Controllers and NSW Police.</p><p><strong>Road closures 4pm to 10pm:</strong></p><ul><li>Campbell Pde between Ramsgate Ave and Queen Elizabeth Dr roundabout</li><li>Sections of Curlewis St, Hall St, Wairoa Ave, Warners Ave, Hastings Pde, Beach Rd and Military Rd will also close.</li></ul><p><strong>Special event clearways will be in effect along Bondi Rd, Campbell Pde, Park Drive and Queen Elizabeth Dr from 1pm to 10pm.</strong></p><p>Clearways are strict no-parking zones for all vehicle types, and apply even to local residents and businesses with parking permits or TfNSW Mobility Scheme permit holders. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed/what-to-do\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator.</p>",
+        "arrangementElements": [
+          {
+            "html": "<p><strong>ROAD CLOSURES</strong></p><p><strong>Bondi Beach</strong></p><p><strong>From 4pm to 10pm</strong></p><ul><li>Beach Rd between Campbell Pde and Gould St Both directions</li><li>Campbell Pde between Ramsgate Ave and Queen Elizabeth Dr roundabout Both directions</li><li>Curlewis St between Campbell Pde and Gould St Both directions</li><li>Hall St between Campbell Pde and Gould St Both directions</li><li>Hastings Pde between Gould St and Wairoa Ave Both directions</li><li>Military Rd between Blair St and Wallis Pde Southbound</li><li>Wairoa Ave between Campbell Pde and Warners Ave Both directions</li><li>Wairoa Ave between Blair St and Wallis Pde Southbound</li><li>Warners Ave between Campbell Pde and Wairoa Ave Both directions</li></ul><p><strong>Special Event Clearways</strong></p><p><strong>Bondi Beach</strong></p><p><strong>From 1pm to 10pm</strong></p><ul><li>Bondi Rd between Syd Einfeld Dr and Dudley St Both sides</li><li>Bondi Rd1 between Dudley St and Francis St Northern side</li><li>Bondi Rd between Francis St and Dudley St Southern side</li><li>Campbell Pde between Francis St and Ramsgate Ave Both sides</li><li>Campbell Pde 2 Parking on Campbell between the north and southbound lanes. Between Wairoa Ave and Queen Elizabeth Dr Both sides</li><li>Park Drive from Queen Elizabeth Dr Both sides</li><li>Queen Elizabeth Drive (Bondi Beach Carpark) 3 between Campbell Pde roundabout and Bondi Surf Life Saving Club (pedestrian crossing), south of Ramsgate Ave. Both sides</li></ul><p>Notes</p><p>1. Authorised Route Buses Excepted </p><p>2. Police vehicles Excepted.</p><p>2. Includes all car parking spaces.</p>",
+            "title": "Road Closures and Special Event Clearways",
+            "id": "756500"
+          }
+        ],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1766235600000,
+        "displayName": "SPECIAL EVENT Day of Reflection",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Ramsgate Avenue",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Campbell Parade",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "Queen Elizabeth Drive",
+            "suburb": "Bondi",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 255690.0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2112519,
+          -33.8617699
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Le Jolly Market",
+            "linkURL": "https://lejollymarket.com.au/"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/\" target=\"_blank\">transportnsw.info</a> to plan your trip on public transport.</p>",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1763080718000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Exercise caution",
+        "adviceB": "Allow extra travel time",
+        "adviceC": "Use public transport",
+        "end": 1766318400000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1766318404042,
+        "otherAdvice": "<p><strong>Large crowds are expected to attend the Le Jolly Market from Thursday 11 to Sunday 21 December. Weekdays between 4pm and 10.30pm and weekends between 11am and 10.30pm (hours vary).</strong></p><p>The Christmas markets are being held at Customs House Forecourt (on Alfred St).</p><p>Traffic will be heavy in the area throughout the event. Motorists are advised to allow additional travel time and be aware of increased pedestrian activity.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1765371600000,
+        "displayName": "Christmas Markets",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Customs House Forecourt",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Alfred Street and Loftus Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Circular Quay",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 257899,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2075091,
+          -33.8634437
+        ],
+        "collections": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.192869,
+              -33.863617
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [
+              151.211248,
+              -33.873462
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [
+              151.203565,
+              -33.856992
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "City of Sydney - New Year's Eve 2025",
+            "linkURL": "https://www.sydneynewyearseve.com/"
+          },
+          {
+            "linkText": "NYE 2025 TfNSW Interactive Road Closure and Clearway map",
+            "linkURL": "https://experience.arcgis.com/experience/d6152a01b02949bc99a2da6dcfe598cf"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "<p>Transport services will be significantly affected by road closures. Visit <a href=\"https://transportnsw.info/events/2023/12/sydney-new-years-eve-2023\" target=\"_blank\">transportnsw.info/sydney-nye</a> for all the details you need to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [
+          {
+            "displayName": "NYE25_Balmain_Birchgrove_RoadClosuresClearwaysMap",
+            "fileName": "NYE25_Balmain_Birchgrove_RoadClosuresClearwaysMap.pdf",
+            "fileType": "PDF",
+            "linkName": "NYE25_Balmain_Birchgrove_RoadClosuresClearwaysMap",
+            "sizeInBytes": 1310678,
+            "uniqueFileName": "899006_1764808020512_NYE25_Balmain_Birchgrove_RoadClosuresClearwaysMap.pdf"
+          },
+          {
+            "displayName": "NYE25_NorthSydney_RoadClosureClearwayMap",
+            "fileName": "NYE25_NorthSydney_RoadClosureClearwayMap.pdf",
+            "fileType": "PDF",
+            "linkName": "NYE25_NorthSydney_RoadClosureClearwayMap",
+            "sizeInBytes": 1253331,
+            "uniqueFileName": "933251_1764808046073_NYE25_NorthSydney_RoadClosureClearwayMap.pdf"
+          },
+          {
+            "displayName": "NYE25_SydneyCBD_RoadClosureClearwayMap",
+            "fileName": "NYE25_SydneyCBD_RoadClosureClearwayMap.pdf",
+            "fileType": "PDF",
+            "linkName": "NYE25_SydneyCBD_RoadClosureClearwayMap",
+            "sizeInBytes": 1283297,
+            "uniqueFileName": "457054_1765247928739_NYE25_SydneyCBD_RoadClosureClearwayMap.pdf"
+          }
+        ],
+        "isInitialReport": false,
+        "created": 1764656368000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Check signage",
+        "adviceB": "Use public transport",
+        "adviceC": "Avoid the area",
+        "end": 1767207600000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1766374511749,
+        "otherAdvice": "<p><strong>Significant road closures and widespread parking restrictions will be in effect across the Sydney CBD and Pyrmont as hundreds of thousands of people gather at harbour vantage points for the New Year&#39;s Eve 9pm and midnight fireworks.</strong></p><p>Do not drive on NYE - parking is limited and access to properties and car parks will be restricted. Catch public transport.</p><p><strong>KEY ROAD CLOSURES:</strong></p><ul><li>The Cahill Expressway southbound lanes 7 and 8 on the Harbour Bridge and Circular Quay Overpass will close from 4am on NYE until 6am NYD. The Cahill Walk will also close.</li><li>Roads in Circular Quay and The Rocks close from 12pm and 2pm, including the Harbour Bridge Grosvenor St off-ramp, use York St instead.</li><li>Major closures in the city centre and Pyrmont from 5pm and 7pm.</li><li>From 7pm the only way to travel east/west across the city is via Goulburn St or the Cross City Tunnel. From the Harbour Bridge there will also be no access to Harbour St at Darling Harbour. Use York St or Glebe Off-ramps</li><li>The Harbour Bridge walkway and cycleway close from 6pm to 2am. CBD cycleways across the city will close when roads close.</li><li>By 11pm the city is locked down with no vehicle access, only through traffic available via the Cross City Tunnel and Harbour Tunnel</li><li>The Sydney Harbour Bridge will be closed in both directions from 11pm until 1.30am. The citybound lanes of the Anzac Bridge, Western Distributor, M4 / M8 citybound tunnels and Iron Cove Link will also be closed from 11pm to 1.30am.</li><li>Roads start reopening from 1.30am on NYD including the Harbour Bridge, with most roads in the city reopened by 4am.</li><li>See the <a href=\"https://experience.arcgis.com/experience/d6152a01b02949bc99a2da6dcfe598cf\" target=\"_blank\">interactive map</a> for full details of all the road closure locations and times.</li></ul><p><strong>Special event clearway parking restrictions will be in effect on most roads in the city and Pyrmont from 6am NYE until 4am NYD. </strong>Clearways are strict no-parking zones for all vehicle types, and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in signposted clearways will be towed and a fee applies. If your vehicle is towed, search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed/what-to-do\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1767099600000,
+        "displayName": "Sydney New Year's Eve",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "-",
+            "mainStreet": "Major roads including Cahill Expressway, Sydney Harbour Bridge, Western Distributor",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Sydney CBD and Pyrmont",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 257900.0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2119155,
+          -33.8492021
+        ],
+        "collections": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.203763,
+              -33.848588
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [
+              151.199085,
+              -33.837409
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [
+              151.206909,
+              -33.838727
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "North Sydney Council - New Year's Eve 2025",
+            "linkURL": "https://www.northsydney.nsw.gov.au/nye"
+          },
+          {
+            "linkText": "NYE 2025 TfNSW Interactive Road Closure and Clearway map",
+            "linkURL": "https://experience.arcgis.com/experience/d6152a01b02949bc99a2da6dcfe598cf"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "<p>Buses will be diverting while roads are closed from 3pm. Buses that usually run to Blue St North Sydney will use stops on Berry St and Miller St near McLaren St. Ferries will not stop at McMahons Point from 10am and Milsons Point from 2pm on NYE. Visit <a href=\"https://transportnsw.info/sydney-nye\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [
+          {
+            "displayName": "NYE25_NorthSydney_RoadClosureClearwayMap",
+            "fileName": "NYE25_NorthSydney_RoadClosureClearwayMap.pdf",
+            "fileType": "PDF",
+            "linkName": "NYE25_NorthSydney_RoadClosureClearwayMap",
+            "sizeInBytes": 1253331,
+            "uniqueFileName": "160459_1764657174955_NYE25_NorthSydney_RoadClosureClearwayMap.pdf"
+          }
+        ],
+        "isInitialReport": false,
+        "created": 1764657211000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Check signage",
+        "adviceB": "Use public transport",
+        "adviceC": "Allow extra travel time",
+        "end": 1767196800000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1764722975082,
+        "otherAdvice": "<p><strong>With major road closures and parking restrictions in place this New Year&#39;s Eve attendees should leave the car at home and catch public transport instead.</strong></p><p>Roads along the waterfront in Milsons Point, Lavender Bay and Blues Point start closing the night before on Tuesday 30 December.</p><p>On New Year&#39;s Eve roads key roads in North Sydney CBD close from 3pm follow by major closures in Milsons Point, Kirribilli and Lavender Bay from 5pm. Roads will reopen by 3am on 1 January.</p><p><strong>Key road closure timings:</strong></p><ul><li><strong>7pm 30 Dec – 3am 1 Jan: </strong>harbourfront roads around vantage points in Milsons Point, Kirribilli and McMahons Point will close including Blues Point Rd, Lavender Cres, Kirribilli Ave, Olympic Dr, Broughton St, Pitt St, Railway Ave and Henry Lawson Ave.</li><li><strong>8am 31 Dec – 3am 1 Jan: </strong>sections of Blues Point Rd from French St, Alfred St Sth and local roads surrounding vantage points will close. </li><li><strong>12pm 31 Dec - 3am 1 Jan: </strong>Fitzroy St between Alfred St South and Broughton St. Use High St instead.</li><li><strong>3pm 31 Dec – 3am 1 Jan:</strong> Blue St at North Sydney Station and Ennis Rd from Broughton St at Milsons Point Station will close.</li><li><strong>5pm 31 Dec – 3am 1 Jan: </strong>more <strong>major roads</strong> in North Sydney, McMahons Point, Milsons Point and Waverton including sections of Miller St, Blues Point Rd, Lavender St, Union St, Balls Head Rd, Pacific Hwy southbound, Alfred St South, Walker St, Denison St and surrounding local roads. </li><li>From 5pm access to Kirribilli and Milsons Point is via Military Rd only due to the closure of Pacific Hwy southbound.</li><li><strong>8pm 31 Dec – 3am 1 Jan: </strong>the Pacific Hwy northbound off ramp to North Sydney from Sydney Harbour Bridge. Use the Miller St or Military Rd off-ramps instead for access to North Sydney.</li><li><strong>11pm – 1.30am: </strong>Sydney Harbour Bridge closed in both directions and Western Distributor fully closed between Pyrmont and the city. Arthur St southbound between Berry St and Mount St, all traffic to turn left on to Warringah Fwy northbound.</li></ul><p><strong>Special event clearways will be in effect on various roads in Kirribilli, Lavender Bay, McMahons Point, Milsons Point and North Sydney between 1pm NYE and 3am NYD. On some streets clearways in Milsons Point, Kirribilli and McMahons Point will be in effect from 6pm 30 Dec.</strong></p><p>Clearways are strict no-parking zones for all vehicle types, and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in signposted clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed/what-to-do\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator.</p>",
+        "arrangementElements": [
+          {
+            "html": "<p>Road closures affect both directions unless stated otherwise.</p><p><strong>North Sydney / Milsons Point / McMahons Point / Lavender Bay / Kirribilli / Waverton</strong></p><p><strong>From 7pm 30 Dec 2025 to 3am 1 Jan 2026</strong></p><ul><li>Blues Point Rd 2 from Warung St                                                       </li><li>Broughton St between Fitzroy St and Olympic Dr                                                       </li><li>Henry Lawson Ave 2 from Blues Point Rd                                                       </li><li>Lavender Crescent 2 from Lavender St                                                       </li><li>Kirribilli Ave 1 between Jeffreys St and Broughton St                                                       </li><li>Olympic Dr between Broughton St and Alfred St South                                                       </li><li>Pitt St between Broughton St and Jeffreys St                                                       </li><li>Railway Ave from Lavender Crescent                                                       </li></ul><p>1 Traffic will be diverted into Jeffreys St (Contra-Flow) and continue to Fitzroy St. Existing one-way signage will be covered.</p><p>2 Resident access only between 7pm Mon 30 Dec and 7am 31 Dec</p><p><strong>CAHILL EXPRESSWAY</strong></p><p><strong>From 4am 31 December 2025 to 6am 1 January 2026</strong></p><ul><li>Cahill Exp from Warringah Fwy</li><li>Cahill Exp off ramp to Eastern Distributor</li><li>Cahill Exp on ramp from / to Domain Tunnel</li><li>Cahill Exp overpass between Bradfield Hwy and Conservatorium Rd</li><li>Conservatorium Rd from / to Macquarie St</li><li>High St on ramp between High St and Cahill Exp</li><li>Mount St on ramp between Mount St and Cahill Exp</li><li>Sydney Harbour Bridge lanes 7 and 8 of Cahill Exp</li></ul><p><strong>North Sydney / Milsons Point / McMahons Point / Lavender Bay / Kirribilli / Waverton</strong></p><p><strong>from 8am 31 Dec 2025 to 3am 1 Jan 2026</strong></p><ul><li>Alfred St South 4 between Olympic Dr and Dind St</li><li>Bayview St 4 from King George St to East Cres St</li><li>Blues Point Rd 4 between East Cres St and Warung St</li><li>Burton St between Alfred St S and Broughton St</li><li>East Crescent St 4 between Blues Point Rd and Warung St</li><li>French St 4 from Blues Point Rd</li><li>Harbourview Cres 3 from Lavender St </li><li>Mary Wollstonecraft Ln between Dind St and Paul St</li><li>McManus St 4 from Blues Point Rd</li><li>Middle St 4 from East Cres St </li><li>Northcliff St 4 between Paul St and Dind St</li><li>Nottingham Lane 4 from French St</li><li>Parker St 4 between Blues Point Rd and East Cres St</li><li>Paul St 4 between Alfred St South and Mary Wollstonecraft Ln</li><li>Waiwera St 4 from King George St to East Cres St</li><li>Warung St 4 between Blues Point Rd and East Cres St</li><li>Wellington Ln from King George St</li><li>West Cres St 4 from Blues Point Rd </li></ul><p><strong>Notes:</strong></p><p>4 Resident access only until 6pm. No access from 6pm to 3am.</p><p>3 Resident access only until 3pm. No access from 3pm to 3am. Resident pedestrian access only from 3pm</p><p>Subject to Police discretion on the day. Police may close early for pedestrian safety requirements. Vehicles parked within road closures will be restricted from exiting prior to roads reopening.</p><p><strong>From 12pm 31 Dec 2025 to 3am 1 Jan 2026</strong></p><ul><li>Fitzroy St between Alfred St South and Broughton St</li></ul><p><strong>From 3pm 31 Dec 2025 to 3am 1 Jan 2026</strong></p><ul><li>Blue St 5 between Miller St and Pacific Hwy</li><li>Ennis Rd 4 from Broughton St</li></ul><p><strong>Notes:</strong></p><p>5 Police to allow access to Sydney Trains Staff</p><p>4 Resident access only until 6pm. No access from 6pm to 3am.</p><p><strong>From 5pm 31 Dec 2025 to 3am 1 Jan 2026</strong></p><ul><li>Alfred St South 4 between Lavender St and Dind St</li><li>Ancrum St 6 from Bank Ln </li><li>Ancrum St from Euroka Ln</li><li>Arthur St (Middlemiss Tunnel) between Middlemiss St and Pacific Hwy</li><li>Arthur St 4 from Lavender St </li><li>Arthur Ln 6 from Arthur St</li><li>Balls Head Dr from Balls Head Rd</li><li>Balls Head Rd from Bay Rd</li><li>Bank Ln 4 from Union St </li><li>Bank St 6 from Union St </li><li>Bay Rd 4 between Crows Nest Rd and Balls Head Rd</li><li>Beulah St between Kirribilli Ave and Waruda St</li><li>Bligh St between Broughton St and Carabella St</li><li>Blue St between William St and Miller St</li><li>Blues Point Rd 4 between Miller St and East Cres St</li><li>Bradly Ave from Hipwood St</li><li>Broughton St 6 between McDougall St and Fitzroy St</li><li>Burton St between Humphrey Pl and Carabella St</li><li>Carabella St between Willoughby St and Kirribilli Ave</li><li>Cliff St 4, 7 between Alfred St South and Lavender St Northbound</li><li>Chuter St between Union St and Victoria St</li><li>Commodore Cres from Union St</li><li>Commodore St from Dumbarton St</li><li>Crescent Pl between Broughton St and Bligh St</li><li>Denison St 11 between Spring St and Berry St</li><li>Dind St 4, 7 between Alfred St South and Glen St</li><li>Dumbarton St between Union St and Victoria St</li><li>Elamang Ave between Willoughby St and Peel St</li><li>Euroka Ln 6 between Euroka St and Ancrum St</li><li>Euroka St 6 between Union St and Euroka Ln</li><li>Fitzroy St between Broughton St and Carabella St</li><li>Gas Ln from Miller St </li><li>Glen St 7 between Dind St and Alfred St South Northbound</li><li>Greenway Dr 6 from Broughton St</li><li>Hill St from Walker St</li><li>Hipwood St 6 between McDougall St and High St</li><li>Holbrook Ave from Carabella St</li><li>Holt St between Victoria St and Chuter St</li><li>Horace St 6 from Balls Head Rd</li><li>Humphrey Pl between Crescent Pl and Bligh St</li><li>Hunter Cres 6 from William St </li><li>Jeffreys St between Fitzroy St and Kirribilli Ave</li><li>John St from Dumbarton St</li><li>King George St 6 between Blues Point Rd and Bay View St</li><li>Kirribilli Ave from Jeffreys St</li><li>Larkin St from Woolcott St</li><li>Lavender St 4 between Bradfield Hwy and Blues Point Rd</li><li>Little Spring St11 between Berry St and Spring St</li><li>Mackenzie St 6 between Miller St and Walker St</li><li>McBurney Ln between Parkes St and Peel St</li><li>McDougall St 4 between Broughton St and Willoughby St</li><li>McDougall St 4 West from Broughton St  </li><li>Middlemiss St 6 between Walker St and Lavender St</li><li>Miller St between Blue St and Berry St</li><li>Miller St 4 between Lavender St and Mackenzie St</li><li>Mil Mil St from Blues Point Rd</li><li>Mitchel St between Blues Point Rd and Victoria St</li><li>Mount St between Pacific Hwy and Wheeler Ln</li><li>Mount St11 between Denison St and Walker St</li><li>Munro St </li><li>Pacific Hwy between Berry St and Arthur St Southbound</li><li>Parkes St between Upper Pitt St and Carabella St</li><li>Peel St from Upper Pitt St</li><li>Plunkett St from Kirribilli Ave</li><li>Princes Pl from Mil Mil St</li><li>Princes St between Queens Ave and Blues Point Rd</li><li>Queens Ave between Victoria St and Mil Mil St</li><li>Robertson Ln between Fitzroy St and Parkes St</li><li>Ross St 6 from Bay Rd </li><li>Spring St11 between Denison St and Walker St</li><li>Thomas St between Union St and Victoria St</li><li>Union St6 between Euroka St and Blues Point Rd</li><li>Union St 4 from Euroka St and Commodore Cres</li><li>Upper Pitt St between Jeffreys St and Peel St</li><li>Victoria Pl between Victoria St and Holt St</li><li>Victoria St between Blues Point Rd and Dumbarton St</li><li>Victoria St between Dumbarton St and Munro St</li><li>Waiwera St 4 between Lavender St and King George St</li><li>Walker St 4 between Lavender St and Middlemiss St</li><li>Walker St6 between Mount St and Pacific Hwy</li><li>Walker St6 between Berry St and Mount St Southbound</li><li>Walker Ln 6 from Middlemiss St</li><li>Waruda St from Beulah St</li><li>Waterhen Dr from Balls Head Rd</li><li>Webb St from Victoria St</li><li>Whatmore Ln 6 from Bay Rd</li><li>Willoughby St from Broughton St</li><li>William St 6 between Blues Point Rd and Pacific Hwy</li><li>Wilona Ave 6 from Miller St</li><li>Winslow Ln from Winslow St</li><li>Winslow St from Willoughby St</li><li>Wood St between Balls Head Rd and Larkin St</li><li>Woolcott Ave from Dumbarton St</li><li>Woolcott St 6 between Balls Head Rd and Euroka St</li></ul><p><strong>Notes:</strong></p><p>4. Resident access only until 6pm. No access from 6pm to 3am.</p><p>6. Resident access only until 5pm. No access from 5pm to 3am.No access to Blues Point Rd from Miller St. Blues Point Rd and Lavender St resident access via Bay Rd, Carr St, Euroka St and Union St. Waverton Peninsula residential access is via Bay Rd. Kirribilli resident access via High St and McDougall St until 5pm.</p><p>7. Vehicles will be allowed to exit the area until 8pm via Cliff St.</p><p>11. Managed access for residents and businesses</p><p><strong> </strong>Subject to Police discretion on the day. Police may close early for pedestrian safety requirements. Vehicles parked within road closures will be restricted from exiting prior to roads reopening.</p><p>Restrictions apply also to all streets south of Woolcott St, south of Union St and south of High St (excluding High St).</p><p><strong>From 8pm 31 Dec 2025 to 3am 1 Jan 2026</strong></p><ul><li>Pacific Hwy northbound from Bradfield Hwy off-ramp to William St</li></ul><p><strong>Note:</strong> Including Greenwood Plaza car park</p><p><strong>From 11pm 31 Dec 2025 to 1:30am 1 Jan 2026</strong></p><ul><li>Arthur St 8 between Berry St and Mount St Southbound</li></ul><p>8 All traffic to turn left on to Warringah Fwy northbound</p><p><strong>SYDNEY HARBOUR BRIDGE</strong></p><p><strong>From 2pm 31 December 2025 to 4am  1 January 2026</strong></p><ul><li>Grosvenor St off ramp1 between Sydney Harbour Bridge and Grosvenor St</li></ul><p><strong>Note: </strong>1. Grosvenor St will be closed eastbound from 2:00pm. Traffic will enter the city via York St until 10:00pm.</p><p><strong>From 11pm 31 December 2025 to 1:30am 1 January 2026</strong></p><ul><li>Bridge deck all Bradfield Hwy lanes (1 to 6) of Sydney Harbour Bridge</li><li>Clarence St on ramp from Jamison St to Sydney Harbour Bridge</li><li>Clarence St on ramp Bus Lane to Sydney Harbour Bridge</li><li>Falcon St on ramp to Sydney Harbour Bridge</li><li>Mount St on ramp to Sydney Harbour Bridge</li><li>Western Distributor on ramp between Harbour St and Sydney Harbour Bridge</li><li>Western Distributor on ramp between King St off ramp and Sydney Harbour Bridge</li></ul><p> </p>",
+            "title": "Road Closures",
+            "id": "743909"
+          },
+          {
+            "html": "<p>Clearways are strict no-parking zones for all vehicle types, and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in signposted clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed/what-to-do\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator.</p><p><strong>Milsons Point / McMahons Point</strong></p><p><strong>From 6pm 30 Dec 2025 to 3am 1 Jan 2026</strong></p><ul><li>Blues Point Rd from Warung St</li><li>Henry Lawson Ave from Blues Point Rd </li><li>Broughton St between Olympic Dr and Fitzroy St</li><li>Jeffrey St between Pitt St and Kirribilli Ave</li><li>Kirribilli Ave between Broughton St and Jeffreys St</li><li>Olympic Dr between Kirribilli Ave and Alfred St South</li><li>Pitt St between Broughton St and Jeffreys St</li></ul><p><strong>Milsons Point / McMahons Point/ Neutral B ay</strong></p><p><strong>From 6am 31 Dec 2025 to 3am 1 Jan 2026</strong></p><ul><li>Alfred St South from Luna Park sign (Dind Street) to Olympic Dr </li><li>Blues Point Rd between Mil Mil St and Warung St</li><li>Burton St between Alfred St South and Broughton St</li><li>Ernest St between Park Ave and Ben Boyd Rd</li><li>Fitzroy St between Alfred St and Broughton St</li><li>Harbourview Cres From Lavender St</li><li>Northcliff St between Paul St and Dind St</li><li>Milsons Rd between Cremorne Rd and Wharf Rd</li></ul><p><strong>North Sydney / Milsons Point / McMahons Point / Lavender Bay / Kirribilli / Waverton</strong></p><p><strong>From 1pm 31 Dec 2025 to 3am 1 Jan 2026</strong></p><ul><li>Alfred St South between Dind St and Lavender St</li><li>Arthur St (Middlemiss Tunnel) between Middlemiss St and Pacific Hwy</li><li>Bay Rd* between Pacific Hwy and Edward St</li><li>Berry St * between Pacific Hwy to Warringah Freeway ramps Northern side</li><li>Berry St between Warringah Freeway ramp and Pacific Hwy Southern side</li><li>Blue St* between William St and Pacific Hwy</li><li>Blues Point Rd between Blue St and Mil Mil St </li><li>Broughton St between Fitzroy St and McDougall St</li><li>Clark Rd between High St and McDougall St</li><li>Ennis Rd between Broughton St and roundabout</li><li>Gas Ln from Miller St</li><li>High St between Clark Rd and Cahill Expressway on-ramp</li><li>Lavender St between Alfred St South and Blues Point Rd</li><li>Larkin St From Wood St to the end heading north</li><li>McLaren St* between Pacific Hwy and Miller St Southern side</li><li>Middlemiss St between Walker St and Lavender St</li><li>Miller St* between Berry St and McLaren St</li><li>Miller St between McLaren St and Falcon St</li><li>Miller St between Berry St and Blue St</li><li>Mount St between Pacific Hwy and Wheeler Ln</li><li>Pacific Hwy * between McLaren St and Miller St Northern side</li><li>Pacific Hwy between Berry St and Miller St Southern side</li><li>William St between Blues Point Rd and Pacific Hwy</li></ul><p>* Authorised Route Buses excepted</p><p><strong>NORTH SYDNEY / MILSONS POINT / MCMAHONS POINT / LAVENDER BAY / KIRRIBILLI / WAVERTON</strong></p><p><strong>From 3pm 31 Dec 2025 to 3am 1 Jan 2026</strong></p><ul><li>Arthur St between Pacific Hwy and Berry St Western side</li><li>Denison St between Mount St and Berry St</li><li>Falcon St between Pacific Hwy and Warringah Freeway Northern side</li><li>Falcon St between Warringah Freeway and Military Rd Southern side</li><li>Military Rd  between Falcon St and Spit Rd  </li><li>Mount St between Arthur St and Denison St</li><li>Pacific Hwy between Miller St and Arthur St Northern side</li><li>Pacific Hwy between Blue St and Miller St Southern side</li><li>Walker St Pacific Hwy to Berry St</li></ul>",
+            "title": "Special Event Clearways",
+            "id": "743910"
+          }
+        ],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1767099600000,
+        "displayName": "Sydney New Year's Eve",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Blues Point Road, Miller St, Lavender St, Pacific Hwy",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "North Sydney, McMahons Point, Milsons Point, Kirribilli",
             "trafficVolume": ""
           }
         ],
