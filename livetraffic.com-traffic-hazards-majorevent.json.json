@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1766904450000,
+  "lastPublished": 1766991180000,
   "layerName": "MajorEvent",
   "rights": {
     "copyright": "Transport for NSW",
@@ -3522,225 +3522,6 @@
     },
     {
       "type": "Feature",
-      "id": 258709,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.2259012,
-          -33.9072252
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2025/12/race-day-0\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1765335291000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Use public transport",
-        "adviceC": " ",
-        "end": 1766822400000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1766822405760,
-        "otherAdvice": "<p><strong>Race Day at Royal Randwick Racecourse</strong>. First race at 12:20pm, last race at 6pm.</p><p>Traffic will be heavier than usual on Anzac Pde, Doncaster Ave, High St, Alison Rd and Darley Rd as crowds travel to and from the event.</p><p>Motorists should allow extra travel time and be aware of increased pedestrian activity on local roads.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1766754000000,
-        "displayName": "Race Day",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Royal Randwick Racecourse",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "Anzac Parade, Alison Road, High Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Randwick",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 260351,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.4372583,
-          -35.3174489
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Holiday and Journey Planning",
-            "linkURL": "https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/holiday-and-journey-planning"
-          },
-          {
-            "linkText": "Pinch Point Journey Planner",
-            "linkURL": "https://www.myjourneynsw.info/"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1766795399000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Plan your journey",
-        "adviceB": "Allow extra travel time",
-        "adviceC": " ",
-        "end": 1768135500000,
-        "hideEndDate": true,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1766878971516,
-        "otherAdvice": "<p>High volumes of holiday traffic are expected approaching and through Milton/Ulladulla during peak holiday travel periods.</p><p>For details about known holiday traffic pinch points, see the NSW Holiday and Journey planning <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/holiday-and-journey-planning\" target=\"_blank\">website</a> and the pinch point journey planning <a href=\"https://www.myjourneynsw.info/\" target=\"_blank\">tool</a>.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1765976400000,
-        "displayName": "HOLIDAY TRAFFIC",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Princes Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "South Coast",
-            "secondLocation": "",
-            "suburb": "Milton / Ulladulla",
-            "trafficVolume": "Moderate"
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 258559,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.688803,
-          -32.8200268
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Holiday and Journey Planning",
-            "linkURL": "https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/holiday-and-journey-planning"
-          },
-          {
-            "linkText": "Pinch Point Journey Planner",
-            "linkURL": "https://www.myjourneynsw.info/"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1765229703000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Plan your journey",
-        "adviceB": "Allow extra travel time",
-        "adviceC": " ",
-        "end": 1768567500000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1766880855159,
-        "otherAdvice": "<p>High volumes of holiday traffic are expected approaching Heatherbrae, Hexham and towards Beresfield during peak holiday travel periods.</p><p>For details about known holiday traffic pinch points, see the NSW Holiday and Journey planning <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/holiday-and-journey-planning\" target=\"_blank\">website</a> and the pinch point journey planning <a href=\"https://www.myjourneynsw.info/\" target=\"_blank\">tool</a>.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1765976400000,
-        "displayName": "HOLIDAY TRAFFIC",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "-",
-            "mainStreet": "Pacific Highway & New England Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Hunter",
-            "secondLocation": "",
-            "suburb": "Heatherbrae & Hexham to Beresfield",
-            "trafficVolume": "Moderate"
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 258557,
       "geometry": {
         "type": "Point",
@@ -3868,7 +3649,7 @@
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1766898531112,
+        "lastUpdated": 1766979324866,
         "otherAdvice": "<p>High volumes of holiday traffic are expected approaching the NSW-Queensland border during peak holiday travel periods. You can toggle to view traffic information supplied by QLD on Live Traffic NSW. For details about known holiday traffic pinch points, see the NSW Holiday and Journey planning <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/holiday-and-journey-planning\" target=\"_blank\">website</a> and the pinch point journey planning <a href=\"https://www.myjourneynsw.info/\" target=\"_blank\">tool</a>.</p>",
         "arrangementElements": [],
         "diversions": "",
@@ -3944,7 +3725,7 @@
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1766898540763,
+        "lastUpdated": 1766981302923,
         "otherAdvice": "<p>High volumes of holiday traffic are expected approaching and through Coffs Harbour during peak travel periods.</p><p>For details about known holiday traffic pinch points, see the NSW Holiday and Journey planning <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/holiday-and-journey-planning\" target=\"_blank\">website</a> and the pinch point journey planning <a href=\"https://www.myjourneynsw.info/\" target=\"_blank\">tool</a>.</p>",
         "arrangementElements": [],
         "diversions": "",
@@ -3968,6 +3749,158 @@
             "region": "North Coast NSW",
             "secondLocation": "",
             "suburb": "Coffs Harbour",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 258559,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.688803,
+          -32.8200268
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Holiday and Journey Planning",
+            "linkURL": "https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/holiday-and-journey-planning"
+          },
+          {
+            "linkText": "Pinch Point Journey Planner",
+            "linkURL": "https://www.myjourneynsw.info/"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1765229703000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Plan your journey",
+        "adviceB": "Allow extra travel time",
+        "adviceC": " ",
+        "end": 1768567500000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1766981373571,
+        "otherAdvice": "<p>High volumes of holiday traffic are expected approaching Heatherbrae, Hexham and towards Beresfield during peak holiday travel periods.</p><p>For details about known holiday traffic pinch points, see the NSW Holiday and Journey planning <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/holiday-and-journey-planning\" target=\"_blank\">website</a> and the pinch point journey planning <a href=\"https://www.myjourneynsw.info/\" target=\"_blank\">tool</a>.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1765976400000,
+        "displayName": "HOLIDAY TRAFFIC EXPECTED",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "-",
+            "mainStreet": "Pacific Highway & New England Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Hunter",
+            "secondLocation": "",
+            "suburb": "Heatherbrae & Hexham to Beresfield",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 260351,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.4372583,
+          -35.3174489
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Holiday and Journey Planning",
+            "linkURL": "https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/holiday-and-journey-planning"
+          },
+          {
+            "linkText": "Pinch Point Journey Planner",
+            "linkURL": "https://www.myjourneynsw.info/"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1766795399000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Plan your journey",
+        "adviceB": "Allow extra travel time",
+        "adviceC": " ",
+        "end": 1768135500000,
+        "hideEndDate": true,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1766983449180,
+        "otherAdvice": "<p>High volumes of holiday traffic are expected approaching and through Milton/Ulladulla during peak holiday travel periods.</p><p>For details about known holiday traffic pinch points, see the NSW Holiday and Journey planning <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/holiday-and-journey-planning\" target=\"_blank\">website</a> and the pinch point journey planning <a href=\"https://www.myjourneynsw.info/\" target=\"_blank\">tool</a>.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1765976400000,
+        "displayName": "HOLIDAY TRAFFIC EXPECTED",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Princes Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "South Coast",
+            "secondLocation": "",
+            "suburb": "Milton / Ulladulla",
             "trafficVolume": ""
           }
         ],
