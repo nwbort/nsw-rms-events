@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1768200810000,
+  "lastPublished": 1768286940000,
   "layerName": "MajorEvent",
   "rights": {
     "copyright": "Transport for NSW",
@@ -210,73 +210,6 @@
           }
         ],
         "isLocalRoad": "Local road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 258712,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.0700617,
-          -33.8427561
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>Match tickets include travel on rail. Visit <a href=\"https://transportnsw.info/events\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1765335758000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Use public transport",
-        "adviceB": "Allow extra travel time",
-        "adviceC": " ",
-        "end": 1768218300000,
-        "hideEndDate": true,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1767441661131,
-        "otherAdvice": "<p><strong>BBL Cricket: Sydney Thunder v Melbourne Renegades at ENGIE Stadium</strong>. Start of play 7.15pm, end of play 10.15pm.</p><p>Traffic will be heavier than usual as fans make their way to Olympic Park in the busy evening peak.</p><p>Motorists should allow extra travel time on the M4, Parramatta Rd, Homebush Bay Drive, Silverwater Rd, Centenary Dr and Concord Rd. </p><p>If you have to drive, carpool with your group <a href=\"https://www.sydneyolympicpark.nsw.gov.au/parking\" target=\"_blank\">pre-book your parking online</a> ahead of time to secure a space – available until 11:59pm the night before the event unless sold out prior. </p><p>To get to your carpark and avoid the heavy traffic congestion expected at the Homebush Bay Drive roundabout, use Silverwater Road, Holker Street and Hill Road</p><p>Sydney Olympic Park Authority may close local roads in the precinct to ensure pedestrian safety during the event. View the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a> for closure details</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1767013200000,
-        "displayName": "BBL Cricket",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "ENGIE Stadium",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road, Centenary Drive",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Sydney Olympic Park",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
         "CategoryIcon": "PublicEvent"
       }
     },
@@ -1228,596 +1161,6 @@
     },
     {
       "type": "Feature",
-      "id": 257979,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.0658158,
-          -33.8467593
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "<p>Buses replace trains between Lidcombe and Olympic Park. Visit <a href=\"https://transportnsw.info/events/2026/01/nbl-sydney-kings-v-melbourne-united\" target=\"_blank\">transportnsw.info</a> to plan your trip and allow extra travel time.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1764731444000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Use public transport",
-        "adviceC": " ",
-        "end": 1768119300000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1768119301659,
-        "otherAdvice": "<p><strong>NBL: Sydney Kings v Melbourne United at Qudos Bank Arena. </strong>Tip off at 4.30pm, full time around 6.30pm.</p><p>Traffic may be heavier than usual as fans make their way to and from Olympic Park.</p><p>Motorists should allow extra travel time on the M4, Parramatta Rd, Homebush Bay Drive, Silverwater Rd, Centenary Dr and Concord Rd. </p><p>If you have to drive, carpool with your group <a href=\"https://www.sydneyolympicpark.nsw.gov.au/parking\" target=\"_blank\">pre-book your parking online</a> ahead of time to secure a space – available until 11:59pm the night before the event unless sold out prior. </p><p>To get to your carpark and avoid the heavy traffic congestion expected at the Homebush Bay Drive roundabout, use Silverwater Road, Holker Street and Hill Road</p><p>Sydney Olympic Park Authority may close local roads in the precinct to ensure pedestrian safety during the event. View the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a> for closure details.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1768050000000,
-        "displayName": "NBL",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Qudos Bank Arena",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Sydney Olympic Park",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 259270.0,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.0763609,
-          -33.8532125
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "<p>Tickets include travel on trains, metro and light rail. Buses replace trains between Lidcombe and Olympic Park on Saturday 10 and Sunday 11 January. Visit <a href=\"https://transportnsw.info/events/2026/01/united-cup\" target=\"_blank\">transportnsw.info</a> to plan your trip. </p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1765765203000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Use public transport",
-        "adviceC": " ",
-        "end": 1768129200000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1768129203016,
-        "otherAdvice": "<p><strong>United Cup Tennis at Ken Rosewall Arena at Sydney Olympic Park from Saturday 3 to Sunday 11 January. Day sessions start at 10.30am and night sessions from 5.30pm each day. </strong></p><p>Traffic may be heavier than usual on roads approaching Sydney Olympic Park as attendees travel to and from each session, and while other events take place in the precinct.  </p><p>Motorists should allow extra travel time on roads including the M4 Mwy, Homebush Bay Dr, Concord Rd, Lane Cove Rd, Parramatta Rd, Centenary Dr and Silverwater Rd.</p><p>Attendees who need to drive are encouraged to <a href=\"https://www.sydneyolympicpark.nsw.gov.au/parking\" target=\"_blank\">pre-book parking online</a> ahead of time to secure a space, available until 11:59pm the night before the event unless sold out prior.</p><p>Sydney Olympic Park Authority may close local roads in the precinct to ensure pedestrian safety during events. For road closure details, view the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a>.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1767358800000,
-        "displayName": "United Cup Tennis",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Ken Rosewall Arena",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Sydney Olympic Park",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 258556,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.1075816,
-          -30.3041764
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Holiday and Journey Planning",
-            "linkURL": "https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/holiday-and-journey-planning"
-          },
-          {
-            "linkText": "Pinch Point Journey Planner",
-            "linkURL": "https://www.myjourneynsw.info/"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1765229331000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Plan your journey",
-        "adviceB": "Allow extra travel time",
-        "adviceC": " ",
-        "end": 1768135500000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1768135561498,
-        "otherAdvice": "<p>High volumes of holiday traffic are expected approaching and through Coffs Harbour during peak travel periods.</p><p>For details about known holiday traffic pinch points, see the NSW Holiday and Journey planning <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/holiday-and-journey-planning\" target=\"_blank\">website</a> and the pinch point journey planning <a href=\"https://www.myjourneynsw.info/\" target=\"_blank\">tool</a>.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1765976400000,
-        "displayName": "HOLIDAY TRAFFIC EXPECTED",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Pacific Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "North Coast NSW",
-            "secondLocation": "",
-            "suburb": "Coffs Harbour",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 258558,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.4969131,
-          -28.161711
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Holiday and Journey Planning",
-            "linkURL": "https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/holiday-and-journey-planning"
-          },
-          {
-            "linkText": "Pinch Point Journey Planner",
-            "linkURL": "https://www.myjourneynsw.info/"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1765229603000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Plan your journey",
-        "adviceB": "Allow extra travel time",
-        "adviceC": " ",
-        "end": 1768135500000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1768135561086,
-        "otherAdvice": "<p>High volumes of holiday traffic are expected approaching the NSW-Queensland border during peak holiday travel periods. You can toggle to view traffic information supplied by QLD on Live Traffic NSW. For details about known holiday traffic pinch points, see the NSW Holiday and Journey planning <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/holiday-and-journey-planning\" target=\"_blank\">website</a> and the pinch point journey planning <a href=\"https://www.myjourneynsw.info/\" target=\"_blank\">tool</a>.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1765976400000,
-        "displayName": "HOLIDAY TRAFFIC EXPECTED",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "-",
-            "mainStreet": "M1 Pacific Motorway & Gold Coast Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "North Coast NSW",
-            "secondLocation": "",
-            "suburb": "Tweed Heads",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 258560.0,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.6040087,
-          -34.8906037
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Holiday and Journey Planning",
-            "linkURL": "https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/holiday-and-journey-planning"
-          },
-          {
-            "linkText": "Pinch Point Journey Planner",
-            "linkURL": "https://www.myjourneynsw.info/"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1765230124000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Plan your journey",
-        "adviceB": "Allow extra travel time",
-        "adviceC": " ",
-        "end": 1768135500000,
-        "hideEndDate": true,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1768135561222,
-        "otherAdvice": "<p>High volumes of holiday traffic are expected approaching and through Nowra, Jervis Bay, and Milton/Ulladulla during peak holiday travel periods.</p><p>For details about known holiday traffic pinch points, see the NSW Holiday and Journey planning <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/holiday-and-journey-planning\" target=\"_blank\">website</a> and the pinch point journey planning <a href=\"https://www.myjourneynsw.info/\" target=\"_blank\">tool</a>.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1765976400000,
-        "displayName": "HOLIDAY TRAFFIC EXPECTED",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Princes Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "South Coast",
-            "secondLocation": "",
-            "suburb": "Nowra / Jervis Bay",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 258557,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.1128047,
-          -33.7148738
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Holiday and Journey Planning",
-            "linkURL": "https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/holiday-and-journey-planning"
-          },
-          {
-            "linkText": "Pinch Point Journey Planner",
-            "linkURL": "https://www.myjourneynsw.info/"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1765229463000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Plan your journey",
-        "adviceB": "Allow extra travel time",
-        "adviceC": " ",
-        "end": 1768135500000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1768135561213,
-        "otherAdvice": "<p>High volumes of holiday traffic are expected from Wahroonga to Calga on the M1 Pacific Motorway during peak holiday travel periods.</p><p>For details about known holiday traffic pinch points, see the NSW Holiday and Journey planning <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/holiday-and-journey-planning\" target=\"_blank\">website</a> and the pinch point journey planning <a href=\"https://www.myjourneynsw.info/\" target=\"_blank\">tool</a>.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1765976400000,
-        "displayName": "HOLIDAY TRAFFIC EXPECTED",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "-",
-            "mainStreet": "M1 Pacific Motorway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Wahroonga to Calga",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 260351,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.4372583,
-          -35.3174489
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Holiday and Journey Planning",
-            "linkURL": "https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/holiday-and-journey-planning"
-          },
-          {
-            "linkText": "Pinch Point Journey Planner",
-            "linkURL": "https://www.myjourneynsw.info/"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1766795399000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Plan your journey",
-        "adviceB": "Allow extra travel time",
-        "adviceC": " ",
-        "end": 1768135500000,
-        "hideEndDate": true,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1768135561071,
-        "otherAdvice": "<p>High volumes of holiday traffic are expected approaching and through Milton/Ulladulla during peak holiday travel periods.</p><p>For details about known holiday traffic pinch points, see the NSW Holiday and Journey planning <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/holiday-and-journey-planning\" target=\"_blank\">website</a> and the pinch point journey planning <a href=\"https://www.myjourneynsw.info/\" target=\"_blank\">tool</a>.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1765976400000,
-        "displayName": "HOLIDAY TRAFFIC EXPECTED",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Princes Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "South Coast",
-            "secondLocation": "",
-            "suburb": "Milton / Ulladulla",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 258561,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.2845311,
-          -33.6303657
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Holiday and Journey Planning",
-            "linkURL": "https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/holiday-and-journey-planning"
-          },
-          {
-            "linkText": "Pinch Point Journey Planner",
-            "linkURL": "https://www.myjourneynsw.info/"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1765230533000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Plan your journey",
-        "adviceB": "Allow extra travel time",
-        "adviceC": " ",
-        "end": 1768135500000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1768135570477,
-        "otherAdvice": "<p>High volumes of holiday traffic are expected approaching and through Blackheath, Mount Victoria and Lithgow during peak holiday travel periods.</p><p>For details about known holiday traffic pinch points, see the NSW Holiday and Journey planning <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/holiday-and-journey-planning\" target=\"_blank\">website</a> and the pinch point journey planning <a href=\"https://www.myjourneynsw.info/\" target=\"_blank\">tool</a>.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1765976400000,
-        "displayName": "HOLIDAY TRAFFIC EXPECTED",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "-",
-            "mainStreet": "Great Western Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Blue Mountains",
-            "secondLocation": "",
-            "suburb": "Blackheath, Mount Victoria, and Lithgow",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 261386,
       "geometry": {
         "type": "Point",
@@ -1887,6 +1230,834 @@
             "region": "Hunter",
             "secondLocation": "",
             "suburb": "Broadmeadow",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 258712,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0700617,
+          -33.8427561
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p>Match tickets include travel on rail. Visit <a href=\"https://transportnsw.info/events\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1765335758000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Use public transport",
+        "adviceB": "Allow extra travel time",
+        "adviceC": " ",
+        "end": 1768218300000,
+        "hideEndDate": true,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1768218301468,
+        "otherAdvice": "<p><strong>BBL Cricket: Sydney Thunder v Melbourne Renegades at ENGIE Stadium</strong>. Start of play 7.15pm, end of play 10.15pm.</p><p>Traffic will be heavier than usual as fans make their way to Olympic Park in the busy evening peak.</p><p>Motorists should allow extra travel time on the M4, Parramatta Rd, Homebush Bay Drive, Silverwater Rd, Centenary Dr and Concord Rd. </p><p>If you have to drive, carpool with your group <a href=\"https://www.sydneyolympicpark.nsw.gov.au/parking\" target=\"_blank\">pre-book your parking online</a> ahead of time to secure a space – available until 11:59pm the night before the event unless sold out prior. </p><p>To get to your carpark and avoid the heavy traffic congestion expected at the Homebush Bay Drive roundabout, use Silverwater Road, Holker Street and Hill Road</p><p>Sydney Olympic Park Authority may close local roads in the precinct to ensure pedestrian safety during the event. View the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a> for closure details</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1767013200000,
+        "displayName": "BBL Cricket",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "ENGIE Stadium",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "approaching",
+            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road, Centenary Drive",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Sydney Olympic Park",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 261473,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.9998449,
+          -33.8143528
+        ],
+        "collections": [
+          {
+            "type": "Point",
+            "coordinates": [
+              150.992232,
+              -33.807489
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Australia Day in Parramatta Park",
+            "linkURL": "https://atparramatta.com/australia-day"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "<p>Trains, light rail and buses run regularly to Parramatta within walking distance of the Park. Visit <a href=\"https://transportnsw.info/events/2026/01/australia-day-in-parramatta-0\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1768256392000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use public transport",
+        "adviceC": " ",
+        "end": 1769426100000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1768256392974,
+        "otherAdvice": "<p><strong>Tens of thousands of people are expected to attend Australia Day events in Parramatta Park from 4pm to 9.30pm on Monday 26 January.</strong></p><p>Traffic delays are expected throughout the Parramatta CBD and surrounding the Park as attendees travel to and from the event. Motorists should allow extra travel time, and exercise caution as there will be increased pedestrian activity on roads in the area.</p>",
+        "arrangementElements": [
+          {
+            "html": "<p><strong>Westmead</strong></p><p><strong>From 4pm to 10pm, Wednesday 31 December 2025 (local access maintained)</strong></p><ul><li>Alfred St between Railway Pde and Queens Rd</li><li>Central Ave between Railway Pde and Queens Rd</li><li>Park Ave between Railway Pde and Caroline St</li><li>Queens Rd between Hawkesbury Rd and Park Ave</li><li>Railway Pde between Hawkesbury Rd and Park Ave</li></ul><p><strong>From 6pm to 10pm, Wednesday 31 December 2025</strong></p><ul><li>Caroline St between Hawkesbury Rd and Park Ave (Eastbound)</li></ul><p><strong>Parramatta</strong></p><p><strong>From 8:30pm to 10pm, Wednesday 31 December 2025</strong></p><ul><li>Alexandra Ave between Hassall St and Park Pde</li><li>Argyle St between Pitt St and O’Connell St (Westbound)</li><li>George St between O’Connell St and Marsden St</li><li>Hunter St between O’Connell St and Pitt St (Westbound) (Managed exit from Hunter St Carpark will occur from 8:30pm under traffic control)</li><li>Macquarie St between Pitt St and Marsden St (Eastbound)</li><li>O’Connell St between Victoria Rd and Hunter St</li><li>Park Pde between Alexandra Ave and Pitt St (Managed exit from Parramatta Aquatic Centre carpark will occur from 8:30pm under traffic control).</li><li>Pitt St between Great Western Hwy and Argyle St (Northbound) (Local access only)</li><li>Pitt St between Argyle St and Macquarie St (Northbound)</li></ul>",
+            "title": "Road Closures",
+            "id": "764284"
+          }
+        ],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1769346000000,
+        "displayName": "Australia Day events",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Parramatta Park",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "O'Connell Street, Park Avenue",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Parramatta",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 260047,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.9033682,
+          -34.420311
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Wollongong City Council",
+            "linkURL": "https://www.wollongong.nsw.gov.au/community/events-and-programs/australia-day"
+          },
+          {
+            "linkText": "Aquathon",
+            "linkURL": "https://www.aquathon.com.au/event-day/"
+          },
+          {
+            "linkText": "Plan your trip",
+            "linkURL": "https://transportnsw.info/events/2026/01/australia-day-at-wollongong-harbour"
+          }
+        ],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Closed",
+            "roadtype": "Road",
+            "direction": "Both directions",
+            "finishTime": "10:00pm",
+            "fromDay": "Sunday",
+            "startTime": "4:00pm",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "<p>The free &quot;<a href=\"http://www.premierillawarra.com.au/shuttle.html\" target=\"_blank\">Gong Shuttle</a>&quot; bus (routes 55A and 55C) runs every 10 minutes in a loop around Wollongong making stops at North Wollongong Station, Fairy Meadow Station, Gywneville and Wollongong University and Innovation Campus. </p><p><strong>Gong Shuttle buses will run every 10 minutes from 7am until 11pm on Australia Day. The closest stops to the celebrations at Belmore Basin are along Corrimal St and Burelli St.</strong></p><p>Due to road closures, the Free Shuttle Bus will travel along Corrimal Street instead of Cliff Road.</p><p>From 8pm until 10pm buses that usually run along Crown St and Burelli St will terminate and depart at Burelli St (west of Corrimal St).</p><p>Route 887 will not run along Cliff Rd due to road closures, the service will be be detoured along Burelli St, Corrimal St, Campbell St, Church St and Bourke St.</p><p>Visit <a href=\"https://transportnsw.info/\" target=\"_blank\">transportnsw.info</a> to plan your trip on public transport.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [
+          {
+            "displayName": "Australia-Day-2026-road-closure-map",
+            "fileName": "Australia-Day-2026-road-closure-map.pdf",
+            "fileType": "PDF",
+            "linkName": "Australia-Day-2026-road-closure-map",
+            "sizeInBytes": 1094579,
+            "uniqueFileName": "250762_1766380128291_Australia-Day-2026-road-closure-map.pdf"
+          }
+        ],
+        "isInitialReport": false,
+        "created": 1766380214000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Avoid the area",
+        "adviceB": "Plan your journey",
+        "adviceC": "Use public transport",
+        "end": 1769425200000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1768260486119,
+        "otherAdvice": "<p>The Australia Day Aquathon will once again take place along the Wollongong foreshore, with events running from 6am to 12pm. Wollongong&#39;s Australia Day event will then start at 4pm and conclude with fireworks at 10pm.</p><p>The following road closures will be in place from 4pm until 10pm:</p><ul><li><strong>Cliff Rd</strong> between Marine Dr and Georges Pl</li><li><strong>Harbour St</strong> between Market St and Cliff Rd</li><li><strong>Hector St</strong></li><li><strong>Hinton St</strong></li><li><strong>Campbell St</strong> from Corrimal St to Wilson St</li><li><strong>Wilson St</strong></li><li><strong>Smith St</strong> between Corrimal St and Harbour St</li><li><strong>Market Pl</strong></li></ul><p>The following road closures will be in place from 8pm until 10pm:</p><ul><li><strong>Marine Dr</strong></li><li><strong>Endeavour Dr</strong></li><li><strong>Crown St</strong> from Harbour St to Marine Dr</li></ul>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1769367600000,
+        "displayName": "Aquathon and Australia Events",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Marine Drive",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Cliff Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "South Coast",
+            "secondLocation": "Georges Place",
+            "suburb": "Wollongong",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "Local road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 261063,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0636269,
+          -33.8439446
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "NBL: Sydney Kings v Tasmania Jackjumpers",
+            "linkURL": "https://transportnsw.info/events/2026/01/nbl-sydney-kings-v-adelaide-36ers"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events\" target=\"_blank\">transportnsw.info</a> to plan your trip and allow extra travel time.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1767838085000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use public transport",
+        "adviceC": " ",
+        "end": 1769668200000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1768267161226,
+        "otherAdvice": "<p>Upcoming NBL matches at Qudos Bank Arena:</p><ul><li><strong>Thu 22 Jan - NBL: Sydney Kings v Tasmania Jackjumpers. </strong>Tip off at 7.30pm, finish around 9.30pm.</li><li><strong>Sun 25 Jan - NBL: Sydney Kings v Adelaide 36ers. </strong>WNBL: Sydney Flames v Adelaide Lightning match at 12pm, NBL: Sydney Kings v Adelaide 36ers match at 2.30pm, finish around 4.30pm.</li><li><strong>Thu 29 Jan - NBL: Sydney Kings v Illawarra Hawks. </strong>Tip off at 7.30pm, finish around 9.30pm.</li></ul><p>Traffic may be heavier than usual as fans make their way to and from Olympic Park.</p><p>Motorists should allow extra travel time on the M4, Parramatta Rd, Homebush Bay Drive, Silverwater Rd, Centenary Dr and Concord Rd. </p><p>If you have to drive, carpool with your group <a href=\"https://www.sydneyolympicpark.nsw.gov.au/parking\" target=\"_blank\">pre-book your parking online</a> ahead of time to secure a space – available until 11:59pm the night before the event unless sold out prior. </p><p>To get to your carpark and avoid the heavy traffic congestion expected at the Homebush Bay Drive roundabout, use Silverwater Road, Holker Street and Hill Road</p><p>Sydney Olympic Park Authority may close local roads in the precinct to ensure pedestrian safety during the event. View the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a> for closure details.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1769000400000,
+        "displayName": "NBL",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Qudos Bank Arena",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "approaching",
+            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Sydney Olympic Park",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 261062,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0708069,
+          -33.8441385
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "HTID",
+            "linkURL": "https://transportnsw.info/events/2026/01/meltdown"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events\" target=\"_blank\">transportnsw.info</a><a href=\"https://transportnsw.info/events/2024/11/pearl-jam-dark-matter-tour\" target=\"_blank\"> </a>to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1767837511000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Use public transport",
+        "adviceB": "Allow extra travel time",
+        "adviceC": " ",
+        "end": 1769345940000,
+        "hideEndDate": true,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1768267364866,
+        "otherAdvice": "<p>Upcoming indoor dance festivals at Sydney Showground</p><ul><li><strong>HTID on Saturday from 5pm until midnight. </strong></li><li><strong>Meltdown on Sunday from 5pm until midnight. </strong></li></ul><p>With thousands of people expected, attendees are encouraged to plan their trip and consider all the available travel options ahead of time.  </p><p>Motorists should allow plenty of extra travel time on roads approaching Olympic Park including the M4 Mwy, Homebush Bay Dr, Concord Rd, Lane Cove Rd, Parramatta Rd, Centenary Dr and Silverwater Rd.</p><p>Sydney Olympic Park Authority may close local roads in the precinct and traffic congestion is expected before and after the events. For road closure details, visit the Sydney Olympic Park Authority <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a>.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1769173200000,
+        "displayName": "Music Festivals",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Sydney Showground",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "approaching",
+            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road, Centenary Drive",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Sydney Olympic Park",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 261052,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.8351336,
+          -34.0510453
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "A League Men: Macarthur FC v Melbourne City FC",
+            "linkURL": "https://transportnsw.info/events/2026/01/league-men-macarthur-fc-v-melbourne-city-fc"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2026/01/league-men-macarthur-fc-v-melbourne-city-fc\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1767833015000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": " ",
+        "adviceC": " ",
+        "end": 1769250600000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1768267414869,
+        "otherAdvice": "<p><strong>A-League Men: Macarthur FC v Melbourne City FC at Campbelltown Sports Stadium. Kick-off at 7.35pm, full time around 9pm. </strong></p><p>Traffic may be heavier than usual as fans travel to and from the match. Allow extra travel time on roads including Pembroke Rd, Rose Payten Dr and Leumeah Rd.</p><p>Motorists should also be aware of increased pedestrian activity in the area.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1769173200000,
+        "displayName": "A-League Men",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Campbelltown Sports Stadium",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "approaching",
+            "mainStreet": "Pembroke Road and Rose Payten Drive",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Leumeah",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 261050.0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2314521,
+          -33.9065573
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Stakes Day",
+            "linkURL": "https://transportnsw.info/events/2026/01/stakes-day"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2026/01/stakes-day\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1767832731000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use public transport",
+        "adviceC": " ",
+        "end": 1769241600000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1768267459562,
+        "otherAdvice": "<p><strong>Stakes Day at Royal Randwick Racecourse</strong>. First race at 12:25pm, last race at 6pm.</p><p>Traffic will be heavier than usual on Anzac Pde, Doncaster Ave, High St, Alison Rd and Darley Rd as crowds travel to and from the event.</p><p>Motorists should allow extra travel time and be aware of increased pedestrian activity on local roads.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1769173200000,
+        "displayName": "Race Day",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Royal Randwick Racecourse",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "approaching",
+            "mainStreet": "Anzac Parade, Alison Road, High Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Randwick",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 261044,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.7246072,
+          -32.9179917
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "A League Men: Newcastle Jets v Wellington Phoenix",
+            "linkURL": "https://transportnsw.info/events/2026/01/league-men-newcastle-jets-v-wellington-phoenix"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2026/01/league-men-newcastle-jets-v-wellington-phoenix\" target=\"_blank\">transportnsw.info</a> to plan your trip</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1767831403000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Plan your journey",
+        "adviceC": " ",
+        "end": 1769166000000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1768267666218,
+        "otherAdvice": "<p><strong>A-League Men: Newcastle Jets FC v Wellington Phoenix at McDonald Jones Stadium. Kick off at 7.35pm and finish at approx. 9.30pm.</strong></p><p>Traffic may be heavier than usual as fans travel to and from the match. Allow extra travel time on Turton Rd, Griffiths Rd, Newcastle Rd, Lambton Rd and Bridges Rd through Broadmeadow.</p><p>For passenger drop-off, use the allocated 10-minute loading zone in the McDonald Jones Stadium car park. Entry is via the driveway off Turton Road.</p><p>Motorists should allow extra travel time and be aware of increased pedestrian activity on local roads.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1769086800000,
+        "displayName": "A-League Men",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Turton Road",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Griffiths Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Hunter",
+            "secondLocation": "",
+            "suburb": "Broadmeadow",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 261064,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0014965,
+          -33.8086474
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "<p>Match tickets include travel on transport. Visit <a href=\"https://transportnsw.info/events/2026/01/league-men-western-sydney-wanderers-v-perth-glory\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [
+          {
+            "displayName": "CommBankStadium_Transport_WalkingRoute_Map",
+            "fileName": "CommBankStadium_Transport_WalkingRoute_Map.pdf",
+            "fileType": "PDF",
+            "linkName": "CommBankStadium_Transport_WalkingRoute_Map",
+            "sizeInBytes": 3930899,
+            "uniqueFileName": "919826_1728350438314_CommBankStadium_Transport_WalkingRoute_Map.pdf"
+          }
+        ],
+        "isInitialReport": false,
+        "created": 1767838324000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use public transport",
+        "adviceC": " ",
+        "end": 1769329800000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1768267711468,
+        "otherAdvice": "<p><strong>A-League Men: Western Sydney Wanderers v Perth Glory at CommBank Stadium. Kick-off at 5pm, finish around 6.55pm. </strong></p><p>Traffic will be heavier than usual on roads approaching the stadium as fans travel to the match. Allow extra travel time on roads including Parramatta Road, Church Street, Victoria Road, James Ruse Drive and Pennant Hills Road. </p><p>Motorists should also exercise caution as pedestrian activity will be high on roads between Parramatta Interchange and the stadium.<strong> </strong></p><p>Be patient leaving car parks as traffic will be heavy and follow the directions of traffic controllers and Police.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1769259600000,
+        "displayName": "A-League",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Victoria Road",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "O'Connell Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Parramatta",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 261509,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.4990797,
+          -30.6423227
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1768278736000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Check signage",
+        "adviceB": "Exercise caution",
+        "adviceC": "Use diversions",
+        "end": 1769389200000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1768278736774,
+        "otherAdvice": "<p>Bridge Street (New England Highway) will be closed between John and King streets between 10am and 12pm for the Australia Day Parade.</p><p><br></p>",
+        "arrangementElements": [],
+        "diversions": "<p>There will be a detour for light vehicles via John, Maitland and King streets.</p><p><br></p><p>The detour is not suitable for heavy vehicles. B-Doubles traveling from the north on Thunderbolts Way will be held at Rocky River Road during the event. Oversize and over mass vehicles will be parked on Bridge Street between John and Park streets for northbound vehicles and between King and Hill streets for southbound vehicles.</p><p><br></p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1769382000000,
+        "displayName": "Australia Day",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "New England Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "New England North West",
+            "secondLocation": "",
+            "suburb": "Uralla",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "Local road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 261048,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2142468,
+          -33.869928
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Nick Cave & The Bad Seeds",
+            "linkURL": "https://www.botanicgardens.org.au/whats-on/nick-cave-bad-seeds-wild-god-tour-2026"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2026/01/nick-cave-bad-seeds\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1767832453000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use public transport",
+        "adviceC": " ",
+        "end": 1769259540000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1768282692524,
+        "otherAdvice": "<p><strong>Nick Cave &amp; The Bad Seeds at The Domain Sydney from 6.15pm to 11pm on Friday 23 and Saturday 24 January.</strong></p><p>With thousands of people expected, traffic will be heavier than usual within the Sydney CBD on Macquarie St, College St and William St.</p><p>Motorists should avoid driving through the area or expect delays and detours and watch out for pedestrians in the area.</p><p>If you are catching rideshare or taxis, use the dedicated drop-off location on Hospital Road at Art Gallery Road. For pick-ups after the event head towards Elizabeth Street or Sir John Young Crescent.  </p><p>Roads around The Domain Sydney will close for crowd safety before, during and after the event.</p><p><strong>The following roads will be closed from 8pm to midnight (approx)</strong></p><ul><li>Art Gallery Road from Hospital Road to Mrs Macquarie Road</li></ul><p><strong>The following roads will be closed from 10pm to midnight (approx)</strong></p><ul><li>St Marys Rd from Prince Albert Road to Sir John Young Crescent</li><li>Prince Albert Road from Macquarie Street to Art Gallery Road</li><li>Hospital Road from Art Gallery Road to Shakespeare Place</li><li>Cathedral Street at St Marys Road</li></ul>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1769086800000,
+        "displayName": "Concert",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "The Domain Sydney",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "to",
+            "mainStreet": "Macquarie St, Prince Albert Rd, College St, Art Gallery Rd",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Sydney CBD",
             "trafficVolume": ""
           }
         ],
