@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1769410560000,
+  "lastPublished": 1769496660000,
   "layerName": "MajorEvent",
   "rights": {
     "copyright": "Transport for NSW",
@@ -943,154 +943,6 @@
     },
     {
       "type": "Feature",
-      "id": 261064,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.0014965,
-          -33.8086474
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "<p>Match tickets include travel on transport. Visit <a href=\"https://transportnsw.info/events/2026/01/league-men-western-sydney-wanderers-v-perth-glory\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [
-          {
-            "displayName": "CommBankStadium_Transport_WalkingRoute_Map",
-            "fileName": "CommBankStadium_Transport_WalkingRoute_Map.pdf",
-            "fileType": "PDF",
-            "linkName": "CommBankStadium_Transport_WalkingRoute_Map",
-            "sizeInBytes": 3930899,
-            "uniqueFileName": "919826_1728350438314_CommBankStadium_Transport_WalkingRoute_Map.pdf"
-          }
-        ],
-        "isInitialReport": false,
-        "created": 1767838324000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Use public transport",
-        "adviceC": " ",
-        "end": 1769338800000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1769338804803,
-        "otherAdvice": "<p><strong>A-League Men: Western Sydney Wanderers v Perth Glory at CommBank Stadium. Kick-off at 7pm, finish around 8.55pm. </strong></p><p><strong>Please note due to weather conditions for Sunday 25 January, the timing of the event has changed. Plan ahead</strong></p><p>Traffic will be heavier than usual on roads approaching the stadium as fans travel to the match. Allow extra travel time on roads including Parramatta Road, Church Street, Victoria Road, James Ruse Drive and Pennant Hills Road. </p><p>Motorists should also exercise caution as pedestrian activity will be high on roads between Parramatta Interchange and the stadium.<strong> </strong></p><p>Be patient leaving car parks as traffic will be heavy and follow the directions of traffic controllers and Police.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1769259600000,
-        "displayName": "A-League",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Victoria Road",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "O'Connell Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Parramatta",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 261062,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.0708069,
-          -33.8441385
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "HTID",
-            "linkURL": "https://transportnsw.info/events/2026/01/meltdown"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events\" target=\"_blank\">transportnsw.info</a><a href=\"https://transportnsw.info/events/2024/11/pearl-jam-dark-matter-tour\" target=\"_blank\"> </a>to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1767837511000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Use public transport",
-        "adviceB": "Allow extra travel time",
-        "adviceC": " ",
-        "end": 1769345940000,
-        "hideEndDate": true,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1769345986099,
-        "otherAdvice": "<p>Upcoming indoor dance festivals at Sydney Showground</p><ul><li><strong>HTID on Saturday from 5pm until midnight. </strong></li><li><strong>Meltdown on Sunday from 5pm until midnight. </strong></li></ul><p>With thousands of people expected, attendees are encouraged to plan their trip and consider all the available travel options ahead of time.  </p><p>Motorists should allow plenty of extra travel time on roads approaching Olympic Park including the M4 Mwy, Homebush Bay Dr, Concord Rd, Lane Cove Rd, Parramatta Rd, Centenary Dr and Silverwater Rd.</p><p>Sydney Olympic Park Authority may close local roads in the precinct and traffic congestion is expected before and after the events. For road closure details, visit the Sydney Olympic Park Authority <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a>.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1769173200000,
-        "displayName": "Music Festivals",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Sydney Showground",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road, Centenary Drive",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Sydney Olympic Park",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 258556,
       "geometry": {
         "type": "Point",
@@ -1243,156 +1095,6 @@
     },
     {
       "type": "Feature",
-      "id": 259369,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.672753,
-          -30.2196291
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Guyra Lamb & Potato Festival",
-            "linkURL": "https://guyralambpotatofestival.com/"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": 40,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1765854707000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Reduced speed limit",
-        "adviceB": "Check signage",
-        "adviceC": "Exercise caution",
-        "end": 1769410800000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1769363249955,
-        "otherAdvice": "<p>The festival will be held at Rotary Park from Wednesday 14 to Monday 26 January and will include stalls and shows over the course of the event. With an increase in pedestrians, motorists are advised to take note of traffic and event signage.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1768334400000,
-        "displayName": "Guyra Lamb & Potato Festival",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "New England Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "New England North West",
-            "secondLocation": "",
-            "suburb": "Guyra",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "Local road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 262308,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.4999807,
-          -33.3428581
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "9:00pm",
-            "fromDay": "Monday",
-            "startTime": "4:00pm",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1768859145000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Check signage",
-        "adviceB": "Exercise caution",
-        "adviceC": "Allow extra travel time",
-        "end": 1769421600000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1769363302414,
-        "otherAdvice": "<p>Australia Day event will be held from 4-9pm at The Entrance Memorial Park. Traffic will be heavier than usual on roads approaching the area as attendees travel to and from the event, with increased pedestrian activity.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1769403600000,
-        "displayName": "Australia Day",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Marine Parade",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Central Coast",
-            "secondLocation": "",
-            "suburb": "The Entrance",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "Local road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 258561,
       "geometry": {
         "type": "Point",
@@ -1464,106 +1166,6 @@
           }
         ],
         "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 260047,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.9033682,
-          -34.420311
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Wollongong City Council",
-            "linkURL": "https://www.wollongong.nsw.gov.au/community/events-and-programs/australia-day"
-          },
-          {
-            "linkText": "Aquathon",
-            "linkURL": "https://www.aquathon.com.au/event-day/"
-          },
-          {
-            "linkText": "Plan your trip",
-            "linkURL": "https://transportnsw.info/events/2026/01/australia-day-at-wollongong-harbour"
-          }
-        ],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Closed",
-            "roadtype": "Road",
-            "direction": "Both directions",
-            "finishTime": "10:00pm",
-            "fromDay": "Sunday",
-            "startTime": "4:00pm",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>The free &quot;<a href=\"http://www.premierillawarra.com.au/shuttle.html\" target=\"_blank\">Gong Shuttle</a>&quot; bus (routes 55A and 55C) runs every 10 minutes in a loop around Wollongong making stops at North Wollongong Station, Fairy Meadow Station, Gywneville and Wollongong University and Innovation Campus. </p><p><strong>Gong Shuttle buses will run every 10 minutes from 7am until 11pm on Australia Day. The closest stops to the celebrations at Belmore Basin are along Corrimal St and Burelli St.</strong></p><p>Due to road closures, the Free Shuttle Bus will travel along Corrimal Street instead of Cliff Road.</p><p>From 8pm until 10pm buses that usually run along Crown St and Burelli St will terminate and depart at Burelli St (west of Corrimal St).</p><p>Route 887 will not run along Cliff Rd due to road closures, the service will be be detoured along Burelli St, Corrimal St, Campbell St, Church St and Bourke St.</p><p>Visit <a href=\"https://transportnsw.info/\" target=\"_blank\">transportnsw.info</a> to plan your trip on public transport.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [
-          {
-            "displayName": "Australia-Day-2026-road-closure-map",
-            "fileName": "Australia-Day-2026-road-closure-map.pdf",
-            "fileType": "PDF",
-            "linkName": "Australia-Day-2026-road-closure-map",
-            "sizeInBytes": 1094579,
-            "uniqueFileName": "250762_1766380128291_Australia-Day-2026-road-closure-map.pdf"
-          }
-        ],
-        "isInitialReport": false,
-        "created": 1766380214000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Avoid the area",
-        "adviceB": "Plan your journey",
-        "adviceC": "Use public transport",
-        "end": 1769425200000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1769363369095,
-        "otherAdvice": "<p>The Australia Day Aquathon will once again take place along the Wollongong foreshore, with events running from 6am to 12pm. Wollongong&#39;s Australia Day event will then start at 4pm and conclude with fireworks at 10pm.</p><p>The following road closures will be in place from 4pm until 10pm:</p><ul><li><strong>Cliff Rd</strong> between Marine Dr and Georges Pl</li><li><strong>Harbour St</strong> between Market St and Cliff Rd</li><li><strong>Hector St</strong></li><li><strong>Hinton St</strong></li><li><strong>Campbell St</strong> from Corrimal St to Wilson St</li><li><strong>Wilson St</strong></li><li><strong>Smith St</strong> between Corrimal St and Harbour St</li><li><strong>Market Pl</strong></li></ul><p>The following road closures will be in place from 8pm until 10pm:</p><ul><li><strong>Marine Dr</strong></li><li><strong>Endeavour Dr</strong></li><li><strong>Crown St</strong> from Harbour St to Marine Dr</li></ul>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1769367600000,
-        "displayName": "Aquathon and Australia Events",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Marine Drive",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Cliff Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "South Coast",
-            "secondLocation": "Georges Place",
-            "suburb": "Wollongong",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "Local road",
         "CategoryIcon": "PublicEvent"
       }
     },
@@ -1708,436 +1310,6 @@
             "region": "Sydney",
             "secondLocation": "",
             "suburb": "Sydney Olympic Park",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 261473,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.9998449,
-          -33.8143528
-        ],
-        "collections": [
-          {
-            "type": "Point",
-            "coordinates": [
-              150.992232,
-              -33.807489
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Australia Day in Parramatta Park",
-            "linkURL": "https://atparramatta.com/australia-day"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>Trains, light rail and buses run regularly to Parramatta within walking distance of the Park. Visit <a href=\"https://transportnsw.info/events/2026/01/australia-day-in-parramatta-0\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1768256392000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Use public transport",
-        "adviceC": " ",
-        "end": 1769426100000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1769363578962,
-        "otherAdvice": "<p><strong>Tens of thousands of people are expected to attend Australia Day events in Parramatta Park from 4pm to 9.30pm on Monday 26 January.</strong></p><p>Traffic delays are expected throughout the Parramatta CBD and surrounding the Park as attendees travel to and from the event. Motorists should allow extra travel time, and exercise caution as there will be increased pedestrian activity on roads in the area.</p>",
-        "arrangementElements": [
-          {
-            "html": "<p><strong>Westmead</strong></p><p><strong>From 4pm to 10pm, Wednesday 31 December 2025 (local access maintained)</strong></p><ul><li>Alfred St between Railway Pde and Queens Rd</li><li>Central Ave between Railway Pde and Queens Rd</li><li>Park Ave between Railway Pde and Caroline St</li><li>Queens Rd between Hawkesbury Rd and Park Ave</li><li>Railway Pde between Hawkesbury Rd and Park Ave</li></ul><p><strong>From 6pm to 10pm, Wednesday 31 December 2025</strong></p><ul><li>Caroline St between Hawkesbury Rd and Park Ave (Eastbound)</li></ul><p><strong>Parramatta</strong></p><p><strong>From 8:30pm to 10pm, Wednesday 31 December 2025</strong></p><ul><li>Alexandra Ave between Hassall St and Park Pde</li><li>Argyle St between Pitt St and O’Connell St (Westbound)</li><li>George St between O’Connell St and Marsden St</li><li>Hunter St between O’Connell St and Pitt St (Westbound) (Managed exit from Hunter St Carpark will occur from 8:30pm under traffic control)</li><li>Macquarie St between Pitt St and Marsden St (Eastbound)</li><li>O’Connell St between Victoria Rd and Hunter St</li><li>Park Pde between Alexandra Ave and Pitt St (Managed exit from Parramatta Aquatic Centre carpark will occur from 8:30pm under traffic control).</li><li>Pitt St between Great Western Hwy and Argyle St (Northbound) (Local access only)</li><li>Pitt St between Argyle St and Macquarie St (Northbound)</li></ul>",
-            "title": "Road Closures",
-            "id": "771480"
-          }
-        ],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1769346000000,
-        "displayName": "Australia Day events",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Parramatta Park",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "O'Connell Street, Park Avenue",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Parramatta",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 261509,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.4990797,
-          -30.6423227
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1768278736000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Check signage",
-        "adviceB": "Exercise caution",
-        "adviceC": "Use diversions",
-        "end": 1769389200000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1769389201372,
-        "otherAdvice": "<p>Bridge Street (New England Highway) will be closed between John and King streets between 10am and 12pm for the Australia Day Parade.</p><p><br></p>",
-        "arrangementElements": [],
-        "diversions": "<p>There will be a detour for light vehicles via John, Maitland and King streets.</p><p><br></p><p>The detour is not suitable for heavy vehicles. B-Doubles traveling from the north on Thunderbolts Way will be held at Rocky River Road during the event. Oversize and over mass vehicles will be parked on Bridge Street between John and Park streets for northbound vehicles and between King and Hill streets for southbound vehicles.</p><p><br></p>",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1769382000000,
-        "displayName": "Australia Day",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "New England Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "New England North West",
-            "secondLocation": "",
-            "suburb": "Uralla",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "Local road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 259734,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.0811181,
-          -34.1302886
-        ],
-        "collections": [
-          {
-            "type": "Point",
-            "coordinates": [
-              150.995476,
-              -34.138068
-            ]
-          },
-          {
-            "type": "Point",
-            "coordinates": [
-              151.048778,
-              -34.053407
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "NSW National Parks & Wildlife Service - Royal National Park local alerts",
-            "linkURL": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/royal-national-park/local-alerts"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1766117047000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Plan your journey",
-        "adviceB": " ",
-        "adviceC": " ",
-        "end": 1769418000000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1769392448911,
-        "otherAdvice": "<p><strong>The Royal National Park is expected to be busy over the Australia Day weekend</strong></p><p>Visitors are encouraged to check the <a href=\"https://www.nationalparks.nsw.gov.au/visit-a-park/parks/royal-national-park/local-alerts\" target=\"_blank\">Royal National Park local alerts</a> before travelling for updates on precinct access.</p><p>Walking trails may also be closed due to total fire bans and/or risks, so plan ahead. </p><p><strong>Roads or car parks may close within the Royal National Park when they reach capacity.</strong></p><p><strong>The following locations may be affected:</strong></p><ul><li>Wattamolla Rd between Sir Bertram Stevens Dr and Wattamolla Beach car park</li><li>Bonnie Vale day use area</li><li>Bonnie Vale boat launch area is closed over the weekend.</li><li>Garie Road between Sir Bertram Stevens Drive and Garie Beach car park</li><li>Maianbar Rd between Bundeena Dr and Maianbar township</li><li>Bundeena Dr between Sir Bertram Stevens Dr and Bundeena township</li></ul><p>Traffic controllers and NSW Police will manage access for local residents, upon proof of address, at Maianbar Rd and Bundeena Dr.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1766322000000,
-        "displayName": "Royal National Park - Australia Day weekend",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "-",
-            "mainStreet": "McKell Ave, Farnell Ave and various roads",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Royal National Park",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 255462,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.2088385,
-          -33.8591798
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Australia Day 2026",
-            "linkURL": "https://www.australiaday.com.au/whats-on/whats-on-in-sydney/"
-          },
-          {
-            "linkText": "Interactive road closures & clearways map",
-            "linkURL": "https://experience.arcgis.com/experience/3a94caf7ac894bda98d47e8433ef883f"
-          }
-        ],
-        "headline": "Australia Day in Sydney CIRCULAR QUAY AND THE ROCKS George St, Hickson Rd, Macquarie St at Sydney Harbour",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>Ferries will be affected during the day and night due to exclusion zones on the harbour. Buses are diverting and using different stops due to road closures. Light rail will not run between Circular Quay and Town Hall from 7.30pm to 10.30pm. Visit <a href=\"https://transportnsw.info/australia-day-sydney\" target=\"_blank\">transportnsw.info</a> for details.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [
-          {
-            "displayName": "AustraliaDay2026_SydneyCBD_RoadClosures_Clearways_map",
-            "fileName": "AustraliaDay2026_SydneyCBD_RoadClosures_Clearways_map.pdf",
-            "fileType": "PDF",
-            "linkName": "AustraliaDay2026_SydneyCBD_RoadClosures_Clearways_map",
-            "sizeInBytes": 642860,
-            "uniqueFileName": "989636_1768370947668_AustraliaDay2026_SydneyCBD_RoadClosures_Clearways_map.pdf"
-          },
-          {
-            "displayName": "AustraliaDay2026_NorthSydney_RoadClosures_Clearways_map",
-            "fileName": "AustraliaDay2026_NorthSydney_RoadClosures_Clearways_map.pdf",
-            "fileType": "PDF",
-            "linkName": "AustraliaDay2026_NorthSydney_RoadClosures_Clearways_map",
-            "sizeInBytes": 925540,
-            "uniqueFileName": "333817_1768370949134_AustraliaDay2026_NorthSydney_RoadClosures_Clearways_map.pdf"
-          }
-        ],
-        "isInitialReport": false,
-        "created": 1762919614000,
-        "isMajor": true,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Check signage",
-        "adviceB": "Allow extra travel time",
-        "adviceC": "Use diversions",
-        "end": 1769432340000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1769392802875,
-        "otherAdvice": "<p>Roads around Circular Quay, Millers Point and The Rocks have closed in preparation for the Australia Day events in the city.</p><p>Roads will continue to close throughout the day for events in the city and around the harbour.</p><p><strong>Key road closure timings:</strong></p><ul><li><strong>**CLOSED 4am to midnight – Circular Quay &amp; The Rocks</strong>: Sections of Argyle St, Circular Quay West, OPT Elevated Rd, Essex St, George St, Harrington St and Lower Fort St </li><li><strong>**CLOSED 7am to midnight – The Rocks</strong>: Hickson Rd* between Pottinger St and George St. *Note: No heavy vehicle access to Hickson Rd north of Pottinger St between 4am and 7am due to the closure of George St south of Hickson Rd and lack of turnaround area.</li><li><strong>7.30pm to 10.30pm – Sydney CBD North</strong>: Sections of Albert St, Alfred St, Circular Quay East, Conservatorium Rd, Loftus St, Macquarie St, Phillip St, Pitt St, Reiby Pl, Young St and other surrounding streets </li><li><strong>7.30pm to 10.30pm – Cahill Expressway closed in both directions</strong>: including lanes 7 &amp; 8 on the Sydney Harbour Bridge and the Circular Quay Overpass, the High St and Mount St on-ramps, on and off ramps at Macquarie St and the on-ramp at Domain Tunnel. Lane 4 on the Sydney Harbour Bridge will also close and the speed limit on the bridge will be reduced to 40km/h during this time. There will be no direct access from the Sydney Harbour Bridge to the Domain Tunnel. </li><li><strong>9.15pm to 10.15pm – Sydney CBD North</strong>: Grosvenor/Bridge Street between Lang Street and Pitt Street  </li></ul><p>The Cahill Expressway Circular Quay overpass walkway will be closed from 5pm to 9:30pm. The Sydney Harbour Bridge Walkway and Cycleway will remain open.</p><p><strong>Special event clearways are in effect on various roads in Circular Quay and The Rocks since 3am until midnight and throughout the CBD from 5pm until 10.30pm. </strong></p><p>Clearways are strict no-parking zones for all vehicle types, and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator.</p>",
-        "arrangementElements": [
-          {
-            "html": "<p><strong>DAWES POINT – FROM 4AM TO 10AM</strong></p><ul><li>Car park opposite Pier One from Hickson Rd to Hickson Rd</li></ul><p><strong>CIRCULAR QUAY / THE ROCKS – FROM 4AM TO 12 MIDNIGHT</strong></p><ul><li>Argyle St between Lower Fort St and Harrington St (eastbound)</li><li>Circular Quay West from George Street</li><li>Essex St between Harrington St and George St (eastbound)</li><li>George St* between Hickson Rd and Essex St</li><li>Elevated Rd from Hickson Rd to the end of the road (Overseas Passenger Terminal upper carpark)</li><li>Pitt St between Alfred St and Reiby Pl</li></ul><p>*George St between Lower Fort St and Hickson Rd will be closed from 5am Saturday 24 January to midnight Monday 26 January for The Rocks Markets.</p><p><strong>BARANGAROO / MILLERS POINT – FROM 7AM TO 10AM</strong></p><ul><li>Barton St between Barangaroo Ave and Hickson Rd</li><li>Hickson Rd between Napoleon St and Pottinger St*</li><li>Towns Pl between Dalgety Rd and Hickson Rd</li></ul><p>*Local access to Pottinger St via Windmill St.</p><p><strong>THE ROCKS – FROM 7AM TO 12 MIDNIGHT</strong></p><ul><li>Hickson Rd* between Pottinger St and George St</li></ul><p>*No heavy vehicle access to Hickson Rd north of Pottinger St between 4am and 7am due to the closure of George St south of Hickson Rd and lack of turnaround area.</p><p><strong>MILSONS POINT – FROM 10:30AM TO 1PM</strong></p><ul><li>Olympic Dr between Broughton St and Alfred St South</li></ul><p><strong>SYDNEY CBD NORTH – FROM 7:30 PM TO 10:30PM</strong></p><ul><li>Albert St between Macquarie St and Phillip St</li><li>Alfred St between Phillip St and Young St</li><li>Bulletin Pl from Pitt St</li><li>Circular Quay East from Alfred St at Phillip St (full loop)</li><li>Conservatorium Rd between Macquarie St and Cahill Exp (full loop)</li><li>Custom House Ln between Loftus St and Young St</li><li>Dalley St between Pitt St and George St</li><li>Loftus Ln between Young St and Loftus St</li><li>Loftus St between Bridge St and Alfred St</li><li>Macquarie St between Bridge St and Sydney Opera House roundabout</li><li>Phillip St between Bridge St and Alfred St</li><li>Pitt St between Reiby Pl and Bridge St</li><li>Reiby Pl between Loftus St and Pitt St</li><li>Underwood St between Pitt St and Dalley St</li><li>Young St between Bridge St and Alfred St</li></ul><p><strong>SYDNEY HARBOUR BRIDGE &amp; CAHILL EXPRESSWAY – FROM 7:30PM TO 10:30PM</strong></p><ul><li>Bradfield Hwy Sydney Harbour Bridge - lane 4</li><li>Cahill Exp Sydney Harbour Bridge - lane 7 and 8</li><li>Cahill Exp Circular Quay overpass</li><li>Cahill Exp Conservatorium Rd on-ramp and off-ramp</li><li>Cahill Exp Domain Tunnel on-ramp</li><li>Cahill Exp High Street on-ramp</li><li>Cahill Exp Mount St on-ramp</li><li>Cahill Exp Warringah Fwy approach</li></ul><p><strong>SYDNEY CBD NORTH – FROM 9:15PM TO 10:15PM</strong></p><ul><li>Grosvenor/Bridge St between Lang St and Pitt St</li></ul>",
-            "title": "Road Closures",
-            "id": "771604"
-          },
-          {
-            "html": "<p>Special Event Clearways are strict no-parking zones for all vehicle types, and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator.</p><p><br></p><p><strong>BARANGAROO / DAWES POINT / MILLERS POINT – FROM 3AM TO 10AM</strong></p><ul><li>Hickson Rd* between Napoleon St and Pottinger St </li></ul><p>*Includes all parking: on both sides of the road and both sides of the centre median.</p><p><strong>SYDNEY CBD  – FROM 3AM TO 11AM</strong></p><ul><li>Clarence St* between Druitt St and Market St eastern side </li></ul><p>*Authorised route buses excepted.</p><p><strong>DAWES POINT / SYDNEY CBD / THE ROCKS – FROM 3AM TO 12MIDNIGHT</strong></p><ul><li>Argyle St between Harrington St and Lower Fort St (southern side)</li><li>Argyle St between Lower Fort St and Harrington St (northern side)</li><li>Circular Quay West From George St (full length of road)</li><li>Essex St between Harrington St and George St Northern Side</li><li>George St* between Lower Fort St and under SHB (Ped Crossing)</li><li>George St between Alfred St and Hickson Rd</li><li>Harrington St^ between Argyle St and Mission Stairs (eastern side)</li><li>Harrington St Between opposite Suez Canal and Argyle St (indented parking outside 55 Harrington St) (western side)</li><li>Hickson Rd** Between Pottinger St and George St</li><li>Pitt St Between Reiby Pl and Alfred St</li></ul><p>*The Rocks Markets will close a portion of the road between Lower Fort St and Hickson Rd from 10:00pm Friday 23 January 2026 and 12 midnight on Monday 26 January 2026. Normal Rocks Markets clearway operations will be in in place. </p><p>^Police vehicles excepted.</p><p>Oz Day 10K Wheelchair Race drop off and pick up until 11am.</p><p>**Includes all parking: on both sides of the road, both sides of the centre median, and carpark opposite Pier One.</p><p><strong>SYDNEY CBD </strong></p><p><strong>FROM 9AM TO 6PM</strong></p><ul><li>Macquarie St* Sydney Opera House taxi rank (between carpark entry / exit) (eastern side)</li></ul><p>* Vintage buses excepted.</p><p><br></p><p><strong>FROM 9AM TO 10:30PM</strong></p><ul><li>Macquarie St* between Albert and Sydney Opera House Roundabout (western side)</li></ul><p>*Notes:</p><p>Vintage buses excepted until 6pm. No exception for motorcycles or other vehicles to park in the special event clearway. </p><p>Accessible patron drop-off and pick-up excepted until 7:30pm when road closes; No parking.</p><p>Taxi drop-off and pick-up excepted until 7:30pm when road closes; No parking or ranking.</p><p>Rideshare drop-off and pick-up excepted until 7:30pm when road closes; No parking or dwelling.</p><p><strong>MILSONS POINT – FROM 9:30AM TO 1PM</strong></p><ul><li>Olympic Dr between Broughton St and Alfred St South</li></ul><p><strong>SYDNEY CBD  – FROM 5PM TO 10:30PM</strong></p><ul><li>Albert St between Macquarie St and Phillip St</li><li>Alfred St between Phillip St and Young St</li><li>Bent St between Phillip St and Loftus St</li><li>Bligh St^ between Bent St and Hunter St</li><li>Bridge St between George St and Macquarie St</li><li>Carrington St^ between Wynyard St and Margaret St (eastern side)</li><li>Circular Quay East from Alfred St – entire road loop including motorbike parking</li><li>Clarence St^ between King St and Margaret St</li><li>Conservatorium Rd from Macquarie St to Macquarie St - entire loop</li><li>Custom House Ln between Loftus St and Young St</li><li>Dalley St between Pitt St and end of road (George St)</li><li>Grosvenor St between George St and York St</li><li>Hunter St between Pitt St and Elizabeth St</li><li>Loftus Ln between Young St and Young St</li><li>Loftus St between Bridge St and Alfred St</li><li>Macquarie St between Bridge St and Albert St (western side)</li><li>Macquarie St* between SOH taxi rank and Conservatorium Rd (eastern side)</li><li>O’Connell St^ between Bent St and Hunter St</li><li>Phillip St between Bridge St and Alfred St</li><li>Pitt St between Reiby Pl and Bridge St</li><li>Reiby Pl between Loftus St and Pitt St</li><li>Spring St^ between Gresham and Pitt St (southern side)</li><li>Underwood St between Pitt St and Dalley St</li><li>York St^ between Margaret St and Erskine St (western side)</li><li>Young St between Alfred St and Bridge St</li><li>Young St between Bridge St and Farrer Pl (western side)</li></ul><p>*Vintage bus tow truck excepted on the eastern side of the road, under the Cahill Expressway overpass, between 9am and 6pm.</p><p>^Authorised route buses excepted.</p>",
-            "title": "Special Event Clearways",
-            "id": "771605"
-          },
-          {
-            "html": "<p>Heavy &amp; Oversize vehicles travelling north or south of the city are encouraged to use Victoria Road and the Gladesville Bridge to avoid traffic delays on the following detour routes in the city:</p><p><strong>Cahill Expressway/Eastern Suburbs detour 7.30pm to 10.30pm</strong>:</p><ul><li>All traffic and Oversize &amp; Dangerous Goods vehicles travelling southbound on the Sydney Harbour Bridge will be detoured via York Street or the Western Distributor while the Cahill Expressway is closed.</li><li>Access to the Eastern Distributor (height limit 4.4m; no dangerous goods) will be via York Street, King Street, Elizabeth Street, Park Street and William Street to the Bourke St on-ramp.</li><li>Vehicles not carrying dangerous goods can use the Sydney Harbour Tunnel (height limit 4.4m), which remains open in both directions during the event.</li></ul>",
-            "title": "Heavy Vehicle Detour 7:30pm to 10:30pm",
-            "id": "771606"
-          }
-        ],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [
-          {
-            "levels": "",
-            "direction": "BOTH_DIRECTIONS",
-            "coords": "b{smEy_|y[DJ??JEFCFAFCJAD?F?H?F?F@p@NfBd@pALDB~@H~@L`@F^FXBJ@NDTFJD"
-          },
-          {
-            "levels": "",
-            "direction": "BOTH_DIRECTIONS",
-            "coords": "zbtmEg~{y[LgABc@??CKCCACEAGCC?CAOAy@C??[G"
-          },
-          {
-            "levels": "",
-            "direction": "BOTH_DIRECTIONS",
-            "coords": "d_tmE}b|y[mAQe@Go@Me@KECAA"
-          },
-          {
-            "levels": "",
-            "direction": "BOTH_DIRECTIONS",
-            "coords": "v_tmEed|y[QBO?OAiAM??wAUE?E?A@??A?A@??ALAL??CP??Al@?FBNDR??CB"
-          },
-          {
-            "levels": "",
-            "direction": "BOTH_DIRECTIONS",
-            "coords": "pxsmE{`|y[HADAB?D@F@^LB@B@@B@B@@"
-          },
-          {
-            "levels": "",
-            "direction": "ONE_DIRECTION",
-            "coords": "|`tmEws{y[DU??@E??N}A??Jy@??nAP??XDr@F??`@DVB??h@HPBND??l@VTH\\L"
-          },
-          {
-            "levels": "",
-            "direction": "BOTH_DIRECTIONS",
-            "coords": "xvsmEso{y[CC??kBiB??g@k@??c@i@??u@w@??YY??aA_A??MIIEECEC??C?iEw@??ABAD"
-          },
-          {
-            "levels": "",
-            "direction": "BOTH_DIRECTIONS",
-            "coords": "potmE_{{y[JF`@RbAh@LHp@Z\\R"
-          },
-          {
-            "levels": "",
-            "direction": "ONE_DIRECTION",
-            "coords": "`vtmE_w{y[Mn@WlA"
-          },
-          {
-            "levels": "",
-            "direction": "ONE_DIRECTION",
-            "coords": "zttmEas{y["
-          },
-          {
-            "levels": "",
-            "direction": "ONE_DIRECTION",
-            "coords": "hotmEmu{y[NFdA\\TJNFr@V??@I"
-          },
-          {
-            "levels": "",
-            "direction": "BOTH_DIRECTIONS",
-            "coords": "tusmEs}zy[?DAN"
-          },
-          {
-            "levels": "",
-            "direction": "BOTH_DIRECTIONS",
-            "coords": "zlsmE}r{y[EC??A?CACC??CCCI??W[??MU??_@q@IO??U]QWEC??MOCCECGAECEAKAA?EE??uAU??OAMCIAGECCEE?A??CCAGAI?G?G@M??BQBQ??HW??L_@Nc@DI"
-          },
-          {
-            "levels": "",
-            "direction": "BOTH_DIRECTIONS",
-            "coords": "rasmEc}{y[@BDHBBBDDBF@???@DBJBx@L??~@LLBD@?@B@BD@BBH??F@@@HD@@??NN??PX??`A`BHJJL??DAB?B@B@??@@BB@D@B"
-          },
-          {
-            "levels": "",
-            "direction": "BOTH_DIRECTIONS",
-            "coords": "ddsmEqc|y[BGDCBEFCHEJE??`@O??~@[??TC??D?B?D?D@B?DB@???@BHFFHDH??FHHR@FDP??P`BD^@BBF???@JJJHLJLFPFLBH?H@D?NA??ZC??^KTGJEFCz@c@rAu@??HAB?"
-          },
-          {
-            "levels": "",
-            "direction": "BOTH_DIRECTIONS",
-            "coords": "bqsmEcv{y[Pk@??Pu@??BIBGBEDEBEHG??TKjBaAfAi@JG??j@[??EM"
-          }
-        ],
-        "duration": null,
-        "start": 1769346000000,
-        "displayName": "Australia Day in Sydney",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Sydney Harbour",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "George St, Hickson Rd, Macquarie St",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Circular Quay and The Rocks",
             "trafficVolume": ""
           }
         ],
@@ -2299,51 +1471,47 @@
     },
     {
       "type": "Feature",
-      "id": 262655,
+      "id": 259369,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.2060288,
-          -33.8896076
+          151.672753,
+          -30.2196291
         ],
         "collections": []
       },
       "properties": {
-        "webLinks": [],
+        "webLinks": [
+          {
+            "linkText": "Guyra Lamb & Potato Festival",
+            "linkURL": "https://guyralambpotatofestival.com/"
+          }
+        ],
         "headline": "",
         "periods": [],
-        "speedLimit": -1,
+        "speedLimit": 40,
         "weblinkUrl": null,
         "expectedDelay": -1,
         "ended": true,
         "isNewIncident": false,
-        "publicTransport": "<p>Buses and light rail services will be affected while roads are closed and the march travels across light rail tracks, expect delays and plan ahead. Visit <a href=\"https://transportnsw.info/\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "publicTransport": "",
         "impactingNetwork": false,
         "subCategoryB": null,
-        "arrangementAttachments": [
-          {
-            "displayName": "PoliceOp_RoadClosures_MFA",
-            "fileName": "PoliceOp_RoadClosures_MFA.pdf",
-            "fileType": "PDF",
-            "linkName": "PoliceOp_RoadClosures_MFA",
-            "sizeInBytes": 713073,
-            "uniqueFileName": "131288_1769147286237_PoliceOp_RoadClosures_MFA.pdf"
-          }
-        ],
+        "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1769124399000,
+        "created": 1765854707000,
         "isMajor": false,
         "name": null,
         "subCategoryA": "null",
-        "adviceA": " ",
-        "adviceB": " ",
-        "adviceC": " ",
-        "end": 1769400000000,
-        "hideEndDate": true,
+        "adviceA": "Reduced speed limit",
+        "adviceB": "Check signage",
+        "adviceC": "Exercise caution",
+        "end": 1769410800000,
+        "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1769400061202,
-        "otherAdvice": "<p>A planned Police Operation protest march will take place between Prince Alfred Park in Surry Hills and Moore Park.</p><p>Road closures will be in place between 12.30pm and 2.30pm and reopen in stages at the direction of NSW Police when the group travels along the march route.</p><p>Motorists should avoid unnecessary travel through the southern CBD and Surry Hills areas while the march is underway, or expect long delays and diversions.</p><p><strong>Road closures:</strong></p><ul><li><strong>Between 12.30pm and 2.30pm</strong> sections of Cleveland St from Regent St (eastbound only, westbound remains open), Chalmers St, Devonshire St, Crown St between Cleveland St and Foveaux St, Foveaux St Fitzroy St and South Dowling St</li></ul>",
+        "lastUpdated": 1769410805572,
+        "otherAdvice": "<p>The festival will be held at Rotary Park from Wednesday 14 to Monday 26 January and will include stalls and shows over the course of the event. With an increase in pedestrians, motorists are advised to take note of traffic and event signage.</p>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
@@ -2351,21 +1519,93 @@
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1769346000000,
-        "displayName": "Police Operation",
+        "start": 1768334400000,
+        "displayName": "Guyra Lamb & Potato Festival",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Prince Alfred Park",
+            "crossStreet": "",
             "delay": "",
             "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Cleveland St, Crown St",
+            "locationQualifier": "at",
+            "mainStreet": "New England Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "New England North West",
+            "secondLocation": "",
+            "suburb": "Guyra",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "Local road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 259734,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0811181,
+          -34.1302886
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "NSW National Parks & Wildlife Service - Royal National Park local alerts",
+            "linkURL": "https://www.nationalparks.nsw.gov.au/visit-a-park/parks/royal-national-park/local-alerts"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1766117047000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Plan your journey",
+        "adviceB": " ",
+        "adviceC": " ",
+        "end": 1769418000000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1769418002102,
+        "otherAdvice": "<p><strong>The Royal National Park is expected to be busy over the Australia Day weekend</strong></p><p>Visitors are encouraged to check the <a href=\"https://www.nationalparks.nsw.gov.au/visit-a-park/parks/royal-national-park/local-alerts\" target=\"_blank\">Royal National Park local alerts</a> before travelling for updates on precinct access.</p><p>Walking trails may also be closed due to total fire bans and/or risks, so plan ahead. </p><p><strong>Roads or car parks may close within the Royal National Park when they reach capacity.</strong></p><p><strong>The following locations may be affected:</strong></p><ul><li>Wattamolla Rd between Sir Bertram Stevens Dr and Wattamolla Beach car park</li><li>Bonnie Vale day use area</li><li>Bonnie Vale boat launch area is closed over the weekend.</li><li>Garie Road between Sir Bertram Stevens Drive and Garie Beach car park</li><li>Maianbar Rd between Bundeena Dr and Maianbar township</li><li>Bundeena Dr between Sir Bertram Stevens Dr and Bundeena township</li></ul><p>Traffic controllers and NSW Police will manage access for local residents, upon proof of address, at Maianbar Rd and Bundeena Dr.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1766322000000,
+        "displayName": "Royal National Park - Australia Day weekend",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "-",
+            "mainStreet": "McKell Ave, Farnell Ave and various roads",
             "quadrant": "",
             "queueLength": 0,
             "region": "Sydney",
-            "secondLocation": "Moore Park",
-            "suburb": "Surry Hills to Moore Park",
+            "secondLocation": "",
+            "suburb": "Royal National Park",
             "trafficVolume": ""
           }
         ],
@@ -2375,12 +1615,444 @@
     },
     {
       "type": "Feature",
-      "id": 262654,
+      "id": 262308,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.2127353,
-          -33.8725805
+          151.4999807,
+          -33.3428581
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "9:00pm",
+            "fromDay": "Monday",
+            "startTime": "4:00pm",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1768859145000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Check signage",
+        "adviceB": "Exercise caution",
+        "adviceC": "Allow extra travel time",
+        "end": 1769421600000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1769421662369,
+        "otherAdvice": "<p>Australia Day event will be held from 4-9pm at The Entrance Memorial Park. Traffic will be heavier than usual on roads approaching the area as attendees travel to and from the event, with increased pedestrian activity.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1769403600000,
+        "displayName": "Australia Day",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Marine Parade",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Central Coast",
+            "secondLocation": "",
+            "suburb": "The Entrance",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "Local road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 260047,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.9033682,
+          -34.420311
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Wollongong City Council",
+            "linkURL": "https://www.wollongong.nsw.gov.au/community/events-and-programs/australia-day"
+          },
+          {
+            "linkText": "Aquathon",
+            "linkURL": "https://www.aquathon.com.au/event-day/"
+          },
+          {
+            "linkText": "Plan your trip",
+            "linkURL": "https://transportnsw.info/events/2026/01/australia-day-at-wollongong-harbour"
+          }
+        ],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Closed",
+            "roadtype": "Road",
+            "direction": "Both directions",
+            "finishTime": "10:00pm",
+            "fromDay": "Sunday",
+            "startTime": "4:00pm",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p>The free &quot;<a href=\"http://www.premierillawarra.com.au/shuttle.html\" target=\"_blank\">Gong Shuttle</a>&quot; bus (routes 55A and 55C) runs every 10 minutes in a loop around Wollongong making stops at North Wollongong Station, Fairy Meadow Station, Gywneville and Wollongong University and Innovation Campus. </p><p><strong>Gong Shuttle buses will run every 10 minutes from 7am until 11pm on Australia Day. The closest stops to the celebrations at Belmore Basin are along Corrimal St and Burelli St.</strong></p><p>Due to road closures, the Free Shuttle Bus will travel along Corrimal Street instead of Cliff Road.</p><p>From 8pm until 10pm buses that usually run along Crown St and Burelli St will terminate and depart at Burelli St (west of Corrimal St).</p><p>Route 887 will not run along Cliff Rd due to road closures, the service will be be detoured along Burelli St, Corrimal St, Campbell St, Church St and Bourke St.</p><p>Visit <a href=\"https://transportnsw.info/\" target=\"_blank\">transportnsw.info</a> to plan your trip on public transport.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [
+          {
+            "displayName": "Australia-Day-2026-road-closure-map",
+            "fileName": "Australia-Day-2026-road-closure-map.pdf",
+            "fileType": "PDF",
+            "linkName": "Australia-Day-2026-road-closure-map",
+            "sizeInBytes": 1094579,
+            "uniqueFileName": "250762_1766380128291_Australia-Day-2026-road-closure-map.pdf"
+          }
+        ],
+        "isInitialReport": false,
+        "created": 1766380214000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Avoid the area",
+        "adviceB": "Plan your journey",
+        "adviceC": "Use public transport",
+        "end": 1769425200000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1769425203040,
+        "otherAdvice": "<p>The Australia Day Aquathon will once again take place along the Wollongong foreshore, with events running from 6am to 12pm. Wollongong&#39;s Australia Day event will then start at 4pm and conclude with fireworks at 10pm.</p><p>The following road closures will be in place from 4pm until 10pm:</p><ul><li><strong>Cliff Rd</strong> between Marine Dr and Georges Pl</li><li><strong>Harbour St</strong> between Market St and Cliff Rd</li><li><strong>Hector St</strong></li><li><strong>Hinton St</strong></li><li><strong>Campbell St</strong> from Corrimal St to Wilson St</li><li><strong>Wilson St</strong></li><li><strong>Smith St</strong> between Corrimal St and Harbour St</li><li><strong>Market Pl</strong></li></ul><p>The following road closures will be in place from 8pm until 10pm:</p><ul><li><strong>Marine Dr</strong></li><li><strong>Endeavour Dr</strong></li><li><strong>Crown St</strong> from Harbour St to Marine Dr</li></ul>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1769367600000,
+        "displayName": "Aquathon and Australia Events",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Marine Drive",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Cliff Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "South Coast",
+            "secondLocation": "Georges Place",
+            "suburb": "Wollongong",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "Local road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 261473,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.9998449,
+          -33.8143528
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Australia Day in Parramatta Park",
+            "linkURL": "https://atparramatta.com/australia-day"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p>Trains, light rail and buses run regularly to Parramatta within walking distance of the Park. Visit <a href=\"https://transportnsw.info/events/2026/01/australia-day-in-parramatta-0\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1768256392000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use public transport",
+        "adviceC": " ",
+        "end": 1769426100000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1769426101610,
+        "otherAdvice": "<p><strong>Tens of thousands of people are expected to attend Australia Day events in Parramatta Park from 4pm to 9.30pm on Monday 26 January.</strong></p><p>Traffic delays are expected throughout the Parramatta CBD and surrounding the Park as attendees travel to and from the event. Motorists should allow extra travel time, and exercise caution as there will be increased pedestrian activity on roads in the area.</p>",
+        "arrangementElements": [
+          {
+            "html": "<p><strong>Westmead</strong></p><p><strong>From 4pm to 10pm, Wednesday 31 December 2025 (local access maintained)</strong></p><ul><li>Alfred St between Railway Pde and Queens Rd</li><li>Central Ave between Railway Pde and Queens Rd</li><li>Park Ave between Railway Pde and Caroline St</li><li>Queens Rd between Hawkesbury Rd and Park Ave</li><li>Railway Pde between Hawkesbury Rd and Park Ave</li></ul><p><strong>From 6pm to 10pm, Wednesday 31 December 2025</strong></p><ul><li>Caroline St between Hawkesbury Rd and Park Ave (Eastbound)</li></ul><p><strong>Parramatta</strong></p><p><strong>From 8:30pm to 10pm, Wednesday 31 December 2025</strong></p><ul><li>Alexandra Ave between Hassall St and Park Pde</li><li>Argyle St between Pitt St and O’Connell St (Westbound)</li><li>George St between O’Connell St and Marsden St</li><li>Hunter St between O’Connell St and Pitt St (Westbound) (Managed exit from Hunter St Carpark will occur from 8:30pm under traffic control)</li><li>Macquarie St between Pitt St and Marsden St (Eastbound)</li><li>O’Connell St between Victoria Rd and Hunter St</li><li>Park Pde between Alexandra Ave and Pitt St (Managed exit from Parramatta Aquatic Centre carpark will occur from 8:30pm under traffic control).</li><li>Pitt St between Great Western Hwy and Argyle St (Northbound) (Local access only)</li><li>Pitt St between Argyle St and Macquarie St (Northbound)</li></ul>",
+            "title": "Road Closures",
+            "id": "771707"
+          }
+        ],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1769346000000,
+        "displayName": "Australia Day events",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Parramatta Park",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "O'Connell Street, Park Avenue",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Parramatta",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 255462,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2088385,
+          -33.8591798
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Australia Day 2026",
+            "linkURL": "https://www.australiaday.com.au/whats-on/whats-on-in-sydney/"
+          },
+          {
+            "linkText": "Interactive road closures & clearways map",
+            "linkURL": "https://experience.arcgis.com/experience/3a94caf7ac894bda98d47e8433ef883f"
+          }
+        ],
+        "headline": "Australia Day in Sydney CIRCULAR QUAY AND THE ROCKS George Street, Hickson Road at Sydney Harbour",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/australia-day-sydney\" target=\"_blank\">transportnsw.info</a> for details</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [
+          {
+            "displayName": "AustraliaDay2026_NorthSydney_RoadClosures_Clearways_map",
+            "fileName": "AustraliaDay2026_NorthSydney_RoadClosures_Clearways_map.pdf",
+            "fileType": "PDF",
+            "linkName": "AustraliaDay2026_NorthSydney_RoadClosures_Clearways_map",
+            "sizeInBytes": 925540,
+            "uniqueFileName": "859681_1768371543469_AustraliaDay2026_NorthSydney_RoadClosures_Clearways_map.pdf"
+          },
+          {
+            "displayName": "AustraliaDay2026_SydneyCBD_RoadClosures_Clearways_map",
+            "fileName": "AustraliaDay2026_SydneyCBD_RoadClosures_Clearways_map.pdf",
+            "fileType": "PDF",
+            "linkName": "AustraliaDay2026_SydneyCBD_RoadClosures_Clearways_map",
+            "sizeInBytes": 642860,
+            "uniqueFileName": "229852_1768371544368_AustraliaDay2026_SydneyCBD_RoadClosures_Clearways_map.pdf"
+          }
+        ],
+        "isInitialReport": false,
+        "created": 1762919614000,
+        "isMajor": true,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Check signage",
+        "adviceB": "Allow extra travel time",
+        "adviceC": "Use diversions",
+        "end": 1769432340000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1769432386344,
+        "otherAdvice": "<p>Roads have reopened around the city as Australia Day events come to an end. All lanes on the Harbour Bridge have now reopened.</p><p>Some closures remain in place around Circular Quay and The Rocks until midnight. </p><p><strong>Key road closures:</strong></p><ul><li><strong>**CLOSED 4am to midnight – Circular Quay &amp; The Rocks</strong>: Sections of Argyle St, Circular Quay West, OPT Elevated Rd, Essex St, George St, Harrington St and Lower Fort St </li><li><strong>**CLOSED 7am to midnight – The Rocks</strong>: Hickson Rd between Pottinger St and George St. </li></ul><p><strong>Special event clearways are in effect on various roads in Circular Quay and The Rocks until midnight. </strong></p><p>Clearways are strict no-parking zones for all vehicle types, and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator.</p>",
+        "arrangementElements": [
+          {
+            "html": "<p><strong>DAWES POINT – FROM 4AM TO 10AM</strong></p><ul><li>Car park opposite Pier One from Hickson Rd to Hickson Rd</li></ul><p><strong>CIRCULAR QUAY / THE ROCKS – FROM 4AM TO 12 MIDNIGHT</strong></p><ul><li>Argyle St between Lower Fort St and Harrington St (eastbound)</li><li>Circular Quay West from George Street</li><li>Essex St between Harrington St and George St (eastbound)</li><li>George St* between Hickson Rd and Essex St</li><li>Elevated Rd from Hickson Rd to the end of the road (Overseas Passenger Terminal upper carpark)</li><li>Pitt St between Alfred St and Reiby Pl</li></ul><p>*George St between Lower Fort St and Hickson Rd will be closed between 5am Saturday 24 January and 12 midnight on Monday 26 January for The Rocks Markets.</p><p><strong>BARANGAROO / MILLERS POINT – FROM 7AM TO 10AM</strong></p><ul><li>Barton St between Barangaroo Ave and Hickson Rd</li><li>Hickson Rd between Napoleon St and Pottinger St*</li><li>Towns Pl between Dalgety Rd and Hickson Rd</li></ul><p>*Local access to Pottinger St via Windmill St.</p><p><strong>THE ROCKS – FROM 7AM TO 12 MIDNIGHT</strong></p><ul><li>Hickson Rd* between Pottinger St and George St</li></ul><p>*No heavy vehicle access to Hickson Rd north of Pottinger St between 4am and 7am due to the closure of George St south of Hickson Rd and lack of turnaround area.</p><p><strong>MILSONS POINT – FROM 10:30AM TO 1PM</strong></p><ul><li>Olympic Dr between Broughton St and Alfred St South</li></ul><p><strong>SYDNEY CBD NORTH – FROM 7:30 PM TO 10:30PM</strong></p><ul><li>Albert St between Macquarie St and Phillip St</li><li>Alfred St between Phillip St and Young St</li><li>Bulletin Pl from Pitt St</li><li>Circular Quay East from Alfred St at Phillip St (full loop)</li><li>Conservatorium Rd between Macquarie St and Cahill Exp (full loop)</li><li>Custom House Ln between Loftus St and Young St</li><li>Dalley St between Pitt St and George St</li><li>Loftus Ln between Young St and Loftus St</li><li>Loftus St between Bridge St and Alfred St</li><li>Macquarie St between Bridge St and Sydney Opera House roundabout</li><li>Phillip St between Bridge St and Alfred St</li><li>Pitt St between Reiby Pl and Bridge St</li><li>Reiby Pl between Loftus St and Pitt St</li><li>Underwood St between Pitt St and Dalley St</li><li>Young St between Bridge St and Alfred St</li></ul><p><strong>SYDNEY CBD NORTH – FROM 09:15PM TO 10:15PM</strong></p><ul><li>Grosvenor/Bridge St between Lang St and Pitt St</li></ul><p><strong>SYDNEY HARBOUR BRIDGE &amp; CAHILL EXPRESSWAY – FROM 7:30PM TO 10:30PM</strong></p><ul><li>Bradfield Hwy Sydney Harbour Bridge - lane 4</li><li>Cahill Exp Sydney Harbour Bridge - lane 7 and 8</li><li>Cahill Exp Circular Quay overpass</li><li>Cahill Exp Conservatorium Rd on-ramp and off-ramp</li><li>Cahill Exp Domain Tunnel on-ramp</li><li>Cahill Exp High Street on-ramp</li><li>Cahill Exp Mount St on-ramp</li><li>Cahill Exp Warringah Fwy approach</li></ul>",
+            "title": "Road Closures",
+            "id": "771725"
+          },
+          {
+            "html": "<p>Special Event Clearways are strict no-parking zones for all vehicle types, and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator.</p><p><br></p><p><strong>BARANGAROO / DAWES POINT / MILLERS POINT – FROM 3AM TO 10AM</strong></p><ul><li>Hickson Rd* between Napoleon St and Pottinger St </li></ul><p>*Includes all parking: on both sides of the road and both sides of the centre median.</p><p><strong>SYDNEY CBD  – FROM 3AM TO 11AM</strong></p><ul><li>Clarence St* between Druitt St and Market St eastern side </li></ul><p>*Authorised route buses excepted.</p><p><strong>DAWES POINT / SYDNEY CBD / THE ROCKS – FROM 3AM TO 12MIDNIGHT</strong></p><ul><li>Argyle St between Harrington St and Lower Fort St (southern side)</li><li>Argyle St between Lower Fort St and Harrington St (northern side)</li><li>Circular Quay West From George St (full length of road)</li><li>Essex St between Harrington St and George St Northern Side</li><li>George St* between Lower Fort St and under SHB (Ped Crossing)</li><li>George St between Alfred St and Hickson Rd</li><li>Harrington St^ between Argyle St and Mission Stairs (eastern side)</li><li>Harrington St Between opposite Suez Canal and Argyle St (indented parking outside 55 Harrington St) (western side)</li><li>Hickson Rd** Between Pottinger St and George St</li><li>Pitt St Between Reiby Pl and Alfred St</li></ul><p>*The Rocks Markets will close a portion of the road between Lower Fort St and Hickson Rd from 10:00pm Friday 23 January 2026 and 12 midnight on Monday 26 January 2026. Normal Rocks Markets clearway operations will be in in place. </p><p>^Police vehicles excepted.</p><p>Oz Day 10K Wheelchair Race drop off and pick up until 11am.</p><p>**Includes all parking: on both sides of the road, both sides of the centre median, and carpark opposite Pier One.</p><p><strong>SYDNEY CBD </strong></p><p><strong>FROM 9AM TO 6PM</strong></p><ul><li>Macquarie St* Sydney Opera House taxi rank (between carpark entry / exit) (eastern side)</li></ul><p>* Vintage buses excepted.</p><p><br></p><p><strong>FROM 9AM TO 10:30PM</strong></p><ul><li>Macquarie St* between Albert and Sydney Opera House Roundabout (western side)</li></ul><p>*Notes:</p><p>Vintage buses excepted until 6pm. No exception for motorcycles or other vehicles to park in the special event clearway. </p><p>Accessible patron drop-off and pick-up excepted until 7:30pm when road closes; No parking.</p><p>Taxi drop-off and pick-up excepted until 7:30pm when road closes; No parking or ranking.</p><p>Rideshare drop-off and pick-up excepted until 7:30pm when road closes; No parking or dwelling.</p><p><strong>MILSONS POINT – FROM 9:30AM TO 1PM</strong></p><ul><li>Olympic Dr between Broughton St and Alfred St South</li></ul><p><strong>SYDNEY CBD  – FROM 5PM TO 10:30PM</strong></p><ul><li>Albert St between Macquarie St and Phillip St</li><li>Alfred St between Phillip St and Young St</li><li>Bent St between Phillip St and Loftus St</li><li>Bligh St^ between Bent St and Hunter St</li><li>Bridge St between George St and Macquarie St</li><li>Carrington St^ between Wynyard St and Margaret St (eastern side)</li><li>Circular Quay East from Alfred St – entire road loop including motorbike parking</li><li>Clarence St^ between King St and Margaret St</li><li>Conservatorium Rd from Macquarie St to Macquarie St - entire loop</li><li>Custom House Ln between Loftus St and Young St</li><li>Dalley St between Pitt St and end of road (George St)</li><li>Grosvenor St between George St and York St</li><li>Hunter St between Pitt St and Elizabeth St</li><li>Loftus Ln between Young St and Young St</li><li>Loftus St between Bridge St and Alfred St</li><li>Macquarie St between Bridge St and Albert St (western side)</li><li>Macquarie St* between SOH taxi rank and Conservatorium Rd (eastern side)</li><li>O’Connell St^ between Bent St and Hunter St</li><li>Phillip St between Bridge St and Alfred St</li><li>Pitt St between Reiby Pl and Bridge St</li><li>Reiby Pl between Loftus St and Pitt St</li><li>Spring St^ between Gresham and Pitt St (southern side)</li><li>Underwood St between Pitt St and Dalley St</li><li>York St^ between Margaret St and Erskine St (western side)</li><li>Young St between Alfred St and Bridge St</li><li>Young St between Bridge St and Farrer Pl (western side)</li></ul><p>*Vintage bus tow truck excepted on the eastern side of the road, under the Cahill Expressway overpass, between 9am and 6pm.</p><p>^Authorised route buses excepted.</p>",
+            "title": "Special Event Clearways",
+            "id": "771726"
+          }
+        ],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1769346000000,
+        "displayName": "Australia Day in Sydney",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Sydney Harbour",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "George Street, Hickson Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Circular Quay and The Rocks",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 262948,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.7360987,
+          -32.9174263
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Newcastle Caravan Camping Lifestyle Expo",
+            "linkURL": "https://www.caravanexpo.com/"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1769483680000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Check signage",
+        "adviceB": "Exercise caution",
+        "adviceC": " ",
+        "end": 1769922000000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1769483681387,
+        "otherAdvice": "<p>The Newcastle Caravan Camping Lifestyle Expo will be held from 9am on Friday 30 January to 4pm on Sunday 1 February at Newcastle Entertainment Centre and Showground. Motorists should allow extra travel time and be aware of increased pedestrian activity.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1769724000000,
+        "displayName": "Newcastle Caravan and Camping Expo",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Griffiths Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Hunter",
+            "secondLocation": "",
+            "suburb": "Newcastle",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "Local road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 258744,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0663871,
+          -33.8474956
         ],
         "collections": []
       },
@@ -2391,35 +2063,99 @@
         "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
-        "ended": true,
+        "ended": false,
         "isNewIncident": false,
-        "publicTransport": "<p>Buses and light rail services will be affected while roads are closed and the march travels across light rail tracks, expect delays and plan ahead. Visit <a href=\"https://transportnsw.info/\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
+        "publicTransport": "<p>Concert tickets include travel on public transport. Express trains and Major Event Buses will run. Visit <a href=\"\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": true,
         "subCategoryB": null,
-        "arrangementAttachments": [
-          {
-            "displayName": "PoliceOp_RoadClosures_InvasionDay",
-            "fileName": "PoliceOp_RoadClosures_InvasionDay.pdf",
-            "fileType": "PDF",
-            "linkName": "PoliceOp_RoadClosures_InvasionDay",
-            "sizeInBytes": 1076027,
-            "uniqueFileName": "490050_1769147297653_PoliceOp_RoadClosures_InvasionDay.pdf"
-          }
-        ],
+        "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1769123925000,
+        "created": 1765342505000,
         "isMajor": false,
         "name": null,
         "subCategoryA": "null",
-        "adviceA": " ",
-        "adviceB": " ",
+        "adviceA": "Use public transport",
+        "adviceB": "Allow extra travel time",
         "adviceC": " ",
-        "end": 1769401800000,
-        "hideEndDate": true,
+        "end": 1771159500000,
+        "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1769401802114,
-        "otherAdvice": "<p>A planned Police Operation protest march will take place between Hyde Park in the city and Victoria Park in Camperdown.</p><p>Road closures will be in place between 12.30pm and 3pm and reopen in stages at the direction of NSW Police when the group travels along the march route.</p><p>Motorists should avoid unnecessary travel through the CBD and Camperdown areas while the march is underway, or expect long delays and diversions.</p><p><strong>Road closures from 11.45 am to approximately 3pm for:</strong></p><ul><li>Sections of College St, Liverpool St and Elizabeth St will close, as well as surrounding streets.</li><li>Sections of Elizabeth St from Hyde Park to Central, George St, Lee St and Eddy Ave will close, as well as surrounding local streets.</li><li>Sections of Broadway (Westbound only, citybound lanes remain open), Abercrombie St, City Rd and Lee St will close, as well as surrounding local streets.</li></ul>",
+        "lastUpdated": 1769483738980,
+        "otherAdvice": "<p><strong>Ed Sheeran concerts </strong>at Accor Stadium on Friday 13, Saturday 14 and Sunday 15 February. Gates open from 4pm, entertainment starts at 5.15pm (approx) each night.</p><p><strong>Also taking place in the precinct are The AEW All Elite Wrestling Show </strong>at Qudos Bank Arena on Saturday 14 February, starting at 7.30pm to 10.00pm (approx) and the <strong>Sydney Kings vs Perth Wildcats</strong> at Qudos Bank Arena on Sunday 15 February, starting 4.15pm to 6.30pm (approx).</p><ul><li>With around 70,000 Ed Sheeran fans expected each night along with thousands of All Elite Wrestling attendees on Saturday and basketball fans on Sunday, significant traffic delays are expected on roads approaching the precinct.</li><li>Motorists should allow plenty of extra travel time on roads approaching Olympic Park including the M4 Mwy, Homebush Bay Dr, Concord Rd, Lane Cove Rd, Parramatta Rd, Centenary Dr and Silverwater Rd.</li><li><strong>PARKING: </strong>Do not drive unless you have pre-booked parking. <a href=\"https://www.sydneyolympicpark.nsw.gov.au/parking\" target=\"_blank\">Pre-book online</a> ahead of time to secure a space as parking will be in high demand. A flat rate $35 parking fee applies. </li><li>If you have pre-booked your parking, follow the directions of staff and have your parking ticket ready to show at the car park entry.</li><li>Carpool with your group and allow plenty of extra travel time. Significant traffic delays are expected, especially on Friday during the busy evening peak.</li><li>Alternatively, consider parking at a nearby train station commuter car park and continuing your trip by train to Olympic Park, at no extra cost.</li></ul><p>Sydney Olympic Park Authority will close local roads in the precinct to ensure pedestrian safety during the event and to accommodate additional transport services. For road closure details, view the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a>.</p>",
+        "arrangementElements": [
+          {
+            "html": "<p><strong>From 1.00am Friday 13 February – 3.00am Monday 16 February</strong></p><ul><li>Dawn Fraser Avenue from Olympic Boulevard to Showground Road</li></ul><p><strong>From 1.30am Friday 13 February – 3.00am Monday 16 February </strong></p><ul><li>Dawn Fraser Avenue from Olympic Boulevard to Edwin Flack Avenue</li><li>Olympic Boulevard from Herb Elliot Avenue to Edwin Flack Avenue</li><li>Grand Parade from Olympic Boulevard to Orana Parade</li><li>Showground Road from Grand Parade to Dawn Fraser Avenue</li><li>Murray Rose Avenue from Gate 15 to Showground Road</li></ul><p><strong>From 11.00am Friday 13 February – 3.00am Monday 16 February </strong></p><ul><li>Kevin Coombs Avenue between Pondage Link and Australia Avenue (eastbound)</li></ul><p><strong>From 12.00pm Friday 13 February – 3.00am Monday 16 February </strong></p><ul><li>Olympic Boulevard between Sarah Durack Avenue and Herb Elliott Avenue</li></ul><p><strong>From 12.00pm Friday 13 February – 1.00am Saturday 14 February </strong></p><ul><li>Shirley Strickland Avenue between P4 Roundabout and Rod Laver Drive</li><li>Rod Laver Drive at the rear of Tennis Centre to Shirley Strickland Avenue west</li></ul><p><strong>From 1.00pm Friday 13 February – 3.00am Monday 16 February </strong></p><ul><li>Dawn Fraser Avenue from Park Street to Showground Road.</li><li>Showground Road from Dawn Fraser Avenue to rear of Novotel Loading Dock.</li></ul><p><strong>From 5.00pm Friday 13 February – 1.00am Saturday 14 February </strong></p><ul><li>Kevin Coombs Avenue between Pondage Link and Australia Avenue (westbound)</li><li>Holker Busway from Hill Road to Australia Avenue</li></ul><p> <strong>From 10.00pm Friday 13 February – 1.00am Saturday 14 February</strong></p><ul><li>Edwin Flack Avenue from Pondage Link to Old Hill Link (westbound). *Buses excepted</li><li>Edwin Flack Avenue (northbound) from Bernie Avenue to Old Hill Link. *Buses excepted</li><li>Murray Rose Avenue from Gate 15 to Australia Avenue</li><li>Dawn Fraser Avenue from Park Street to Australia Avenue *Buses excepted</li><li>Herb Elliott Avenue closed between Park Street and Olympic Boulevard.</li></ul><p><strong>From 1.00am Saturday 14 February – 7.00pm Sunday 15 February </strong></p><ul><li>Shirley Strickland Avenue (east) between Olympic Boulevard to Bannon Bridge</li></ul><p><strong>From 12.00pm Saturday 14 February – 1.00am Sunday 15 February </strong></p><ul><li>Shirley Strickland Avenue between P4 Roundabout and Rod Laver Drive.</li><li>Rod Laver Drive at the rear of Tennis Centre to Shirley Strickland west</li></ul><p><strong>From 4.00pm Saturday 14 February – 1.00am Sunday 15 February </strong></p><ul><li>Kevin Coombs Avenue between Pondage Link and Australia Avenue (westbound)</li><li>Holker Busway from Hill Road to Australia Avenue</li></ul><p><strong>From 10.00pm Saturday 14 February – 1.00am Sunday 15 February </strong></p><ul><li>Edwin Flack Avenue from Pondage Link to Old Hill Link (westbound). *Buses excepted</li><li>Edwin Flack Avenue (northbound) from Bernie Avenue to Old Hill Link. *Buses excepted</li><li>Murray Rose Avenue from Gate 15 to Australia Avenue</li><li>Dawn Fraser Avenue from Park Street to Australia Avenue. *Buses excepted</li><li>Herb Elliott Avenue closed between Park Street and Olympic Boulevard.</li></ul><p><strong>From 12.00pm Sunday 15 February – 1.00am Monday 16 February </strong></p><ul><li>Shirley Strickland Avenue between P4 Roundabout and Rod Laver Drive.</li><li>Rod Laver Drive at the rear of Tennis Centre to Shirley Strickland Avenue west</li></ul><p><strong>From 4.00pm Sunday 15 February – 1.00am Monday 16 February </strong></p><ul><li>Kevin Coombs Avenue between Pondage Link and Australia Avenue (westbound)</li><li>Holker Busway from Hill Road to Australia Avenue</li></ul><p><strong>From 10.00pm Sunday 15 February – 1.00am Monday 16 February </strong></p><ul><li>Edwin Flack Avenue from Pondage Link to Old Hill Link (westbound). *Buses excepted</li><li>Edwin Flack Avenue (northbound) from Bernie Avenue to Old Hill Link. *Buses excepted</li><li>Murray Rose Avenue from Gate 15 to Australia Avenue</li><li>Dawn Fraser Avenue from Park Street to Australia Avenue. *Buses excepted</li><li>Herb Elliott Avenue closed between Park Street and Olympic Boulevard.</li><li><br></li></ul>",
+            "title": "Road Closures",
+            "id": "771984"
+          }
+        ],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1770901200000,
+        "displayName": "Ed Sheeran concerts",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Accor Stadium",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "approaching",
+            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road, Centenary Drive",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Sydney Olympic Park",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 262426,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.9015667,
+          -34.4289698
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2026/02/nbl-illawarra-hawks-v-adelaide-36ers\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1768954269000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Use public transport",
+        "adviceB": "Allow extra travel time",
+        "adviceC": " ",
+        "end": 1770291000000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1769490785951,
+        "otherAdvice": "<p><strong>NBL: Illawarra Hawks v Adelaide 36ers at WIN Entertainment Centre. Tip-off at 7.30pm, full time around 9.30pm.</strong></p><p>Traffic may be heavier than usual on roads approaching the Wollongong CBD and on local roads around WIN Entertainment Centre as fans travel to and from the match.</p><p>Local roads around the stadium may close before, during and after the game for the safety of pedestrians.</p><p>Fans driving to the game on the freeway are encouraged to use the Masters Rd exit to avoid congestion at Mount Ousley Rd, both in and out of Wollongong.</p><p>Motorists should allow extra time for parking and be aware of increased pedestrian activity on local roads.</p>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
@@ -2427,25 +2163,512 @@
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1769346000000,
-        "displayName": "Police Operation",
+        "start": 1770210000000,
+        "displayName": "NBL",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Hyde Park",
+            "crossStreet": "WIN Entertainment Centre",
             "delay": "",
             "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "College St, Elizabeth St, Broadway",
+            "locationQualifier": "at",
+            "mainStreet": "Harbour Street",
             "quadrant": "",
             "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "Victoria Park",
-            "suburb": "Sydney CBD to Camperdown",
+            "region": "South Coast",
+            "secondLocation": "",
+            "suburb": "Wollongong",
             "trafficVolume": ""
           }
         ],
         "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 262429,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.8351336,
+          -34.0510453
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2026/02/league-men-macarthur-fc-v-perth-glory\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1768954421000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": " ",
+        "adviceC": " ",
+        "end": 1770375600000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1769490858819,
+        "otherAdvice": "<p><strong>A-League Men: Macarthur FC v Perth Glory at Campbelltown Sports Stadium. Kick-off at 7.35pm, full time around 9.35pm. </strong></p><p>Traffic may be heavier than usual as fans travel to and from the match. Allow extra travel time on roads including Pembroke Rd, Rose Payten Dr and Leumeah Rd.</p><p>Motorists should also be aware of increased pedestrian activity in the area.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1770296400000,
+        "displayName": "A-League Men",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Campbelltown Sports Stadium",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "approaching",
+            "mainStreet": "Pembroke Road and Rose Payten Drive",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Leumeah",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 262430.0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0606479,
+          -33.8469141
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2026/02/onerepublic\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1768954574000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use public transport",
+        "adviceC": " ",
+        "end": 1770381000000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1769490931122,
+        "otherAdvice": "<p><strong>OneRepublic at Qudos Bank Arena. Show starts at 7.35pm.</strong></p><p>Traffic may be heavier than usual as fans travel to Olympic Park in the already busy weeknight peak.</p><p>Motorists should allow extra travel time on the M4, Parramatta Rd, Homebush Bay Drive, Silverwater Rd, Centenary Dr and Concord Rd. </p><p>If you have to drive, carpool with your group <a href=\"https://www.sydneyolympicpark.nsw.gov.au/parking\" target=\"_blank\">pre-book your parking online</a> ahead of time to secure a space – available until 11:59pm the night before the event unless sold out prior. </p><p>To get to your carpark and avoid the heavy traffic congestion expected at the Homebush Bay Drive roundabout, use Silverwater Road, Holker Street and Hill Road</p><p>Sydney Olympic Park Authority may close local roads in the precinct to ensure pedestrian safety during the event. View the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a> for closure details</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1770296400000,
+        "displayName": "Concert",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Qudos Bank Arena",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "approaching",
+            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Sydney Olympic Park",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 262431,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0708069,
+          -33.8441385
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2026/02/dreamstate\" target=\"_blank\">transportnsw.info </a>to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1768954864000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Use public transport",
+        "adviceB": "Allow extra travel time",
+        "adviceC": " ",
+        "end": 1770469140000,
+        "hideEndDate": true,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1769490974605,
+        "otherAdvice": "<p><strong>Dreamstate music festival at Sydney Showgrounds from 2pm to 11pm.</strong></p><p>With thousands of people expected, attendees are encouraged to plan their trip and consider all the available travel options ahead of time.  </p><p>Motorists should allow plenty of extra travel time on roads approaching Olympic Park including the M4 Mwy, Homebush Bay Dr, Concord Rd, Lane Cove Rd, Parramatta Rd, Centenary Dr and Silverwater Rd.</p><p>Sydney Olympic Park Authority may close local roads in the precinct and traffic congestion is expected before and after the events. For road closure details, visit the Sydney Olympic Park Authority <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a>.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1770382800000,
+        "displayName": "Music Festival",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Sydney Showground",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "approaching",
+            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road, Centenary Drive",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Sydney Olympic Park",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 262432,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0012857,
+          -33.8093247
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "<p>Match tickets include travel on transport. Visit <a href=\"https://transportnsw.info/events/2026/02/league-western-sydney-wanderers-double-header\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [
+          {
+            "displayName": "CommBankStadium_Transport_WalkingRoute_Map",
+            "fileName": "CommBankStadium_Transport_WalkingRoute_Map.pdf",
+            "fileType": "PDF",
+            "linkName": "CommBankStadium_Transport_WalkingRoute_Map",
+            "sizeInBytes": 3930899,
+            "uniqueFileName": "919826_1728350438314_CommBankStadium_Transport_WalkingRoute_Map.pdf"
+          }
+        ],
+        "isInitialReport": false,
+        "created": 1768955069000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use public transport",
+        "adviceC": " ",
+        "end": 1770462900000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1769491029078,
+        "otherAdvice": "<p><strong>A-League: Western Sydney Wanderers Double Header at CommBank Stadium</strong></p><ul><li>A-League Women&#39;s match against Adelaide United starts at 4.50pm, </li><li>A-League Men&#39;s match against Melbourne City FC starts at 7.35pm, </li><li>Finishes at 9.30pm</li></ul><p>Traffic will be heavier than usual on roads approaching the stadium as fans travel to the match. Allow extra travel time on roads including Parramatta Road, Church Street, Victoria Road, James Ruse Drive and Pennant Hills Road. </p><p>Motorists should also exercise caution as pedestrian activity will be high on roads between Parramatta Interchange and the stadium.<strong> </strong></p><p>Be patient leaving car parks as traffic will be heavy and follow the directions of traffic controllers and Police.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1770382800000,
+        "displayName": "A-League",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Victoria Road",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "O'Connell Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Parramatta",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 262433,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1311184,
+          -33.9725029
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2026/02/nrl-pre-season-challenge-double-header\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1768955268000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": " ",
+        "adviceC": " ",
+        "end": 1770463800000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1769491136799,
+        "otherAdvice": "<p><strong>NRL Pre-Season Challenge game at Jubilee Stadium:</strong></p><ul><li><b>Match 1 - Bulldogs v Cowboys at 5.30pm</b></li><li><strong>Match 2 - Dragons v Knights at 7.30pm</strong></li><li><strong>Finishes at 9.30pm</strong></li></ul><p>Traffic will be heavier than usual in both directions on the Princes Hwy approaching Kogarah as fans travel to the stadium.</p><p>Local roads around the stadium may close ahead of match start including Jubilee Ave, Park St and English St. Roads will re-open once crowds have cleared the area.</p><p>Fans driving to the game should allow extra time for parking and be aware of increased pedestrian activity on local roads.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1770382800000,
+        "displayName": "NRL",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Princes Highway",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Jubilee Avenue, English Street, Park Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Kogarah",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 262434,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2257172,
+          -33.9081961
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2026/02/millennium-day\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1768955397000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use public transport",
+        "adviceC": " ",
+        "end": 1770451200000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1769491170889,
+        "otherAdvice": "<p><strong>Millennium Day at Royal Randwick Racecourse</strong>. First race at 12:25pm, last race at 6pm.</p><p>Traffic will be heavier than usual on Anzac Pde, Doncaster Ave, High St, Alison Rd and Darley Rd as crowds travel to and from the event.</p><p>Motorists should allow extra travel time and be aware of increased pedestrian activity on local roads.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1770382800000,
+        "displayName": "Race Day",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Royal Randwick Racecourse",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "approaching",
+            "mainStreet": "Anzac Parade, Alison Road, High Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Randwick",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 262435,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2270043,
+          -33.8968382
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "<p>Festival tickets include travel on transport. Some buses will use different stops while roads are closed. Visit <a href=\"https://transportnsw.info/events/2026/02/laneway-music-festival\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [
+          {
+            "displayName": "LanewayMusicFestival2026_RoadClosures_ClearwaysMap",
+            "fileName": "LanewayMusicFestival2026_RoadClosures_ClearwaysMap.pdf",
+            "fileType": "PDF",
+            "linkName": "LanewayMusicFestival2026_RoadClosures_ClearwaysMap",
+            "sizeInBytes": 1273432,
+            "uniqueFileName": "853482_1768955589884_LanewayMusicFestival2026_RoadClosures_ClearwaysMap.pdf"
+          }
+        ],
+        "isInitialReport": false,
+        "created": 1768955688000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Use public transport",
+        "adviceB": "Check signage",
+        "adviceC": "Allow extra travel time",
+        "end": 1770555540000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1769492002502,
+        "otherAdvice": "<p><strong>Laneway Music Festival at Centennial Park from 11.30am to 10pm approx.</strong></p><p>With more than 45,000 fans expected traffic will be heavier than usual in the area. Motorists should expect delays on Anzac Pde, Lang Rd, Oxford St, Syd Einfeld Drive, Darley Rd, York Rd and Alison Rd.</p><p><strong>Road closures and changed access arrangements will be in effect to allow crowds to safely leave the park after the event.</strong></p><p>From 8pm there will be no direct access to the Entertainment Quarter from Anzac Parade or Oxford St due to closures of Lang Rd. Vehicle access will be permitted via Moore Park Rd eastbound only (under traffic management) and Cook Rd - follow signs and directions of traffic controllers</p><p><strong>From 8pm to midnight </strong></p><ul><li>Driver Ave between Lang Rd and MacArthur Ave (southern turning circle) (northbound)  </li><li>Lang Rd between Errol Flynn Blvd and Anzac Pde (westbound) – no right turn exit from Errol Flynn Blvd. </li><li>Lang Rd* between Mitchell St and Moore Park Rd (both directions) * Managed access for residents maintained </li><li>Moore Park Rd between Oxford St and Cook Rd (westbound) – no access to the EQ precinct via Moore Park Rd westbound; access via Moore Park eastbound then Cook and Lang roads only.  </li></ul><p><strong>From 9pm to midnight </strong></p><ul><li>Driver Ave between MacArthur Ave (southern turning circle) and Lang Road (southbound) </li><li>Lang Rd between Anzac Pde to Errol Flynn Blvd (eastbound) – no access to the EQ precinct via Anzac Pde; access via Cook Rd and Lang Rd from Moore Park Rd only.  </li><li>Moore Park Rd* between Oatley Rd and Oxford St (eastbound) * Managed access for residents maintained </li></ul><p>Gate closures and parking restrictions will also be in place within Centennial Parklands - see the <a href=\"https://www.centennialparklands.com.au/whatson/jan-march-2026/laneway-festival-2026/laneway-2026-faqs\" target=\"_blank\">Centennial Parklands</a> website for more information.</p><p><strong>Special event clearways will be in effect from 6am to 11.30pm on sections of Cleveland St, from 11am to 11.30pm on sections of Fitzroy St, Lang Rd and Oxford St, and from 12:01am to 11.59pm on Driver Ave. </strong> </p><p>Clearways are strict no-parking zones for all vehicle types and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed\" target=\"_blank\">Find My Car website</a> to find its new location, or alternatively call 132 701 to speak to an operator</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1770469200000,
+        "displayName": "Laneway Music Festival 2026",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "-",
+            "mainStreet": "Moore Park Road, Anzac Parade, Lang Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Centennial Park",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "Local road",
         "CategoryIcon": "PublicEvent"
       }
     }
