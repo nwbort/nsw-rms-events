@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1769670360000,
+  "lastPublished": 1769756760000,
   "layerName": "MajorEvent",
   "rights": {
     "copyright": "Transport for NSW",
@@ -1809,20 +1809,20 @@
     },
     {
       "type": "Feature",
-      "id": 261063,
+      "id": 263114,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.0636269,
-          -33.8439446
+          151.1996846,
+          -33.8768355
         ],
         "collections": []
       },
       "properties": {
         "webLinks": [
           {
-            "linkText": "NBL: Sydney Kings v Tasmania Jackjumpers",
-            "linkURL": "https://transportnsw.info/events/2026/01/nbl-sydney-kings-v-adelaide-36ers"
+            "linkText": "What's on at the TikTok Entertainment Centre",
+            "linkURL": "https://tiktokentcent.com/whats-on/"
           }
         ],
         "headline": "",
@@ -1830,26 +1830,26 @@
         "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events\" target=\"_blank\">transportnsw.info</a> to plan your trip and allow extra travel time.</p>",
-        "impactingNetwork": false,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "<p>L1 light rail services run regularly to stops at Darling Harbour. Visit <a href=\"https://transportnsw.info/\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": true,
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1767838085000,
+        "created": 1769641769000,
         "isMajor": false,
         "name": null,
         "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Use public transport",
+        "adviceA": "Use public transport",
+        "adviceB": "Allow extra travel time",
         "adviceC": " ",
-        "end": 1769668200000,
+        "end": 1772282700000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1769668246349,
-        "otherAdvice": "<p>Upcoming NBL matches at Qudos Bank Arena:</p><ul><li><strong>Thu 22 Jan - NBL: Sydney Kings v Tasmania Jackjumpers. </strong>Tip off at 7.30pm, finish around 9.30pm.</li><li><strong>Sun 25 Jan - NBL: Sydney Kings v Adelaide 36ers. </strong>WNBL: Sydney Flames v Adelaide Lightning match at 12pm, NBL: Sydney Kings v Adelaide 36ers match at 2.30pm, finish around 4.30pm.</li><li><strong>Thu 29 Jan - NBL: Sydney Kings v Illawarra Hawks. </strong>Tip off at 7.30pm, finish around 9.30pm.</li></ul><p>Traffic may be heavier than usual as fans make their way to and from Olympic Park.</p><p>Motorists should allow extra travel time on the M4, Parramatta Rd, Homebush Bay Drive, Silverwater Rd, Centenary Dr and Concord Rd. </p><p>If you have to drive, carpool with your group <a href=\"https://www.sydneyolympicpark.nsw.gov.au/parking\" target=\"_blank\">pre-book your parking online</a> ahead of time to secure a space – available until 11:59pm the night before the event unless sold out prior. </p><p>To get to your carpark and avoid the heavy traffic congestion expected at the Homebush Bay Drive roundabout, use Silverwater Road, Holker Street and Hill Road</p><p>Sydney Olympic Park Authority may close local roads in the precinct to ensure pedestrian safety during the event. View the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a> for closure details.</p>",
+        "lastUpdated": 1769731603331,
+        "otherAdvice": "<p><strong>Upcoming events at TikTok Entertainment Centre (ICC Sydney Theatre):</strong></p><ul><li><strong>Matt Rife &#39;Stay Golden World Tour&#39; - Friday 30 and Saturday 31 January</strong></li><li><strong>The Music of John Williams: Episode II - Saturday 7 February</strong></li><li><strong>An Evening with Dream Theater 40th Anniversary Tour - Saturday 14 February</strong></li><li><strong>GIVĒON - Wednesday 18 February</strong></li><li><strong>A Special Evening with Christian Horner - Thursday 26 February</strong></li><li><strong>Josh Groban - Saturday 28 February</strong></li></ul><p><strong>﻿</strong>Allow extra travel time on roads in the city and Pyrmont around Darling Harbour as traffic may be heavier than usual as attendees travel to the shows, particularly during peak evening periods.</p><p>Motorists should exercise caution and be aware of increased pedestrian activity on local roads.</p>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
@@ -1857,21 +1857,93 @@
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1769000400000,
-        "displayName": "NBL",
+        "start": 1769691600000,
+        "displayName": "Special events",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Qudos Bank Arena",
+            "crossStreet": "Pier Street",
             "delay": "",
             "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road",
+            "locationQualifier": "at",
+            "mainStreet": "Darling Drive",
             "quadrant": "",
             "queueLength": 0,
             "region": "Sydney",
             "secondLocation": "",
-            "suburb": "Sydney Olympic Park",
+            "suburb": "Sydney",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 263269,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.1229045,
+          -32.7381392
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Peter Wilson Memorial Championships",
+            "linkURL": "https://hornetstouch.com.au/event/2026-peter-wilson-memorial-championships/"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": 40,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1769747041000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Reduced speed limit",
+        "adviceB": "Exercise caution",
+        "adviceC": "Allow extra travel time",
+        "end": 1769925600000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1769747140910,
+        "otherAdvice": "<p>The Peter Wilson Memorial Touch Gala day will be taking place at Tomaree Sports Complex on Saturday 31 January and Sunday 1 February.</p><p>Nelson Bay Road approaching the event site will be busier than usual as attendees and spectators travel to and from the event. The right hand turn lane from Nelson Bay Rd into the venue will be restricted during the event. Motorists should allow extra travel time and be aware of increased pedestrian activity.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1769806800000,
+        "displayName": "Peter Wilson Memorial Touch Football Gala Day",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Tomaree Sports Complex",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "approaching",
+            "mainStreet": "Nelson Bay Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Hunter",
+            "secondLocation": "",
+            "suburb": "Nelson Bay",
             "trafficVolume": ""
           }
         ],
