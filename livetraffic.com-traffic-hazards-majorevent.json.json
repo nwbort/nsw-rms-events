@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1770880440000,
+  "lastPublished": 1770966870000,
   "layerName": "MajorEvent",
   "rights": {
     "copyright": "Transport for NSW",
@@ -768,73 +768,6 @@
     },
     {
       "type": "Feature",
-      "id": 263868,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.2073244,
-          -33.8707567
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>Buses may experience delays along Market St while lanes are closed. </p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1770263803000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": " ",
-        "adviceC": " ",
-        "end": 1770904800000,
-        "hideEndDate": true,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1770263825320,
-        "otherAdvice": "<p>Film Premiere at the State Theatre on Thursday 12 February.</p><p><strong>Lane and footpath closures will be in place to accommodate crowds:</strong></p><ul><li>From 4am Thursday to 1am Friday lanes 1 and 4 of Market St between Pitt St and George St will be closed.</li><li>From 10am to midnight on Thursday the southern side footpath of Market St between Pitt St and George St will be closed.</li></ul><p>Motorist should expect traffic delays along Market St during the event, allow extra travel time in the area and be aware of increased pedestrian activity on roads around the theatre.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1770814800000,
-        "displayName": "Film Premiere",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "George Street",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Market Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "Pitt Street",
-            "suburb": "Sydney CBD",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 263459,
       "geometry": {
         "type": "Point",
@@ -1122,73 +1055,6 @@
             "region": "Sydney",
             "secondLocation": "",
             "suburb": "Moore Park",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 263708,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.0606479,
-          -33.8469141
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2026/02/lainey-wilson\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1770595492000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Use public transport",
-        "adviceC": " ",
-        "end": 1771245000000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1770595492777,
-        "otherAdvice": "<p><strong>Lainey Wilson at Qudos Bank Arena. Show starts at 7pm.</strong></p><p>Traffic may be heavier than usual as fans travel to Olympic Park in the already busy weeknight peak.</p><p>Motorists should allow extra travel time on the M4, Parramatta Rd, Homebush Bay Drive, Silverwater Rd, Centenary Dr and Concord Rd. </p><p>If you have to drive, carpool with your group <a href=\"https://www.sydneyolympicpark.nsw.gov.au/parking\" target=\"_blank\">pre-book your parking online</a> ahead of time to secure a space – available until 11:59pm the night before the event unless sold out prior. </p><p>To get to your carpark and avoid the heavy traffic congestion expected at the Homebush Bay Drive roundabout, use Silverwater Road, Holker Street and Hill Road</p><p>Sydney Olympic Park Authority may close local roads in the precinct to ensure pedestrian safety during the event. View the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a> for closure details</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1771160400000,
-        "displayName": "Concert",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Qudos Bank Arena",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Sydney Olympic Park",
             "trafficVolume": ""
           }
         ],
@@ -1872,93 +1738,6 @@
     },
     {
       "type": "Feature",
-      "id": 260912,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.203735,
-          -33.8786939
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>.Plan your trip at <a href=\"https://transportnsw.info/Sydney-Lunar-Streets\" target=\"_blank\">transportnsw.info</a>.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [
-          {
-            "displayName": "Sydney_Lunar_Streets_2026-Road_closures_clearways_map",
-            "fileName": "Sydney_Lunar_Streets_2026-Road_closures_clearways_map.pdf",
-            "fileType": "PDF",
-            "linkName": "Sydney_Lunar_Streets_2026-Road_closures_clearways_map",
-            "sizeInBytes": 700639,
-            "uniqueFileName": "908846_1767672946979_Sydney_Lunar_Streets_2026-Road_closures_clearways_map.pdf"
-          }
-        ],
-        "isInitialReport": false,
-        "created": 1767672853000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Check signage",
-        "adviceB": "Allow extra travel time",
-        "adviceC": "Use diversions",
-        "end": 1771079400000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1770691898286,
-        "otherAdvice": "<p>Road closures and special event clearways will be in place for the City of Sydney – Sydney Lunar Streets Festival on Saturday 14 February. Event starts at 5pm and finishes at 10pm.</p><ul><li><strong>Sections of Campbell St, Factory St*, George St*, Harbour St*, Hay St, Kimber Ln*, Little Hay St, Little Pier St*, Sussex St*, Thomas Ln, Thomas St and Ultimo Rd will be closed between 8am Saturday 14 to 1am Sunday 15 February</strong>.</li><li><strong>Sections of Harbour St*, Hay St and Sussex St will also be closed from 6am to 12pm on Friday 13 and Monday 16 February.</strong></li><li>*Note: Managed access will be in place for residents and businesses during the specified times.</li></ul><p>Allow extra travel time, follow the directions of traffic control and be aware of increased pedestrian activity.</p><p><strong>Special event clearways will be in effect from 8am Saturday 14 February on sections of Harbour St, Hay St, Little Hay St and Sussex St, and from 10am Saturday 14 February on sections of Campbell St, Thomas Ln, Thomas St and Ultimo Rd. All clearways will be lifted by 1am Sunday 15 February. </strong></p><p>Clearways are strict no-parking zones for all vehicle types and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed/what-to-do\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator.</p>",
-        "arrangementElements": [
-          {
-            "html": "<p><strong>ROAD CLOSURES – HAYMARKET </strong></p><p>Road closures affect both directions unless stated otherwise. Roads will be progressively reopened after cleaning.</p><p><strong>FROM 6AM TO 12PM FRIDAY 13 &amp; MONDAY 16 FEBRUARY</strong></p><p><strong>FROM 8AM SAT 14 TO 1AM SUN 15 FEBURARY</strong></p><ul><li>Harbour St between Hay St and the driveway of 83 Harbour St </li><li>Harbour St* between the driveway of 83 Harbour St and Little Hay St</li><li>Hay St between Sussex St and Harbour St</li><li>Sussex St Between Little Hay St and Hay St</li></ul><p><strong>FROM 8AM SATURDAY 14 TO 1AM SUNDAY 15 FEBRUARY</strong></p><ul><li>Factory St* between Harbour St and Kimber Ln</li><li>Factory St between Kimber Ln and Dixon St </li><li>Harbour St* between 83 Harbour St Driveway and Goulburn St</li><li>Kimber Ln* between Factory St and Little Hay St </li><li>Kimber Ln between Hay St and Little Hay St </li><li>Little Hay St between Sussex St and Harbour St</li><li>Little Pier St* from Harbour St </li><li>Sussex St* between Goulburn St and Little Hay St</li></ul><p><strong>FROM 10AM SATURDAY 14 TO 1AM SUNDAY 15 FEBRUARY</strong></p><ul><li>Campbell St between Pitt St and George St</li><li>George St between Pitt St and Valentine St (northbound)</li><li>George St* between Valentine St and Rawson Pl (northbound)</li><li>George St between Rawson Pl and Ultimo Rd (northbound)</li><li>George St* between Rawson Pl and Pitt St (southbound)</li><li>Thomas Ln* between Quay St and Thomas St</li><li>Thomas St from Ultimo Rd</li><li>Thomas St* between Thomas Ln and Quay St</li><li>Ultimo Rd between George St and Quay St</li></ul><p><strong>*Note</strong>: Managed access will be in place for residents and businesses during the specified times. </p>",
-            "title": "Road Closures",
-            "id": "780173"
-          },
-          {
-            "html": "<p>Special Event Clearways affect both sides of the road unless stated otherwise.</p><p>Clearways are strict no-parking zones for all vehicle types and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://tfnswtowlink.force.com/findmycar/s/\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator.</p><p><strong>FROM 8AM SATURDAY 14 TO 1AM SUNDAY 15 FEBRUARY</strong></p><ul><li>Harbour St between Hay St and Goulburn St</li><li>Hay St between Sussex St and Harbour St</li><li>Little Hay St between Sussex St and Harbour St</li><li>Sussex St between Goulburn St and Hay St</li></ul><p><strong>FROM 10AM SATURDAY 14 TO 1AM SUNDAY 15 FEBRUARY</strong></p><ul><li>Campbell St between Pitt St and George St</li><li>Thomas Ln between Quay St and Thomas St</li><li>Thomas St between Hay St and Ultimo Rd</li><li>Thomas St between Thomas Ln and Quay St</li><li>Ultimo Rd between George St and Quay St</li></ul>",
-            "title": "Special Event Clearways",
-            "id": "780174"
-          }
-        ],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1770901200000,
-        "displayName": "Sydney Lunar Festival",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "-",
-            "mainStreet": "Sussex Street, Hay Street, Harbour Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Haymarket",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 264486,
       "geometry": {
         "type": "Point",
@@ -2191,12 +1970,414 @@
     },
     {
       "type": "Feature",
-      "id": 263035,
+      "id": 263868,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.0638963,
-          -33.8442734
+          151.2073244,
+          -33.8707567
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p>Buses may experience delays along Market St while lanes are closed. </p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1770263803000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": " ",
+        "adviceC": " ",
+        "end": 1770904800000,
+        "hideEndDate": true,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1770904863124,
+        "otherAdvice": "<p>Film Premiere at the State Theatre on Thursday 12 February.</p><p><strong>Lane and footpath closures will be in place to accommodate crowds:</strong></p><ul><li>From 4am Thursday to 1am Friday lanes 1 and 4 of Market St between Pitt St and George St will be closed.</li><li>From 10am to midnight on Thursday the southern side footpath of Market St between Pitt St and George St will be closed.</li></ul><p>Motorist should expect traffic delays along Market St during the event, allow extra travel time in the area and be aware of increased pedestrian activity on roads around the theatre.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1770814800000,
+        "displayName": "Film Premiere",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "George Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Market Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "Pitt Street",
+            "suburb": "Sydney CBD",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 264778,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1798333,
+          -33.796478
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Northbound",
+            "finishTime": "11:59pm",
+            "fromDay": "Saturday",
+            "startTime": "2:00am",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Northbound",
+            "finishTime": "",
+            "fromDay": "Sunday",
+            "startTime": "all day",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Northbound",
+            "finishTime": "2:00am",
+            "fromDay": "Monday",
+            "startTime": "12:00am",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1770883345000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Check signage",
+        "adviceB": "Exercise caution",
+        "adviceC": " ",
+        "end": 1774796400000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT CLEARWAYS",
+        "lastUpdated": 1770910099163,
+        "otherAdvice": "<p>Special event clearways will be in place to facilitate Sydney Trains trackwork replacement bus operations</p><p>Special event clearways are strict no-parking zones and also apply to local residents and Mobility Scheme Parking Permit holders. Vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the Find My Car website to find its new location or alternatively call 132 701 to speak to an operator.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1774623600000,
+        "displayName": "SPECIAL EVENT CLEARWAYS Sydney Trains Trackwork",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Pacific Highway",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Brown Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "Railway Street",
+            "suburb": "Chatswood",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 264805,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.6951924,
+          -34.0535357
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Spin Out Rock and Roll Festival",
+            "linkURL": "https://www.nsw.gov.au/visiting-and-exploring-nsw/nsw-events/spin-out-rock-and-roll-festival"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "<p>Some buses will be diverting, missing stops and using temporary stops while roads are closed. Visit <a href=\"https://www.transportnsw.info\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1770932943000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use diversions",
+        "adviceC": " ",
+        "end": 1771653600000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1770934773069,
+        "otherAdvice": "<p>Spin Out Rock &#39;N Roll Festival on John Street in Camden on Saturday 21 February. </p><p><strong>John Street will be closed from 5am until 5pm between Mitchell Street and Argle Street to safely facilitate the event.</strong></p><p>Traffic will be heavier than usual on roads approaching and around the Town Centre during this time. </p><p>Motorists are advised to allow extra travel time, follow diversion signs and be aware of increased pedestrian activity in the area.</p><p><br></p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1771592400000,
+        "displayName": "Festival",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "John Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Argyle Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Camden",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 260912,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.203735,
+          -33.8786939
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Sydney Lunar Festival",
+            "linkURL": "https://www.cityofsydney.nsw.gov.au/sydney-lunar-festival"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "<p>.Plan your trip at <a href=\"https://transportnsw.info/Sydney-Lunar-Streets\" target=\"_blank\">transportnsw.info</a>.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [
+          {
+            "displayName": "Sydney_Lunar_Streets_2026-Road_closures_clearways_map",
+            "fileName": "Sydney_Lunar_Streets_2026-Road_closures_clearways_map.pdf",
+            "fileType": "PDF",
+            "linkName": "Sydney_Lunar_Streets_2026-Road_closures_clearways_map",
+            "sizeInBytes": 700639,
+            "uniqueFileName": "908846_1767672946979_Sydney_Lunar_Streets_2026-Road_closures_clearways_map.pdf"
+          }
+        ],
+        "isInitialReport": false,
+        "created": 1767672853000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Check signage",
+        "adviceB": "Allow extra travel time",
+        "adviceC": "Use diversions",
+        "end": 1771077900000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1770944453825,
+        "otherAdvice": "<p>Road closures and special event clearways will be in place for the City of Sydney – Sydney Lunar Streets Festival on Saturday 14 February. Event starts at 5pm and finishes at 10pm.</p><ul><li><strong>Sections of Campbell St, Factory St*, George St*, Harbour St*, Hay St, Kimber Ln*, Little Hay St, Little Pier St*, Sussex St*, Thomas Ln, Thomas St and Ultimo Rd will be closed between 8am Saturday 14 to 1am Sunday 15 February</strong>.</li><li><strong>Sections of Harbour St*, Hay St and Sussex St will be closed from 6am to 12pm on Monday 16 February </strong>for event pack down.</li><li>*Note: Managed access will be in place for residents and businesses during the specified times.</li></ul><p>Allow extra travel time, follow the directions of traffic control and be aware of increased pedestrian activity.</p><p><strong>Special event clearways will be in effect from 8am Saturday 14 February on sections of Harbour St, Hay St, Little Hay St and Sussex St, and from 10am Saturday 14 February on sections of Campbell St, Thomas Ln, Thomas St and Ultimo Rd. All clearways will be lifted by 1am Sunday 15 February. </strong></p><p>Clearways are strict no-parking zones for all vehicle types and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed/what-to-do\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator.</p>",
+        "arrangementElements": [
+          {
+            "html": "<p><strong>ROAD CLOSURES – HAYMARKET </strong></p><p>Road closures affect both directions unless stated otherwise. Roads will be progressively reopened after cleaning.</p><p><strong>FROM 6AM TO 12PM FRIDAY 13 &amp; MONDAY 16 FEBRUARY</strong></p><p><strong>FROM 8AM SAT 14 TO 1AM SUN 15 FEBURARY</strong></p><ul><li>Harbour St between Hay St and the driveway of 83 Harbour St </li><li>Harbour St* between the driveway of 83 Harbour St and Little Hay St</li><li>Hay St between Sussex St and Harbour St</li><li>Sussex St Between Little Hay St and Hay St</li></ul><p><strong>FROM 8AM SATURDAY 14 TO 1AM SUNDAY 15 FEBRUARY</strong></p><ul><li>Factory St* between Harbour St and Kimber Ln</li><li>Factory St between Kimber Ln and Dixon St </li><li>Harbour St* between 83 Harbour St Driveway and Goulburn St</li><li>Kimber Ln* between Factory St and Little Hay St </li><li>Kimber Ln between Hay St and Little Hay St </li><li>Little Hay St between Sussex St and Harbour St</li><li>Little Pier St* from Harbour St </li><li>Sussex St* between Goulburn St and Little Hay St</li></ul><p><strong>FROM 10AM SATURDAY 14 TO 1AM SUNDAY 15 FEBRUARY</strong></p><ul><li>Campbell St between Pitt St and George St</li><li>George St between Pitt St and Valentine St (northbound)</li><li>George St* between Valentine St and Rawson Pl (northbound)</li><li>George St between Rawson Pl and Ultimo Rd (northbound)</li><li>George St* between Rawson Pl and Pitt St (southbound)</li><li>Thomas Ln* between Quay St and Thomas St</li><li>Thomas St from Ultimo Rd</li><li>Thomas St* between Thomas Ln and Quay St</li><li>Ultimo Rd between George St and Quay St</li></ul><p><strong>*Note</strong>: Managed access will be in place for residents and businesses during the specified times. </p>",
+            "title": "Road Closures",
+            "id": "781993"
+          },
+          {
+            "html": "<p>Special Event Clearways affect both sides of the road unless stated otherwise.</p><p>Clearways are strict no-parking zones for all vehicle types and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://tfnswtowlink.force.com/findmycar/s/\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator.</p><p><strong>FROM 8AM SATURDAY 14 TO 1AM SUNDAY 15 FEBRUARY</strong></p><ul><li>Harbour St between Hay St and Goulburn St</li><li>Hay St between Sussex St and Harbour St</li><li>Little Hay St between Sussex St and Harbour St</li><li>Sussex St between Goulburn St and Hay St</li></ul><p><strong>FROM 10AM SATURDAY 14 TO 1AM SUNDAY 15 FEBRUARY</strong></p><ul><li>Campbell St between Pitt St and George St</li><li>Thomas Ln between Quay St and Thomas St</li><li>Thomas St between Hay St and Ultimo Rd</li><li>Thomas St between Thomas Ln and Quay St</li><li>Ultimo Rd between George St and Quay St</li></ul>",
+            "title": "Special Event Clearways",
+            "id": "781994"
+          }
+        ],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1770901200000,
+        "displayName": "Sydney Lunar Festival",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "-",
+            "mainStreet": "Sussex Street, Hay Street, Harbour Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Haymarket",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 264870.0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.201594,
+          -33.895495
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "<p>Route 308 buses will be diverting and using different stops. Check bus service alerts at <a href=\"https://transportnsw.info/alerts#/bus\" target=\"_blank\">transportnsw.info</a> for the latest information.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1770955604000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Avoid the area",
+        "adviceB": "Expect delays",
+        "adviceC": " ",
+        "end": 1771034400000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1770955604871,
+        "otherAdvice": "<p><strong>Road closures will be in place around Redfern between 11:15am and 1pm for a planned Police Operation protest march.</strong></p><p>Closures will be in place on sections of Philip St, Pitt St, Redfern St, Regent St, Lawson St, Lawson Sq, Eveleigh St, Caroline St, Hugo St and Louis St.</p><p>Motorists should avoid the area during this time or expect delays and follow the directions of NSW Police on site.</p>",
+        "arrangementElements": [
+          {
+            "html": "<p><strong>REDFERN</strong></p><p><strong>Between 11:15am and 1pm</strong></p><ul><li>Phillip St between George St and Pitt St </li><li>Pitt St between Phillip St and Redfern St</li><li>Redfern St between Pitt St and Regent St</li><li>Regent St between Redfern St and Wells St</li><li>Lawson Square between Gibbons St and Regent St</li><li>Lawson St between Gibbons St and Eveleigh St</li><li>Eveleigh St between Lawson St and Caroline St</li><li>Caroline St between Eveleigh St and Hugo St</li><li>Hugo St between Caroline St and Vine St </li><li>Louis St between Vine St and Caroline St </li></ul>",
+            "title": "Road Closures",
+            "id": "782122"
+          }
+        ],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1770987600000,
+        "displayName": "Police Operation",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Redfern Street, Phillip Street, Pitt Street, Regent Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Redfern",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 263708,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0606479,
+          -33.8469141
         ],
         "collections": []
       },
@@ -2209,24 +2390,24 @@
         "expectedDelay": -1,
         "ended": false,
         "isNewIncident": false,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2026/02/all-elite-wrestling-grand-slam-australia\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
         "impactingNetwork": false,
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1769568627000,
+        "created": 1770595492000,
         "isMajor": false,
         "name": null,
         "subCategoryA": "null",
         "adviceA": "Allow extra travel time",
         "adviceB": "Use public transport",
         "adviceC": " ",
-        "end": 1771072200000,
+        "end": 1771504200000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1770767211872,
-        "otherAdvice": "<p><strong>All Elite Wrestling Grand Slam Australia at Qudos Bank Arena starts at 7.30pm.</strong></p><p>Sydney Olympic Park will be very busy with more than 70,000 Ed Sheeran fans also travelling to the precinct on Saturday for a concert at neighbouring Accor Stadium<strong>.</strong> Traffic may be heavier than usual as fans travel to Olympic Park.</p><p>Motorists should allow extra travel time on the M4, Parramatta Rd, Homebush Bay Drive, Silverwater Rd, Centenary Dr and Concord Rd. </p><p><strong>PARKING UPDATE:</strong> All available pre-booked parking spaces in Olympic Park are <strong>SOLD OUT for Saturday 14 February. Do not drive </strong>if you don&#39;t have pre-booked parking.</p><p>If you have pre-booked your parking, follow the directions of staff and have your parking ticket ready to show at the car park entry.</p><p>Major roads in Sydney Olympic Park will close to accommodate increased public transport services and ensure pedestrian safety during major events including Ed Sheeran from 13 – 15 February. View the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a> for closure details</p>",
+        "lastUpdated": 1770957543983,
+        "otherAdvice": "<p><strong>Upcoming concerts at Qudos Bank Arena</strong></p><ul><li>Mon 16 Feb - Lainey Wilson, show starts at 7pm.</li><li>Wed 18 and Thu 19 Feb - Lorde, show starts nightly at 7.50pm.</li></ul><p>Traffic may be heavier than usual as fans travel to Olympic Park in the already busy weeknight peak.</p><p>Motorists should allow extra travel time on the M4, Parramatta Rd, Homebush Bay Drive, Silverwater Rd, Centenary Dr and Concord Rd. </p><p>If you have to drive, carpool with your group <a href=\"https://www.sydneyolympicpark.nsw.gov.au/parking\" target=\"_blank\">pre-book your parking online</a> ahead of time to secure a space – available until 11:59pm the night before the event unless sold out prior. </p><p>To get to your carpark and avoid the heavy traffic congestion expected at the Homebush Bay Drive roundabout, use Silverwater Road, Holker Street and Hill Road</p><p>Sydney Olympic Park Authority may close local roads in the precinct to ensure pedestrian safety during the event. View the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a> for closure details</p>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
@@ -2234,8 +2415,8 @@
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1770987600000,
-        "displayName": "Wrestling",
+        "start": 1771160400000,
+        "displayName": "Concerts",
         "roads": [
           {
             "conditionTendency": "",
@@ -2274,7 +2455,7 @@
         "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
-        "ended": false,
+        "ended": true,
         "isNewIncident": false,
         "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2026/02/nbl-sydney-kings-v-perth-wildcats\" target=\"_blank\">transportnsw.info</a> to plan your trip and allow extra travel time.</p>",
         "impactingNetwork": false,
@@ -2292,8 +2473,8 @@
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1770862421801,
-        "otherAdvice": "<p><strong>NBL: Sydney Kings v Perth Wildcats. </strong>Tip off at 4.30pm, finish around 6.40pm.</p><p><strong>Sydney Olympic Park will be very busy with more than 70,000 Ed Sheeran fans also travelling to the precinct on Sunday for a concert at neighbouring Accor Stadium.</strong> Traffic may be heavier than usual as fans make their way to and from Olympic Park.</p><p>Motorists should allow extra travel time on the M4, Parramatta Rd, Homebush Bay Drive, Silverwater Rd, Centenary Dr and Concord Rd. </p><p><strong>PARKING UPDATE:</strong> All available pre-booked parking spaces in Olympic Park are <strong>SOLD OUT for Sunday 15 February. Do not drive </strong>if you don&#39;t have pre-booked parking.</p><p>If you have pre-booked your parking, follow the directions of staff and have your parking ticket ready to show at the car park entry.</p><p>Major roads in Sydney Olympic Park will close to accommodate increased public transport services and ensure pedestrian safety during major events including Ed Sheeran from 13 – 15 February. View the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a> for closure details.</p>",
+        "lastUpdated": 1770957681596,
+        "otherAdvice": "<p><br></p><p><strong>Sydney Olympic Park will be very busy with more than 70,000 Ed Sheeran fans also travelling to the precinct on Sunday for a concert at neighbouring Accor Stadium.</strong> Traffic may be heavier than usual as fans make their way to and from Olympic Park.</p><p>Motorists should allow extra travel time on the M4, Parramatta Rd, Homebush Bay Drive, Silverwater Rd, Centenary Dr and Concord Rd. </p><p><strong>PARKING UPDATE:</strong> All available pre-booked parking spaces in Olympic Park are <strong>SOLD OUT for Sunday 15 February. Do not drive </strong>if you don&#39;t have pre-booked parking.</p><p>If you have pre-booked your parking, follow the directions of staff and have your parking ticket ready to show at the car park entry.</p><p>Major roads in Sydney Olympic Park will close to accommodate increased public transport services and ensure pedestrian safety during major events including Ed Sheeran from 13 – 15 February. View the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a> for closure details.</p>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
@@ -2325,12 +2506,12 @@
     },
     {
       "type": "Feature",
-      "id": 258744,
+      "id": 263035,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.0663871,
-          -33.8474956
+          151.0638963,
+          -33.8442734
         ],
         "collections": []
       },
@@ -2343,7 +2524,74 @@
         "expectedDelay": -1,
         "ended": false,
         "isNewIncident": false,
-        "publicTransport": "<p>Concert tickets include travel on public transport. Express trains and Major Event Buses will run. Visit<a href=\"\" target=\"_blank\"> transportnsw.info</a> to plan your trip.</p>",
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1769568627000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use public transport",
+        "adviceC": " ",
+        "end": 1771144200000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1770957706956,
+        "otherAdvice": "<p><strong>Upcoming events at Qudos Bank Arena</strong></p><ul><li><strong>Sat 14 Feb -All Elite Wrestling Grand Slam Australia, starts at 7.30pm.</strong></li><li><strong>Sun 15 Feb - NBL: Sydney Kings v Perth Wildcats. Tip off at 4.30pm, finish around 6.40pm.</strong></li></ul><p>Sydney Olympic Park will be very busy with more than 70,000 Ed Sheeran fans also travelling to the precinct each night for a concert at neighbouring Accor Stadium<strong>.</strong> Traffic will be heavier than usual as fans travel to Olympic Park.</p><p>Motorists should allow extra travel time on the M4, Parramatta Rd, Homebush Bay Drive, Silverwater Rd, Centenary Dr and Concord Rd. </p><ul><li><strong>PARKING UPDATE:</strong> All available pre-booked parking spaces in Olympic Park are <strong>SOLD OUT for Saturday 14 and Sunday 15 February. </strong></li><li><strong><span class=\"ql-cursor\">﻿</span>Do not drive </strong>if you don&#39;t have pre-booked parking.</li><li>If you have pre-booked your parking, follow the directions of staff and have your parking ticket ready to show at the car park entry.</li></ul><p>Major roads in Sydney Olympic Park will close to accommodate increased public transport services and ensure pedestrian safety during major events including Ed Sheeran from 13 – 15 February. View the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a> for closure details</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1770987600000,
+        "displayName": "Special events",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Qudos Bank Arena",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "approaching",
+            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Sydney Olympic Park",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 258744,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0662314,
+          -33.8472888
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "<p>Concert tickets include travel on public transport. Express trains and Major Event Buses will run. Visit <a href=\"https://transportnsw.info/events/2026/02/ed-sheeran\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
         "impactingNetwork": true,
         "subCategoryB": null,
         "arrangementAttachments": [],
@@ -2355,17 +2603,17 @@
         "adviceA": "Use public transport",
         "adviceB": "Allow extra travel time",
         "adviceC": " ",
-        "end": 1771159500000,
+        "end": 1771160340000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1770863105006,
-        "otherAdvice": "<p><strong>Ed Sheeran concerts </strong>at Accor Stadium on Friday 13, Saturday 14 and Sunday 15 February. Gates open from 4pm, entertainment starts at 5.15pm (approx) each night.</p><p><strong>Also taking place in the precinct are The AEW All Elite Wrestling Show </strong>at Qudos Bank Arena on Saturday 14 February, starting at 7.30pm to 10.00pm (approx) and the <strong>Sydney Kings vs Perth Wildcats</strong> at Qudos Bank Arena on Sunday 15 February, starting 4.15pm to 6.30pm (approx).</p><ul><li>With around 70,000 Ed Sheeran fans expected each night along with thousands of All Elite Wrestling attendees on Saturday and basketball fans on Sunday, significant traffic delays are expected on roads approaching the precinct.</li><li>Motorists should allow plenty of extra travel time on roads approaching Olympic Park including the M4 Mwy, Homebush Bay Dr, Concord Rd, Lane Cove Rd, Parramatta Rd, Centenary Dr and Silverwater Rd.</li><li><strong>PARKING UPDATE: All available pre-booked parking spaces in Olympic Park are SOLD OUT! Do not drive if you have not pre-booked.</strong></li><li>If you have pre-booked your parking, follow the directions of staff and have your parking ticket ready to show at the car park entry.</li><li>Carpool with your group and allow plenty of extra travel time. Significant traffic delays are expected, especially on Friday during the busy evening peak.</li><li>Alternatively, consider parking at a nearby train station commuter car park and continuing your trip by train to Olympic Park, at no extra cost.</li></ul><p>Sydney Olympic Park Authority will close local roads in the precinct to ensure pedestrian safety during the event and to accommodate additional transport services. For road closure details, view the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map.</a></p>",
+        "lastUpdated": 1770958100661,
+        "otherAdvice": "<p><strong>Ed Sheeran concerts </strong>at Accor Stadium on Friday 13, Saturday 14 and Sunday 15 February. Gates open from 4pm, entertainment starts at 5.15pm (approx) each night.</p><ul><li>Traffic delays are expected with around 70,000 fans expected each night along with thousands of people travelling to the precinct for a Wrestling event on Saturday and NBL Match on Sunday at neighbouring Qudos Bank Arena at the same time.</li><li>Motorists should allow plenty of extra travel time on roads approaching Olympic Park including the M4 Mwy, Homebush Bay Dr, Concord Rd, Lane Cove Rd, Parramatta Rd, Centenary Dr and Silverwater Rd.</li><li><strong>PARKING UPDATE: All available pre-booked parking spaces for 13, 14 and 15 Feb in Olympic Park are SOLD OUT! Do not drive if you have not pre-booked.</strong></li><li>If you have pre-booked your parking, follow the directions of staff and have your parking ticket ready to show at the car park entry.</li><li>Carpool with your group and allow plenty of extra travel time. Significant traffic delays are expected, especially on Friday during the busy evening peak.</li><li>Alternatively, consider parking at a nearby train station commuter car park and continuing your trip by train to Olympic Park, at no extra cost.</li></ul><p>Sydney Olympic Park Authority will close local roads in the precinct to ensure pedestrian safety during the event and to accommodate additional transport services. For road closure details, view the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map.</a></p>",
         "arrangementElements": [
           {
             "html": "<p><strong>From 1.00am Friday 13 February – 3.00am Monday 16 February</strong></p><ul><li>Dawn Fraser Avenue from Olympic Boulevard to Showground Road</li></ul><p><strong>From 1.30am Friday 13 February – 3.00am Monday 16 February </strong></p><ul><li>Dawn Fraser Avenue from Olympic Boulevard to Edwin Flack Avenue</li><li>Olympic Boulevard from Herb Elliot Avenue to Edwin Flack Avenue</li><li>Grand Parade from Olympic Boulevard to Orana Parade</li><li>Showground Road from Grand Parade to Dawn Fraser Avenue</li><li>Murray Rose Avenue from Gate 15 to Showground Road</li></ul><p><strong>From 11.00am Friday 13 February – 3.00am Monday 16 February </strong></p><ul><li>Kevin Coombs Avenue between Pondage Link and Australia Avenue (eastbound)</li></ul><p><strong>From 12.00pm Friday 13 February – 3.00am Monday 16 February </strong></p><ul><li>Olympic Boulevard between Sarah Durack Avenue and Herb Elliott Avenue</li></ul><p><strong>From 12.00pm Friday 13 February – 1.00am Saturday 14 February </strong></p><ul><li>Shirley Strickland Avenue between P4 Roundabout and Rod Laver Drive</li><li>Rod Laver Drive at the rear of Tennis Centre to Shirley Strickland Avenue west</li></ul><p><strong>From 1.00pm Friday 13 February – 3.00am Monday 16 February </strong></p><ul><li>Dawn Fraser Avenue from Park Street to Showground Road.</li><li>Showground Road from Dawn Fraser Avenue to rear of Novotel Loading Dock.</li></ul><p><strong>From 5.00pm Friday 13 February – 1.00am Saturday 14 February </strong></p><ul><li>Kevin Coombs Avenue between Pondage Link and Australia Avenue (westbound)</li><li>Holker Busway from Hill Road to Australia Avenue</li></ul><p> <strong>From 10.00pm Friday 13 February – 1.00am Saturday 14 February</strong></p><ul><li>Edwin Flack Avenue from Pondage Link to Old Hill Link (westbound). *Buses excepted</li><li>Edwin Flack Avenue (northbound) from Bernie Avenue to Old Hill Link. *Buses excepted</li><li>Murray Rose Avenue from Gate 15 to Australia Avenue</li><li>Dawn Fraser Avenue from Park Street to Australia Avenue *Buses excepted</li><li>Herb Elliott Avenue closed between Park Street and Olympic Boulevard.</li></ul><p><strong>From 1.00am Saturday 14 February – 7.00pm Sunday 15 February </strong></p><ul><li>Shirley Strickland Avenue (east) between Olympic Boulevard to Bannon Bridge</li></ul><p><strong>From 12.00pm Saturday 14 February – 1.00am Sunday 15 February </strong></p><ul><li>Shirley Strickland Avenue between P4 Roundabout and Rod Laver Drive.</li><li>Rod Laver Drive at the rear of Tennis Centre to Shirley Strickland west</li></ul><p><strong>From 4.00pm Saturday 14 February – 1.00am Sunday 15 February </strong></p><ul><li>Kevin Coombs Avenue between Pondage Link and Australia Avenue (westbound)</li><li>Holker Busway from Hill Road to Australia Avenue</li></ul><p><strong>From 10.00pm Saturday 14 February – 1.00am Sunday 15 February </strong></p><ul><li>Edwin Flack Avenue from Pondage Link to Old Hill Link (westbound). *Buses excepted</li><li>Edwin Flack Avenue (northbound) from Bernie Avenue to Old Hill Link. *Buses excepted</li><li>Murray Rose Avenue from Gate 15 to Australia Avenue</li><li>Dawn Fraser Avenue from Park Street to Australia Avenue. *Buses excepted</li><li>Herb Elliott Avenue closed between Park Street and Olympic Boulevard.</li></ul><p><strong>From 12.00pm Sunday 15 February – 1.00am Monday 16 February </strong></p><ul><li>Shirley Strickland Avenue between P4 Roundabout and Rod Laver Drive.</li><li>Rod Laver Drive at the rear of Tennis Centre to Shirley Strickland Avenue west</li></ul><p><strong>From 4.00pm Sunday 15 February – 1.00am Monday 16 February </strong></p><ul><li>Kevin Coombs Avenue between Pondage Link and Australia Avenue (westbound)</li><li>Holker Busway from Hill Road to Australia Avenue</li></ul><p><strong>From 10.00pm Sunday 15 February – 1.00am Monday 16 February </strong></p><ul><li>Edwin Flack Avenue from Pondage Link to Old Hill Link (westbound). *Buses excepted</li><li>Edwin Flack Avenue (northbound) from Bernie Avenue to Old Hill Link. *Buses excepted</li><li>Murray Rose Avenue from Gate 15 to Australia Avenue</li><li>Dawn Fraser Avenue from Park Street to Australia Avenue. *Buses excepted</li><li>Herb Elliott Avenue closed between Park Street and Olympic Boulevard.</li><li><br></li></ul>",
             "title": "Road Closures",
-            "id": "781312"
+            "id": "782148"
           }
         ],
         "diversions": "",
