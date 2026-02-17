@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1771226970000,
+  "lastPublished": 1771312500000,
   "layerName": "MajorEvent",
   "rights": {
     "copyright": "Transport for NSW",
@@ -1234,389 +1234,6 @@
     },
     {
       "type": "Feature",
-      "id": 263035,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.0638963,
-          -33.8442734
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1769568627000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Use public transport",
-        "adviceC": " ",
-        "end": 1771144200000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1771144261351,
-        "otherAdvice": "<p><strong>Upcoming events at Qudos Bank Arena</strong></p><ul><li><strong>Sat 14 Feb -All Elite Wrestling Grand Slam Australia, starts at 7.30pm.</strong></li><li><strong>Sun 15 Feb - NBL: Sydney Kings v Perth Wildcats. Tip off at 4.30pm, finish around 6.40pm.</strong></li></ul><p>Sydney Olympic Park will be very busy with more than 70,000 Ed Sheeran fans also travelling to the precinct each night for a concert at neighbouring Accor Stadium<strong>.</strong> Traffic will be heavier than usual as fans travel to Olympic Park.</p><p>Motorists should allow extra travel time on the M4, Parramatta Rd, Homebush Bay Drive, Silverwater Rd, Centenary Dr and Concord Rd. </p><ul><li><strong>PARKING UPDATE:</strong> All available pre-booked parking spaces in Olympic Park are <strong>SOLD OUT for Saturday 14 and Sunday 15 February. </strong></li><li><strong><span class=\"ql-cursor\">﻿</span>Do not drive </strong>if you don&#39;t have pre-booked parking.</li><li>If you have pre-booked your parking, follow the directions of staff and have your parking ticket ready to show at the car park entry.</li></ul><p>Major roads in Sydney Olympic Park will close to accommodate increased public transport services and ensure pedestrian safety during major events including Ed Sheeran from 13 – 15 February. View the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a> for closure details</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1770987600000,
-        "displayName": "Special events",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Qudos Bank Arena",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Sydney Olympic Park",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 263053,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.1569947,
-          -33.9053053
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Summer Beer Footy Food Fest",
-            "linkURL": "https://www.sharks.com.au/news/2026/01/23/tickets-on-sale-for-summer-beer-footy-food-fest/"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1769573670000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Use public transport",
-        "adviceC": " ",
-        "end": 1771149600000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1771149661731,
-        "otherAdvice": "<p><strong>Summer Beer Footy Food Festival and NRL Pre-season challenge Sharks v Tigers at Henson Park, Marrickville. Festival starts at 10.30am, NRL kick-off at 6pm, full time around 8pm. </strong></p><p>Traffic may be heavier than usual on roads approaching Henson Park as attendees travel to and from the event. </p><p>Motorists should allow extra travel time on Sydenham Rd, Illawarra Rd, Livingstone Rd and Addison Rd. </p><p><strong>Sections of Woodland St and Holmesdale St surrounding the park may be closed for the event.</strong></p><p>Limited parking is available at Centennial St at Henson Park and on local surrounding streets. Plan to arrive early to secure a parking spot.</p><p>Motorists should exercise caution and be aware of increased pedestrians in the area.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1771074000000,
-        "displayName": "NRL Festival",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Henson Park",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "Sydenham Road  and Centennial Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Marrickville",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 261574,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.1914957,
-          -33.8885932
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Mardi Gras Fair Day",
-            "linkURL": "https://www.mardigras.org.au/event/fair-day/"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [
-          {
-            "displayName": "Mardi_Gras_Fair_Day_2026",
-            "fileName": "Mardi_Gras_Fair_Day_2026.pdf",
-            "fileType": "PDF",
-            "linkName": "Mardi_Gras_Fair_Day_2026",
-            "sizeInBytes": 239458,
-            "uniqueFileName": "146330_1768351642478_Mardi_Gras_Fair_Day_2026.pdf"
-          }
-        ],
-        "isInitialReport": false,
-        "created": 1768351656000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Plan your journey",
-        "adviceC": " ",
-        "end": 1771151400000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1771151401749,
-        "otherAdvice": "<p><strong>Mardi Gras Fair Day at Victoria Park in Camperdown from 10am to 9pm.</strong></p><p>Traffic is expected to be heavy on roads approaching Victoria Park including on Parramatta Rd, City Rd, Cleveland St and Glebe Point Rd as attendees travel to and from the event throughout the day.</p><p><strong>Special event clearways will be in effect from 5am to 9.30pm at the following locations:</strong></p><ul><li>City Rd between Carillon Ave and Parramatta Rd (western side)</li><li>City Rd between Cleveland St and Butlin Ave (eastern side)</li><li>Parramatta Rd between City Rd and University Ave (southern side)</li></ul><p>Clearways are strict no-parking zones for all vehicle types and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed\" target=\"_blank\">Find My Car website</a> to find its new location, or alternatively call 132 701 to speak to an operator.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1771074000000,
-        "displayName": "Mardi Gras Fair Day",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Victoria Park",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Parramatta Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Camperdown",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 263044,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.2238162,
-          -33.8946881
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "<p>Travel on transport is included in match tickets. Extra light rail services will run. Visit <a href=\"https://transportnsw.info/events/2026/02/womens-t20i-series-australia-v-india\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [
-          {
-            "displayName": "Moore-Park-events-transport-map",
-            "fileName": "Moore-Park-events-transport-map.pdf",
-            "fileType": "PDF",
-            "linkName": "Moore-Park-events-transport-map",
-            "sizeInBytes": 692771,
-            "uniqueFileName": "133710_1751435855350_Moore-Park-events-transport-map.pdf"
-          },
-          {
-            "displayName": "ClearwayMap_MoorePark_North",
-            "fileName": "ClearwayMap_MoorePark_North.pdf",
-            "fileType": "PDF",
-            "linkName": "ClearwayMap_MoorePark_North",
-            "sizeInBytes": 200520,
-            "uniqueFileName": "954717_1768960466282_ClearwayMap_MoorePark_North.pdf"
-          }
-        ],
-        "isInitialReport": false,
-        "created": 1769570178000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Check signage",
-        "adviceC": "Use public transport",
-        "end": 1771156800000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1771156809104,
-        "otherAdvice": "<p><strong>Women&#39;s T20I Series Australia v India at the Sydney Cricket Ground. Start of play at 7.15pm and end of play at approx. 10pm.</strong></p><p>With up to 17,000 cricket fans expected, ticketholders are urged to catch public transport and leave the car at home to avoid traffic delays and demand for parking. </p><p>If you have to drive, carpool with your group and allow extra travel time. Traffic will be heavier than usual on roads approaching Moore Park as fans travel on roads including the Eastern Distributor, Moore Park Rd, Cleveland St, Anzac Pde and Lang Rd.</p><p><strong>Changed traffic conditions:</strong></p><ul><li>Driver Avenue will be partially closed outside the stadium from 4pm and will reopen once crowds have safely cleared the area.  </li><li>No through-traffic will be available on Driver Avenue, however access to EP3 grass car park and drop-off areas maintained from Lang Road. Grass Car Park open from 4.15pm</li><li><strong>Special event clearways will be in place on roads in Moore Park and surrounding areas from 3pm to 11.30pm</strong> on sections of Albion Street, Fitzroy Street and Lang Road, and from <strong>6am to 11.30pm</strong> on Cleveland Street. </li></ul><p>Clearways are strict no-parking zones for all vehicle types, and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator.</p>",
-        "arrangementElements": [
-          {
-            "html": "<p>Special event clearways are strict no-parking zones for all vehicle types and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed\" target=\"_blank\">Find My Car</a> website to find its new location or alternatively call 132 701 to speak to an operator.</p><p><strong>Special event clearways will be in place on roads in Moore Park and surrounding areas</strong> <strong>from 3pm to midnight </strong>on sections of Albion Street, Lang Road and Moore Park Road, and <strong>from 6am to midnight </strong>on Cleveland Street and Fitzroy Street.  </p><p><strong>From 6am to 11:30pm</strong> </p><ul><li>Cleveland Street between South Dowling Street and City Road (southern side) </li><li>Cleveland Street between Abercrombie Street and South Dowling Street (northern side) </li></ul><p><strong>From 3pm to 11:30pm </strong> </p><ul><li>Albion Street between Bourke Street and Flinders Street (both sides) </li><li>Lang Road between Anzac Parade and Errol Flynn Boulevard (northern side)  </li><li>Fitzroy Street between South Dowling Street and Bourke Street (northern side)</li></ul>",
-            "title": "Special Event Clearways",
-            "id": "782881"
-          }
-        ],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1771074000000,
-        "displayName": "T20I Cricket",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "the SCG",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "Moore Park Road, Anzac Parade, Lang Road, Eastern Distributor",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Moore Park",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 258744,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.0662314,
-          -33.8472888
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "<p>Concert tickets include travel on public transport. Express trains and Major Event Buses will run. Visit <a href=\"https://transportnsw.info/events/2026/02/ed-sheeran\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1765342505000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Use public transport",
-        "adviceB": "Allow extra travel time",
-        "adviceC": " ",
-        "end": 1771160340000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1771160406812,
-        "otherAdvice": "<p><strong>Ed Sheeran concerts </strong>at Accor Stadium on Friday 13, Saturday 14 and Sunday 15 February. Gates open from 4pm, entertainment starts at 5.15pm (approx) each night.</p><ul><li>Traffic delays are expected with around 70,000 fans expected each night along with thousands of people travelling to the precinct for a Wrestling event on Saturday and NBL Match on Sunday at neighbouring Qudos Bank Arena at the same time.</li><li>Motorists should allow plenty of extra travel time on roads approaching Olympic Park including the M4 Mwy, Homebush Bay Dr, Concord Rd, Lane Cove Rd, Parramatta Rd, Centenary Dr and Silverwater Rd.</li><li><strong>PARKING UPDATE: All available pre-booked parking spaces for 13, 14 and 15 Feb in Olympic Park are SOLD OUT! Do not drive if you have not pre-booked.</strong></li><li>If you have pre-booked your parking, follow the directions of staff and have your parking ticket ready to show at the car park entry.</li><li>Carpool with your group and allow plenty of extra travel time. Significant traffic delays are expected, especially on Friday during the busy evening peak.</li><li>Alternatively, consider parking at a nearby train station commuter car park and continuing your trip by train to Olympic Park, at no extra cost.</li></ul><p>Sydney Olympic Park Authority will close local roads in the precinct to ensure pedestrian safety during the event and to accommodate additional transport services. For road closure details, view the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map.</a></p>",
-        "arrangementElements": [
-          {
-            "html": "<p><strong>From 1.00am Friday 13 February – 3.00am Monday 16 February</strong></p><ul><li>Dawn Fraser Avenue from Olympic Boulevard to Showground Road</li></ul><p><strong>From 1.30am Friday 13 February – 3.00am Monday 16 February </strong></p><ul><li>Dawn Fraser Avenue from Olympic Boulevard to Edwin Flack Avenue</li><li>Olympic Boulevard from Herb Elliot Avenue to Edwin Flack Avenue</li><li>Grand Parade from Olympic Boulevard to Orana Parade</li><li>Showground Road from Grand Parade to Dawn Fraser Avenue</li><li>Murray Rose Avenue from Gate 15 to Showground Road</li></ul><p><strong>From 11.00am Friday 13 February – 3.00am Monday 16 February </strong></p><ul><li>Kevin Coombs Avenue between Pondage Link and Australia Avenue (eastbound)</li></ul><p><strong>From 12.00pm Friday 13 February – 3.00am Monday 16 February </strong></p><ul><li>Olympic Boulevard between Sarah Durack Avenue and Herb Elliott Avenue</li></ul><p><strong>From 12.00pm Friday 13 February – 1.00am Saturday 14 February </strong></p><ul><li>Shirley Strickland Avenue between P4 Roundabout and Rod Laver Drive</li><li>Rod Laver Drive at the rear of Tennis Centre to Shirley Strickland Avenue west</li></ul><p><strong>From 1.00pm Friday 13 February – 3.00am Monday 16 February </strong></p><ul><li>Dawn Fraser Avenue from Park Street to Showground Road.</li><li>Showground Road from Dawn Fraser Avenue to rear of Novotel Loading Dock.</li></ul><p><strong>From 5.00pm Friday 13 February – 1.00am Saturday 14 February </strong></p><ul><li>Kevin Coombs Avenue between Pondage Link and Australia Avenue (westbound)</li><li>Holker Busway from Hill Road to Australia Avenue</li></ul><p> <strong>From 10.00pm Friday 13 February – 1.00am Saturday 14 February</strong></p><ul><li>Edwin Flack Avenue from Pondage Link to Old Hill Link (westbound). *Buses excepted</li><li>Edwin Flack Avenue (northbound) from Bernie Avenue to Old Hill Link. *Buses excepted</li><li>Murray Rose Avenue from Gate 15 to Australia Avenue</li><li>Dawn Fraser Avenue from Park Street to Australia Avenue *Buses excepted</li><li>Herb Elliott Avenue closed between Park Street and Olympic Boulevard.</li></ul><p><strong>From 1.00am Saturday 14 February – 7.00pm Sunday 15 February </strong></p><ul><li>Shirley Strickland Avenue (east) between Olympic Boulevard to Bannon Bridge</li></ul><p><strong>From 12.00pm Saturday 14 February – 1.00am Sunday 15 February </strong></p><ul><li>Shirley Strickland Avenue between P4 Roundabout and Rod Laver Drive.</li><li>Rod Laver Drive at the rear of Tennis Centre to Shirley Strickland west</li></ul><p><strong>From 4.00pm Saturday 14 February – 1.00am Sunday 15 February </strong></p><ul><li>Kevin Coombs Avenue between Pondage Link and Australia Avenue (westbound)</li><li>Holker Busway from Hill Road to Australia Avenue</li></ul><p><strong>From 10.00pm Saturday 14 February – 1.00am Sunday 15 February </strong></p><ul><li>Edwin Flack Avenue from Pondage Link to Old Hill Link (westbound). *Buses excepted</li><li>Edwin Flack Avenue (northbound) from Bernie Avenue to Old Hill Link. *Buses excepted</li><li>Murray Rose Avenue from Gate 15 to Australia Avenue</li><li>Dawn Fraser Avenue from Park Street to Australia Avenue. *Buses excepted</li><li>Herb Elliott Avenue closed between Park Street and Olympic Boulevard.</li></ul><p><strong>From 12.00pm Sunday 15 February – 1.00am Monday 16 February </strong></p><ul><li>Shirley Strickland Avenue between P4 Roundabout and Rod Laver Drive.</li><li>Rod Laver Drive at the rear of Tennis Centre to Shirley Strickland Avenue west</li></ul><p><strong>From 4.00pm Sunday 15 February – 1.00am Monday 16 February </strong></p><ul><li>Kevin Coombs Avenue between Pondage Link and Australia Avenue (westbound)</li><li>Holker Busway from Hill Road to Australia Avenue</li></ul><p><strong>From 10.00pm Sunday 15 February – 1.00am Monday 16 February </strong></p><ul><li>Edwin Flack Avenue from Pondage Link to Old Hill Link (westbound). *Buses excepted</li><li>Edwin Flack Avenue (northbound) from Bernie Avenue to Old Hill Link. *Buses excepted</li><li>Murray Rose Avenue from Gate 15 to Australia Avenue</li><li>Dawn Fraser Avenue from Park Street to Australia Avenue. *Buses excepted</li><li>Herb Elliott Avenue closed between Park Street and Olympic Boulevard.</li><li><br></li></ul>",
-            "title": "Road Closures",
-            "id": "782888"
-          }
-        ],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1770901200000,
-        "displayName": "Ed Sheeran concerts",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Accor Stadium",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road, Centenary Drive",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Sydney Olympic Park",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 265058,
       "geometry": {
         "type": "Point",
@@ -1946,73 +1563,6 @@
     },
     {
       "type": "Feature",
-      "id": 264563,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.0639769,
-          -33.8443878
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1771211588000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Use public transport",
-        "adviceC": " ",
-        "end": 1772282700000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1771211589219,
-        "otherAdvice": "<p><strong>Concerts at Qudos Bank Arena:</strong></p><ul><li><strong>Good Charlotte - Wednesday 25 February. Show starts at 7pm, finishes at 11pm</strong></li><li><strong>Jason Aldean - Thursday 26 February. Show starts at 8pm, finishes at 10.45pm</strong></li><li><strong>Hilltop Hoods - Friday 27 &amp; Saturday 28 February. Shows start nightly at 8pm and finish at 10.50pm</strong></li></ul><p>Traffic may be heavier than usual as fans travel to Olympic Park in the already busy weeknight peak. </p><p><strong>Fans travelling to the Hilltop Hoods show on Saturday 28 February should be aware that the precinct will be particularly busy that night with 40,000 fans expected at nearby ENGIE Stadium for the Bad Bunny concert at the same time.</strong></p><p>Motorists should allow extra travel time on the M4, Parramatta Rd, Homebush Bay Drive, Silverwater Rd, Centenary Dr and Concord Rd. </p><p>If you have to drive, carpool with your group <a href=\"https://www.sydneyolympicpark.nsw.gov.au/parking\" target=\"_blank\">pre-book your parking online</a> ahead of time to secure a space – available until 11:59pm the night before the event unless sold out prior. </p><p>To get to your carpark and avoid the heavy traffic congestion expected at the Homebush Bay Drive roundabout, use Silverwater Road, Holker Street and Hill Road</p><p>Sydney Olympic Park Authority may close local roads in the precinct to ensure pedestrian safety during the event. View the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a> for closure details</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1771938000000,
-        "displayName": "Concerts",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Qudos Bank Arena",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Sydney Olympic Park",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 263708,
       "geometry": {
         "type": "Point",
@@ -2281,73 +1831,6 @@
     },
     {
       "type": "Feature",
-      "id": 264568,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.0700617,
-          -33.8427561
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "<p>Concert tickets include travel on trains, metro and light rail. Visit <a href=\"https://transportnsw.info/events/2026/02/bad-bunny\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1771211945000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Use public transport",
-        "adviceB": "Allow extra travel time",
-        "adviceC": " ",
-        "end": 1772369100000,
-        "hideEndDate": true,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1771211946463,
-        "otherAdvice": "<p><strong>Bad Bunny at ENGIE Stadium on Saturday 28 February and Sunday 1 March. </strong></p><p>With up to 45,000 Bad Bunny fans each night plus an additional 10,000 Hilltop Hoods fans on Saturday, the precinct will be very busy on the weekend.</p><p>Motorists should allow extra travel time on the M4, Parramatta Rd, Homebush Bay Drive, Silverwater Rd, Centenary Dr and Concord Rd. </p><p>If you have to drive, carpool with your group <a href=\"https://www.sydneyolympicpark.nsw.gov.au/parking\" target=\"_blank\">pre-book your parking online</a> ahead of time to secure a space – available until 11:59pm the night before the event unless sold out prior. </p><p>To get to your carpark and avoid the heavy traffic congestion expected at the Homebush Bay Drive roundabout, use Silverwater Road, Holker Street and Hill Road</p><p>Sydney Olympic Park Authority may close local roads in the precinct to ensure pedestrian safety during the event. View the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a> for closure details</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1772197200000,
-        "displayName": "Concert",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "ENGIE Stadium",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road, Centenary Drive",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Sydney Olympic Park",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 264570.0,
       "geometry": {
         "type": "Point",
@@ -2411,6 +1894,385 @@
             "region": "Sydney",
             "secondLocation": "",
             "suburb": "Marrickville",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 265127,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.9369365,
+          -33.8944584
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Cabramatta Lunar New Year",
+            "linkURL": "https://www.fairfieldcity.nsw.gov.au/Whats-on/Events-Workshops-and-Social-Calendar/Major-Events/Cabramatta-Lunar-New-Year"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1771275258000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Use public transport",
+        "adviceB": "Allow extra travel time",
+        "adviceC": "Use diversions",
+        "end": 1772290800000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1771275410294,
+        "otherAdvice": "<p>Large crowds are expected to attend the Lunar New Year Festival in Cabramatta Town Centre on Saturday 28 February from 11am to 9pm.</p><p><strong>The following road closure will be in effect to safely facilitate the event:</strong></p><ul><li><strong>From 8pm Thursday 26 February</strong>: Arthur Street Carpark closed until 2am Monday 2 March. Denton Lane also closed (reopens for deliveries only at 2am Sunday 1 March).</li><li><strong>From 8pm Friday 27 February</strong>: Park Road, Arthur Street and Dutton Lane closed until 2am Sunday 1 March.</li><li>Hughes Street carpark remains open. Taxi access to Arthur Street maintained.</li></ul><p>Motorists will be diverted via local roads, and should allow extra travel time and be aware of increased pedestrian activity on local roads in the area.</p>",
+        "arrangementElements": [
+          {
+            "html": "<ul><li><strong>From 8pm Friday 14 February until 2am Monday 17 February</strong>: Arthur Street Car Park and Denton Lane* will be closed.  </li><li><strong>From 8pm Friday 14 February until 2am Sunday 16 February</strong>: Park Road and Arthur Street will be closed.  </li></ul><p>The Hughes Street Car Park will remain open, and Taxis can access the Arthur Street Taxi Stand.</p><p><em>*Denton Lane will reopen at 2am Sunday 16 February for deliveries only. </em></p>",
+            "title": "Road Closures",
+            "id": "783622"
+          }
+        ],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1772197200000,
+        "displayName": "Lunar New Year Festival",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Hughes Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Park Road and Arthur Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "John Street",
+            "suburb": "Cabramatta",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 265135,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.599316,
+          -36.385876
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": 40,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1771282015000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Reduced speed limit",
+        "adviceB": "Exercise caution",
+        "adviceC": "Check signage",
+        "end": 1771736400000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1771282015768,
+        "otherAdvice": "<p>The Snowies Mountain Bike Festival and National Trial Running Championships will see 1,000 competitors compete in multiple courses around the region. </p><p>For the safety of participants alternating (stop/slow) traffic conditions will be in place on Kosciuszko Rd. Traffic controllers will be on site to direct motorists. </p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1771443000000,
+        "displayName": "SPECIAL EVENT",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Hatchery Bay Road",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Kosciuszko Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Snowy Mountains",
+            "secondLocation": "",
+            "suburb": "Jindabyne",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 265153,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.5141985,
+          -32.1799288
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "All directions",
+            "finishTime": "1:00pm",
+            "fromDay": "Saturday",
+            "startTime": "6:00am",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "All directions",
+            "finishTime": "1:00pm",
+            "fromDay": "Sunday",
+            "startTime": "6:00am",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1771289488000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Check signage",
+        "adviceB": "Exercise caution",
+        "adviceC": "Use diversions",
+        "end": 1771725600000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1771295528387,
+        "otherAdvice": "<p>Local road closures will be in place over the weekend for the NSW Triathlon Championships.</p><p>There will be increased pedestrian activity. </p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1771614000000,
+        "displayName": "SPECIAL EVENT NSW Triathlon Club Championships",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Head Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "North Coast NSW",
+            "secondLocation": "",
+            "suburb": "Forster",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 264568,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0700617,
+          -33.8427561
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "<p>Concert tickets include travel on trains, metro and light rail. Visit <a href=\"https://transportnsw.info/events/2026/02/bad-bunny\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1771211945000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Use public transport",
+        "adviceB": "Allow extra travel time",
+        "adviceC": " ",
+        "end": 1772369100000,
+        "hideEndDate": true,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1771303194455,
+        "otherAdvice": "<p><strong>Bad Bunny at ENGIE Stadium on Saturday 28 February and Sunday 1 March. </strong></p><p>With up to 45,000 Bad Bunny fans each night plus an additional 10,000 Hilltop Hoods fans on Saturday, the precinct will be very busy on the weekend.</p><p>Motorists should allow extra travel time on the M4, Parramatta Rd, Homebush Bay Drive, Silverwater Rd, Centenary Dr and Concord Rd. </p><p>If you have to drive, carpool with your group <a href=\"https://www.sydneyolympicpark.nsw.gov.au/parking\" target=\"_blank\">pre-book your parking online</a> ahead of time to secure a space – available until 11:59pm the night before the event unless sold out prior. </p><p>To get to your carpark and avoid the heavy traffic congestion expected at the Homebush Bay Drive roundabout, use Silverwater Road, Holker Street and Hill Road</p><p>Sydney Olympic Park Authority will close local roads in the precinct to ensure pedestrian safety during the event. View the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a> for closure details</p>",
+        "arrangementElements": [
+          {
+            "html": "<p>Sydney Olympic Park Authority will close local roads in the precinct to ensure pedestrian safety during the event. View the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a> for closure details</p><p><strong>From 1am Saturday 28 February - 2am Monday 2 March</strong></p><ul><li>Dawn Fraser Avenue from Showground Road to Edwin Flack Avenue</li><li>Olympic Boulevard from Herb Elliott Avenue to Edwin Flack Avenue</li><li>Grand Parade from Olympic Boulevard to Australia Avenue</li><li>Showground Road from Grand Parade to Dawn Fraser Avenue</li><li>Orana Parade</li><li>Murray Rose Avenue from Showground Road to Gate 15.</li></ul><p><strong>From 4pm Saturday 28 February - 2am Monday 2 March</strong></p><ul><li>Dawn Fraser Avenue from Park Street to Showground Road</li><li>Showground Road from Dawn Fraser Avenue to Novotel Loading dock</li><li>Murray Rose Avenue from Gate 15 to Park Street</li></ul><p><strong>From 4.30am - 12pm Sunday 1 March</strong></p><ul><li>Edwin Flack Avenue / Kevin Coombs Avenue / Marjorie Jackson from Pondage Link to Bennelong Parkway.</li><li>Australia Avenue / Holker Busway from Hill Road to New England Avenue</li></ul><p><br></p><p><br></p>",
+            "title": "Road Closures",
+            "id": "783909"
+          }
+        ],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1772197200000,
+        "displayName": "Concert",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "ENGIE Stadium",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "approaching",
+            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road, Centenary Drive",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Sydney Olympic Park",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 264563,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0639769,
+          -33.8443878
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1771211588000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use public transport",
+        "adviceC": " ",
+        "end": 1772282700000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1771303636829,
+        "otherAdvice": "<p><strong>Concerts at Qudos Bank Arena:</strong></p><ul><li><strong>Good Charlotte - Wednesday 25 February. Show starts at 7pm, finishes at 11pm</strong></li><li><strong>Jason Aldean - Thursday 26 February. Show starts at 8pm, finishes at 10.45pm</strong></li><li><strong>Hilltop Hoods - Friday 27 &amp; Saturday 28 February. Shows start nightly at 8pm and finish at 10.50pm</strong></li></ul><p>Traffic may be heavier than usual as fans travel to Olympic Park in the already busy weeknight peak.</p><p><strong>Fans travelling to the Hilltop Hoods show on Saturday 28 February should be aware that the precinct will be particularly busy that night with 40,000 fans expected at nearby ENGIE Stadium for the Bad Bunny concert at the same time.</strong></p><p>Motorists should allow extra travel time on the M4, Parramatta Rd, Homebush Bay Drive, Silverwater Rd, Centenary Dr and Concord Rd. </p><p>If you have to drive, carpool with your group <a href=\"https://www.sydneyolympicpark.nsw.gov.au/parking\" target=\"_blank\">pre-book your parking online</a> ahead of time to secure a space – available until 11:59pm the night before the event unless sold out prior. </p><p>To get to your carpark and avoid the heavy traffic congestion expected at the Homebush Bay Drive roundabout, use Silverwater Road, Holker Street and Hill Road</p><p>Sydney Olympic Park Authority will close local roads in the precinct to ensure pedestrian safety from Saturday 28 February to Monday 2 March. View the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a> for closure details</p>",
+        "arrangementElements": [
+          {
+            "html": "<p>Sydney Olympic Park Authority will close local roads in the precinct to ensure pedestrian safety from Saturday 28 February to Monday 2 March. View the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a> for closure details</p><p><strong>From 1am Saturday 28 February - 2am Monday 2 March</strong></p><ul><li>Dawn Fraser Avenue from Showground Road to Edwin Flack Avenue</li><li>Olympic Boulevard from Herb Elliott Avenue to Edwin Flack Avenue</li><li>Grand Parade from Olympic Boulevard to Australia Avenue</li><li>Showground Road from Grand Parade to Dawn Fraser Avenue</li><li>Orana Parade</li><li>Murray Rose Avenue from Showground Road to Gate 15.</li></ul><p><strong>From 4pm Saturday 28 February - 2am Monday 2 March</strong></p><ul><li>Dawn Fraser Avenue from Park Street to Showground Road</li><li>Showground Road from Dawn Fraser Avenue to Novotel Loading dock</li><li>Murray Rose Avenue from Gate 15 to Park Street</li></ul><p><strong>From 4.30am - 12pm Sunday 1 March</strong></p><ul><li>Edwin Flack Avenue / Kevin Coombs Avenue / Marjorie Jackson from Pondage Link to Bennelong Parkway.</li><li>Australia Avenue / Holker Busway from Hill Road to New England Avenue</li></ul>",
+            "title": "Road Closures",
+            "id": "783916"
+          }
+        ],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1771938000000,
+        "displayName": "Concerts",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Qudos Bank Arena",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "approaching",
+            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Sydney Olympic Park",
             "trafficVolume": ""
           }
         ],
