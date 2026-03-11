@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1773126480000,
+  "lastPublished": 1773212880000,
   "layerName": "MajorEvent",
   "rights": {
     "copyright": "Transport for NSW",
@@ -1346,82 +1346,6 @@
     },
     {
       "type": "Feature",
-      "id": 265263,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.0012857,
-          -33.8093247
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>Match tickets include travel on transport. Visit <a href=\"https://transportnsw.info/events/2026/03/afc-womens-asian-cup-india-v-chinese-taipei\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [
-          {
-            "displayName": "WesternSydneyStadiumTransportMap",
-            "fileName": "WesternSydneyStadiumTransportMap.pdf",
-            "fileType": "PDF",
-            "linkName": "WesternSydneyStadiumTransportMap",
-            "sizeInBytes": 4087117,
-            "uniqueFileName": "859332_1771366781012_WesternSydneyStadiumTransportMap.pdf"
-          }
-        ],
-        "isInitialReport": false,
-        "created": 1771460966000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Use public transport",
-        "adviceC": " ",
-        "end": 1773142200000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1773061186855,
-        "otherAdvice": "<p><strong>AFC Women’s Asian Cup Western Sydney Stadium in Parramatta</strong>. India v Chinese Taipei kick-off at 8pm, finish at approx. 9.45pm</p><p>Traffic delays are expected as soccer fans make their way to and from Western Sydney Stadium during the busy evening peak. Ticketholders should consider leaving the car at home and catching public transport to avoid delays and the high demand for parking.</p><p>Motorists should carpool and allow extra travel time on roads including Parramatta Road, Church Street, Victoria Road, James Ruse Drive and Pennant Hills Road. </p><p>Motorists should also exercise caution as pedestrian activity will be high on roads between Parramatta Interchange and the stadium on match days.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1773061200000,
-        "displayName": "AFC Women’s Asian Cup matches",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Western Sydney Stadium",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "O'Connell Street and Victoria Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Parramatta",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 263724,
       "geometry": {
         "type": "Point",
@@ -2663,6 +2587,165 @@
             "region": "Sydney",
             "secondLocation": "",
             "suburb": "Sydney",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 265263,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0012857,
+          -33.8093247
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p>Match tickets include travel on transport. Visit <a href=\"https://transportnsw.info/events/2026/03/afc-womens-asian-cup-india-v-chinese-taipei\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [
+          {
+            "displayName": "WesternSydneyStadiumTransportMap",
+            "fileName": "WesternSydneyStadiumTransportMap.pdf",
+            "fileType": "PDF",
+            "linkName": "WesternSydneyStadiumTransportMap",
+            "sizeInBytes": 4087117,
+            "uniqueFileName": "859332_1771366781012_WesternSydneyStadiumTransportMap.pdf"
+          }
+        ],
+        "isInitialReport": false,
+        "created": 1771460966000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use public transport",
+        "adviceC": " ",
+        "end": 1773142200000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1773142262235,
+        "otherAdvice": "<p><strong>AFC Women’s Asian Cup Western Sydney Stadium in Parramatta</strong>. India v Chinese Taipei kick-off at 8pm, finish at approx. 9.45pm</p><p>Traffic delays are expected as soccer fans make their way to and from Western Sydney Stadium during the busy evening peak. Ticketholders should consider leaving the car at home and catching public transport to avoid delays and the high demand for parking.</p><p>Motorists should carpool and allow extra travel time on roads including Parramatta Road, Church Street, Victoria Road, James Ruse Drive and Pennant Hills Road. </p><p>Motorists should also exercise caution as pedestrian activity will be high on roads between Parramatta Interchange and the stadium on match days.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1773061200000,
+        "displayName": "AFC Women’s Asian Cup matches",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Western Sydney Stadium",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "approaching",
+            "mainStreet": "O'Connell Street and Victoria Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Parramatta",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 267707,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.7300207,
+          -33.5396258
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "100 Years Commemoration",
+            "linkURL": "https://www.visitoberon.com/events/100-years-commemoration/"
+          }
+        ],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Closed",
+            "roadtype": "Road",
+            "direction": "Both directions",
+            "finishTime": "2:00pm",
+            "fromDay": "Sunday",
+            "startTime": "10:00am",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1773211511000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use diversions",
+        "adviceC": " ",
+        "end": 1773543600000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1773211512463,
+        "otherAdvice": "<p>Traffic controllers will be on site to facilitate heavy vehicle movements. Motorists are advised to allow approximately 5 minutes of additional travel time. </p>",
+        "arrangementElements": [],
+        "diversions": "<p>Beaconsfield Rd and Box Flat Rd.</p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1773529200000,
+        "displayName": "SPECIAL EVENT",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Beaconsfield Road",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "O'Connell Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Central NSW",
+            "secondLocation": "Box Flat Road",
+            "suburb": "Oberon",
             "trafficVolume": ""
           }
         ],
