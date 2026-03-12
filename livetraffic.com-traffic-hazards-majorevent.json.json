@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1773212880000,
+  "lastPublished": 1773299610000,
   "layerName": "MajorEvent",
   "rights": {
     "copyright": "Transport for NSW",
@@ -211,78 +211,6 @@
             "region": "Sydney",
             "secondLocation": "",
             "suburb": "Rozelle",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 265977,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.1996846,
-          -33.8768355
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Premier's Gala Concerts",
-            "linkURL": "https://tiktokentcent.com/event/premiers-gala-concerts/"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "<p>Additional L1 light rail services will run during concert days, running regularly to stops at Darling Harbour. Visit <a href=\"https://transportnsw.info/events/2026/03/nsw-premiers-gala-concerts\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1772407164000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Use public transport",
-        "adviceB": "Allow extra travel time",
-        "adviceC": " ",
-        "end": 1773297000000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1772407165617,
-        "otherAdvice": "<p><strong>Premier&#39;s Gala concerts at TikTok Entertainment Centre on Wednesday 11 and Thursday 12 March. Morning shows start at 11am both days, afternoon shows start 2.45pm both days.</strong></p><p><strong>﻿</strong>Allow extra travel time on roads in the city and Pyrmont around Darling Harbour as traffic may be heavier than usual as attendees travel to the shows, particularly during peak evening periods.</p><p>Parking is available within the TikTok Entertainment Centre (formerly ICC Sydney Theatre) at the Exhibition Centre carpark. Entry is via Darling Drive. Casual hourly parking rates apply.</p><p>Motorists should exercise caution and be aware of increased pedestrian activity on local roads.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1773147600000,
-        "displayName": "Concert",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Pier Street",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Darling Drive",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Sydney",
             "trafficVolume": ""
           }
         ],
@@ -856,73 +784,6 @@
     },
     {
       "type": "Feature",
-      "id": 265944,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.0647069,
-          -33.8453359
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/NBL-Playoffs-Sydney-Kings-Game1\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1772407748000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Use public transport",
-        "adviceC": " ",
-        "end": 1773226800000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1772968683138,
-        "otherAdvice": "<p><strong>NBL Playoffs Game 1: Sydney Kings v Perth Wildcats at Qudos Bank Arena in Sydney Olympic Park on Wednesday 11 March. Tip-off at 7.30pm, full time around 9.30pm. </strong></p><ul><li>Traffic delays are expected as basketball fans make their way to Olympic Park in the already busy evening peak.</li><li>Motorists should carpool and allow extra travel time on roads including the M4 Mwy, Homebush Bay Dr, Concord Rd, Lane Cove Rd, Parramatta Rd, Centenary Dr and Silverwater Rd.</li><li>If you have to drive, <a href=\"https://www.sydneyolympicpark.com.au/parking/\" target=\"_blank\">pre-book parking online</a> in advance to secure a space, available until 11:59pm the night before the show unless sold out prior. If you have pre-booked your parking, follow the directions of staff and have your parking ticket ready to show at the car park entry.</li><li>Use Silverwater Rd, Holker St and Hill Rd to access precinct car parks and avoid heavy traffic expected on Homebush Bay Drive and Underwood Rd. </li></ul><p>Sydney Olympic Park Authority may close local roads in the precinct to ensure pedestrian safety during the event and to accommodate additional transport services. For road closure details, view the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a>.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1773147600000,
-        "displayName": "NBL Playoffs",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Qudos Bank Arena",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Sydney Olympic Park",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 267148,
       "geometry": {
         "type": "Point",
@@ -1076,96 +937,6 @@
             "region": "Sydney",
             "secondLocation": "",
             "suburb": "Mosman",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 265252,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.0666579,
-          -33.8478438
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>Tickets include travel on transport. Express trains and major event buses will run (excl 15 March). Route 525 and 526 bus services will be diverting while road closures are in place. Visit <a href=\"https://transportnsw.info/afc-womens-asian-cup-australia-2026\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [
-          {
-            "displayName": "OlympicPark_TransportMap_AFC8_14_15March2026",
-            "fileName": "OlympicPark_TransportMap_AFC8_14_15March2026.pdf",
-            "fileType": "PDF",
-            "linkName": "OlympicPark_TransportMap_AFC8_14_15March2026",
-            "sizeInBytes": 796646,
-            "uniqueFileName": "301026_1771805873218_OlympicPark_TransportMap_AFC8_14_15March2026.pdf"
-          },
-          {
-            "displayName": "OlympicPark_TransportMap_AFC18_21Mar2026v2",
-            "fileName": "OlympicPark_TransportMap_AFC18_21Mar2026v2.pdf",
-            "fileType": "PDF",
-            "linkName": "OlympicPark_TransportMap_AFC18_21Mar2026v2",
-            "sizeInBytes": 735808,
-            "uniqueFileName": "896878_1773027361033_OlympicPark_TransportMap_AFC18_21Mar2026v2.pdf"
-          }
-        ],
-        "isInitialReport": false,
-        "created": 1771805996000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Use public transport",
-        "adviceB": "Allow extra travel time",
-        "adviceC": "Expect delays",
-        "end": 1774097940000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1773027375740,
-        "otherAdvice": "<p><strong>AFC Women’s Asian Cup matches at Stadium Australia Olympic Park</strong></p><ul><li><strong>Sun 8 Mar: </strong>Australia v Korea Republic. Kick-off at 8pm, finish at approx. 9.45pm.</li><li><strong>Sat 14 Mar</strong>: Quarter Final. Kick-off at 8pm, finish at approx. 9.45pm subject to extra time and penalties.</li><li><strong>Sun 15 Mar: </strong>Quarter Final. Kick-off at 4pm, finish at approx. 5.45pm subject to extra time and penalties.</li><li><strong>Wed 18 Mar: </strong>Semi Final. Kick-off at 8pm, finish at approx. 9.45pm subject to extra time and penalties.</li><li><strong>Sat 21 Mar: </strong>Grand Final. Kick-off at 8pm, finish at approx. 9.45pm subject to extra time and penalties.</li></ul><p>Heavy traffic is expected as tens of thousands fans make their way to Olympic Park. Ticketholders are urged to leave the car at home and catch public to avoid traffic and car park delays.</p><p>Motorists should allow plenty of extra travel time on roads approaching Olympic Park, including on the M4 Mwy, Homebush Bay Dr, Concord Rd, Lane Cove Rd, Parramatta Rd, Centenary Dr and Silverwater Rd.</p><p><a href=\"https://www.sydneyolympicpark.com.au/parking/\" target=\"_blank\"><strong>Pre-booked parking online</strong></a><strong> </strong>is essential to secure a space, available until 11:59pm the night before the match unless sold out prior. If you have pre-booked your parking, follow the directions of staff and have your parking ticket ready to show at the car park entry.</p><p><strong>Road closures: </strong>Sydney Olympic Park Authority will close local roads in the precinct to ensure pedestrian safety during the event and to accommodate additional transport services. For road closure details, view the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a>.</p><p>Note after 15 March, Easter Show infrastructure will commence installation in Olympic Park - P5 and P6 car parks will be closed and a fenceline will be in place, changing the way pedestrians move around the precinct. </p>",
-        "arrangementElements": [
-          {
-            "html": "<p>See the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">Sydney Olympic Park road closure map</a> for more details.</p><p><strong>From 1am Friday 13 March – 3am Monday 16 March </strong></p><ul><li>Dawn Fraser Avenue from Olympic Boulevard to Showground Road</li></ul><p><strong>From 1.30am Saturday 14 March – 3am Monday 16 March </strong></p><ul><li>Dawn Fraser Avenue from Olympic Boulevard to Edwin Flack Ave</li><li>Olympic Boulevard from Herb Elliot Ave to Edwin Flack Avenue</li><li>Grand Parade from Olympic Boulevard to Orana Parade</li><li>Showground Road from Grand Parade to Dawn Fraser Avenue</li><li>Murray Rose Avenue from Gate 15 to Showground Road</li></ul><p><strong>From 12pm Saturday 14 March – 10.45pm Saturday 14 March </strong></p><ul><li>Kevin Coombs Avenue between Pondage Link and Australia Avenue (eastbound)</li></ul><p><strong>From 1pm Saturday 14 March – 1am Sunday 15 March </strong></p><ul><li>Olympic Boulevard between Sarah Durack Ave and Herb Elliott Avenue</li></ul><p><strong>From 1.30pm Saturday 14 March – 1am Sunday 15 March </strong></p><ul><li>Shirley Strickland Ave between P4 Roundabout and Rod Laver Drive.</li><li>Rod Laver Avenue at the rear of Tennis Centre to Shirley Strickland Ave west</li></ul><p><strong>From 5pm Saturday 14 March – 10.45pm Sunday 15 March</strong></p><ul><li>Kevin Coombs Avenue between Pondage Link and Australia Avenue (westbound)</li><li>Holker Busway from Hill Road to Australia Avenue</li></ul>",
-            "title": "Road closures",
-            "id": "796201"
-          }
-        ],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1772888400000,
-        "displayName": "AFC Women’s Asian Cup matches",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Stadium Australia",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road, Centenary Drive",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Sydney Olympic Park",
             "trafficVolume": ""
           }
         ],
@@ -2596,12 +2367,12 @@
     },
     {
       "type": "Feature",
-      "id": 265263,
+      "id": 265944,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.0012857,
-          -33.8093247
+          151.0647069,
+          -33.8453359
         ],
         "collections": []
       },
@@ -2614,33 +2385,24 @@
         "expectedDelay": -1,
         "ended": true,
         "isNewIncident": false,
-        "publicTransport": "<p>Match tickets include travel on transport. Visit <a href=\"https://transportnsw.info/events/2026/03/afc-womens-asian-cup-india-v-chinese-taipei\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/NBL-Playoffs-Sydney-Kings-Game1\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
         "impactingNetwork": false,
         "subCategoryB": null,
-        "arrangementAttachments": [
-          {
-            "displayName": "WesternSydneyStadiumTransportMap",
-            "fileName": "WesternSydneyStadiumTransportMap.pdf",
-            "fileType": "PDF",
-            "linkName": "WesternSydneyStadiumTransportMap",
-            "sizeInBytes": 4087117,
-            "uniqueFileName": "859332_1771366781012_WesternSydneyStadiumTransportMap.pdf"
-          }
-        ],
+        "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1771460966000,
+        "created": 1772407748000,
         "isMajor": false,
         "name": null,
         "subCategoryA": "null",
         "adviceA": "Allow extra travel time",
         "adviceB": "Use public transport",
         "adviceC": " ",
-        "end": 1773142200000,
+        "end": 1773226800000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1773142262235,
-        "otherAdvice": "<p><strong>AFC Women’s Asian Cup Western Sydney Stadium in Parramatta</strong>. India v Chinese Taipei kick-off at 8pm, finish at approx. 9.45pm</p><p>Traffic delays are expected as soccer fans make their way to and from Western Sydney Stadium during the busy evening peak. Ticketholders should consider leaving the car at home and catching public transport to avoid delays and the high demand for parking.</p><p>Motorists should carpool and allow extra travel time on roads including Parramatta Road, Church Street, Victoria Road, James Ruse Drive and Pennant Hills Road. </p><p>Motorists should also exercise caution as pedestrian activity will be high on roads between Parramatta Interchange and the stadium on match days.</p>",
+        "lastUpdated": 1773226803748,
+        "otherAdvice": "<p><strong>NBL Playoffs Game 1: Sydney Kings v Perth Wildcats at Qudos Bank Arena in Sydney Olympic Park on Wednesday 11 March. Tip-off at 7.30pm, full time around 9.30pm. </strong></p><ul><li>Traffic delays are expected as basketball fans make their way to Olympic Park in the already busy evening peak.</li><li>Motorists should carpool and allow extra travel time on roads including the M4 Mwy, Homebush Bay Dr, Concord Rd, Lane Cove Rd, Parramatta Rd, Centenary Dr and Silverwater Rd.</li><li>If you have to drive, <a href=\"https://www.sydneyolympicpark.com.au/parking/\" target=\"_blank\">pre-book parking online</a> in advance to secure a space, available until 11:59pm the night before the show unless sold out prior. If you have pre-booked your parking, follow the directions of staff and have your parking ticket ready to show at the car park entry.</li><li>Use Silverwater Rd, Holker St and Hill Rd to access precinct car parks and avoid heavy traffic expected on Homebush Bay Drive and Underwood Rd. </li></ul><p>Sydney Olympic Park Authority may close local roads in the precinct to ensure pedestrian safety during the event and to accommodate additional transport services. For road closure details, view the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a>.</p>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
@@ -2648,21 +2410,21 @@
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1773061200000,
-        "displayName": "AFC Women’s Asian Cup matches",
+        "start": 1773147600000,
+        "displayName": "NBL Playoffs",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Western Sydney Stadium",
+            "crossStreet": "Qudos Bank Arena",
             "delay": "",
             "impactedLanes": [],
             "locationQualifier": "approaching",
-            "mainStreet": "O'Connell Street and Victoria Road",
+            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road",
             "quadrant": "",
             "queueLength": 0,
             "region": "Sydney",
             "secondLocation": "",
-            "suburb": "Parramatta",
+            "suburb": "Sydney Olympic Park",
             "trafficVolume": ""
           }
         ],
@@ -2705,7 +2467,7 @@
         "weblinkUrl": null,
         "expectedDelay": -1,
         "ended": false,
-        "isNewIncident": true,
+        "isNewIncident": false,
         "publicTransport": "",
         "impactingNetwork": false,
         "subCategoryB": null,
@@ -2722,7 +2484,7 @@
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1773211512463,
+        "lastUpdated": 1773281128206,
         "otherAdvice": "<p>Traffic controllers will be on site to facilitate heavy vehicle movements. Motorists are advised to allow approximately 5 minutes of additional travel time. </p>",
         "arrangementElements": [],
         "diversions": "<p>Beaconsfield Rd and Box Flat Rd.</p>",
@@ -2732,7 +2494,7 @@
         "encodedPolylines": [],
         "duration": null,
         "start": 1773529200000,
-        "displayName": "SPECIAL EVENT",
+        "displayName": "SPECIAL EVENT O'Connell 100 Years Commemoration",
         "roads": [
           {
             "conditionTendency": "",
@@ -2746,6 +2508,251 @@
             "region": "Central NSW",
             "secondLocation": "Box Flat Road",
             "suburb": "Oberon",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 267762,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.5850662,
+          -33.4176993
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Bathurst",
+            "linkURL": "https://www.bathurst.nsw.gov.au/Events/NRL"
+          }
+        ],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "All directions",
+            "finishTime": "11:59pm",
+            "fromDay": "Saturday",
+            "startTime": "5:00am",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1773270304000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Exercise caution",
+        "adviceC": " ",
+        "end": 1773493200000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1773282208252,
+        "otherAdvice": "<p>Attendees traveling to Bathurst from Sydney or Penrith should be aware of the current closure of the Great Western Highway at Victoria Pass. A detour is in place via Darling Causeway and Chifley Rd, Lithgow. </p><p>Motorists are advised to plan your trip and to allow plenty of additional travel time.</p><p>For more information, please visit <a href=\"https://www.livetraffic.com/incident-details/267022\" target=\"_blank\">Great Western Highway Closure</a>.</p><p>No right turn from Bentnick Street into Howick Street.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1773424800000,
+        "displayName": "SPECIAL EVENT Panthers v Sharks",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Carrington Park",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "near",
+            "mainStreet": "Durham St",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Central NSW",
+            "secondLocation": "",
+            "suburb": "Bathurst",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 265252,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0666579,
+          -33.8478438
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "<p>Tickets include travel on transport. Express trains and major event buses will run (excl 15 March). Route 525 and 526 bus services will be diverting while road closures are in place. Visit <a href=\"https://transportnsw.info/afc-womens-asian-cup-australia-2026\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [
+          {
+            "displayName": "OlympicPark_TransportMap_AFC8_14_15March2026",
+            "fileName": "OlympicPark_TransportMap_AFC8_14_15March2026.pdf",
+            "fileType": "PDF",
+            "linkName": "OlympicPark_TransportMap_AFC8_14_15March2026",
+            "sizeInBytes": 796646,
+            "uniqueFileName": "301026_1771805873218_OlympicPark_TransportMap_AFC8_14_15March2026.pdf"
+          },
+          {
+            "displayName": "OlympicPark_TransportMap_AFC18_21Mar2026v2",
+            "fileName": "OlympicPark_TransportMap_AFC18_21Mar2026v2.pdf",
+            "fileType": "PDF",
+            "linkName": "OlympicPark_TransportMap_AFC18_21Mar2026v2",
+            "sizeInBytes": 735808,
+            "uniqueFileName": "896878_1773027361033_OlympicPark_TransportMap_AFC18_21Mar2026v2.pdf"
+          }
+        ],
+        "isInitialReport": false,
+        "created": 1771805996000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Use public transport",
+        "adviceB": "Allow extra travel time",
+        "adviceC": "Expect delays",
+        "end": 1774097940000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1773290255240,
+        "otherAdvice": "<p><strong>AFC Women’s Asian Cup matches at Stadium Australia Olympic Park</strong></p><ul><li><strong>Sun 8 Mar: </strong>Australia v Korea Republic. Kick-off at 8pm, finish at approx. 9.45pm.</li><li><strong>Sat 14 Mar</strong>: Quarter Final 3 Korea Republic v Uzbekistan. Kick-off at 8pm, finish at approx. 9.45pm subject to extra time and penalties.</li><li><strong>Sun 15 Mar: </strong>Quarter Final 4 Japan v Philippines. Kick-off at 4pm, finish at approx. 5.45pm subject to extra time and penalties.</li><li><strong>Wed 18 Mar: </strong>Semi Final 2. Kick-off at 8pm, finish at approx. 9.45pm subject to extra time and penalties.</li><li><strong>Sat 21 Mar: </strong>Grand Final. Kick-off at 8pm, finish at approx. 9.45pm subject to extra time and penalties.</li></ul><p>Heavy traffic is expected as tens of thousands fans make their way to Olympic Park. Ticketholders are urged to leave the car at home and catch public to avoid traffic and car park delays.</p><p>Motorists should allow plenty of extra travel time on roads approaching Olympic Park, including on the M4 Mwy, Homebush Bay Dr, Concord Rd, Lane Cove Rd, Parramatta Rd, Centenary Dr and Silverwater Rd.</p><p><a href=\"https://www.sydneyolympicpark.com.au/parking/\" target=\"_blank\"><strong>Pre-booked parking online</strong></a><strong> </strong>is essential to secure a space, available until 11:59pm the night before the match unless sold out prior. If you have pre-booked your parking, follow the directions of staff and have your parking ticket ready to show at the car park entry.</p><p><strong>Road closures: </strong>Sydney Olympic Park Authority will close local roads in the precinct to ensure pedestrian safety during the event and to accommodate additional transport services. For road closure details, view the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a>.</p><p>Note after 15 March, Easter Show infrastructure will commence installation in Olympic Park - P6 car park will be closed and a fenceline will be in place, changing the way pedestrians move around the precinct.</p>",
+        "arrangementElements": [
+          {
+            "html": "<p>See the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">Sydney Olympic Park road closure map</a> for more details.</p><p><strong>Quarter Final match closures</strong></p><p><strong>From 1am Friday 13 March – 3am Monday 16 March </strong></p><ul><li>Dawn Fraser Avenue from Olympic Boulevard to Showground Road</li></ul><p><strong>From 1.30am Saturday 14 March – 3am Monday 16 March </strong></p><ul><li>Dawn Fraser Avenue from Olympic Boulevard to Edwin Flack Ave</li><li>Olympic Boulevard from Herb Elliot Ave to Edwin Flack Avenue</li><li>Grand Parade from Olympic Boulevard to Orana Parade</li><li>Showground Road from Grand Parade to Dawn Fraser Avenue</li><li>Murray Rose Avenue from Gate 15 to Showground Road</li></ul><p><strong>From 12pm Saturday 14 March – 10.45pm Saturday 14 March </strong></p><ul><li>Kevin Coombs Avenue between Pondage Link and Australia Avenue (eastbound)</li></ul><p><strong>From 1pm Saturday 14 March – 1am Sunday 15 March </strong></p><ul><li>Olympic Boulevard between Sarah Durack Ave and Herb Elliott Avenue</li></ul><p><strong>From 1.30pm Saturday 14 March – 1am Sunday 15 March </strong></p><ul><li>Shirley Strickland Ave between P4 Roundabout and Rod Laver Drive.</li><li>Rod Laver Avenue at the rear of Tennis Centre to Shirley Strickland Ave west</li></ul><p><strong>From 5pm Saturday 14 March – 10.45pm Sunday 15 March</strong></p><ul><li>Kevin Coombs Avenue between Pondage Link and Australia Avenue (westbound)</li><li>Holker Busway from Hill Road to Australia Avenue</li></ul><p><strong>Semi Final match closures</strong></p><p><strong>From 1am Tuesday 17 March – 3am Thursday 19 March </strong></p><ul><li>Dawn Fraser Avenue from Olympic Boulevard to Showground Road </li></ul><p><strong>From 1.30am Wednesday 18 March – 3am Thursday 19 March </strong></p><ul><li>Dawn Fraser Avenue from Olympic Boulevard to Edwin Flack Avenue</li><li>Olympic Boulevard from Herb Elliott Ave to Edwin Flack Avenue</li><li>Grand Parade from Olympic Boulevard Orana Parade</li><li>Showground Road from Grand Parade to Dawn Fraser Avenue</li><li>Murray Rose Avenue from Gate 15 to Showground Road </li></ul><p><strong>From 12pm Wednesday 18 March – 10.45pm Wednesday 18 March</strong></p><ul><li>Kevin Coombs Avenue between Pondage Link and Australia Avenue (eastbound) </li></ul><p><strong>From 1.00pm Wednesday 18 March – 1am Thursday 19 March </strong></p><ul><li>Olympic Boulevard between Sarah Durack Avenue and Herb Elliott Avenue </li></ul><p><strong>From 1.30pm Wednesday 18 March – 1am Thursday 19 March </strong></p><ul><li>Shirley Strickland Ave between P4 Roundabout and Rod Laver Drive. </li><li>Rod Laver Drive at the rear of Tennis Centre to Shirley Strickland Avenue west</li></ul><p><strong>From 5pm Wednesday 18 March – 10.45pm Wednesday 18 March</strong></p><ul><li>Kevin Coombs Avenue between Pondage Link and Australia Avenue (westbound)</li><li>Holker Busway from Hill Road to Australia Avenue</li></ul><p><strong>From 3pm Wednesday 18 March – 11.30pm Friday 20 March </strong></p><ul><li>Shirley Strickland Avenue from Bannon Bridge to Olympic Boulevard. </li></ul>",
+            "title": "Road closures",
+            "id": "798216"
+          }
+        ],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1772888400000,
+        "displayName": "AFC Women’s Asian Cup matches",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Stadium Australia",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "approaching",
+            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road, Centenary Drive",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Sydney Olympic Park",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 265977,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1996846,
+          -33.8768355
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Premier's Gala Concerts",
+            "linkURL": "https://tiktokentcent.com/event/premiers-gala-concerts/"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p>Additional L1 light rail services will run during concert days, running regularly to stops at Darling Harbour. Visit <a href=\"https://transportnsw.info/events/2026/03/nsw-premiers-gala-concerts\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1772407164000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Use public transport",
+        "adviceB": "Allow extra travel time",
+        "adviceC": " ",
+        "end": 1773297000000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1773297002099,
+        "otherAdvice": "<p><strong>Premier&#39;s Gala concerts at TikTok Entertainment Centre on Wednesday 11 and Thursday 12 March. Morning shows start at 11am both days, afternoon shows start 2.45pm both days.</strong></p><p><strong>﻿</strong>Allow extra travel time on roads in the city and Pyrmont around Darling Harbour as traffic may be heavier than usual as attendees travel to the shows, particularly during peak evening periods.</p><p>Parking is available within the TikTok Entertainment Centre (formerly ICC Sydney Theatre) at the Exhibition Centre carpark. Entry is via Darling Drive. Casual hourly parking rates apply.</p><p>Motorists should exercise caution and be aware of increased pedestrian activity on local roads.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1773147600000,
+        "displayName": "Concert",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Pier Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Darling Drive",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Sydney",
             "trafficVolume": ""
           }
         ],
