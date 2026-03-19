@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1773818970000,
+  "lastPublished": 1773904470000,
   "layerName": "MajorEvent",
   "rights": {
     "copyright": "Transport for NSW",
@@ -1012,73 +1012,6 @@
     },
     {
       "type": "Feature",
-      "id": 266842,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.069235,
-          -33.8412258
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "<p>Match tickets include travel on all modes of public transport. Visit <a href=\"https://transportnsw.info/events/2026/03/afl-gws-giants-v-st-kilda\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1773113232000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Use public transport",
-        "adviceB": "Allow extra travel time",
-        "adviceC": " ",
-        "end": 1774082700000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1773113233473,
-        "otherAdvice": "<p><strong>AFL: GWS Giants v St Kilda at ENGIE Stadium in Sydney Olympic Park. First Bounce at 4.15pm and full time at 6.45pm.</strong></p><ul><li>Sydney Olympic Park will be very busy Saturday evening while the AFC Women’s Asian Cup Grand Final kicks off from 8pm at neighbouring Stadium Australia. AFL ticketholders are urged to leave the car at home to avoid extensive delays leaving the match. </li><li>Motorists should allow extra travel time on roads including the M4 Mwy, Homebush Bay Dr, Concord Rd, Lane Cove Rd, Parramatta Rd, Centenary Dr and Silverwater Rd.</li><li>If you have to drive, <a href=\"https://www.sydneyolympicpark.com.au/parking/\" target=\"_blank\">pre-book parking online</a> in advance to secure a space, available until 11:59pm the night before the match unless sold out prior. Please note that P6 car park will be closed due to Easter Show infrastructure.</li><li>If you have pre-booked your parking, follow the directions of staff and have your parking ticket ready to show at the car park entry.</li><li>Use Silverwater Rd, Holker St and Hill Rd to access precinct car parks and avoid heavy traffic expected on Homebush Bay Drive and Underwood Rd. </li></ul><p>Sydney Olympic Park Authority will close local roads in the precinct to ensure pedestrian safety during the event and to accommodate additional transport services. For road closure details, view the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a>.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1774011600000,
-        "displayName": "AFL",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "ENGIE Stadium",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road, Centenary Drive",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Sydney Olympic Park",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 267560.0,
       "geometry": {
         "type": "Point",
@@ -2026,230 +1959,6 @@
     },
     {
       "type": "Feature",
-      "id": 266835,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.2232604,
-          -33.8892128
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "<p>Match tickets include travel on transport. Visit <a href=\"https://transportnsw.info/events/2026/03/league-men-sydney-fc-v-melbourne-city\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1773112803000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Use public transport",
-        "adviceB": "Check signage",
-        "adviceC": "Allow extra travel time",
-        "end": 1773742500000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1773742501676,
-        "otherAdvice": "<p><strong>A-League Men: Sydney FC v Melbourne City at Allianz Stadium. Kick off from 7pm, full time at 8.45pm</strong></p><p>Traffic will be heavier than usual in the area during the already busy weeknight peak.</p><p> Motorists should allow extra travel time on Anzac Pde, Lang Rd, Oxford St, Syd Einfeld Drive, Darley Rd, York Rd and Alison Rd.</p><p>Clearways will not be in effect for this game.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1773666000000,
-        "displayName": "A-League",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Allianz Stadium",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Anzac Parade",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Moore Park",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "Local road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 268133,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.064039,
-          -33.8444664
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/NBL-Championship-Game-1\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1773614214000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Use public transport",
-        "adviceC": " ",
-        "end": 1774783800000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1773779994571,
-        "otherAdvice": "<p><strong>NBL Championship Series: Sydney Kings v Adelaide 36ers at Qudos Bank Arena. </strong><a href=\"https://transportnsw.info/NBL-Championship-Game-1\" target=\"_blank\"><strong>Game 1</strong></a><strong> on Saturday 21 March</strong> from 6.45pm. <a href=\"https://transportnsw.info/NBL-Championship-Game-3\" target=\"_blank\"><strong>Game 3</strong></a><strong> on Sunday 29 March</strong> from 2.15pm. Game 5 will be played if required.</p><p><strong>Travel advice for Saturday 21 March: </strong></p><ul><li><strong>Sydney Olympic Park will be very busy with the AFL at ENGIE Stadium and the AFC Women&#39;s Asian Cup Final at Stadium Australia also taking place. </strong></li><li><strong>NBL ticketholders are urged to leave the car at home and catch public transport to avoid significant traffic delays and the high demand for parking – extra train services will run. </strong></li><li>If you must drive, it is essential that you <a href=\"https://www.sydneyolympicpark.com.au/parking/\" target=\"_blank\">pre-book parking online</a> in advance to secure a space. If you pre-booked parking, follow the directions of staff and have your parking ticket ready to show at the car park entry. If you haven&#39;t pre-booked parking do not drive to Olympic Park. Also note that P6 car park will be closed due to Easter Show infrastructure.</li><li>Motorists should carpool, plan to arrive early and allow plenty of extra travel time on roads including the M4 Mwy, Homebush Bay Dr, Concord Rd, Lane Cove Rd, Parramatta Rd, Centenary Dr and Silverwater Rd.</li><li>Use Silverwater Rd, Holker St and Hill Rd to access precinct car parks and avoid heavy traffic expected on Homebush Bay Drive and Underwood Rd. </li></ul><p>Sydney Olympic Park Authority will close local roads in the precinct to ensure pedestrian safety during the event and to accommodate additional transport services. For road closure details, view the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a>.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1774011600000,
-        "displayName": "NBL Championship",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Qudos Bank Arena",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Sydney Olympic Park",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 265252,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.0666579,
-          -33.8478438
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>Tickets include travel on transport. Express trains and major event buses will run (excl 15 March). Route 525 and 526 bus services will be diverting while road closures are in place. Visit <a href=\"https://transportnsw.info/afc-womens-asian-cup-australia-2026\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [
-          {
-            "displayName": "OlympicPark_TransportMap_AFC8_14_15March2026",
-            "fileName": "OlympicPark_TransportMap_AFC8_14_15March2026.pdf",
-            "fileType": "PDF",
-            "linkName": "OlympicPark_TransportMap_AFC8_14_15March2026",
-            "sizeInBytes": 796646,
-            "uniqueFileName": "301026_1771805873218_OlympicPark_TransportMap_AFC8_14_15March2026.pdf"
-          },
-          {
-            "displayName": "OlympicPark_TransportMap_AFC18_21Mar2026v2",
-            "fileName": "OlympicPark_TransportMap_AFC18_21Mar2026v2.pdf",
-            "fileType": "PDF",
-            "linkName": "OlympicPark_TransportMap_AFC18_21Mar2026v2",
-            "sizeInBytes": 735808,
-            "uniqueFileName": "896878_1773027361033_OlympicPark_TransportMap_AFC18_21Mar2026v2.pdf"
-          }
-        ],
-        "isInitialReport": false,
-        "created": 1771805996000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Use public transport",
-        "adviceB": "Allow extra travel time",
-        "adviceC": "Expect delays",
-        "end": 1774097940000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1773806235147,
-        "otherAdvice": "<p><strong>AFC Women’s Asian Cup matches at Stadium Australia Olympic Park</strong></p><ul><li><strong>Sun 8 Mar: </strong>Australia v Korea Republic. Kick-off at 8pm, finish at approx. 9.45pm.</li><li><strong>Sat 14 Mar</strong>: Quarter Final 3 Korea Republic v Uzbekistan. Kick-off at 8pm, finish at approx. 9.45pm subject to extra time and penalties.</li><li><strong>Sun 15 Mar: </strong>Quarter Final 4 Japan v Philippines. Kick-off at 4pm, finish at approx. 5.45pm subject to extra time and penalties.</li><li><strong>Wed 18 Mar: </strong>Semi Final 2. Kick-off at 8pm, finish at approx. 9.45pm subject to extra time and penalties.</li><li><strong>Sat 21 Mar: </strong>Grand Final - TBC v Australia. Kick-off at 8pm, finish at approx. 9.45pm subject to extra time and penalties.</li></ul><p>Heavy traffic is expected as tens of thousands fans make their way to Olympic Park. Ticketholders are urged to leave the car at home and catch public to avoid traffic and car park delays.</p><p>Motorists should allow plenty of extra travel time on roads approaching Olympic Park, including on the M4 Mwy, Homebush Bay Dr, Concord Rd, Lane Cove Rd, Parramatta Rd, Centenary Dr and Silverwater Rd.</p><p><a href=\"https://www.sydneyolympicpark.com.au/parking/\" target=\"_blank\"><strong>Pre-booked parking online</strong></a><strong> </strong>is essential to secure a space, available until 11:59pm the night before the match unless sold out prior. If you have pre-booked your parking, follow the directions of staff and have your parking ticket ready to show at the car park entry.</p><p><strong>Road closures: </strong>Sydney Olympic Park Authority will close local roads in the precinct to ensure pedestrian safety during the event and to accommodate additional transport services. For road closure details, view the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a>.</p><p>Note after 15 March, Easter Show infrastructure will commence installation in Olympic Park - P6 car park will be closed and a fenceline will be in place, changing the way pedestrians move around the precinct.</p>",
-        "arrangementElements": [
-          {
-            "html": "<p>See the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">Sydney Olympic Park road closure map</a> for more details.</p><p><strong>Semi Final match closures</strong></p><p><strong>From 1am Tuesday 17 March – 3am Thursday 19 March </strong></p><ul><li>Dawn Fraser Avenue from Olympic Boulevard to Showground Road</li></ul><p><strong>From 1.30am Wednesday 18 March – 3am Thursday 19 March </strong></p><ul><li>Dawn Fraser Avenue from Olympic Boulevard to Edwin Flack Avenue</li><li>Olympic Boulevard from Herb Elliott Ave to Edwin Flack Avenue</li><li>Grand Parade from Olympic Boulevard Orana Parade</li><li>Showground Road from Grand Parade to Dawn Fraser Avenue</li><li>Murray Rose Avenue from Gate 15 to Showground Road</li></ul><p><strong>From 12pm Wednesday 18 March – 10.45pm Wednesday 18 March</strong></p><ul><li>Kevin Coombs Avenue between Pondage Link and Australia Avenue (eastbound)</li></ul><p><strong>From 1.00pm Wednesday 18 March – 1am Thursday 19 March </strong></p><ul><li>Olympic Boulevard between Sarah Durack Avenue and Herb Elliott Avenue</li></ul><p><strong>From 1.30pm Wednesday 18 March – 1am Thursday 19 March </strong></p><ul><li>Shirley Strickland Ave between P4 Roundabout and Rod Laver Drive.</li><li>Rod Laver Drive at the rear of Tennis Centre to Shirley Strickland Avenue west</li></ul><p><strong>From 5pm Wednesday 18 March – 10.45pm Wednesday 18 March</strong></p><ul><li>Kevin Coombs Avenue between Pondage Link and Australia Avenue (westbound)</li><li>Holker Busway from Hill Road to Australia Avenue</li></ul><p><strong>From 3pm Wednesday 18 March – 11.30pm Friday 20 March </strong></p><ul><li>Shirley Strickland Avenue from Bannon Bridge to Olympic Boulevard. </li></ul><p><strong>+++++++++++++</strong></p><p><strong>Grand Final road closures</strong></p><p><strong>From 1am Friday 20 March – 3am Sunday 22 March </strong></p><ul><li>Dawn Fraser Avenue from Olympic Boulevard to Showground Road</li><li>Dawn Fraser Avenue from Olympic Boulevard to Edwin Flack Ave</li></ul><p><strong>From 1.30am Saturday 21 March – 3am Sunday 22 March </strong></p><ul><li>Olympic Boulevard from Herb Elliott Ave to Edwin Flack Avenue</li><li>Grand Parade from Olympic Boulevard Orana Parade</li><li>Showground Road from Grand Parade to Dawn Fraser Avenue</li><li>Murray Rose Avenue from Gate 15 to Showground Road </li></ul><p><strong>From 12.00am Saturday 21 March – 3am Sunday 22 March </strong></p><ul><li>Kevin Coombes Avenue between Pondage Link and Australia Avenue (eastbound) </li></ul><p><strong>From 1pm Saturday 21 March – 3am Sunday 22 March </strong></p><ul><li>Olympic Boulevard between Sarah Durack and Herb Elliott Avenue </li></ul><p><strong>From 1.30pm Saturday 21 March – 3am Sunday 22 March </strong></p><ul><li>Shirley Strickland between P4 Roundabout and Rod Laver Drive.</li><li>Rod Laver Drive at the rear of Tennis Centre to Shirley Strickland west</li></ul><p><strong>From 2pm Saturday 21 March – 3am Sunday 22 March </strong></p><ul><li>Dawn Fraser Avenue from Park Street to Showground Road.</li><li>Showground Road from Dawn Fraser Avenue to Rear of Novotel Loading Dock.</li></ul><p><strong>From 5pm Saturday 21 March – 1am Sunday 22 March</strong></p><ul><li>Kevin Coombs Avenue between Pondage Link and Australia Avenue (westbound)</li><li>Holker Busway from Hill Road to Australia Avenue</li></ul><p><strong>From 9pm Saturday 21 March – 1am Sunday 22 March</strong></p><ul><li>Edwin Flack Avenue from Pondage Link to Old Hill Link (westbound)</li><li>Edwin Flack Avenue northbound from Bernie Avenue to Old Hill Link</li><li>Murray Rose Avenue from Gate 15 to Australia Avenue</li><li>Dawn Fraser Avenue from Park Street to Australia Avenue</li><li>Herb Elliott Avenue closed between Park Street and Olympic Boulevard. </li></ul>",
-            "title": "Road closures",
-            "id": "801636"
-          }
-        ],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1772888400000,
-        "displayName": "AFC Women’s Asian Cup matches",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Stadium Australia",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road, Centenary Drive",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Sydney Olympic Park",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 268443,
       "geometry": {
         "type": "Point",
@@ -2313,6 +2022,294 @@
             "region": "Sydney",
             "secondLocation": "Exeter Street",
             "suburb": "Camden",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 266842,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.069235,
+          -33.8412258
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "<p>Match tickets include travel on all modes of public transport. Route 525 and 526 bus services will be diverting while roads are closed. Visit <a href=\"https://transportnsw.info/events/2026/03/afl-gws-giants-v-st-kilda\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1773113232000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Use public transport",
+        "adviceB": "Allow extra travel time",
+        "adviceC": " ",
+        "end": 1774082700000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1773885197224,
+        "otherAdvice": "<p><strong>AFL: GWS Giants v St Kilda at ENGIE Stadium in Olympic Park. First Bounce at 4.15pm and full time at 6.45pm.</strong></p><ul><li>Sydney Olympic Park will be very busy Saturday evening with crowds also heading to the AFC Women’s Asian Cup Grand Final and an NBL Championship Final match at nearby stadium. AFL ticketholders are urged to leave the car at home to avoid extensive delays leaving the match. </li><li>Motorists should allow extra travel time on roads including the M4 Mwy, Homebush Bay Dr, Concord Rd, Lane Cove Rd, Parramatta Rd, Centenary Dr and Silverwater Rd.</li><li><strong>** PARKING SOLD OUT ** All available pre-booked parking spaces in Olympic Park have sold out for Saturday 21 March.</strong></li><li><strong>If you have pre-booked parking</strong>, follow directions of staff and have your parking ticket ready to show at the car park entry.</li><li><strong>If you haven&#39;t pre-booked parking do not drive to Olympic Park</strong>. You will need to catch public transport as there will be no parking available on-site. You can also consider parking at a nearby commuter car park and continuing your trip by train or bus to Olympic Park.</li><li><strong>Road closures:</strong> local roads are closed in the precinct to ensure pedestrian safety during the event and to accommodate additional transport services. For road closure details, view the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a>.</li></ul><p><br></p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1774011600000,
+        "displayName": "AFL",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "ENGIE Stadium",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "approaching",
+            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road, Centenary Drive",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Sydney Olympic Park",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 268133,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.064039,
+          -33.8444664
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "<p>Match tickets include travel on all modes of public transport for the game on 21 March.  Route 525 and 526 bus services will be diverting while roads are closed. Visit <a href=\"https://transportnsw.info/NBL-Championship-Game-1\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1773614214000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use public transport",
+        "adviceC": " ",
+        "end": 1774783800000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1773885202278,
+        "otherAdvice": "<p><strong>NBL Championship Series: Sydney Kings v Adelaide 36ers at Qudos Bank Arena. </strong><a href=\"https://transportnsw.info/NBL-Championship-Game-1\" target=\"_blank\"><strong>Game 1</strong></a><strong> on Saturday 21 March</strong> from 6.45pm and <a href=\"https://transportnsw.info/NBL-Championship-Game-3\" target=\"_blank\"><strong>Game 3</strong></a><strong> on Sunday 29 March</strong> from 2.15pm. Game 5 will be played if required.</p><p><strong>Travel advice for Saturday 21 March: </strong></p><ul><li><strong>Sydney Olympic Park will be very busy with the AFL at ENGIE Stadium and the AFC Women&#39;s Asian Cup Final at Stadium Australia also taking place. </strong></li><li>NBL ticketholders are urged to leave the car at home and catch public transport to avoid significant traffic delays. </li><li><strong>** PARKING SOLD OUT ** All available pre-booked parking spaces in Olympic Park have sold out for Saturday 21 March.</strong></li><li><strong>If you have pre-booked parking</strong>, follow directions of staff and have your parking ticket ready to show at the car park entry.</li><li><strong>If you haven&#39;t pre-booked parking do not drive to Olympic Park</strong>. You will need to catch public transport as there will be no parking available on-site. You can also consider parking at a nearby commuter car park and continuing your trip by train or bus to Olympic Park.</li><li>For Sunday 29 March, If you must drive, it is essential that you <a href=\"https://www.sydneyolympicpark.com.au/parking/\" target=\"_blank\">pre-book parking online</a> in advance to secure a space. If you pre-booked parking, follow the directions of staff and have your parking ticket ready to show at the car park entry. If you haven&#39;t pre-booked parking do not drive to Olympic Park. Also note that P6 car park will be closed due to Easter Show infrastructure.</li><li>Motorists should carpool, plan to arrive early and allow plenty of extra travel time on roads including the M4 Mwy, Homebush Bay Dr, Concord Rd, Lane Cove Rd, Parramatta Rd, Centenary Dr and Silverwater Rd.</li></ul><p><strong>Road closures:</strong> local roads are closed in the precinct to ensure pedestrian safety during the event and to accommodate additional transport services. For road closure details, view the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a>.</p><p><br></p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1774011600000,
+        "displayName": "NBL Championship",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Qudos Bank Arena",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "approaching",
+            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Sydney Olympic Park",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 265252,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0666579,
+          -33.8478438
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "<p>Tickets include travel on transport. Express trains and major event buses will run. Route 525 and 526 bus services will be diverting while roads are closed. Visit <a href=\"https://transportnsw.info/events/2026/03/afc-womens-asian-cup-grand-final-japan-v-australia\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [
+          {
+            "displayName": "OlympicPark_TransportMap_AFC18_21Mar2026v2",
+            "fileName": "OlympicPark_TransportMap_AFC18_21Mar2026v2.pdf",
+            "fileType": "PDF",
+            "linkName": "OlympicPark_TransportMap_AFC18_21Mar2026v2",
+            "sizeInBytes": 735808,
+            "uniqueFileName": "896878_1773027361033_OlympicPark_TransportMap_AFC18_21Mar2026v2.pdf"
+          }
+        ],
+        "isInitialReport": false,
+        "created": 1771805996000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Use public transport",
+        "adviceB": "Allow extra travel time",
+        "adviceC": "Expect delays",
+        "end": 1774097940000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1773885209624,
+        "otherAdvice": "<p><strong>AFC Women’s Asian Cup Final: Japan v Australia at Stadium Australia Olympic Park. </strong>Gates open 6pm, Tournament closing ceremony entertainment from 7.35pm, Match kick-off at 8pm, finish approx 9.45pm, subject to extra time and/or penalties.</p><ul><li>Heavy traffic is expected as tens of thousands of fans make their way to Olympic Park to cheer on the Matildas in the Grand Final. Ticketholders are urged to leave the car at home and catch public to avoid traffic and car park delays.</li><li>The precinct will be busy with an AFL match and an NBL Finals match also being held at neighbouring venues in the precinct.</li><li>Motorists should allow plenty of extra travel time on roads approaching Olympic Park, including on the M4 Mwy, Homebush Bay Dr, Concord Rd, Lane Cove Rd, Parramatta Rd, Centenary Dr and Silverwater Rd.</li><li><strong>** PARKING SOLD OUT ** All available pre-booked parking spaces in Olympic Park have sold out for Saturday 21 March.</strong></li><li><strong>If you have pre-booked parking</strong>, follow directions of staff and have your parking ticket ready to show at the car park entry.</li><li><strong>If you haven&#39;t pre-booked parking do not drive to Olympic Park</strong>. You will need to catch public transport as there will be no parking available on-site. You can also consider parking at a nearby commuter car park and continuing your trip by train or bus to Olympic Park.</li><li>Note P6 car park is closed due to Easter Show set up and a fenceline is in place, changing the way pedestrians move around the precinct.</li><li><strong>Road closures:</strong> local roads are closed in the precinct to ensure pedestrian safety during the event and to accommodate additional transport services. For road closure details, view the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a>.</li></ul>",
+        "arrangementElements": [
+          {
+            "html": "<p>See the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">Sydney Olympic Park road closure map</a> for more details.</p><p><strong>Grand Final road closures</strong></p><p><strong>From 1am Friday 20 March – 3am Sunday 22 March </strong></p><ul><li>Dawn Fraser Avenue from Olympic Boulevard to Showground Road</li><li>Dawn Fraser Avenue from Olympic Boulevard to Edwin Flack Ave</li></ul><p><strong>From 1.30am Saturday 21 March – 3am Sunday 22 March </strong></p><ul><li>Olympic Boulevard from Herb Elliott Ave to Edwin Flack Avenue</li><li>Grand Parade from Olympic Boulevard Orana Parade</li><li>Showground Road from Grand Parade to Dawn Fraser Avenue</li><li>Murray Rose Avenue from Gate 15 to Showground Road </li></ul><p><strong>From 12.00am Saturday 21 March – 3am Sunday 22 March </strong></p><ul><li>Kevin Coombes Avenue between Pondage Link and Australia Avenue (eastbound) </li></ul><p><strong>From 1pm Saturday 21 March – 3am Sunday 22 March </strong></p><ul><li>Olympic Boulevard between Sarah Durack and Herb Elliott Avenue </li></ul><p><strong>From 1.30pm Saturday 21 March – 3am Sunday 22 March </strong></p><ul><li>Shirley Strickland between P4 Roundabout and Rod Laver Drive.</li><li>Rod Laver Drive at the rear of Tennis Centre to Shirley Strickland west</li></ul><p><strong>From 2pm Saturday 21 March – 3am Sunday 22 March </strong></p><ul><li>Dawn Fraser Avenue from Park Street to Showground Road.</li><li>Showground Road from Dawn Fraser Avenue to Rear of Novotel Loading Dock.</li></ul><p><strong>From 5pm Saturday 21 March – 1am Sunday 22 March</strong></p><ul><li>Kevin Coombs Avenue between Pondage Link and Australia Avenue (westbound)</li><li>Holker Busway from Hill Road to Australia Avenue</li></ul><p><strong>From 9pm Saturday 21 March – 1am Sunday 22 March</strong></p><ul><li>Edwin Flack Avenue from Pondage Link to Old Hill Link (westbound)</li><li>Edwin Flack Avenue northbound from Bernie Avenue to Old Hill Link</li><li>Murray Rose Avenue from Gate 15 to Australia Avenue</li><li>Dawn Fraser Avenue from Park Street to Australia Avenue</li><li>Herb Elliott Avenue closed between Park Street and Olympic Boulevard. </li></ul>",
+            "title": "Road closures",
+            "id": "802203"
+          }
+        ],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1774011600000,
+        "displayName": "AFC Women’s Asian Cup Final: Japan v Australia",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Stadium Australia",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "approaching",
+            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road, Centenary Drive",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Sydney Olympic Park",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 268546,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2034492,
+          -33.875882
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Darling Harbour - AFC Women's Asian Cup Final live site",
+            "linkURL": "https://www.darlingharbour.com/whats-on/events/afc-women-s-asian-cup-final"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "<p>L1 Light rail services run regularly to Exhibition Centre and Paddys Markets within walking distance of Tumbalong Park. Visit <a href=\"https://transportnsw.info\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1773892327000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Use public transport",
+        "adviceB": "Allow extra travel time",
+        "adviceC": " ",
+        "end": 1774097100000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1773892328523,
+        "otherAdvice": "<p>A  live site will be open at Tumbalong Park in Darling Harbour on Saturday for the AFC Women&#39;s Asian Cup final match Japan v Australia.</p><p>The match will be live on the big screen and the site is free to visit. Match kicks off from 8pm.</p><p>Fans are encouraged to catch public transport.</p><p>Motorists should allow extra travel time and be aware of increased pedestrian activity on local roads throughout the Sydney CBD.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1774011600000,
+        "displayName": "AFC Women's Asian Cup Final live site",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Tumbalong Park",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Harbour Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Sydney",
             "trafficVolume": ""
           }
         ],
