@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1774681890000,
+  "lastPublished": 1774769250000,
   "layerName": "MajorEvent",
   "rights": {
     "copyright": "Transport for NSW",
@@ -72,78 +72,6 @@
             "region": "Sydney",
             "secondLocation": "",
             "suburb": "Rozelle",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 265753,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.199136,
-          -33.8758856
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "TikTok Entertainment Centre - What's On",
-            "linkURL": "https://tiktokentcent.com/whats-on/"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info\" target=\"_blank\">transportnsw.info</a> to plan your trip. </p>",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1772407806000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": " ",
-        "adviceC": " ",
-        "end": 1774701000000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1772582514713,
-        "otherAdvice": "<p><strong>March shows at the TikTok Entertainment Centre:</strong></p><ul><li><strong>Jimmy Carr from Friday 13 to Sunday 15 March. Shows start nightly at 7.30pm</strong></li><li><strong>Big Time Rush on Tuesday 17 March. Shows starts 7.30pm</strong></li><li><strong>Old Dominion on Wednesday 18 March. Show starts at 7pm</strong></li><li><strong>Mel Robbins on Wednesday 25 March. Show starts at 7.30pm</strong></li><li><strong>Jeff Chang on Saturday 28 March. Show starts 7.30pm</strong></li></ul><p>Traffic may be heavier than usual as attendees travel to and from the event.</p><p>Motorists should allow extra travel time and be aware of increased pedestrian activity on local roads.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1773320400000,
-        "displayName": "Shows",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "TikTok Entertainment Centre",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "Darling Drive",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Darling Harbour",
             "trafficVolume": ""
           }
         ],
@@ -242,316 +170,6 @@
             "region": "Sydney",
             "secondLocation": "Railway Street",
             "suburb": "Chatswood",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 267560.0,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.2142069,
-          -33.8699753
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Run2Cure",
-            "linkURL": "https://www.run2cure.org.au/"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "<p>Major trackwork is taking place on Sunday 29 March on the T1 North Shore Line, Sydney Metro line (between Victoria Cross and Macquarie Park) and the City Circle. Use Light rail services or Metro to get within walking distance of the start line. Visit <a href=\"https://transportnsw.info\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1773119692000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": " ",
-        "adviceC": " ",
-        "end": 1774745100000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1773119693511,
-        "otherAdvice": "<p><strong>Run2Cure fun run events will take place in The Domain starting from 6.30am finishing around 1pm. Approximately 3,500 participants are expected. </strong></p><p>Traffic may be heavier than usual on roads approaching The Domain as participants travel to and from the event.</p><p><strong>Road closures: </strong>Art Gallery Rd and Mrs Macquaries Rd will be closed from 5am to 11.30am. No vehicle access or parking will be permitted until roads are reopened.</p><p>Hospital Rd will remain open with limited parking and a drop off zone located immediately south of the pedestrian crossing on the corner of Hospital Rd and Phillip Path. Parking is available in the Domain car park.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1774713600000,
-        "displayName": "Run2Cure Charity fun run",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Hospital Road",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Art Gallery Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Sydney",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 264603,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.1315241,
-          -33.7263935
-        ],
-        "collections": [
-          {
-            "type": "Point",
-            "coordinates": [
-              151.256131,
-              -33.637971
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Bobbo 2026",
-            "linkURL": "https://www.bobbinheadcycleclassic.org.au/"
-          },
-          {
-            "linkText": "TfNSW interactive cycle route map",
-            "linkURL": "https://experience.arcgis.com/experience/bc1dff941c7642cfa00db6ec502299e7"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>Major trackwork is taking place on Sunday 29 March on the T1 North Shore Line, Sydney Metro line (between Victoria Cross and Macquarie Park) and the City Circle. Bikes are not permitted to be taken on-board buses including rail replacement buses. Trains continue to run to Hornsby on the T9 Northern Line. Visit <a href=\"https://transportnsw.info/bobbin-head-cycle-classic\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [
-          {
-            "displayName": "BobboRoadClosureClearwayMap2026",
-            "fileName": "BobboRoadClosureClearwayMap2026.pdf",
-            "fileType": "PDF",
-            "linkName": "BobboRoadClosureClearwayMap2026",
-            "sizeInBytes": 1787915,
-            "uniqueFileName": "607654_1773112115946_BobboRoadClosureClearwayMap2026.pdf"
-          }
-        ],
-        "isInitialReport": false,
-        "created": 1773112176000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Check signage",
-        "adviceC": "Exercise caution",
-        "end": 1774756800000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1773366952244,
-        "otherAdvice": "<p>Up to 3,000 participants are expected to take part in the annual Bobbin Head Cycle Classic. Events start and finish at Karuah Oval in Turramurra, from 6.30am. All events will finish by 1.30pm. Changed traffic conditions will be in effect along the course for the safety of participants.</p><ul><li><strong>Road and lane closures will be in place along the course at various locations and times between 5am and 3pm, including on sections of Karuah Rd, Turramurra Ave, Bobbin Head Rd, Warrimoo Ave, Woodbury Rd, Liberator General San Martin Dr, Old Pacific Hwy, Mona Vale Rd and Burns Rd through Turramurra, Ku-Ring-Gai Chase National Park, Mt Colah, St Ives and Terrey Hills. </strong></li><li>Speed limit reductions will be in effect at key locations along the course at various times between 6am and 2pm.</li></ul><p><strong>A special event clearway will also be in place on the eastern side of Mona Vale Rd in St Ives from 7am until 1.30pm</strong>, between 425 Mona Vale Rd and Kitchener St.</p><p>Clearways are strict no-parking zones for all vehicle types, and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator.</p>",
-        "arrangementElements": [
-          {
-            "html": "<p><strong>ROAD CLOSURES</strong></p><p><strong>TURRAMURRA - FROM 5AM TO 3PM</strong></p><ul><li>Karuah Road between Eastern Road and Turramurra Avenue</li><li>Turramurra Avenue between Brentwood Avenue and Karuah Road (northbound)</li></ul><p><strong>KU-RING-GAI CHASE NATIONAL PARK </strong></p><p><strong>FROM 6.15AM TO 9.15AM</strong></p><ul><li>Bobbin Head Road between the park gates at North Turramurra and Mt Colah (northbound)</li></ul><p><strong>FROM 7.30AM TO 12.30PM</strong></p><ul><li>Liberator General San Martin Drive between Cottage Point Road and West Head Road (northbound)</li></ul><p><strong>ST IVES</strong></p><p><strong>FROM 6.45AM TO 1.30PM</strong></p><ul><li>Warrimoo Avenue between Killeaton Street and Mungarra Avenue (northbound)</li></ul><p><strong>FROM 8.30AM TO 1.30PM</strong></p><ul><li>Woodbury Road between Mona Vale Road and Hume Avenue (eastbound)</li></ul><p><strong>LANE CLOSURES</strong></p><p><strong>MOUNT COLAH - FROM 6.15AM TO 8.45AM</strong></p><ul><li>Lane 1 Old Pacific Highway approaching the intersection of Belmont Parade (both directions)</li></ul><p><strong>TURRAMURRA </strong></p><p><strong>FROM 6.45AM TO 1.30PM</strong></p><ul><li>Right turn lane Burns Road at the intersection of Ellalong Road (northbound)</li></ul><p><strong>FROM 8AM TO 1.45PM</strong></p><ul><li>Right turn lane Bobbin Head Road at the intersection of Burns Road (northbound)</li></ul><p><strong>TERREY HILLS </strong></p><p><strong>FROM 8AM TO 1.30PM</strong></p><ul><li>Lane 1 Mona Vale Road approaching intersection of Myoora Road/Forest Way (westbound)</li></ul><p><strong>FROM 8:15AM TO 1:00PM </strong></p><ul><li>Booralie Road, between McCarrs Creek Road and Mona Vale Rd access road, (westbound)</li></ul><p><br></p><p><strong>ST IVES</strong></p><p><strong>FROM 6.30AM to 2.30PM</strong></p><ul><li>Lane 1 Mona Vale Road approaching the intersection of Richmond Avenue (westbound)</li></ul><p><strong>FROM 8AM TO 1.30PM</strong></p><ul><li>Right turn lane Mona Vale Road approaching the intersection of Woodbury Road (northbound)</li></ul><p><br></p><p><strong>SPECIAL EVENT CLEARWAYS</strong></p><p>Special event Clearways are strict no-parking zones for all vehicle types, and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://tfnswtowlink.force.com/findmycar/s/\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator.</p><p><strong>ST IVES - FROM 7AM TO 1.30PM</strong></p><ul><li>Mona Vale Road between 425 Mona Vale Road and Kitchener Street (southbound)</li></ul>",
-            "title": "Road and lane closures",
-            "id": "798823"
-          },
-          {
-            "html": "<p>Reduced speed limits will be in effect on the following roads to ensure the safety of cyclists sharing roads with motorists:</p><p><strong>ST IVES TO TERREY HILLS</strong></p><p><strong>FROM 6AM TO 11.30AM</strong></p><ul><li>60km/h speed limit reduction on Mona Vale Road between Wildflower Gardens at St Ives to Myoora Road at Terrey Hills (eastbound)</li></ul><p><strong>FROM 6AM TO 2PM</strong></p><ul><li>60km/h speed limit reduction on Mona Vale Road from McCarrs Creek Road at Terrey Hills to opposite the Wildflower Garden at St Ives (westbound)</li></ul><p><strong>KU-RING-GAI CHASE - FROM 6AM TO 1PM</strong></p><ul><li>60km/h speed limit reduction on West Head Road between Liberator General San Martin Drive and West Head Picnic Area (both directions)</li></ul><p><strong>MT COLAH - FROM 6AM TO 10AM</strong></p><ul><li>60km/h speed limit reduction on Bobbin Head Road between Park Gates and Kalkari Visitor Centre (eastbound)</li></ul><p><strong>MT COLAH - FROM 5:30AM TO 9:30AM</strong></p><ul><li>40km/h speed limit reduction on Old Pacific Highway between Pacific Highway and Belmont Parade (both directions)</li></ul><p><strong>TERREY HILLS - FROM 6AM TO 11.30AM </strong></p><ul><li>40km/h speed limit reduction on McCarr&#39;s Creek Road between West Head Road and Liberator General San Martin Drive (westbound)</li></ul>",
-            "title": "Speed limit reductions",
-            "id": "798824"
-          }
-        ],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1774702800000,
-        "displayName": "Bobbin Head Classic Cycle",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Ku-Ring-Gai National Park and return",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Karuah Oval",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Turramurra, St Ives, Ku-Ring-Gai, Terrey Hills, Mt Colah",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 267636,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.0214397,
-          -33.8229118
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "<p>Major trackwork is taking place on City Circle, metro and T1 North Shore Line. Race day tickets include travel on public transport.<strong> </strong>Visit <a href=\"https://transportnsw.info/events/2026/03/family-stakes-day-autumn-carnival\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1773708598000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Use public transport",
-        "adviceC": " ",
-        "end": 1774683900000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1773708598768,
-        "otherAdvice": "<p><strong>Autumn Carnival: Family Stakes Day at Rosehill Gardens Racecourse. First race at 12.30pm, last race from 5:55pm. </strong></p><p>Traffic may be heavier than usual on James Ruse Dr and Hassall St as attendees arrive and leave the racecourse.</p><p>Motorists should allow extra travel time and be aware of increased pedestrian activity on local roads in the area.</p><p><strong>Special event clearway parking restrictions will be in effect at the following locations:</strong></p><ul><li><strong>From 6am to 6pm</strong>: Grand Avenue from 100m Prior to Gate 1 Australian Turf Club Rosehill Gardens to opposite Grand Avenue North (southern side).</li></ul><p>Clearways are strict no-parking zones for all vehicle types and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed\" target=\"_blank\">Find My Car website</a> to find its new location, or alternatively call 132 701 to speak to an operator.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1774616400000,
-        "displayName": "Autumn Carnival Race Day",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Rosehill Gardens Racecourse",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "James Ruse Drive",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Rosehill",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 268133,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.064039,
-          -33.8444664
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/NBL-Championship-Game-3\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1773614214000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Use public transport",
-        "adviceC": " ",
-        "end": 1774764900000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1774112405060,
-        "otherAdvice": "<p><strong>NBL Championship Series Game 3: Sydney Kings v Adelaide 36ers at Qudos Bank Arena on Sunday 29 March from 2.15pm. </strong>Game 5 will be played if required.</p><ul><li>Traffic delays are expected on roads approaching Olympic Park as basketball fans make their way to and from the match.<strong> </strong></li><li>Motorists should carpool, plan to arrive early and allow extra travel time on roads including the M4 Mwy, Homebush Bay Dr, Concord Rd, Lane Cove Rd, Parramatta Rd, Centenary Dr and Silverwater Rd.</li><li>If you need to drive, <a href=\"https://www.sydneyolympicpark.com.au/parking/\" target=\"_blank\">pre-book parking online</a> in advance to secure a space. Follow the directions of staff and have your parking ticket ready to show at the car park entry. Note that P6 car park will be closed due to Easter Show infrastructure.</li><li>Use Silverwater Rd, Holker St and Hill Rd to access precinct car parks and avoid heavy traffic expected on Homebush Bay Drive and Underwood Rd. </li></ul><p>Sydney Olympic Park Authority will close local roads in the precinct to ensure pedestrian safety during the event and to accommodate additional transport services. For road closure details, view the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a>.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1774702800000,
-        "displayName": "NBL Championship",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Qudos Bank Arena",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Sydney Olympic Park",
             "trafficVolume": ""
           }
         ],
@@ -1389,157 +1007,6 @@
     },
     {
       "type": "Feature",
-      "id": 267637,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.0625647,
-          -33.8425729
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>Major trackwork is taking place on the City Circle, T1 North Shore Line and Metro Line. Visit <a href=\"https://transportnsw.info/events/2026/03/wu-tang-clan\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1774302810000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Use public transport",
-        "adviceC": " ",
-        "end": 1774701900000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1774302857727,
-        "otherAdvice": "<p><strong>Wu-Tang Clan performs at Qudos Bank Arena in Sydney Olympic Park on Saturday 28 March. Show runs from 8pm to 11pm.</strong></p><ul><li>Traffic delays are expected as concertgoers make their way to Olympic Park. </li><li>Motorists should carpool and allow extra travel time on roads including the M4 Mwy, Homebush Bay Dr, Concord Rd, Lane Cove Rd, Parramatta Rd, Centenary Dr and Silverwater Rd.</li><li>If you have to drive, <a href=\"https://www.sydneyolympicpark.com.au/parking/\" target=\"_blank\">pre-book parking online</a> in advance to secure a space, available until 11:59pm the night before the show unless sold out prior. <strong>Please note that the P6 car park will be closed for Easter Show infrastructure.</strong></li><li>If you have pre-booked your parking, follow the directions of staff and have your parking ticket ready to show at the car park entry.</li><li>Use Silverwater Rd, Holker St and Hill Rd to access precinct car parks and avoid heavy traffic expected on Homebush Bay Drive and Underwood Rd. </li></ul><p>Road closures will be in place before, during and after the Easter Show for event set up and pack down. Check out the Sydney Olympic Park Authority <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a> for more details. For detailed closure and access changes in the precinct see the <a href=\"https://mysop.sydneyolympicpark.nsw.gov.au/sydney-royal-easter-show-2026-community-information\" target=\"_blank\">Olympic Park Community page</a>. </p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1774616400000,
-        "displayName": "Concert",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Qudos Bank Arena",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Sydney Olympic Park",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 267639,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.0017319,
-          -33.8078019
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "<p>Major trackwork is taking place on City Circle, T1 North Shore Line and Metro Line. Match tickets include travel on transport. Buses will divert while roads are closed after the game. Visit <a href=\"https://transportnsw.info/events/2026/03/nrl-panthers-v-eels\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [
-          {
-            "displayName": "CommBankStadium_Transport_WalkingRoute_Map",
-            "fileName": "CommBankStadium_Transport_WalkingRoute_Map.pdf",
-            "fileType": "PDF",
-            "linkName": "CommBankStadium_Transport_WalkingRoute_Map",
-            "sizeInBytes": 3930899,
-            "uniqueFileName": "919826_1728350438314_CommBankStadium_Transport_WalkingRoute_Map.pdf"
-          },
-          {
-            "displayName": "CommBankStadium_EventRoadClosureMap_PLR",
-            "fileName": "CommBankStadium_EventRoadClosureMap_PLR.pdf",
-            "fileType": "PDF",
-            "linkName": "CommBankStadium_EventRoadClosureMap_PLR",
-            "sizeInBytes": 276835,
-            "uniqueFileName": "689282_1760318577717_CommBankStadium_EventRoadClosureMap_PLR.pdf"
-          }
-        ],
-        "isInitialReport": false,
-        "created": 1774307832000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Use public transport",
-        "adviceC": " ",
-        "end": 1774696500000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1774307834036,
-        "otherAdvice": "<p><strong>NRL: Panthers v Eels at CommBank Stadium in Parramatta. NRL kick-off at 5.30pm, full time around 7.15pm. NSW Cup to follow from 8pm.</strong></p><p>With thousands of fan expected, traffic will be heavy on roads approaching Parramatta and nearby car parks are expected to be in high demand.</p><p>Allow extra travel time on roads including Parramatta Road, Church Street, Victoria Road, James Ruse Drive and Pennant Hills Road. </p><p>Motorists should also exercise caution as pedestrian activity will be high on roads between Parramatta Interchange and the stadium. </p><p>Drivers are reminded that light rail services are running through Parramatta CBD. Trams can’t stop quickly or easily – so exercise extra caution when driving in the area. </p><p><strong>Road closures </strong></p><p>Roads around the stadium will close from <strong>7.15pm to 7.45pm</strong> approx. to allow crowds to safely leave the venue. Roads will re-open once crowds have cleared the area. </p><ul><li>O’Connell Street from Grose Street to George Street </li><li>Ross Street from O’Connell Street to Trott Street </li><li>Victoria Road from O’Connell Street to Villiers Street </li></ul><p>While closures are in place motorists are encouraged to avoid driving through Parramatta CBD and detour around the closures via Grose Street, Brickfield Street, Victoria Road and Wilde Avenue in both directions. </p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1774616400000,
-        "displayName": "NRL",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Victoria Road",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "O'Connell Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Parramatta",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 268965,
       "geometry": {
         "type": "Point",
@@ -1694,78 +1161,6 @@
     },
     {
       "type": "Feature",
-      "id": 269040.0,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.0137539,
-          -33.8343235
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Cumberland City Council - Easter Extravaganza",
-            "linkURL": "https://www.cumberland.nsw.gov.au/easter"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "<p>Some buses will divert while road closures are in place. Visit <a href=\"https://transportnsw.info/trip\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1774386373000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Use public transport",
-        "adviceC": " ",
-        "end": 1774746000000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1774386374197,
-        "otherAdvice": "<p>Easter Extravaganza will be held on Friday 27 and Saturday 28 March at The Granville Centre on Memorial Drive. Event runs from 4pm to 9pm each night.</p><p><strong>Road closures will be in place on Memorial Drive and surrounding local streets from 5am Friday 27 March until 12pm Monday 29 March to safely facilitate the event.</strong> </p><ul><li>Memorial Drive closed in both directions between William Street and Mary Street.</li><li>Enid Avenue close and Diamond Avenue closed east of Enid Avenue, including the car park. </li><li>Resident access maintained with traffic control. </li></ul><p>Vehicles will detoured via local surrounding street. Motorists should follow the direction of traffic control on site and be aware of increased pedestrian activity in the area. </p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1774530000000,
-        "displayName": "Special Event",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "The Granville Centre",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Memorial Dr",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Granville",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 269170.0,
       "geometry": {
         "type": "Point",
@@ -1870,88 +1265,6 @@
             "region": "Sydney",
             "secondLocation": "Hyde Park",
             "suburb": "Sydney CBD",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 269103,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.2127221,
-          -33.86418
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>Buses will be diverting while roads are closed. Check service alerts at <a href=\"https://transportnsw.info/trip\" target=\"_blank\">transportnsw.info</a> for real-time information. </p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [
-          {
-            "displayName": "Greek_Independence_Day_2026_road_closure_map",
-            "fileName": "Greek_Independence_Day_2026_road_closure_map.pdf",
-            "fileType": "PDF",
-            "linkName": "Greek_Independence_Day_2026_road_closure_map",
-            "sizeInBytes": 593598,
-            "uniqueFileName": "103699_1774557865907_Greek_Independence_Day_2026_road_closure_map.pdf"
-          }
-        ],
-        "isInitialReport": false,
-        "created": 1774477060000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Expect delays",
-        "adviceC": " ",
-        "end": 1774753200000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1774557880341,
-        "otherAdvice": "<p>Up to 4,000 people are expected to take part in the annual Greek Independence Day March from Hyde Park South via Macquarie St to the Opera House at Circular Quay.</p><p><strong>Macquarie St will be closed from St James Rd to Sydney Opera House from 11:45am to 2pm. </strong></p><p>Other closures will be in place on sections of Bridge St, Hunter St, Bent St and Park St, Albert St and St James Rd. </p><p>Delays are expected in the city while roads are closed. Motorists should avoid the area or expect delays, allow plenty of extra travel time and follow directions of NSW Police.</p>",
-        "arrangementElements": [
-          {
-            "html": "<p><strong>Sydney CBD</strong></p><p><strong>From 11:45am to 2pm</strong></p><p><em> Road closures affect in both directions unless stated otherwise</em></p><ul><li>Albert Street between Philip Street and Macquarie Street eastbound</li><li>Bent Street between Phillip Street and Macquarie Street eastbound</li><li>Bridge Street between Phillip Street and Macquarie Street</li><li>Cahill Expressway City East exit to Macquarie Street southbound</li><li>Conservatorium Road at Macquarie Street westbound</li><li>Hunter Street between Elizabeth Street<em> </em>and Macquarie Street eastbound</li><li>Hunter Street between Macquarie Street and Phillip Street<em> (south) </em>westbound</li><li>Macquarie Street between St James Street and the Sydney Opera House</li><li>Park Street <em>1 </em>between Elizabeth Street and College Street</li><li>Phillip Lane at Macquire Street</li><li>Prince Albert Street between College Street and Macquarie Street westbound</li><li>St James Street between Elziabeth Street and Macquarie Street</li><li>Sydney Opera House Car Park Exit at Macquarie Street</li><li>Government House Access Road at Macquarie Street</li></ul><p><strong>Cycleway Closures</strong></p><p>Cycleway closures affect both directions unless stated otherwise. Cycleway will be reopened at the direction for NSW Police.</p><p><strong>SYDNEY CBD</strong></p><p><strong>From 12pm to 1pm</strong></p><ul><li>King Streetbetween Phillip Street and Macquarie Street</li><li> Macquarie Street between St James Road and Queen Square</li><li> Prince Albert Street between College Street and St James Street</li></ul><p> </p>",
-            "title": "Road Closures",
-            "id": "806495"
-          }
-        ],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1774745100000,
-        "displayName": "Greek Independence Day March",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Circular Quay",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "to",
-            "mainStreet": "Hyde Park",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Sydney",
             "trafficVolume": ""
           }
         ],
@@ -2243,12 +1556,12 @@
     },
     {
       "type": "Feature",
-      "id": 269364,
+      "id": 267636,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          147.2378879,
-          -35.1135537
+          151.0214397,
+          -33.8229118
         ],
         "collections": []
       },
@@ -2259,26 +1572,26 @@
         "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "",
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p>Major trackwork is taking place on City Circle, metro and T1 North Shore Line. Race day tickets include travel on public transport.<strong> </strong>Visit <a href=\"https://transportnsw.info/events/2026/03/family-stakes-day-autumn-carnival\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
         "impactingNetwork": false,
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1774585450000,
+        "created": 1773708598000,
         "isMajor": false,
         "name": null,
         "subCategoryA": "null",
-        "adviceA": "Reduce your speed",
-        "adviceB": "Check signage",
-        "adviceC": "Exercise caution",
-        "end": 1774699200000,
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use public transport",
+        "adviceC": " ",
+        "end": 1774683900000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1774585451040,
-        "otherAdvice": "<p>Wagga Speedway is holding a number of racing events.</p><p>Portable traffic lights will be in place on the Sturt Highway at Cloughs Road to assist with event traffic.</p>",
+        "lastUpdated": 1774683901985,
+        "otherAdvice": "<p><strong>Autumn Carnival: Family Stakes Day at Rosehill Gardens Racecourse. First race at 12.30pm, last race from 5:55pm. </strong></p><p>Traffic may be heavier than usual on James Ruse Dr and Hassall St as attendees arrive and leave the racecourse.</p><p>Motorists should allow extra travel time and be aware of increased pedestrian activity on local roads in the area.</p><p><strong>Special event clearway parking restrictions will be in effect at the following locations:</strong></p><ul><li><strong>From 6am to 6pm</strong>: Grand Avenue from 100m Prior to Gate 1 Australian Turf Club Rosehill Gardens to opposite Grand Avenue North (southern side).</li></ul><p>Clearways are strict no-parking zones for all vehicle types and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed\" target=\"_blank\">Find My Car website</a> to find its new location, or alternatively call 132 701 to speak to an operator.</p>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
@@ -2286,21 +1599,105 @@
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1774681200000,
-        "displayName": "SPECIAL EVENT",
+        "start": 1774616400000,
+        "displayName": "Autumn Carnival Race Day",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Cloughs Road",
+            "crossStreet": "Rosehill Gardens Racecourse",
             "delay": "",
             "impactedLanes": [],
             "locationQualifier": "at",
-            "mainStreet": "Sturt Highway",
+            "mainStreet": "James Ruse Drive",
             "quadrant": "",
             "queueLength": 0,
-            "region": "Riverina",
+            "region": "Sydney",
             "secondLocation": "",
-            "suburb": "Yarragundry",
+            "suburb": "Rosehill",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 267639,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0017319,
+          -33.8078019
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p>Major trackwork is taking place on City Circle, T1 North Shore Line and Metro Line. Match tickets include travel on transport. Buses will divert while roads are closed after the game. Visit <a href=\"https://transportnsw.info/events/2026/03/nrl-panthers-v-eels\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [
+          {
+            "displayName": "CommBankStadium_Transport_WalkingRoute_Map",
+            "fileName": "CommBankStadium_Transport_WalkingRoute_Map.pdf",
+            "fileType": "PDF",
+            "linkName": "CommBankStadium_Transport_WalkingRoute_Map",
+            "sizeInBytes": 3930899,
+            "uniqueFileName": "919826_1728350438314_CommBankStadium_Transport_WalkingRoute_Map.pdf"
+          },
+          {
+            "displayName": "CommBankStadium_EventRoadClosureMap_PLR",
+            "fileName": "CommBankStadium_EventRoadClosureMap_PLR.pdf",
+            "fileType": "PDF",
+            "linkName": "CommBankStadium_EventRoadClosureMap_PLR",
+            "sizeInBytes": 276835,
+            "uniqueFileName": "689282_1760318577717_CommBankStadium_EventRoadClosureMap_PLR.pdf"
+          }
+        ],
+        "isInitialReport": false,
+        "created": 1774307832000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use public transport",
+        "adviceC": " ",
+        "end": 1774696500000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1774696502448,
+        "otherAdvice": "<p><strong>NRL: Panthers v Eels at CommBank Stadium in Parramatta. NRL kick-off at 5.30pm, full time around 7.15pm. NSW Cup to follow from 8pm.</strong></p><p>With thousands of fan expected, traffic will be heavy on roads approaching Parramatta and nearby car parks are expected to be in high demand.</p><p>Allow extra travel time on roads including Parramatta Road, Church Street, Victoria Road, James Ruse Drive and Pennant Hills Road. </p><p>Motorists should also exercise caution as pedestrian activity will be high on roads between Parramatta Interchange and the stadium. </p><p>Drivers are reminded that light rail services are running through Parramatta CBD. Trams can’t stop quickly or easily – so exercise extra caution when driving in the area. </p><p><strong>Road closures </strong></p><p>Roads around the stadium will close from <strong>7.15pm to 7.45pm</strong> approx. to allow crowds to safely leave the venue. Roads will re-open once crowds have cleared the area. </p><ul><li>O’Connell Street from Grose Street to George Street </li><li>Ross Street from O’Connell Street to Trott Street </li><li>Victoria Road from O’Connell Street to Villiers Street </li></ul><p>While closures are in place motorists are encouraged to avoid driving through Parramatta CBD and detour around the closures via Grose Street, Brickfield Street, Victoria Road and Wilde Avenue in both directions. </p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1774616400000,
+        "displayName": "NRL",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Victoria Road",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "O'Connell Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Parramatta",
             "trafficVolume": ""
           }
         ],
@@ -2331,8 +1728,8 @@
         "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
+        "ended": true,
+        "isNewIncident": false,
         "publicTransport": "",
         "impactingNetwork": false,
         "subCategoryB": null,
@@ -2349,7 +1746,7 @@
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1774585788190,
+        "lastUpdated": 1774697461309,
         "otherAdvice": "<p>Jimmy Banres will be performing at Centennial Vineyards with 12,000 attendees expected. </p><p>Reduced speed and stop-slow traffic management will be in place on Mittagong Rd as motorists arrive and leave the event.</p><p>Centennial Rd will be closed from Centennial Vineyards to the Old Hume Highway.</p><p>Traffic controllers will be on-site to direct motorists.</p>",
         "arrangementElements": [],
         "diversions": "",
@@ -2382,12 +1779,12 @@
     },
     {
       "type": "Feature",
-      "id": 268932,
+      "id": 269364,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.0606896,
-          -33.8446605
+          147.2378879,
+          -35.1135537
         ],
         "collections": []
       },
@@ -2400,52 +1797,118 @@
         "expectedDelay": -1,
         "ended": true,
         "isNewIncident": false,
-        "publicTransport": "<p>Match tickets include travel on public transport. Visit <a href=\"https://transportnsw.info/events/2026/03/fifa-series-socceroos-v-cameroon-china-pr-v-curacao\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "publicTransport": "",
         "impactingNetwork": false,
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1774306969000,
+        "created": 1774585450000,
         "isMajor": false,
         "name": null,
         "subCategoryA": "null",
-        "adviceA": "Use public transport",
-        "adviceB": "Allow extra travel time",
-        "adviceC": " ",
-        "end": 1774611000000,
+        "adviceA": "Reduce your speed",
+        "adviceB": "Check signage",
+        "adviceC": "Exercise caution",
+        "end": 1774699200000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1774611001756,
-        "otherAdvice": "<p><strong>FIFA Series 2026 at Accor Stadium in Sydney Olympic Park. Gates open at 4.45pm, China PR v Curaçao kick-off at 5pm and Socceroos v Cameroon kick-off at 8.10pm. Finish at approx. 10pm.</strong></p><ul><li>Footy fans are urged to plan their trip and consider the public transport options to avoid weeknight peak traffic delays.</li><li>Motorists should allow extra travel time on roads including the M4 Mwy, Homebush Bay Dr, Concord Rd, Lane Cove Rd, Parramatta Rd, Centenary Dr and Silverwater Rd.</li><li>If you have to drive, carpool with your group and <a href=\"https://www.sydneyolympicpark.nsw.gov.au/parking\" target=\"_blank\">pre-book your parking online</a> ahead of time to secure a space – available until 11:59pm the night before the event unless sold out prior. </li><li>Please note that P6 parking will not be available due to Easter Show infrastructure.</li><li>If you have pre-booked your parking, follow the directions of staff and have your parking ticket ready to show at the car park entry.</li></ul><p>Road closures and changes to parklands will be in place within the Sydney Olympic Park Precinct before, during and after the Easter Show for event set up and pack down. </p><p>Check out the Sydney Olympic Park Authority <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a> for more details. For detailed closure and access changes in the precinct see the <a href=\"https://mysop.sydneyolympicpark.nsw.gov.au/sydney-royal-easter-show-2026-community-information\" target=\"_blank\">Olympic Park Community page</a>. </p>",
-        "arrangementElements": [
-          {
-            "html": "<p><strong>Road closures</strong> </p><p>Road closures and changes to parklands will be in place within the Sydney Olympic Park Precinct before, during and after the Easter Show for event set up and pack down. </p><p>Check out the Sydney Olympic Park Authority <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a> for more details. For detailed closure and access changes in the precinct see the <a href=\"https://mysop.sydneyolympicpark.nsw.gov.au/sydney-royal-easter-show-2026-community-information\" target=\"_blank\">Olympic Park Community page</a>. </p><p><strong>Monday 9 March at 1.30am to Tuesday 21 April at 1.30am:  </strong></p><ul><li>Olympic Boulevard 100m north of Dawn Fraser Avenue adjacent to Cathy Freeman Park amenities, to 200m south of Edwin Flack Avenue outside Qudos Bank Arena. </li></ul><p><strong>Thursday 19 March at 1.30am to Tuesday 21 April at 1.30am:  </strong></p><ul><li>Australia Avenue from Murray Rose Avenue to Kevin Coombs Avenue.</li><li>Showground Road from Murray Rose Avenue to Grand Parade.</li><li>Grand Parade from Olympic Boulevard to Australia Avenue. </li></ul><p><strong>Thursday 26 March at 3.00am to Saturday 28 March at 3.00am:</strong></p><ul><li>Dawn Fraser Avenue from Olympic Boulevard to Showground Road </li></ul>",
-            "title": "Road closures",
-            "id": "807249"
-          }
-        ],
+        "lastUpdated": 1774699261517,
+        "otherAdvice": "<p>Wagga Speedway is holding a number of racing events.</p><p>Portable traffic lights will be in place on the Sturt Highway at Cloughs Road to assist with event traffic.</p>",
+        "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
         "weblinkName": null,
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1772110800000,
-        "displayName": "FIFA Series 2026",
+        "start": 1774681200000,
+        "displayName": "SPECIAL EVENT",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Accor Stadium",
+            "crossStreet": "Cloughs Road",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Sturt Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Riverina",
+            "secondLocation": "",
+            "suburb": "Yarragundry",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 265753,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.199136,
+          -33.8758856
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "TikTok Entertainment Centre - What's On",
+            "linkURL": "https://tiktokentcent.com/whats-on/"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info\" target=\"_blank\">transportnsw.info</a> to plan your trip. </p>",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1772407806000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": " ",
+        "adviceC": " ",
+        "end": 1774701000000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1774701001649,
+        "otherAdvice": "<p><strong>March shows at the TikTok Entertainment Centre:</strong></p><ul><li><strong>Jimmy Carr from Friday 13 to Sunday 15 March. Shows start nightly at 7.30pm</strong></li><li><strong>Big Time Rush on Tuesday 17 March. Shows starts 7.30pm</strong></li><li><strong>Old Dominion on Wednesday 18 March. Show starts at 7pm</strong></li><li><strong>Mel Robbins on Wednesday 25 March. Show starts at 7.30pm</strong></li><li><strong>Jeff Chang on Saturday 28 March. Show starts 7.30pm</strong></li></ul><p>Traffic may be heavier than usual as attendees travel to and from the event.</p><p>Motorists should allow extra travel time and be aware of increased pedestrian activity on local roads.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1773320400000,
+        "displayName": "Shows",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "TikTok Entertainment Centre",
             "delay": "",
             "impactedLanes": [],
             "locationQualifier": "approaching",
-            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road, Centenary Drive",
+            "mainStreet": "Darling Drive",
             "quadrant": "",
             "queueLength": 0,
             "region": "Sydney",
             "secondLocation": "",
-            "suburb": "Sydney Olympic Park",
+            "suburb": "Darling Harbour",
             "trafficVolume": ""
           }
         ],
@@ -2476,7 +1939,7 @@
         "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
-        "ended": false,
+        "ended": true,
         "isNewIncident": false,
         "publicTransport": "<p>Route 389 and 501 buses are diverting around road closures. Visit <a href=\"http://www.transportnsw.info\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
         "impactingNetwork": false,
@@ -2503,51 +1966,20 @@
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1774641646597,
+        "lastUpdated": 1774701001954,
         "otherAdvice": "<p>Road closures and special event clearways are in place for the City of Sydney&#39;s Sydney Streets event on Harris St. The event runs from 11am until 10pm. </p><p>Motorists in the area should allow extra travel time, follow the directions of traffic controllers and be aware of increased pedestrian activity.</p><p><strong>Road closures are in place until 11:30pm on:</strong></p><ul><li>Harris St between Pyrmont Bridge Rd and John St</li><li>Miller St between Little Mount St and Harris St</li><li>Sections of other local roads will also be closed including Bulwara Rd, Jones St, Little Mount St, Miller Ln, Saunders St and Union St.</li></ul><p><strong>Special event clearways are in effect until 11:30pm on sections of Harris St and Miller St. </strong></p><p>Clearways are strict no-parking zones for all vehicle types, and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator.</p>",
         "arrangementElements": [
           {
             "html": "<p><strong>ROAD CLOSURES</strong></p><p><strong>PYRMONT</strong></p><p><strong>FROM 7AM TO 11:30PM </strong></p><ul><li>Bulwara Rd* Off Miller St</li><li>Harris St Between John St and Pyrmont Bridge Rd</li><li>Jones St* Off Miller St</li><li>Little Mount St* Between Pyrmont Bridge Rd and Miller St</li><li>Miller Lane* Off Miller St</li><li>Miller St Between Little Mount St and Paternoster Row</li><li>Miller St Between Little Mount St and Harris St</li><li>Miller St* Between Saunders St and Little Mount St</li><li>Mount St* Off Miller St</li><li>Saunders St* Between Quarry Master Dr and Miller St (southbound)</li><li>Union St Between Harris St and Paternoster Row</li></ul><p>*Local Resident Access only</p><p><br></p><p><strong>SPECIAL EVENT CLEARWAYS</strong></p><p>Special event clearways will be in effect on both sides of the roads below unless stated otherwise. Clearways are strict no-parking zones for all vehicle types, and also apply to local residents and TfNSW Mobility Scheme Parking Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, call 132 701 to find its new location.</p><p><strong>FROM 7AM UNTIL 11:30PM</strong></p><ul><li>Harris Street between Pyrmont Bridge Road and John Street</li><li>Miller Street between Little Mount Street and Harris Street</li></ul>",
             "title": "Road closures & Special event clearways",
-            "id": "807303"
+            "id": "807464"
           }
         ],
         "diversions": "",
         "additionalInfo": [],
         "weblinkName": null,
         "attendingGroups": null,
-        "encodedPolylines": [
-          {
-            "levels": "",
-            "direction": "BOTH_DIRECTIONS",
-            "coords": "dwumEkyxy[bAi@~@c@r@YLGrDgBl@YDC`Bw@@?DCVOHC~BmAv@c@"
-          },
-          {
-            "levels": "",
-            "direction": "BOTH_DIRECTIONS",
-            "coords": "fjvmEurxy[ACCGOe@ESIWa@uAc@aBIWUw@G[_@iA??Uy@I]AC?G?E@I@S"
-          },
-          {
-            "levels": "",
-            "direction": "BOTH_DIRECTIONS",
-            "coords": "jfvmE_|xy[cB~@"
-          },
-          {
-            "levels": "",
-            "direction": "BOTH_DIRECTIONS",
-            "coords": "xhvmEmuxy[sDrB"
-          },
-          {
-            "levels": "",
-            "direction": "BOTH_DIRECTIONS",
-            "coords": "lhvmEqxxy[pBaABCBA?A"
-          },
-          {
-            "levels": "",
-            "direction": "ONE_DIRECTION",
-            "coords": "|nvmEedyy[mDbB[NC@{@b@"
-          }
-        ],
+        "encodedPolylines": [],
         "duration": null,
         "start": 1774616400000,
         "displayName": "Sydney Streets event",
@@ -2573,12 +2005,12 @@
     },
     {
       "type": "Feature",
-      "id": 269369,
+      "id": 267637,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.488144,
-          -34.427167
+          151.0625647,
+          -33.8425729
         ],
         "collections": []
       },
@@ -2591,181 +2023,25 @@
         "expectedDelay": -1,
         "ended": true,
         "isNewIncident": false,
-        "publicTransport": "",
+        "publicTransport": "<p>Major trackwork is taking place on the City Circle, T1 North Shore Line and Metro Line. Visit <a href=\"https://transportnsw.info/events/2026/03/wu-tang-clan\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
         "impactingNetwork": false,
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1774586819000,
+        "created": 1774302810000,
         "isMajor": false,
         "name": null,
         "subCategoryA": "null",
-        "adviceA": " ",
-        "adviceB": " ",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use public transport",
         "adviceC": " ",
-        "end": 1774652400000,
+        "end": 1774701900000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1774652403255,
-        "otherAdvice": "<p>Trucks across the Highlands charity event will take place on Saturday. The convoy will head through Mittagong and Bowral before finishing in Moss Vale for a family fun festival. </p><p>During the event alternating (stop/slow) traffic conditions will be in place to allow motorists to pass in one direction at a time at:</p><ul><li>Old Hume Highway and Tyree Place, Mittagong</li><li>Argyle Street and Willow Drive, Moss Vale</li><li>Argyle Street and Yarrawa Street, Moss Vale</li></ul>",
+        "lastUpdated": 1774701901234,
+        "otherAdvice": "<p><strong>Wu-Tang Clan performs at Qudos Bank Arena in Sydney Olympic Park on Saturday 28 March. Show runs from 8pm to 11pm.</strong></p><ul><li>Traffic delays are expected as concertgoers make their way to Olympic Park. </li><li>Motorists should carpool and allow extra travel time on roads including the M4 Mwy, Homebush Bay Dr, Concord Rd, Lane Cove Rd, Parramatta Rd, Centenary Dr and Silverwater Rd.</li><li>If you have to drive, <a href=\"https://www.sydneyolympicpark.com.au/parking/\" target=\"_blank\">pre-book parking online</a> in advance to secure a space, available until 11:59pm the night before the show unless sold out prior. <strong>Please note that the P6 car park will be closed for Easter Show infrastructure.</strong></li><li>If you have pre-booked your parking, follow the directions of staff and have your parking ticket ready to show at the car park entry.</li><li>Use Silverwater Rd, Holker St and Hill Rd to access precinct car parks and avoid heavy traffic expected on Homebush Bay Drive and Underwood Rd. </li></ul><p>Road closures will be in place before, during and after the Easter Show for event set up and pack down. Check out the Sydney Olympic Park Authority <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a> for more details. For detailed closure and access changes in the precinct see the <a href=\"https://mysop.sydneyolympicpark.nsw.gov.au/sydney-royal-easter-show-2026-community-information\" target=\"_blank\">Olympic Park Community page</a>. </p>",
         "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1774638000000,
-        "displayName": "SPECIAL EVENT",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Old Hume Highway and Argyle Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Southern Highlands",
-            "secondLocation": "",
-            "suburb": "Mittagong to Moss Vale",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 224119,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          148.6889074,
-          -33.8343463
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Cowra Council",
-            "linkURL": "https://www.cowracouncil.com.au/Community/Festival-of-International-Understanding"
-          }
-        ],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Closed",
-            "roadtype": "Road",
-            "direction": "Both directions",
-            "finishTime": "3:30pm",
-            "fromDay": "Saturday",
-            "startTime": "2:30pm",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1739752424000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Use an alternative route",
-        "adviceB": "Reduce your speed",
-        "adviceC": "Exercise caution",
-        "end": 1774672200000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1774672261502,
-        "otherAdvice": "<p>A parade will be held requiring a full closure of Kendall St (Mid Western Hwy). Motorists should follow detour signs.</p><p>The following local road closures will also be in place:</p><p>Bartlett Avenue – between Darling &amp; Brisbane Sts</p><p>Brisbane Street – between Bartlett Ave &amp; Railway Ln</p><p>Macquarie Street - between Rowston Ln and Brougham St</p><p>Vaux Street – between Doust Ln &amp; Lachlan Sts</p><p>Lachlan Street – closed at Vaux St</p>",
-        "arrangementElements": [],
-        "diversions": "<p>Detour (all vehicles both directions) College Dr, Liverpool St and Lachlan St. </p>",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1774668600000,
-        "displayName": "Festival of International Understanding",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Lachlan Street",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Mid Western Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Central NSW",
-            "secondLocation": "Brisbane Street",
-            "suburb": "Cowra",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 267638,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.0605432,
-          -33.8464988
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "<p>Major trackwork is taking place on City Circle, T1 North Shore Line and Metro Line. Match tickets include travel on public transport. Visit <a href=\"https://transportnsw.info/events/2026/03/nrl-bulldogs-v-knights\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1774307539000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Use public transport",
-        "adviceB": "Allow extra travel time",
-        "adviceC": " ",
-        "end": 1774680300000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1774680301492,
-        "otherAdvice": "<p><strong>NRL: Bulldogs v Knights at Accor Stadium. Kick-off at 3pm and full time around 4.45pm.</strong></p><p>Traffic will be heavier than usual on roads approaching Sydney Olympic Park as footy fans travel to and from the match.</p><ul><li>Motorists should allow extra travel time on roads including the M4 Mwy, Homebush Bay Dr, Concord Rd, Lane Cove Rd, Parramatta Rd, Centenary Dr and Silverwater Rd.</li><li>If you have to drive, carpool with your group <a href=\"https://www.sydneyolympicpark.nsw.gov.au/parking\" target=\"_blank\">pre-book your parking online</a> ahead of time to secure a space – available until 11:59pm the night before the event unless sold out prior. Please note that P6 parking will not be available due to Easter Show infrastructure in place.</li><li>If you have pre-booked your parking, follow the directions of staff and have your parking ticket ready to show at the car park entry.</li></ul><p>Road closures and changes to parklands will be in place within the Sydney Olympic Park Precinct before, during and after the Easter Show for event set up and pack down. </p><p>Check out the Sydney Olympic Park Authority <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a> for more details. For detailed closure and access changes in the precinct see the <a href=\"https://mysop.sydneyolympicpark.nsw.gov.au/sydney-royal-easter-show-2026-community-information\" target=\"_blank\">Olympic Park Community page</a>. </p>",
-        "arrangementElements": [
-          {
-            "html": "<p>Road closures and changes to parklands will be in place within the Sydney Olympic Park Precinct before, during and after the Easter Show for event set up and pack down. </p><p>Check out the Sydney Olympic Park Authority <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a> for more details. For detailed closure and access changes in the precinct see the <a href=\"https://mysop.sydneyolympicpark.nsw.gov.au/sydney-royal-easter-show-2026-community-information\" target=\"_blank\">Olympic Park Community page</a>. </p><p><strong>Monday 9 March at 1.30am to Tuesday 21 April at 1.30am:  </strong></p><ul><li>Olympic Boulevard 100m north of Dawn Fraser Avenue adjacent to Cathy Freeman Park amenities, to 200m south of Edwin Flack Avenue outside Qudos Bank Arena. </li></ul><p><strong>Thursday 19 March at 1.30am to Tuesday 21 April at 1.30am:  </strong></p><ul><li>Australia Avenue from Murray Rose Avenue to Kevin Coombs Avenue.</li><li>Showground Road from Murray Rose Avenue to Grand Parade.</li><li>Grand Parade from Olympic Boulevard to Australia Avenue. </li></ul><p><strong>Thursday 26 March at 3.00am to Saturday 28 March at 3.00am:</strong></p><ul><li>Dawn Fraser Avenue from Olympic Boulevard to Showground Road </li></ul>",
-            "title": "Road closures",
-            "id": "807414"
-          }
-        ],
         "diversions": "",
         "additionalInfo": [],
         "weblinkName": null,
@@ -2773,15 +2049,404 @@
         "encodedPolylines": [],
         "duration": null,
         "start": 1774616400000,
-        "displayName": "NRL",
+        "displayName": "Concert",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Accor Stadium",
+            "crossStreet": "Qudos Bank Arena",
             "delay": "",
             "impactedLanes": [],
             "locationQualifier": "approaching",
-            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road, Centenary Drive",
+            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Sydney Olympic Park",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 267560.0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2142069,
+          -33.8699753
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Run2Cure",
+            "linkURL": "https://www.run2cure.org.au/"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p>Major trackwork is taking place on Sunday 29 March on the T1 North Shore Line, Sydney Metro line (between Victoria Cross and Macquarie Park) and the City Circle. Use Light rail services or Metro to get within walking distance of the start line. Visit <a href=\"https://transportnsw.info\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1773119692000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": " ",
+        "adviceC": " ",
+        "end": 1774745100000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1774745101624,
+        "otherAdvice": "<p><strong>Run2Cure fun run events will take place in The Domain starting from 6.30am finishing around 1pm. Approximately 3,500 participants are expected. </strong></p><p>Traffic may be heavier than usual on roads approaching The Domain as participants travel to and from the event.</p><p><strong>Road closures: </strong>Art Gallery Rd and Mrs Macquaries Rd will be closed from 5am to 11.30am. No vehicle access or parking will be permitted until roads are reopened.</p><p>Hospital Rd will remain open with limited parking and a drop off zone located immediately south of the pedestrian crossing on the corner of Hospital Rd and Phillip Path. Parking is available in the Domain car park.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1774713600000,
+        "displayName": "Run2Cure Charity fun run",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Hospital Road",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Art Gallery Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Sydney",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 269040.0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0137539,
+          -33.8343235
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Cumberland City Council - Easter Extravaganza",
+            "linkURL": "https://www.cumberland.nsw.gov.au/easter"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p>Some buses will divert while road closures are in place. Visit <a href=\"https://transportnsw.info/trip\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1774386373000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use public transport",
+        "adviceC": " ",
+        "end": 1774746000000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1774746002468,
+        "otherAdvice": "<p>Easter Extravaganza will be held on Friday 27 and Saturday 28 March at The Granville Centre on Memorial Drive. Event runs from 4pm to 9pm each night.</p><p><strong>Road closures will be in place on Memorial Drive and surrounding local streets from 5am Friday 27 March until 12pm Monday 29 March to safely facilitate the event.</strong> </p><ul><li>Memorial Drive closed in both directions between William Street and Mary Street.</li><li>Enid Avenue close and Diamond Avenue closed east of Enid Avenue, including the car park. </li><li>Resident access maintained with traffic control. </li></ul><p>Vehicles will detoured via local surrounding street. Motorists should follow the direction of traffic control on site and be aware of increased pedestrian activity in the area. </p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1774530000000,
+        "displayName": "Special Event",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "The Granville Centre",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Memorial Dr",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Granville",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 269103,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2127221,
+          -33.86418
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p>Buses are diverting while roads are closed. Check service alerts at <a href=\"https://transportnsw.info/trip\" target=\"_blank\">transportnsw.info</a> for real-time information.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [
+          {
+            "displayName": "Greek_Independence_Day_2026_road_closure_map",
+            "fileName": "Greek_Independence_Day_2026_road_closure_map.pdf",
+            "fileType": "PDF",
+            "linkName": "Greek_Independence_Day_2026_road_closure_map",
+            "sizeInBytes": 593598,
+            "uniqueFileName": "103699_1774557865907_Greek_Independence_Day_2026_road_closure_map.pdf"
+          }
+        ],
+        "isInitialReport": false,
+        "created": 1774477060000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Expect delays",
+        "adviceC": " ",
+        "end": 1774753200000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1774753204676,
+        "otherAdvice": "<p><strong>Macquarie St is now closed in both directions from Hyde Park to the Sydney Opera House for the annual Greek Independence Day.</strong></p><p>Up to 4,000 people are marching from Hyde Park South to the Opera House in Circular Quay via Macquarie St.</p><p>Other closures are also in place on sections of Bridge St, Hunter St, Bent St and Park St, Albert St and St James Rd.</p><p>All roads are due to reopen by 2pm. </p><p>Motorists should avoid the area or expect delays, allow plenty of extra travel time and follow directions of NSW Police.</p>",
+        "arrangementElements": [
+          {
+            "html": "<p><strong>Sydney CBD</strong></p><p><strong>From 11:45am to 2pm</strong></p><p><em> Road closures affect in both directions unless stated otherwise</em></p><ul><li>Albert Street between Philip Street and Macquarie Street eastbound</li><li>Bent Street between Phillip Street and Macquarie Street eastbound</li><li>Bridge Street between Phillip Street and Macquarie Street</li><li>Cahill Expressway City East exit to Macquarie Street southbound</li><li>Conservatorium Road at Macquarie Street westbound</li><li>Hunter Street between Elizabeth Street<em> </em>and Macquarie Street eastbound</li><li>Hunter Street between Macquarie Street and Phillip Street<em> (south) </em>westbound</li><li>Macquarie Street between St James Street and the Sydney Opera House</li><li>Park Street <em>1 </em>between Elizabeth Street and College Street</li><li>Phillip Lane at Macquire Street</li><li>Prince Albert Street between College Street and Macquarie Street westbound</li><li>St James Street between Elziabeth Street and Macquarie Street</li><li>Sydney Opera House Car Park Exit at Macquarie Street</li><li>Government House Access Road at Macquarie Street</li></ul><p><strong>Cycleway Closures</strong></p><p>Cycleway closures affect both directions unless stated otherwise. Cycleway will be reopened at the direction for NSW Police.</p><p><strong>SYDNEY CBD</strong></p><p><strong>From 12pm to 1pm</strong></p><ul><li>King Streetbetween Phillip Street and Macquarie Street</li><li> Macquarie Street between St James Road and Queen Square</li><li> Prince Albert Street between College Street and St James Street</li></ul><p> </p>",
+            "title": "Road Closures",
+            "id": "807556"
+          }
+        ],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1774745100000,
+        "displayName": "Greek Independence Day March",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Circular Quay",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "to",
+            "mainStreet": "Hyde Park",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Sydney",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 264603,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1315241,
+          -33.7263935
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Bobbo 2026",
+            "linkURL": "https://www.bobbinheadcycleclassic.org.au/"
+          },
+          {
+            "linkText": "TfNSW interactive cycle route map",
+            "linkURL": "https://experience.arcgis.com/experience/bc1dff941c7642cfa00db6ec502299e7"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p>Major trackwork is taking place on Sunday 29 March on the T1 North Shore Line, Sydney Metro line (between Victoria Cross and Macquarie Park) and the City Circle. Bikes are not permitted to be taken on-board buses including rail replacement buses. Trains continue to run to Hornsby on the T9 Northern Line. Visit <a href=\"https://transportnsw.info/bobbin-head-cycle-classic\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [
+          {
+            "displayName": "BobboRoadClosureClearwayMap2026",
+            "fileName": "BobboRoadClosureClearwayMap2026.pdf",
+            "fileType": "PDF",
+            "linkName": "BobboRoadClosureClearwayMap2026",
+            "sizeInBytes": 1787915,
+            "uniqueFileName": "607654_1773112115946_BobboRoadClosureClearwayMap2026.pdf"
+          }
+        ],
+        "isInitialReport": false,
+        "created": 1773112176000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Check signage",
+        "adviceC": "Exercise caution",
+        "end": 1774756800000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1774754046666,
+        "otherAdvice": "<p>Up to 3,000 participants are expected to take part in the annual Bobbin Head Cycle Classic. Events start and finish at Karuah Oval in Turramurra, from 6.30am. All events will finish by 1.30pm. Changed traffic conditions will be in effect along the course for the safety of participants.</p><ul><li><strong>Road and lane closures will be in place along the course at various locations and times between 5am and 3pm, including on sections of Karuah Rd, Turramurra Ave, Bobbin Head Rd, Warrimoo Ave, Woodbury Rd, Liberator General San Martin Dr, Old Pacific Hwy, Mona Vale Rd and Burns Rd through Turramurra, Ku-Ring-Gai Chase National Park, Mt Colah, St Ives and Terrey Hills. </strong></li><li>Speed limit reductions will be in effect at key locations along the course at various times between 6am and 2pm.</li></ul><p><strong>A special event clearway will also be in place on the eastern side of Mona Vale Rd in St Ives from 7am until 1.30pm</strong>, between 425 Mona Vale Rd and Kitchener St.</p><p>Clearways are strict no-parking zones for all vehicle types, and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator.</p>",
+        "arrangementElements": [
+          {
+            "html": "<p><strong>ROAD CLOSURES</strong></p><p><strong>TURRAMURRA - FROM 5AM TO 3PM</strong></p><ul><li>Karuah Road between Eastern Road and Turramurra Avenue</li><li>Turramurra Avenue between Brentwood Avenue and Karuah Road (northbound)</li></ul><p><strong>KU-RING-GAI CHASE NATIONAL PARK </strong></p><p><strong>FROM 6.15AM TO 9.15AM</strong></p><ul><li>Bobbin Head Road between the park gates at North Turramurra and Mt Colah (northbound)</li></ul><p><strong>FROM 7.30AM TO 12.30PM</strong></p><ul><li>Liberator General San Martin Drive between Cottage Point Road and West Head Road (northbound)</li></ul><p><strong>ST IVES</strong></p><p><strong>FROM 6.45AM TO 1.30PM</strong></p><ul><li>Warrimoo Avenue between Killeaton Street and Mungarra Avenue (northbound)</li></ul><p><strong>FROM 8.30AM TO 1.30PM</strong></p><ul><li>Woodbury Road between Mona Vale Road and Hume Avenue (eastbound)</li></ul><p><strong>LANE CLOSURES</strong></p><p><strong>MOUNT COLAH - FROM 6.15AM TO 8.45AM</strong></p><ul><li>Lane 1 Old Pacific Highway approaching the intersection of Belmont Parade (both directions)</li></ul><p><strong>TURRAMURRA </strong></p><p><strong>FROM 6.45AM TO 1.30PM</strong></p><ul><li>Right turn lane Burns Road at the intersection of Ellalong Road (northbound)</li></ul><p><strong>FROM 8AM TO 1.45PM</strong></p><ul><li>Right turn lane Bobbin Head Road at the intersection of Burns Road (northbound)</li></ul><p><strong>TERREY HILLS </strong></p><p><strong>FROM 8AM TO 1.30PM</strong></p><ul><li>Lane 1 Mona Vale Road approaching intersection of Myoora Road/Forest Way (westbound)</li></ul><p><strong>FROM 8:15AM TO 1:00PM </strong></p><ul><li>Booralie Road, between McCarrs Creek Road and Mona Vale Rd access road, (westbound)</li></ul><p><br></p><p><strong>ST IVES</strong></p><p><strong>FROM 6.30AM to 2.30PM</strong></p><ul><li>Lane 1 Mona Vale Road approaching the intersection of Richmond Avenue (westbound)</li></ul><p><strong>FROM 8AM TO 1.30PM</strong></p><ul><li>Right turn lane Mona Vale Road approaching the intersection of Woodbury Road (northbound)</li></ul><p><br></p><p><strong>SPECIAL EVENT CLEARWAYS</strong></p><p>Special event Clearways are strict no-parking zones for all vehicle types, and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://tfnswtowlink.force.com/findmycar/s/\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator.</p><p><strong>ST IVES - FROM 7AM TO 1.30PM</strong></p><ul><li>Mona Vale Road between 425 Mona Vale Road and Kitchener Street (southbound)</li></ul>",
+            "title": "Road and lane closures",
+            "id": "807561"
+          },
+          {
+            "html": "<p>Reduced speed limits will be in effect on the following roads to ensure the safety of cyclists sharing roads with motorists:</p><p><strong>ST IVES TO TERREY HILLS</strong></p><p><strong>FROM 6AM TO 11.30AM</strong></p><ul><li>60km/h speed limit reduction on Mona Vale Road between Wildflower Gardens at St Ives to Myoora Road at Terrey Hills (eastbound)</li></ul><p><strong>FROM 6AM TO 2PM</strong></p><ul><li>60km/h speed limit reduction on Mona Vale Road from McCarrs Creek Road at Terrey Hills to opposite the Wildflower Garden at St Ives (westbound)</li></ul><p><strong>KU-RING-GAI CHASE - FROM 6AM TO 1PM</strong></p><ul><li>60km/h speed limit reduction on West Head Road between Liberator General San Martin Drive and West Head Picnic Area (both directions)</li></ul><p><strong>MT COLAH - FROM 6AM TO 10AM</strong></p><ul><li>60km/h speed limit reduction on Bobbin Head Road between Park Gates and Kalkari Visitor Centre (eastbound)</li></ul><p><strong>MT COLAH - FROM 5:30AM TO 9:30AM</strong></p><ul><li>40km/h speed limit reduction on Old Pacific Highway between Pacific Highway and Belmont Parade (both directions)</li></ul><p><strong>TERREY HILLS - FROM 6AM TO 11.30AM </strong></p><ul><li>40km/h speed limit reduction on McCarr&#39;s Creek Road between West Head Road and Liberator General San Martin Drive (westbound)</li></ul>",
+            "title": "Speed limit reductions",
+            "id": "807562"
+          }
+        ],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1774702800000,
+        "displayName": "Bobbin Head Classic Cycle",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Ku-Ring-Gai National Park and return",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Karuah Oval",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Turramurra, St Ives, Ku-Ring-Gai, Terrey Hills, Mt Colah",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 268133,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.064039,
+          -33.8444664
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/NBL-Championship-Game-3\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1773614214000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use public transport",
+        "adviceC": " ",
+        "end": 1774764900000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1774764901392,
+        "otherAdvice": "<p><strong>NBL Championship Series Game 3: Sydney Kings v Adelaide 36ers at Qudos Bank Arena on Sunday 29 March from 2.15pm. </strong>Game 5 will be played if required.</p><ul><li>Traffic delays are expected on roads approaching Olympic Park as basketball fans make their way to and from the match.<strong> </strong></li><li>Motorists should carpool, plan to arrive early and allow extra travel time on roads including the M4 Mwy, Homebush Bay Dr, Concord Rd, Lane Cove Rd, Parramatta Rd, Centenary Dr and Silverwater Rd.</li><li>If you need to drive, <a href=\"https://www.sydneyolympicpark.com.au/parking/\" target=\"_blank\">pre-book parking online</a> in advance to secure a space. Follow the directions of staff and have your parking ticket ready to show at the car park entry. Note that P6 car park will be closed due to Easter Show infrastructure.</li><li>Use Silverwater Rd, Holker St and Hill Rd to access precinct car parks and avoid heavy traffic expected on Homebush Bay Drive and Underwood Rd. </li></ul><p>Sydney Olympic Park Authority will close local roads in the precinct to ensure pedestrian safety during the event and to accommodate additional transport services. For road closure details, view the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a>.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1774702800000,
+        "displayName": "NBL Championship",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Qudos Bank Arena",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "approaching",
+            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road",
             "quadrant": "",
             "queueLength": 0,
             "region": "Sydney",
