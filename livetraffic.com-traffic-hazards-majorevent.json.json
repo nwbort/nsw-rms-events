@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1775807760000,
+  "lastPublished": 1775892360000,
   "layerName": "MajorEvent",
   "rights": {
     "copyright": "Transport for NSW",
@@ -482,73 +482,6 @@
     },
     {
       "type": "Feature",
-      "id": 268971,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.9017008,
-          -34.4285234
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2026/04/nrl-dragons-v-sea-eagles\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1774835653000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Use public transport",
-        "adviceB": "Allow extra travel time",
-        "adviceC": " ",
-        "end": 1775817000000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1774835654423,
-        "otherAdvice": "<p><strong>NRL: Dragons v Sea Eagles at WIN Stadium. Kick-off at 6pm, full time around 8pm.</strong></p><p>Traffic will be heavier than usual on roads approaching the Wollongong CBD and on local roads as fans travel to and from the match.</p><p>Local roads around the stadium may close before, during and after the show for the safety of pedestrians.</p><p>Fans driving to the game on the freeway are encouraged to use the Masters Rd exit to avoid congestion at Mount Ousley Rd, both in and out of Wollongong.</p><p>Motorists should allow extra time for parking and be aware of increased pedestrian activity on local roads.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1775743200000,
-        "displayName": "NRL",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "WIN Stadium",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Harbour Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "South Coast",
-            "secondLocation": "",
-            "suburb": "Wollongong",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 269065,
       "geometry": {
         "type": "Point",
@@ -775,140 +708,6 @@
             "region": "Sydney",
             "secondLocation": "",
             "suburb": "Parramatta",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 268957,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.044074,
-          -33.918333
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1775100233000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Follow directions on site",
-        "adviceC": " ",
-        "end": 1775826000000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1775100234651,
-        "otherAdvice": "<p>St Euphemia Bankstown Good Friday Easter Procession is taking place and road closures will be in place from 8:30pm to 11pm on sections of South Terrace, North Terrace, East Terrace, West Terrace and Raymond St.</p><p>Motorists are advised to take extra care travelling in the area and expect some delays.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1775817000000,
-        "displayName": "Easter Procession",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Stanley Street",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "South Terrace",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Bankstown",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 269097,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.19019,
-          -33.924776
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "<p>Route 306, 307 &amp; 350 will be diverting during the closure period. Visit <a href=\"https://transportnsw.info/alerts#/bus\" target=\"_blank\">transportnsw.info</a> for service disruption information.</p>",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1775100305000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Use an alternative route",
-        "adviceC": " ",
-        "end": 1775822400000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1775100305763,
-        "otherAdvice": "<p>Road closures will be in place for St Catherine&#39;s Greek Orthodox Easter celebrations in Mascot.</p><p><strong>Coward St will be closed in both directions between O Riordan St and Botany Rd from 7:45pm to 10pm.</strong></p><p>Allow extra travel time in the area and follow the instructions of traffic controllers.</p><p><br></p><p><br></p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1775743200000,
-        "displayName": "Greek Orthodox Easter",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "O'Riordan Street",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Coward Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "Botany Road",
-            "suburb": "Mascot",
             "trafficVolume": ""
           }
         ],
@@ -2411,219 +2210,6 @@
     },
     {
       "type": "Feature",
-      "id": 268968,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.3393589,
-          -33.4272887
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2026/04/league-men-central-coast-mariners-v-brisbane-roar\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1774835610000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Exercise caution",
-        "adviceC": " ",
-        "end": 1775822400000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1775629092086,
-        "otherAdvice": "<p>.<strong>A-League Men: Central Coast Mariners v Brisbane Roar at polytec Stadium in Gosford</strong>. Kick off at 7.35pm, full time approximately 9.25pm</p><p>Traffic will be heavier than usual on roads approaching the stadium as fans travel to and from the match. Allow extra travel time and use local parking. </p><p>Dane Drive will be closed from 6pm between the Central Coast Highway and Donnison Street and will reopen once crowds have cleared the area</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1775743200000,
-        "displayName": "A-League Men",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Central Coast Highway",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Dane Drive",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Central Coast",
-            "secondLocation": "Donnison Street",
-            "suburb": "Gosford",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 268970.0,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.0644572,
-          -33.8450111
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2026/04/day-to-remember-papa-roach\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1775287406000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Use public transport",
-        "adviceC": " ",
-        "end": 1775827800000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1775709615181,
-        "otherAdvice": "<p><strong>A Day to Remember &amp; Papa Roach performs at Qudos Bank Arena. Show runs from 8pm to 10.30pm.</strong></p><ul><li>Traffic delays are expected as concertgoers make their way to Olympic Park during weeknight peak.</li><li>Motorists should carpool and allow extra travel time on roads including the M4 Mwy, Homebush Bay Dr, Concord Rd, Lane Cove Rd, Parramatta Rd, Centenary Dr and Silverwater Rd.</li><li>** <strong>PARKING UDPATE </strong>** Pre-booked parking is <strong>SOLD OUT for Fri 10 April </strong>- don&#39;t drive if you haven&#39;t pre-booked, catch transport instead.</li><li>If you have pre-booked your parking, follow the directions of staff and have your parking ticket ready to show at the car park entry.</li></ul><p>Road closures are in place in Sydney Olympic Park for the Easter Show. Check out the Sydney Olympic Park Authority <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a> for more details. For detailed closure and access changes in the precinct see the <a href=\"https://mysop.sydneyolympicpark.nsw.gov.au/sydney-royal-easter-show-2026-community-information\" target=\"_blank\">Olympic Park Community page</a>. </p>",
-        "arrangementElements": [
-          {
-            "html": "<p>Road closures and changes to parklands will be in place within the Sydney Olympic Park Precinct before, during and after the Easter Show for event set up and pack down. </p><p>Check out the Sydney Olympic Park Authority <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a> for more details. For detailed closure and access changes in the precinct see the <a href=\"https://mysop.sydneyolympicpark.nsw.gov.au/sydney-royal-easter-show-2026-community-information\" target=\"_blank\">Olympic Park Community page</a>. </p><p><strong>Monday 9 March at 1.30am to Tuesday 21 April at 1.30am:  </strong> </p><ul><li>Olympic Boulevard 100m north of Dawn Fraser Avenue adjacent to Cathy Freeman Park amenities, to 200m south of Edwin Flack Avenue outside Qudos Bank Arena.  </li></ul><p><strong>Thursday 19 March at 1.30am to Tuesday 21 April at 1.30am:  </strong> </p><ul><li>Australia Avenue from Murray Rose Avenue to Kevin Coombs Avenue. </li><li>Showground Road from Murray Rose Avenue to Grand Parade. </li><li>Grand Parade from Olympic Boulevard to Australia Avenue.  </li></ul><p><strong>Thursday 2 April at 1.30am to Tuesday 14 April at 4am:  </strong> </p><ul><li>Kevin Coombs Avenue from Australia Avenue to Pondage Link.  </li><li>Marjorie Jackson Parkway from Wentworth Common Carpark to Australia Avenue.  </li><li>No right turn available onto Holker Busway from Marjorie Jackson Parkway.  </li><li>No left turn available from Holker Busway onto Marjorie Jackson Parkway.  </li><li>Olympic Boulevard from Kevin Coombs Avenue to Sarah Durack Avenue.  </li><li>Showground Road from Murray Rose Avenue to Dawn Fraser Avenue.  </li><li>Murray Rose Avenue from Showground Road to Gate 15 and Park Street.  </li><li>Dawn Fraser Avenue from Edwin Flack Avenue to Showground Road (accessible drop-off/pick-up and Show drop-off/pick-up – Edwin Flack Avenue to Fig Grove).  </li><li>Dawn Fraser Avenue from Showground Road to Park Street.  </li><li>Dawn Fraser Avenue from Park Street to Australia Avenue (eastbound only).  </li><li>Park Street from Dawn Fraser Avenue to Herb Elliott Avenue (northbound only).  </li><li>Murray Rose Avenue from Park Street to the west side of the entrance or carpark P6D.  </li><li>Australia Avenue from Dawn Fraser Avenue to Murray Rose Avenue.  </li><li>Shirley Strickland Avenue from Rod Laver Drive to Olympic Boulevard.  </li><li>Shirley Strickland Avenue from Olympic Boulevard to the M4 Exit (P4 car park).  </li><li>Rod Laver Drive from Shirley Strickland Avenue to the Tennis Centre.  </li><li>Shane Gould Avenue at P2A Car Park. (eastern direction). </li></ul><p><br></p>",
-            "title": "Road Closures",
-            "id": "813333"
-          }
-        ],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1775743200000,
-        "displayName": "Concert",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Qudos Bank Arena",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Sydney Olympic Park",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 268964,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.06119,
-          -33.8476734
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "<p>Match tickets include travel on transport. Visit <a href=\"https://transportnsw.info/events/2026/04/nrl-bulldogs-v-panthers\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1775287244000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Use public transport",
-        "adviceB": "Allow extra travel time",
-        "adviceC": " ",
-        "end": 1775737800000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1775737863205,
-        "otherAdvice": "<p><strong>NRL: Bulldogs v Panthers at Accor Stadium. Kick-off at 7.50pm and full time around 9.35pm.</strong></p><p>Traffic will be heavier than usual on roads approaching Sydney Olympic Park as footy fans travel to and from the match along with thousands of Easter Show crowds.</p><ul><li>Motorists should allow extra travel time on roads including the M4 Mwy, Homebush Bay Dr, Concord Rd, Lane Cove Rd, Parramatta Rd, Centenary Dr and Silverwater Rd.</li><li><strong>** PARKING UPDATE ** </strong>all available parking spaces are <strong>SOLD OUT for Thu 9 Apr -</strong> if you haven&#39;t pre-booked do not drive, you&#39;ll need to catch transport.</li><li>If you have pre-booked your parking, follow the directions of staff and have your parking ticket ready to show at the car park entry.</li></ul><p>Road closures are in place in Sydney Olympic Park for the Easter Show. Check out the Sydney Olympic Park Authority <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a> for more details. For detailed closure and access changes in the precinct see the <a href=\"https://mysop.sydneyolympicpark.nsw.gov.au/sydney-royal-easter-show-2026-community-information\" target=\"_blank\">Olympic Park Community page</a>. </p>",
-        "arrangementElements": [
-          {
-            "html": "<p>Road closures and changes to parklands will be in place within the Sydney Olympic Park Precinct before, during and after the Easter Show for event set up and pack down. </p><p>Check out the Sydney Olympic Park Authority <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a> for more details. For detailed closure and access changes in the precinct see the <a href=\"https://mysop.sydneyolympicpark.nsw.gov.au/sydney-royal-easter-show-2026-community-information\" target=\"_blank\">Olympic Park Community page</a>. </p><p><strong>Monday 9 March at 1.30am to Tuesday 21 April at 1.30am:  </strong></p><ul><li>Olympic Boulevard 100m north of Dawn Fraser Avenue adjacent to Cathy Freeman Park amenities, to 200m south of Edwin Flack Avenue outside Qudos Bank Arena. </li></ul><p><strong>Thursday 19 March at 1.30am to Tuesday 21 April at 1.30am:  </strong></p><ul><li>Australia Avenue from Murray Rose Avenue to Kevin Coombs Avenue.</li><li>Showground Road from Murray Rose Avenue to Grand Parade.</li><li>Grand Parade from Olympic Boulevard to Australia Avenue. </li></ul><p><strong>Thursday 2 April at 1.30am to Tuesday 14 April at 4am:  </strong> </p><ul><li>Kevin Coombs Avenue from Australia Avenue to Pondage Link.  </li><li>Marjorie Jackson Parkway from Wentworth Common Carpark to Australia Avenue.  </li><li>No right turn available onto Holker Busway from Marjorie Jackson Parkway.  </li><li>No left turn available from Holker Busway onto Marjorie Jackson Parkway.  </li><li>Olympic Boulevard from Kevin Coombs Avenue to Sarah Durack Avenue.  </li><li>Showground Road from Murray Rose Avenue to Dawn Fraser Avenue.  </li><li>Murray Rose Avenue from Showground Road to Gate 15 and Park Street.  </li><li>Dawn Fraser Avenue from Edwin Flack Avenue to Showground Road (accessible drop-off/pick-up and Show drop-off/pick-up – Edwin Flack Avenue to Fig Grove).  </li><li>Dawn Fraser Avenue from Showground Road to Park Street.  </li><li>Dawn Fraser Avenue from Park Street to Australia Avenue (eastbound only).  </li><li>Park Street from Dawn Fraser Avenue to Herb Elliott Avenue (northbound only).  </li><li>Murray Rose Avenue from Park Street to the west side of the entrance or carpark P6D.  </li><li>Australia Avenue from Dawn Fraser Avenue to Murray Rose Avenue.  </li><li>Shirley Strickland Avenue from Rod Laver Drive to Olympic Boulevard.  </li><li>Shirley Strickland Avenue from Olympic Boulevard to the M4 Exit (P4 car park).  </li><li>Rod Laver Drive from Shirley Strickland Avenue to the Tennis Centre.  </li><li>Shane Gould Avenue at P2A Car Park. (eastern direction). </li><li> </li></ul>",
-            "title": "Road closures",
-            "id": "813574"
-          }
-        ],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1775656800000,
-        "displayName": "NRL",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Accor Stadium",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road, Centenary Drive",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Sydney Olympic Park",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 269059,
       "geometry": {
         "type": "Point",
@@ -2773,22 +2359,95 @@
     },
     {
       "type": "Feature",
-      "id": 269333,
+      "id": 270621,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.053478,
-          -33.875515
+          151.2714805,
+          -33.8765691
         ],
         "collections": []
       },
       "properties": {
-        "webLinks": [
+        "webLinks": [],
+        "headline": "",
+        "periods": [
           {
-            "linkText": "Metropolitan Memorial Parks",
-            "linkURL": "https://www.metropolitanmemorialparks.com.au/explore/events/greek-orthodox-easter-rookwood"
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Closed",
+            "roadtype": "Road",
+            "direction": "Both directions",
+            "finishTime": "11:30am",
+            "fromDay": "Friday",
+            "startTime": "8:30pm",
+            "toDay": ""
           }
         ],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1775815479000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Follow directions on site",
+        "adviceC": "Use an alternative route",
+        "end": 1775815440000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1775815487952,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1775815380000,
+        "displayName": "SPECIAL EVENT",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Faraday Avenue",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Old South Head Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "Newcastle Street",
+            "suburb": "Rose Bay",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 268971,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.9017008,
+          -34.4285234
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
         "headline": "",
         "periods": [],
         "speedLimit": -1,
@@ -2796,24 +2455,24 @@
         "expectedDelay": -1,
         "ended": true,
         "isNewIncident": false,
-        "publicTransport": "<p>Some buses will divert while road closures are in place. Visit <a href=\"\" target=\"_blank\">transportnsw.info </a>to plan your trip.</p>",
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2026/04/nrl-dragons-v-sea-eagles\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
         "impactingNetwork": false,
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1774569470000,
+        "created": 1774835653000,
         "isMajor": false,
         "name": null,
         "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Use public transport",
+        "adviceA": "Use public transport",
+        "adviceB": "Allow extra travel time",
         "adviceC": " ",
-        "end": 1775797200000,
+        "end": 1775817000000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1775797262175,
-        "otherAdvice": "<p>The Greek Orthodox Easter Procession at Rookwood Cemetery will be held on Friday 10 April at 12pm-3pm.</p><p><strong>Road closures will be in place on Weekes Avenue from its intersection with Haslem Drive up to Farrar Avenue between 12pm and 3pm to safely facilitate the event.</strong></p><p>Vehicles will be detoured via local surrounding streets. Motorists should follow the direction of traffic control on site and be aware of increased pedestrian activity in the area.</p>",
+        "lastUpdated": 1775817061460,
+        "otherAdvice": "<p><strong>NRL: Dragons v Sea Eagles at WIN Stadium. Kick-off at 6pm, full time around 8pm.</strong></p><p>Traffic will be heavier than usual on roads approaching the Wollongong CBD and on local roads as fans travel to and from the match.</p><p>Local roads around the stadium may close before, during and after the show for the safety of pedestrians.</p><p>Fans driving to the game on the freeway are encouraged to use the Masters Rd exit to avoid congestion at Mount Ousley Rd, both in and out of Wollongong.</p><p>Motorists should allow extra time for parking and be aware of increased pedestrian activity on local roads.</p>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
@@ -2822,20 +2481,450 @@
         "encodedPolylines": [],
         "duration": null,
         "start": 1775743200000,
-        "displayName": "Special Event",
+        "displayName": "NRL",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Haslem Drive",
+            "crossStreet": "WIN Stadium",
             "delay": "",
             "impactedLanes": [],
             "locationQualifier": "at",
-            "mainStreet": "Weekes Avenue",
+            "mainStreet": "Harbour Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "South Coast",
+            "secondLocation": "",
+            "suburb": "Wollongong",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 270623,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.203893,
+          -33.8893723
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Closed",
+            "roadtype": "Road",
+            "direction": "Both directions",
+            "finishTime": "10:00pm",
+            "fromDay": "Friday",
+            "startTime": "9:00pm",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1775816793000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Use an alternative route",
+        "adviceB": "Plan your journey",
+        "adviceC": " ",
+        "end": 1775822400000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1775822017880,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1775818800000,
+        "displayName": "SPECIAL EVENT",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Regent Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Cleveland Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "Chalmers Street",
+            "suburb": "Redfern",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 270620.0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.219563,
+          -33.925101
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Closed",
+            "roadtype": "Road",
+            "direction": "Both directions",
+            "finishTime": "11:30pm",
+            "fromDay": "Friday",
+            "startTime": "8:00pm",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1775815343000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Follow directions on site",
+        "adviceC": "Use an alternative route",
+        "end": 1775827800000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1775822084080,
+        "otherAdvice": "",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1775815200000,
+        "displayName": "SPECIAL EVENT",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Cottenham Avenue",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Gardeners Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "Houston Road",
+            "suburb": "Kingsford",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 268968,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.3393589,
+          -33.4272887
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2026/04/league-men-central-coast-mariners-v-brisbane-roar\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1774835610000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Exercise caution",
+        "adviceC": " ",
+        "end": 1775822400000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1775822408169,
+        "otherAdvice": "<p>.<strong>A-League Men: Central Coast Mariners v Brisbane Roar at polytec Stadium in Gosford</strong>. Kick off at 7.35pm, full time approximately 9.25pm</p><p>Traffic will be heavier than usual on roads approaching the stadium as fans travel to and from the match. Allow extra travel time and use local parking. </p><p>Dane Drive will be closed from 6pm between the Central Coast Highway and Donnison Street and will reopen once crowds have cleared the area</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1775743200000,
+        "displayName": "A-League Men",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Central Coast Highway",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Dane Drive",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Central Coast",
+            "secondLocation": "Donnison Street",
+            "suburb": "Gosford",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 269097,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.19019,
+          -33.924776
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p>Route 306, 307 &amp; 350 will be diverting during the closure period. Visit <a href=\"https://transportnsw.info/alerts#/bus\" target=\"_blank\">transportnsw.info</a> for service disruption information.</p>",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1775100305000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use an alternative route",
+        "adviceC": " ",
+        "end": 1775822400000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1775822414605,
+        "otherAdvice": "<p>Road closures will be in place for St Catherine&#39;s Greek Orthodox Easter celebrations in Mascot.</p><p><strong>Coward St will be closed in both directions between O Riordan St and Botany Rd from 7:45pm to 10pm.</strong></p><p>Allow extra travel time in the area and follow the instructions of traffic controllers.</p><p><br></p><p><br></p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1775743200000,
+        "displayName": "Greek Orthodox Easter",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "O'Riordan Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Coward Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "Botany Road",
+            "suburb": "Mascot",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 268957,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.044074,
+          -33.918333
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1775100233000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Follow directions on site",
+        "adviceC": " ",
+        "end": 1775826000000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1775826004300,
+        "otherAdvice": "<p>St Euphemia Bankstown Good Friday Easter Procession is taking place and road closures will be in place from 8:30pm to 11pm on sections of South Terrace, North Terrace, East Terrace, West Terrace and Raymond St.</p><p>Motorists are advised to take extra care travelling in the area and expect some delays.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1775817000000,
+        "displayName": "Easter Procession",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Stanley Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "South Terrace",
             "quadrant": "",
             "queueLength": 0,
             "region": "Sydney",
             "secondLocation": "",
-            "suburb": "Rookwood",
+            "suburb": "Bankstown",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 268970.0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0644572,
+          -33.8450111
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2026/04/day-to-remember-papa-roach\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1775287406000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use public transport",
+        "adviceC": " ",
+        "end": 1775827800000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1775827803179,
+        "otherAdvice": "<p><strong>A Day to Remember &amp; Papa Roach performs at Qudos Bank Arena. Show runs from 8pm to 10.30pm.</strong></p><ul><li>Traffic delays are expected as concertgoers make their way to Olympic Park during weeknight peak.</li><li>Motorists should carpool and allow extra travel time on roads including the M4 Mwy, Homebush Bay Dr, Concord Rd, Lane Cove Rd, Parramatta Rd, Centenary Dr and Silverwater Rd.</li><li>** <strong>PARKING UDPATE </strong>** Pre-booked parking is <strong>SOLD OUT for Fri 10 April </strong>- don&#39;t drive if you haven&#39;t pre-booked, catch transport instead.</li><li>If you have pre-booked your parking, follow the directions of staff and have your parking ticket ready to show at the car park entry.</li></ul><p>Road closures are in place in Sydney Olympic Park for the Easter Show. Check out the Sydney Olympic Park Authority <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a> for more details. For detailed closure and access changes in the precinct see the <a href=\"https://mysop.sydneyolympicpark.nsw.gov.au/sydney-royal-easter-show-2026-community-information\" target=\"_blank\">Olympic Park Community page</a>. </p>",
+        "arrangementElements": [
+          {
+            "html": "<p>Road closures and changes to parklands will be in place within the Sydney Olympic Park Precinct before, during and after the Easter Show for event set up and pack down. </p><p>Check out the Sydney Olympic Park Authority <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a> for more details. For detailed closure and access changes in the precinct see the <a href=\"https://mysop.sydneyolympicpark.nsw.gov.au/sydney-royal-easter-show-2026-community-information\" target=\"_blank\">Olympic Park Community page</a>. </p><p><strong>Monday 9 March at 1.30am to Tuesday 21 April at 1.30am:  </strong> </p><ul><li>Olympic Boulevard 100m north of Dawn Fraser Avenue adjacent to Cathy Freeman Park amenities, to 200m south of Edwin Flack Avenue outside Qudos Bank Arena.  </li></ul><p><strong>Thursday 19 March at 1.30am to Tuesday 21 April at 1.30am:  </strong> </p><ul><li>Australia Avenue from Murray Rose Avenue to Kevin Coombs Avenue. </li><li>Showground Road from Murray Rose Avenue to Grand Parade. </li><li>Grand Parade from Olympic Boulevard to Australia Avenue.  </li></ul><p><strong>Thursday 2 April at 1.30am to Tuesday 14 April at 4am:  </strong> </p><ul><li>Kevin Coombs Avenue from Australia Avenue to Pondage Link.  </li><li>Marjorie Jackson Parkway from Wentworth Common Carpark to Australia Avenue.  </li><li>No right turn available onto Holker Busway from Marjorie Jackson Parkway.  </li><li>No left turn available from Holker Busway onto Marjorie Jackson Parkway.  </li><li>Olympic Boulevard from Kevin Coombs Avenue to Sarah Durack Avenue.  </li><li>Showground Road from Murray Rose Avenue to Dawn Fraser Avenue.  </li><li>Murray Rose Avenue from Showground Road to Gate 15 and Park Street.  </li><li>Dawn Fraser Avenue from Edwin Flack Avenue to Showground Road (accessible drop-off/pick-up and Show drop-off/pick-up – Edwin Flack Avenue to Fig Grove).  </li><li>Dawn Fraser Avenue from Showground Road to Park Street.  </li><li>Dawn Fraser Avenue from Park Street to Australia Avenue (eastbound only).  </li><li>Park Street from Dawn Fraser Avenue to Herb Elliott Avenue (northbound only).  </li><li>Murray Rose Avenue from Park Street to the west side of the entrance or carpark P6D.  </li><li>Australia Avenue from Dawn Fraser Avenue to Murray Rose Avenue.  </li><li>Shirley Strickland Avenue from Rod Laver Drive to Olympic Boulevard.  </li><li>Shirley Strickland Avenue from Olympic Boulevard to the M4 Exit (P4 car park).  </li><li>Rod Laver Drive from Shirley Strickland Avenue to the Tennis Centre.  </li><li>Shane Gould Avenue at P2A Car Park. (eastern direction). </li></ul><p><br></p>",
+            "title": "Road Closures",
+            "id": "814172"
+          }
+        ],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1775743200000,
+        "displayName": "Concert",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Qudos Bank Arena",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "approaching",
+            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Sydney Olympic Park",
             "trafficVolume": ""
           }
         ],
