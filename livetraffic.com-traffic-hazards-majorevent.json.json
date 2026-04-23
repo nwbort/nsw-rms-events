@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1776845040000,
+  "lastPublished": 1776931770000,
   "layerName": "MajorEvent",
   "rights": {
     "copyright": "Transport for NSW",
@@ -1386,85 +1386,399 @@
     },
     {
       "type": "Feature",
-      "id": 231724,
+      "id": 270318,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          149.3958493,
-          -32.0161197
+          148.989574,
+          -28.9768355
         ],
         "collections": []
       },
       "properties": {
         "webLinks": [],
         "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "Highway",
-            "direction": "Both directions",
-            "finishTime": "6:30am",
-            "fromDay": "Saturday",
-            "startTime": "5:30am",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "12:00pm",
-            "fromDay": "Saturday",
-            "startTime": "10:00am",
-            "toDay": ""
-          }
-        ],
+        "periods": [],
         "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
         "ended": false,
-        "isNewIncident": false,
+        "isNewIncident": true,
         "publicTransport": "",
         "impactingNetwork": false,
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1744843637000,
+        "created": 1776456051000,
         "isMajor": false,
         "name": null,
         "subCategoryA": "null",
-        "adviceA": "Exercise caution",
-        "adviceB": "Check signage",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Exercise caution",
         "adviceC": "Use diversions",
         "end": 1777082400000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1776456051753,
-        "otherAdvice": "<p><strong>The Golden Highway will be closed between 5.30am - 6.30am and from 10am and midday for ANZAC Day commemorations. </strong></p>",
+        "lastUpdated": 1776456051445,
+        "otherAdvice": "<p><strong>The Carnarvon Highway (George Street) will closed between 10am and 12pm for ANZAC Day commemorations.</strong></p>",
         "arrangementElements": [],
-        "diversions": "<p>Motorists can detour via Redbank and Whiteley Streets and are advised to take extra care with an expected increase in pedestrian activity. </p>",
+        "diversions": "<p>Motorists can detour via George, Wirrah, Walker and Narrabri Streets and are advised to take care in the area with increased pedestrian activity.</p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1777075200000,
+        "displayName": "ANZAC Day event",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Wirrah Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Carnarvon Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "New England North West",
+            "secondLocation": "Narrabri Street",
+            "suburb": "Mungindi",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 270435,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.929276,
+          -31.0900566
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1776456051000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Check signage",
+        "adviceB": "Exercise caution",
+        "adviceC": "Use diversions",
+        "end": 1777080600000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1776456051464,
+        "otherAdvice": "<p><strong>The Oxley Highway (Marius and Brisbane Streets) will be closed at Peel Street from 9.30am to 11.30am for ANZAC day commemorations. </strong></p>",
+        "arrangementElements": [],
+        "diversions": "<p>There will be a detour for<strong> light vehicles</strong> via Darling, Carthage and Brisbane Streets.</p><p><strong> Heavy vehicles </strong>can detour via Jewery Street, Dampier Street, Gunnedah Road, Brisbane Street, Goonoo Goonoo Road, Scotts Road, and Murray Street. Motorists are advised to take care in the area with an expected increase in pedestrian activity.</p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1777073400000,
+        "displayName": "ANZAC Day event",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Peel Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Oxley Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "New England North West",
+            "secondLocation": "",
+            "suburb": "Tamworth",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 269766,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.6104977,
+          -30.3783341
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1776456051000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Check signage",
+        "adviceC": "Plan your journey",
+        "end": 1777084200000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1776456051430,
+        "otherAdvice": "<p><strong>Queen Street will be closed from 5.30am to 7am for the dawn service and between 10.30am till 12.30pm for the march and commemorations.</strong></p>",
+        "arrangementElements": [],
+        "diversions": "<p>Detour via Savoy, Fitzroy and Henry Streets. Motorists are advised to take extra care with an expected increase in pedestrian activity.</p>",
         "additionalInfo": [],
         "weblinkName": null,
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
         "start": 1777059000000,
+        "displayName": "Anzac Day events",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Savoy St",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Queen St",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "New England North West",
+            "secondLocation": "Alice Street",
+            "suburb": "Barraba",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 270429,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.3697265,
+          -33.3531268
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1776456051000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Check signage",
+        "adviceC": "Use diversions",
+        "end": 1777092300000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1776456051475,
+        "otherAdvice": "<p><strong>The Pacific Highway will be closed between Yates Road and Chittaway Road from 1.15pm to 2.45pm for Anzac Day commemorations.</strong></p>",
+        "arrangementElements": [],
+        "diversions": "<p>A detour will be in place via Chittaway Road, Enterprise Drive and Wyong Road. Motorists are advised to take extra care in the area with an expected increase in pedestrian activity.</p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1777086900000,
         "displayName": "ANZAC Day event",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Wallaroo Street",
+            "crossStreet": "Yates Road",
             "delay": "",
             "impactedLanes": [],
             "locationQualifier": "between",
-            "mainStreet": "Golden Highway",
+            "mainStreet": "Pacific Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Central Coast",
+            "secondLocation": "Chittaway Road",
+            "suburb": "Ourimbah",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 270218,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.6693565,
+          -31.7109725
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1776456051000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Exercise caution",
+        "adviceC": " ",
+        "end": 1777084200000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1776456051805,
+        "otherAdvice": "<p><strong>The Castlereagh Highway will be closed between Court Street and Oxley Highway for ANZAC Day commemorations</strong>. The road will be closed between 5:30am and 9:00am for the dawn service and 10.30am to 12.30pm for the march.</p>",
+        "arrangementElements": [],
+        "diversions": "<p>Light vehicle detour (same for both directions): Wrigley St, Wamboin St and Oxley Hwy (Warren Rd).</p><p>Heavy vehicle detour (same for both directions): Hargraves Lane and Federation Street.</p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1777059000000,
+        "displayName": "ANZAC Day events",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Court St",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Miller Street",
             "quadrant": "",
             "queueLength": 0,
             "region": "Central NSW",
-            "secondLocation": "Merrygoen Street",
-            "suburb": "Dunedoo",
+            "secondLocation": "Oxley Highway",
+            "suburb": "Gilgandra",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 269800.0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.8357544,
+          -31.7641789
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1776456051000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Check signage",
+        "adviceC": "Expect delays",
+        "end": 1777079400000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1776456051854,
+        "otherAdvice": "<p><strong>The New England Highway between Adelaide Street and Mount Street will be closed from 10:50am to 11:10am for ANZAC Day commemorations. </strong>There will be no detour in place. Traffic will be stopped, and vehicles will follow police escort. Motorists are advised to take extra caution in the area with an expected increase in pedestrian activity.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1777078200000,
+        "displayName": "ANZAC Day event",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Adelaide Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "New England Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Hunter",
+            "secondLocation": "Mount Street",
+            "suburb": "Murrurundi",
             "trafficVolume": ""
           }
         ],
@@ -1675,64 +1989,85 @@
     },
     {
       "type": "Feature",
-      "id": 270318,
+      "id": 231724,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.989574,
-          -28.9768355
+          149.3958493,
+          -32.0161197
         ],
         "collections": []
       },
       "properties": {
         "webLinks": [],
         "headline": "",
-        "periods": [],
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "Highway",
+            "direction": "Both directions",
+            "finishTime": "6:30am",
+            "fromDay": "Saturday",
+            "startTime": "5:30am",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "12:00pm",
+            "fromDay": "Saturday",
+            "startTime": "10:00am",
+            "toDay": ""
+          }
+        ],
         "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
         "ended": false,
-        "isNewIncident": true,
+        "isNewIncident": false,
         "publicTransport": "",
         "impactingNetwork": false,
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1776456051000,
+        "created": 1744843637000,
         "isMajor": false,
         "name": null,
         "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Exercise caution",
+        "adviceA": "Exercise caution",
+        "adviceB": "Check signage",
         "adviceC": "Use diversions",
         "end": 1777082400000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1776456051445,
-        "otherAdvice": "<p><strong>The Carnarvon Highway (George Street) will closed between 10am and 12pm for ANZAC Day commemorations.</strong></p>",
+        "lastUpdated": 1776456051753,
+        "otherAdvice": "<p><strong>The Golden Highway will be closed between 5.30am - 6.30am and from 10am and midday for ANZAC Day commemorations. </strong></p>",
         "arrangementElements": [],
-        "diversions": "<p>Motorists can detour via George, Wirrah, Walker and Narrabri Streets and are advised to take care in the area with increased pedestrian activity.</p>",
+        "diversions": "<p>Motorists can detour via Redbank and Whiteley Streets and are advised to take extra care with an expected increase in pedestrian activity. </p>",
         "additionalInfo": [],
         "weblinkName": null,
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1777075200000,
+        "start": 1777059000000,
         "displayName": "ANZAC Day event",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Wirrah Street",
+            "crossStreet": "Wallaroo Street",
             "delay": "",
             "impactedLanes": [],
             "locationQualifier": "between",
-            "mainStreet": "Carnarvon Highway",
+            "mainStreet": "Golden Highway",
             "quadrant": "",
             "queueLength": 0,
-            "region": "New England North West",
-            "secondLocation": "Narrabri Street",
-            "suburb": "Mungindi",
+            "region": "Central NSW",
+            "secondLocation": "Merrygoen Street",
+            "suburb": "Dunedoo",
             "trafficVolume": ""
           }
         ],
@@ -2010,12 +2345,12 @@
     },
     {
       "type": "Feature",
-      "id": 270435,
+      "id": 270477,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.929276,
-          -31.0900566
+          152.7325809,
+          -31.4573751
         ],
         "collections": []
       },
@@ -2037,37 +2372,37 @@
         "isMajor": false,
         "name": null,
         "subCategoryA": "null",
-        "adviceA": "Check signage",
+        "adviceA": "Allow extra travel time",
         "adviceB": "Exercise caution",
-        "adviceC": "Use diversions",
-        "end": 1777080600000,
+        "adviceC": "Check signage",
+        "end": 1777084200000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1776456051464,
-        "otherAdvice": "<p><strong>The Oxley Highway (Marius and Brisbane Streets) will be closed at Peel Street from 9.30am to 11.30am for ANZAC day commemorations. </strong></p>",
+        "lastUpdated": 1776456051854,
+        "otherAdvice": "<p><strong>Oxley Hwy/High Street will be closed from 5:00am to 12.30pm for ANZAC Day commemorations. </strong></p>",
         "arrangementElements": [],
-        "diversions": "<p>There will be a detour for<strong> light vehicles</strong> via Darling, Carthage and Brisbane Streets.</p><p><strong> Heavy vehicles </strong>can detour via Jewery Street, Dampier Street, Gunnedah Road, Brisbane Street, Goonoo Goonoo Road, Scotts Road, and Murray Street. Motorists are advised to take care in the area with an expected increase in pedestrian activity.</p>",
+        "diversions": "<p>A detour will be in place via Campbell, Bain, Cameron, Webb and Wallace Streets. Motorists are advised to take extra caution in the area with an increase in pedestrian activity.</p>",
         "additionalInfo": [],
         "weblinkName": null,
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1777073400000,
+        "start": 1777057200000,
         "displayName": "ANZAC Day event",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Peel Street",
+            "crossStreet": "Campbell Street",
             "delay": "",
             "impactedLanes": [],
-            "locationQualifier": "at",
+            "locationQualifier": "between",
             "mainStreet": "Oxley Highway",
             "quadrant": "",
             "queueLength": 0,
-            "region": "New England North West",
-            "secondLocation": "",
-            "suburb": "Tamworth",
+            "region": "North Coast NSW",
+            "secondLocation": "Wallace Street",
+            "suburb": "Wauchope",
             "trafficVolume": ""
           }
         ],
@@ -2546,12 +2881,12 @@
     },
     {
       "type": "Feature",
-      "id": 270477,
+      "id": 270475,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.7325809,
-          -31.4573751
+          151.5441997,
+          -33.2642753
         ],
         "collections": []
       },
@@ -2574,459 +2909,36 @@
         "name": null,
         "subCategoryA": "null",
         "adviceA": "Allow extra travel time",
-        "adviceB": "Exercise caution",
-        "adviceC": "Check signage",
-        "end": 1777084200000,
+        "adviceB": "Check signage",
+        "adviceC": "Use diversions",
+        "end": 1777081500000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1776456051854,
-        "otherAdvice": "<p><strong>Oxley Hwy/High Street will be closed from 5:00am to 12.30pm for ANZAC Day commemorations. </strong></p>",
+        "lastUpdated": 1776456051963,
+        "otherAdvice": "<p><strong>Main Road will be closed between Fravent Street and Victoria Avenue from 5am to 6.30am for the ANZAC Day dawn service and between 9:00am to 11.45am for the march and commemorations. </strong></p>",
         "arrangementElements": [],
-        "diversions": "<p>A detour will be in place via Campbell, Bain, Cameron, Webb and Wallace Streets. Motorists are advised to take extra caution in the area with an increase in pedestrian activity.</p>",
+        "diversions": "<p>The dawn service detour will be via Fravent, Hargraves and Victoria Streets and the march detour will be via Fravent Street, First Avenue and Peel Street. Motorists are advised to take extra care in the area with an expected increase in pedestrian activity.</p>",
         "additionalInfo": [],
         "weblinkName": null,
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
         "start": 1777057200000,
-        "displayName": "ANZAC Day event",
+        "displayName": "ANZAC Day events",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Campbell Street",
+            "crossStreet": "Fravent Street",
             "delay": "",
             "impactedLanes": [],
             "locationQualifier": "between",
-            "mainStreet": "Oxley Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "North Coast NSW",
-            "secondLocation": "Wallace Street",
-            "suburb": "Wauchope",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 269766,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.6104977,
-          -30.3783341
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1776456051000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Check signage",
-        "adviceC": "Plan your journey",
-        "end": 1777084200000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1776456051430,
-        "otherAdvice": "<p><strong>Queen Street will be closed from 5.30am to 7am for the dawn service and between 10.30am till 12.30pm for the march and commemorations.</strong></p>",
-        "arrangementElements": [],
-        "diversions": "<p>Detour via Savoy, Fitzroy and Henry Streets. Motorists are advised to take extra care with an expected increase in pedestrian activity.</p>",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1777059000000,
-        "displayName": "Anzac Day events",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Savoy St",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Queen St",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "New England North West",
-            "secondLocation": "Alice Street",
-            "suburb": "Barraba",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 270429,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.3697265,
-          -33.3531268
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1776456051000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Check signage",
-        "adviceC": "Use diversions",
-        "end": 1777092300000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1776456051475,
-        "otherAdvice": "<p><strong>The Pacific Highway will be closed between Yates Road and Chittaway Road from 1.15pm to 2.45pm for Anzac Day commemorations.</strong></p>",
-        "arrangementElements": [],
-        "diversions": "<p>A detour will be in place via Chittaway Road, Enterprise Drive and Wyong Road. Motorists are advised to take extra care in the area with an expected increase in pedestrian activity.</p>",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1777086900000,
-        "displayName": "ANZAC Day event",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Yates Road",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Pacific Highway",
+            "mainStreet": "Main Road",
             "quadrant": "",
             "queueLength": 0,
             "region": "Central Coast",
-            "secondLocation": "Chittaway Road",
-            "suburb": "Ourimbah",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 270208,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          149.2772142,
-          -31.273442
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "6:30am",
-            "fromDay": "Friday",
-            "startTime": "5:30am",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "1:00pm",
-            "fromDay": "Friday",
-            "startTime": "10:00am",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1776456051000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Exercise caution",
-        "adviceB": "Check signage",
-        "adviceC": "Use diversions",
-        "end": 1777086000000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1776456051752,
-        "otherAdvice": "<p>The Newell Highway (John Street) will be closed for the following ANZAC Day events: </p><ul><li>Between Castlereagh Street and Little Timor Street from 5.50am and 6.20am for the dawn service.  </li><li>Between Edwards Street and Essex Street from 1am to 1pm for the march and commemorations.</li></ul><p><br></p><p><br></p>",
-        "arrangementElements": [],
-        "diversions": "<p>There will be a detour via Edwards Street, Namoi Street and Saleyards Road and Gardener Street. Motorists should be aware of increased pedestrian activity in the area and follow the direction of signs and traffic controllers.</p>",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1777060200000,
-        "displayName": "ANZAC Day events",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Castlereagh Street",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "John Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Central NSW",
-            "secondLocation": "Little Timor Street",
-            "suburb": "Coonabarabran",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 270218,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          148.6693565,
-          -31.7109725
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1776456051000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Exercise caution",
-        "adviceC": " ",
-        "end": 1777084200000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1776456051805,
-        "otherAdvice": "<p><strong>The Castlereagh Highway will be closed between Court Street and Oxley Highway for ANZAC Day commemorations</strong>. The road will be closed between 5:30am and 9:00am for the dawn service and 10.30am to 12.30pm for the march.</p>",
-        "arrangementElements": [],
-        "diversions": "<p>Light vehicle detour (same for both directions): Wrigley St, Wamboin St and Oxley Hwy (Warren Rd).</p><p>Heavy vehicle detour (same for both directions): Hargraves Lane and Federation Street.</p>",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1777059000000,
-        "displayName": "ANZAC Day events",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Court St",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Miller Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Central NSW",
-            "secondLocation": "Oxley Highway",
-            "suburb": "Gilgandra",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 269800.0,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.8357544,
-          -31.7641789
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1776456051000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Check signage",
-        "adviceC": "Expect delays",
-        "end": 1777079400000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1776456051854,
-        "otherAdvice": "<p><strong>The New England Highway between Adelaide Street and Mount Street will be closed from 10:50am to 11:10am for ANZAC Day commemorations. </strong>There will be no detour in place. Traffic will be stopped, and vehicles will follow police escort. Motorists are advised to take extra caution in the area with an expected increase in pedestrian activity.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1777078200000,
-        "displayName": "ANZAC Day event",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Adelaide Street",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "New England Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Hunter",
-            "secondLocation": "Mount Street",
-            "suburb": "Murrurundi",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 270427,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          152.9334766,
-          -29.6912023
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1776456051000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Exercise caution",
-        "adviceC": "Use diversions",
-        "end": 1777078800000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1776456051952,
-        "otherAdvice": "<p><strong>Prince street will be closed from 9am-11am for ANZAC Day commemorations. </strong></p><p>Motorists are advised to take extra care in the area with an expected increase in pedestrian activity.</p>",
-        "arrangementElements": [],
-        "diversions": "<p>There will be a diversion in place via Duke St</p>",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1777071600000,
-        "displayName": "ANZAC Day event",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Pound Street",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Prince Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "North Coast NSW",
-            "secondLocation": "Kemp Street",
-            "suburb": "Grafton",
+            "secondLocation": "Victoria Avenue",
+            "suburb": "Toukley",
             "trafficVolume": ""
           }
         ],
@@ -3103,12 +3015,12 @@
     },
     {
       "type": "Feature",
-      "id": 270220.0,
+      "id": 270481,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.1627065,
-          -33.8951658
+          149.0975467,
+          -33.2832612
         ],
         "collections": []
       },
@@ -3123,6 +3035,73 @@
         "isNewIncident": true,
         "publicTransport": "",
         "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1776456051000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Exercise caution",
+        "adviceC": "Use diversions",
+        "end": 1777084200000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1776456051949,
+        "otherAdvice": "<p><strong>The Mitchell Hwy (Summer St) will be closed between 10am and 12.30pm for the ANZAC Day March.</strong> Motorists are advised to take extra care in the area with an expected increase in pedestrian activity. </p>",
+        "arrangementElements": [],
+        "diversions": "<p>Detour (all vehicles both directions) via Prince and Peisley streets.</p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1777075200000,
+        "displayName": "ANZAC Day event",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Sale Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Summer Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Central NSW",
+            "secondLocation": "McNamara Street",
+            "suburb": "Orange",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 270480.0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.1168918,
+          -30.0205472
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": true,
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
@@ -3133,168 +3112,34 @@
         "adviceA": "Allow extra travel time",
         "adviceB": " ",
         "adviceC": " ",
-        "end": 1777082400000,
+        "end": 1777084200000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1776456051954,
-        "otherAdvice": "<p><strong>The Mid Western Hwy (Camp St) will be closed between East and Forbes streets for Anzac Day commemorations. It will be closed from 5am until 7am for the dawn service and from 10am until 12pm for the march. </strong></p><p><br></p><p><br></p>",
+        "lastUpdated": 1776456051953,
+        "otherAdvice": "<p><strong>Fox St (Castlereagh Hwy) from Euroka St to Montakeila St will be closed between 5:30am and 12:30pm for Anzac Day commemorations. </strong></p><p>Motorists should allow extra travel time in the area. </p>",
         "arrangementElements": [],
-        "diversions": "<p>A detour will be in place via East, Young, Wood and Camp streets. Motorists should allow extra travel time and follow the directions of traffic controllers on-site.</p>",
+        "diversions": "<p>A detour will be in place via Montakeila St, Peel St and Euroka St.. </p>",
         "additionalInfo": [],
         "weblinkName": null,
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1777057200000,
-        "displayName": "Anzac Day events",
+        "start": 1777059000000,
+        "displayName": "Anzac Day Event",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "East Street",
+            "crossStreet": "Euroka Street",
             "delay": "",
             "impactedLanes": [],
             "locationQualifier": "between",
-            "mainStreet": "Mid Western Highway",
+            "mainStreet": "Castlereagh Highway",
             "quadrant": "",
             "queueLength": 0,
-            "region": "Central NSW",
-            "secondLocation": "Church Street",
-            "suburb": "Grenfell",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 270433,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.6382333,
-          -33.0896188
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1776456051000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Check signage",
-        "adviceB": "Use diversions",
-        "adviceC": "Exercise caution",
-        "end": 1777082400000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1776456051964,
-        "otherAdvice": "<p><strong>The Pacific Highway will be closed from 10.30am to 12pm for Anzac Day commemorations. </strong></p>",
-        "arrangementElements": [],
-        "diversions": "<p><strong>Northbound</strong> detour via Old Pacific Highway, Wood, Josephson and Belmont Streets. </p><p><strong>Southbound </strong>traffic will be held for the Anzac march to cross the Pacific Highway. Motorists are advised to take extra care with an increase in pedestrian activity.</p>",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1777077000000,
-        "displayName": "Anzac Day event",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Bowman Street",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Pacific Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Hunter",
-            "secondLocation": "Belmont Street",
-            "suburb": "Swansea",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 270475,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.5441997,
-          -33.2642753
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1776456051000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Check signage",
-        "adviceC": "Use diversions",
-        "end": 1777081500000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1776456051963,
-        "otherAdvice": "<p><strong>Main Road will be closed between Fravent Street and Victoria Avenue from 5am to 6.30am for the ANZAC Day dawn service and between 9:00am to 11.45am for the march and commemorations. </strong></p>",
-        "arrangementElements": [],
-        "diversions": "<p>The dawn service detour will be via Fravent, Hargraves and Victoria Streets and the march detour will be via Fravent Street, First Avenue and Peel Street. Motorists are advised to take extra care in the area with an expected increase in pedestrian activity.</p>",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1777057200000,
-        "displayName": "ANZAC Day events",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Fravent Street",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Main Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Central Coast",
-            "secondLocation": "Victoria Avenue",
-            "suburb": "Toukley",
+            "region": "Far West NSW",
+            "secondLocation": "Montkeila Street",
+            "suburb": "Walgett",
             "trafficVolume": ""
           }
         ],
@@ -3459,79 +3304,12 @@
     },
     {
       "type": "Feature",
-      "id": 270480.0,
+      "id": 270427,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          148.1168918,
-          -30.0205472
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1776456051000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": " ",
-        "adviceC": " ",
-        "end": 1777084200000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1776456051953,
-        "otherAdvice": "<p><strong>Fox St (Castlereagh Hwy) from Euroka St to Montakeila St will be closed between 5:30am and 12:30pm for Anzac Day commemorations. </strong></p><p>Motorists should allow extra travel time in the area. </p>",
-        "arrangementElements": [],
-        "diversions": "<p>A detour will be in place via Montakeila St, Peel St and Euroka St.. </p>",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1777059000000,
-        "displayName": "Anzac Day Event",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Euroka Street",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Castlereagh Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Far West NSW",
-            "secondLocation": "Montkeila Street",
-            "suburb": "Walgett",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 270481,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          149.0975467,
-          -33.2832612
+          152.9334766,
+          -29.6912023
         ],
         "collections": []
       },
@@ -3556,34 +3334,34 @@
         "adviceA": "Allow extra travel time",
         "adviceB": "Exercise caution",
         "adviceC": "Use diversions",
-        "end": 1777084200000,
+        "end": 1777078800000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1776456051949,
-        "otherAdvice": "<p><strong>The Mitchell Hwy (Summer St) will be closed between 10am and 12.30pm for the ANZAC Day March.</strong> Motorists are advised to take extra care in the area with an expected increase in pedestrian activity. </p>",
+        "lastUpdated": 1776456051952,
+        "otherAdvice": "<p><strong>Prince street will be closed from 9am-11am for ANZAC Day commemorations. </strong></p><p>Motorists are advised to take extra care in the area with an expected increase in pedestrian activity.</p>",
         "arrangementElements": [],
-        "diversions": "<p>Detour (all vehicles both directions) via Prince and Peisley streets.</p>",
+        "diversions": "<p>There will be a diversion in place via Duke St</p>",
         "additionalInfo": [],
         "weblinkName": null,
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1777075200000,
+        "start": 1777071600000,
         "displayName": "ANZAC Day event",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Sale Street",
+            "crossStreet": "Pound Street",
             "delay": "",
             "impactedLanes": [],
             "locationQualifier": "between",
-            "mainStreet": "Summer Street",
+            "mainStreet": "Prince Street",
             "quadrant": "",
             "queueLength": 0,
-            "region": "Central NSW",
-            "secondLocation": "McNamara Street",
-            "suburb": "Orange",
+            "region": "North Coast NSW",
+            "secondLocation": "Kemp Street",
+            "suburb": "Grafton",
             "trafficVolume": ""
           }
         ],
@@ -3727,12 +3505,12 @@
     },
     {
       "type": "Feature",
-      "id": 270783,
+      "id": 270220.0,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.3243922,
-          -33.4841983
+          148.1627065,
+          -33.8951658
         ],
         "collections": []
       },
@@ -3755,36 +3533,103 @@
         "name": null,
         "subCategoryA": "null",
         "adviceA": "Allow extra travel time",
-        "adviceB": "Check signage",
-        "adviceC": "Use diversions",
-        "end": 1777059900000,
+        "adviceB": " ",
+        "adviceC": " ",
+        "end": 1777082400000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1776456051932,
-        "otherAdvice": "<p><strong>From 5am</strong> Brisbane Water Drive will be closed from Blackwall Road to The Boulevarde. Brick Wharf Road will also be closed until the carpark entry past Memorial Park.</p><p><br></p>",
+        "lastUpdated": 1776456051954,
+        "otherAdvice": "<p><strong>The Mid Western Hwy (Camp St) will be closed between East and Forbes streets for Anzac Day commemorations. It will be closed from 5am until 7am for the dawn service and from 10am until 12pm for the march. </strong></p><p><br></p><p><br></p>",
         "arrangementElements": [],
-        "diversions": "<p>A detour will be in place via Brisbane Water Rd, Blackwall Rd, Park Rd, N Burge Rd and Brick Wharf Road. Motorists are advised to take extra care in the area with an expected increase in pedestrian activity.</p>",
+        "diversions": "<p>A detour will be in place via East, Young, Wood and Camp streets. Motorists should allow extra travel time and follow the directions of traffic controllers on-site.</p>",
         "additionalInfo": [],
         "weblinkName": null,
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
         "start": 1777057200000,
-        "displayName": "ANZAC Day event",
+        "displayName": "Anzac Day events",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Brisbane Water Drive",
+            "crossStreet": "East Street",
             "delay": "",
             "impactedLanes": [],
             "locationQualifier": "between",
-            "mainStreet": "The Boulevarde",
+            "mainStreet": "Mid Western Highway",
             "quadrant": "",
             "queueLength": 0,
-            "region": "Central Coast",
-            "secondLocation": "Brick Wharf Road",
-            "suburb": "Woy Woy",
+            "region": "Central NSW",
+            "secondLocation": "Church Street",
+            "suburb": "Grenfell",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 270433,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.6382333,
+          -33.0896188
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1776456051000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Check signage",
+        "adviceB": "Use diversions",
+        "adviceC": "Exercise caution",
+        "end": 1777082400000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1776456051964,
+        "otherAdvice": "<p><strong>The Pacific Highway will be closed from 10.30am to 12pm for Anzac Day commemorations. </strong></p>",
+        "arrangementElements": [],
+        "diversions": "<p><strong>Northbound</strong> detour via Old Pacific Highway, Wood, Josephson and Belmont Streets. </p><p><strong>Southbound </strong>traffic will be held for the Anzac march to cross the Pacific Highway. Motorists are advised to take extra care with an increase in pedestrian activity.</p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1777077000000,
+        "displayName": "Anzac Day event",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Bowman Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Pacific Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Hunter",
+            "secondLocation": "Belmont Street",
+            "suburb": "Swansea",
             "trafficVolume": ""
           }
         ],
@@ -3852,6 +3697,73 @@
             "region": "Hunter",
             "secondLocation": "Myall Road",
             "suburb": "Cardiff",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 270783,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.3243922,
+          -33.4841983
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1776456051000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Check signage",
+        "adviceC": "Use diversions",
+        "end": 1777059900000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1776456051932,
+        "otherAdvice": "<p><strong>From 5am</strong> Brisbane Water Drive will be closed from Blackwall Road to The Boulevarde. Brick Wharf Road will also be closed until the carpark entry past Memorial Park.</p><p><br></p>",
+        "arrangementElements": [],
+        "diversions": "<p>A detour will be in place via Brisbane Water Rd, Blackwall Rd, Park Rd, N Burge Rd and Brick Wharf Road. Motorists are advised to take extra care in the area with an expected increase in pedestrian activity.</p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1777057200000,
+        "displayName": "ANZAC Day event",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Brisbane Water Drive",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "The Boulevarde",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Central Coast",
+            "secondLocation": "Brick Wharf Road",
+            "suburb": "Woy Woy",
             "trafficVolume": ""
           }
         ],
@@ -3939,12 +3851,79 @@
     },
     {
       "type": "Feature",
-      "id": 270817,
+      "id": 270825,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.4345037,
-          -35.31514
+          150.1272596,
+          -36.2165429
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1776063561000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Plan your journey",
+        "adviceC": "Exercise caution",
+        "end": 1777082400000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1776459646858,
+        "otherAdvice": "<p>Princes Hwy will be closed in both directions between Field St and Bowen St for approximately 10 minutes for Anzac Day commemorations.</p><p>Motorists are advised to plan their journey and allow extra travel time.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1777075200000,
+        "displayName": "ANZAC Day event",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Field Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Princes Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "South Coast",
+            "secondLocation": "Bowen St",
+            "suburb": "Narooma",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 270812,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.843436,
+          -34.5100165
         ],
         "collections": []
       },
@@ -3955,7 +3934,7 @@
           {
             "closureType": "ROAD_CLOSURE",
             "roadextent": "Closed",
-            "roadtype": "Highway",
+            "roadtype": "Road",
             "direction": "Both directions",
             "finishTime": "12:00pm",
             "fromDay": "Saturday",
@@ -3984,10 +3963,10 @@
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1776459646676,
-        "otherAdvice": "<p>Princes Hwy will be closed in both directions between Myrtle St and Croobyar Rd for Anzac Day commemorations.</p><p>Motorists are advised to take extra caution in the area as there is an expected increase in pedestrian activity.</p>",
+        "lastUpdated": 1776459646764,
+        "otherAdvice": "<p>Lachlan St (Cobb Hwy) will be closed in both directions between Bank St and Cadell St for Anzac Day commemorations.</p><p>Motorists are advised to take extra caution in the area as there is an expected increase in pedestrian activity.</p>",
         "arrangementElements": [],
-        "diversions": "<p>A detour will be in place via Croobyar Rd and Myrtle St.</p>",
+        "diversions": "<p>A detour will be in place via Bunker St, Pine St and Murray St.</p>",
         "additionalInfo": [],
         "weblinkName": null,
         "attendingGroups": null,
@@ -3998,16 +3977,472 @@
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Myrtle Street",
+            "crossStreet": "Bank Street",
             "delay": "",
             "impactedLanes": [],
             "locationQualifier": "between",
-            "mainStreet": "Princes Highway",
+            "mainStreet": "Lachlan Street",
             "quadrant": "",
             "queueLength": 0,
-            "region": "South Coast",
-            "secondLocation": "Croobyar Road",
-            "suburb": "Milton",
+            "region": "Riverina",
+            "secondLocation": "Cadell Street",
+            "suburb": "Hay",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 270826,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.2854423,
+          -36.5103438
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Closed",
+            "roadtype": "Highway",
+            "direction": "Both directions",
+            "finishTime": "11:30am",
+            "fromDay": "Saturday",
+            "startTime": "10:00am",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1776459646000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use diversions",
+        "adviceC": " ",
+        "end": 1777080600000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1776459646675,
+        "otherAdvice": "<p>The Monaro Hwy will be closed in both directions between Miller St and Clarke St from 10am to 11.30am for Anzac Day commemorations.</p><p>Motorists are advised to take extra caution in the area as there is an expected increase in pedestrian activity</p>",
+        "arrangementElements": [],
+        "diversions": "<p>A detour will be in place via Clarke St, Kirke St, Bentley St, Wolfe St and Miller St.</p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1777075200000,
+        "displayName": "ANZAC Day event",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Miller St",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Monaro Highway (Bombala Street)",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Snowy Mountains",
+            "secondLocation": "Clarke Street",
+            "suburb": "Nimmitabel",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 270813,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5344691,
+          -33.4838167
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Closed",
+            "roadtype": "Road",
+            "direction": "Both directions",
+            "finishTime": "12:30pm",
+            "fromDay": "Saturday",
+            "startTime": "10:30am",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1776459645000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use diversions",
+        "adviceC": " ",
+        "end": 1777084200000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1776459646373,
+        "otherAdvice": "<p>High St (Kidman Way) will be closed in both directions between Oxley Avenue and McGee Street from 10.30am to 12.30pm for Anzac Day commemorations.</p><p>Motorists are advised to take extra caution in the area as there is an expected increase in pedestrian activity.</p>",
+        "arrangementElements": [],
+        "diversions": "<p>A detour will be in place via Byron St and Molesworth St.</p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1777077000000,
+        "displayName": "ANZAC Day event",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Oxley Avenue",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "High Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Riverina",
+            "secondLocation": "McGee Street",
+            "suburb": "Hillston",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 270829,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.6120533,
+          -34.1680707
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Closed",
+            "roadtype": "Road",
+            "direction": "Both directions",
+            "finishTime": "7:00am",
+            "fromDay": "Saturday",
+            "startTime": "6:30am",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1776459646000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Plan your journey",
+        "adviceC": "Exercise caution",
+        "end": 1777064400000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1776459646782,
+        "otherAdvice": "<p>Argyle St will be closed in both directions between Menangle St and Memorial Park from 6.30am to 7am for an Anzac Day Dawn Service. </p><p>Motorists are advised to plan their journey and allow extra travel time.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1777062600000,
+        "displayName": "ANZAC Day Dawn Service",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Menangle Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Argyle Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "Memorial Park",
+            "suburb": "Picton",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 270951,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.2431159,
+          -33.9259045
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1776459646000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use diversions",
+        "adviceC": " ",
+        "end": 1777075200000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1776459646597,
+        "otherAdvice": "<p>Neeld St (Newell Hwy) will be closed in both directions between Emu St and Mallee St from 8am to 10am for Anzac Day commemorations.</p><p>Motorists are advised to take extra caution in the area as there is an expected increase in pedestrian activity.</p>",
+        "arrangementElements": [],
+        "diversions": "<p>A detour will be in place via Emu St, Neeld St, Gilbert St, George Bland Ave and Mallee St.</p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1777068000000,
+        "displayName": "ANZAC Day event",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Emu Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Neeld Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Central NSW",
+            "secondLocation": "Mallee Street",
+            "suburb": "Wyalong",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232130.0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.4490182,
+          -34.4508202
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Closed",
+            "roadtype": "Highway",
+            "direction": "Both directions",
+            "finishTime": "6:30am",
+            "fromDay": "Saturday",
+            "startTime": "5:30am",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Closed",
+            "roadtype": "Highway",
+            "direction": "Both directions",
+            "finishTime": "12:00pm",
+            "fromDay": "Saturday",
+            "startTime": "10:30am",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1745297236000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use diversions",
+        "adviceC": " ",
+        "end": 1777082400000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1776459646823,
+        "otherAdvice": "<p>Old Hume Hwy will be closed in both directions between Pioneer St and Fitzroy St from 5.30am to 6.30am for the Anzac Day Dawn Service and from 10.30am - 12pm for ANZAC Day commemorations.</p><p>Motorists are advised to take extra caution in the area as there is an expected increase in pedestrian activity.</p>",
+        "arrangementElements": [],
+        "diversions": "<p>A detour will be in place for Southbound motorists via Albion St, Regent St, Princess St and Bowral Rd.</p><p>Northbound motorists will be detoured via Pioneer St, Edward St and Alice St.</p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1777059000000,
+        "displayName": "ANZAC Day event",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Pioneer Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Old Hume Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Southern Highlands",
+            "secondLocation": "Fitzroy Street",
+            "suburb": "Mittagong",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 270810.0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.3687031,
+          -34.5548022
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1776459646000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Check signage",
+        "adviceC": " ",
+        "end": 1777082400000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1776459646697,
+        "otherAdvice": "<p><strong>Neill St and Station St will be closed intermittently between East Street and Station St for Anzac Day commemorations.</strong></p><p>Traffic controllers will be on-site to hold traffic as the ANZAC Day march crosses Albury Street and alternating (stop/slow) traffic conditions will be in place.</p><p>Motorists are advised to take extra caution in the area as there is an expected increase in pedestrian activity.</p>",
+        "arrangementElements": [],
+        "diversions": "<p>Motorists can detour via Neill St, Easter St, Swift St and Station St.</p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1777075200000,
+        "displayName": "ANZAC Day event",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "East Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Neill Street and Station Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Southern Highlands",
+            "secondLocation": "Station Street",
+            "suburb": "Harden",
             "trafficVolume": ""
           }
         ],
@@ -4075,73 +4510,6 @@
             "region": "Southern Highlands",
             "secondLocation": "Clarke Street",
             "suburb": "Young",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 270922,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.591508,
-          -34.588504
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1776459646000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Exercise caution",
-        "adviceC": "Check signage",
-        "end": 1777086000000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1776459646609,
-        "otherAdvice": "<p>The Illawarra Hwy will be closed from Caalong St to Wallanagunda St for Anzac Day commemorations.</p><p>Motorists should allow extra travel time in the area.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1777071600000,
-        "displayName": "Anzac Day March",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Caalong Street",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Illawarra Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Southern Highlands",
-            "secondLocation": "Wallangunda Street",
-            "suburb": "Robertson",
             "trafficVolume": ""
           }
         ],
@@ -4365,84 +4733,6 @@
             "region": "South Coast",
             "secondLocation": "Princes Highway",
             "suburb": "Corrimal",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 270801,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          149.8890705,
-          -36.3868022
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Closed",
-            "roadtype": "Highway",
-            "direction": "Both directions",
-            "finishTime": "11:30am",
-            "fromDay": "Saturday",
-            "startTime": "10:30am",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1776459646000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Use diversions",
-        "adviceC": " ",
-        "end": 1777080600000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1776459646583,
-        "otherAdvice": "<p>Princes Hwy will be closed between Bermagui Rd and Hoyer St from 10.30am to 11.30am for Anzac Day commemorations.</p><p>Northbound motorists will be held at  Bermagui Rd until the march reaches the Princes Hwy, this will take approximately 20 minutes.</p><p>Motorists are advised to take extra caution in the area as there is an expected increase in pedestrian activity.</p>",
-        "arrangementElements": [],
-        "diversions": "<p>A detour is in place via Hoyer Street and Bermagui Road.</p>",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1777077000000,
-        "displayName": "ANZAC Day Event",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Bermagui Road",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Princes Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "South Coast",
-            "secondLocation": "Hoyer Street",
-            "suburb": "Cobargo",
             "trafficVolume": ""
           }
         ],
@@ -4841,157 +5131,12 @@
     },
     {
       "type": "Feature",
-      "id": 270829,
+      "id": 270801,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.6120533,
-          -34.1680707
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Closed",
-            "roadtype": "Road",
-            "direction": "Both directions",
-            "finishTime": "7:00am",
-            "fromDay": "Saturday",
-            "startTime": "6:30am",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1776459646000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Plan your journey",
-        "adviceC": "Exercise caution",
-        "end": 1777064400000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1776459646782,
-        "otherAdvice": "<p>Argyle St will be closed in both directions between Menangle St and Memorial Park from 6.30am to 7am for an Anzac Day Dawn Service. </p><p>Motorists are advised to plan their journey and allow extra travel time.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1777062600000,
-        "displayName": "ANZAC Day Dawn Service",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Menangle Street",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Argyle Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "Memorial Park",
-            "suburb": "Picton",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 270951,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          147.2431159,
-          -33.9259045
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1776459646000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Use diversions",
-        "adviceC": " ",
-        "end": 1777075200000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1776459646597,
-        "otherAdvice": "<p>Neeld St (Newell Hwy) will be closed in both directions between Emu St and Mallee St from 8am to 10am for Anzac Day commemorations.</p><p>Motorists are advised to take extra caution in the area as there is an expected increase in pedestrian activity.</p>",
-        "arrangementElements": [],
-        "diversions": "<p>A detour will be in place via Emu St, Neeld St, Gilbert St, George Bland Ave and Mallee St.</p>",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1777068000000,
-        "displayName": "ANZAC Day event",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Emu Street",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Neeld Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Central NSW",
-            "secondLocation": "Mallee Street",
-            "suburb": "Wyalong",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 270826,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          149.2854423,
-          -36.5103438
+          149.8890705,
+          -36.3868022
         ],
         "collections": []
       },
@@ -5006,7 +5151,7 @@
             "direction": "Both directions",
             "finishTime": "11:30am",
             "fromDay": "Saturday",
-            "startTime": "10:00am",
+            "startTime": "10:30am",
             "toDay": ""
           }
         ],
@@ -5031,30 +5176,30 @@
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1776459646675,
-        "otherAdvice": "<p>The Monaro Hwy will be closed in both directions between Miller St and Clarke St from 10am to 11.30am for Anzac Day commemorations.</p><p>Motorists are advised to take extra caution in the area as there is an expected increase in pedestrian activity</p>",
+        "lastUpdated": 1776459646583,
+        "otherAdvice": "<p>Princes Hwy will be closed between Bermagui Rd and Hoyer St from 10.30am to 11.30am for Anzac Day commemorations.</p><p>Northbound motorists will be held at  Bermagui Rd until the march reaches the Princes Hwy, this will take approximately 20 minutes.</p><p>Motorists are advised to take extra caution in the area as there is an expected increase in pedestrian activity.</p>",
         "arrangementElements": [],
-        "diversions": "<p>A detour will be in place via Clarke St, Kirke St, Bentley St, Wolfe St and Miller St.</p>",
+        "diversions": "<p>A detour is in place via Hoyer Street and Bermagui Road.</p>",
         "additionalInfo": [],
         "weblinkName": null,
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1777075200000,
-        "displayName": "ANZAC Day event",
+        "start": 1777077000000,
+        "displayName": "ANZAC Day Event",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Miller St",
+            "crossStreet": "Bermagui Road",
             "delay": "",
             "impactedLanes": [],
             "locationQualifier": "between",
-            "mainStreet": "Monaro Highway (Bombala Street)",
+            "mainStreet": "Princes Highway",
             "quadrant": "",
             "queueLength": 0,
-            "region": "Snowy Mountains",
-            "secondLocation": "Clarke Street",
-            "suburb": "Nimmitabel",
+            "region": "South Coast",
+            "secondLocation": "Hoyer Street",
+            "suburb": "Cobargo",
             "trafficVolume": ""
           }
         ],
@@ -5064,85 +5209,64 @@
     },
     {
       "type": "Feature",
-      "id": 232130.0,
+      "id": 270922,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.4490182,
-          -34.4508202
+          150.591508,
+          -34.588504
         ],
         "collections": []
       },
       "properties": {
         "webLinks": [],
         "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Closed",
-            "roadtype": "Highway",
-            "direction": "Both directions",
-            "finishTime": "6:30am",
-            "fromDay": "Saturday",
-            "startTime": "5:30am",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Closed",
-            "roadtype": "Highway",
-            "direction": "Both directions",
-            "finishTime": "12:00pm",
-            "fromDay": "Saturday",
-            "startTime": "10:30am",
-            "toDay": ""
-          }
-        ],
+        "periods": [],
         "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
         "ended": false,
-        "isNewIncident": false,
+        "isNewIncident": true,
         "publicTransport": "",
-        "impactingNetwork": false,
+        "impactingNetwork": true,
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1745297236000,
+        "created": 1776459646000,
         "isMajor": false,
         "name": null,
         "subCategoryA": "null",
         "adviceA": "Allow extra travel time",
-        "adviceB": "Use diversions",
-        "adviceC": " ",
-        "end": 1777082400000,
+        "adviceB": "Exercise caution",
+        "adviceC": "Check signage",
+        "end": 1777086000000,
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1776459646823,
-        "otherAdvice": "<p>Old Hume Hwy will be closed in both directions between Pioneer St and Fitzroy St from 5.30am to 6.30am for the Anzac Day Dawn Service and from 10.30am - 12pm for ANZAC Day commemorations.</p><p>Motorists are advised to take extra caution in the area as there is an expected increase in pedestrian activity.</p>",
+        "lastUpdated": 1776459646609,
+        "otherAdvice": "<p>The Illawarra Hwy will be closed from Caalong St to Wallanagunda St for Anzac Day commemorations.</p><p>Motorists should allow extra travel time in the area.</p>",
         "arrangementElements": [],
-        "diversions": "<p>A detour will be in place for Southbound motorists via Albion St, Regent St, Princess St and Bowral Rd.</p><p>Northbound motorists will be detoured via Pioneer St, Edward St and Alice St.</p>",
+        "diversions": "",
         "additionalInfo": [],
         "weblinkName": null,
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1777059000000,
-        "displayName": "ANZAC Day event",
+        "start": 1777071600000,
+        "displayName": "Anzac Day March",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Pioneer Street",
+            "crossStreet": "Caalong Street",
             "delay": "",
             "impactedLanes": [],
             "locationQualifier": "between",
-            "mainStreet": "Old Hume Highway",
+            "mainStreet": "Illawarra Highway",
             "quadrant": "",
             "queueLength": 0,
             "region": "Southern Highlands",
-            "secondLocation": "Fitzroy Street",
-            "suburb": "Mittagong",
+            "secondLocation": "Wallangunda Street",
+            "suburb": "Robertson",
             "trafficVolume": ""
           }
         ],
@@ -5152,12 +5276,12 @@
     },
     {
       "type": "Feature",
-      "id": 270812,
+      "id": 270817,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          144.843436,
-          -34.5100165
+          150.4345037,
+          -35.31514
         ],
         "collections": []
       },
@@ -5168,7 +5292,7 @@
           {
             "closureType": "ROAD_CLOSURE",
             "roadextent": "Closed",
-            "roadtype": "Road",
+            "roadtype": "Highway",
             "direction": "Both directions",
             "finishTime": "12:00pm",
             "fromDay": "Saturday",
@@ -5197,10 +5321,10 @@
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1776459646764,
-        "otherAdvice": "<p>Lachlan St (Cobb Hwy) will be closed in both directions between Bank St and Cadell St for Anzac Day commemorations.</p><p>Motorists are advised to take extra caution in the area as there is an expected increase in pedestrian activity.</p>",
+        "lastUpdated": 1776459646676,
+        "otherAdvice": "<p>Princes Hwy will be closed in both directions between Myrtle St and Croobyar Rd for Anzac Day commemorations.</p><p>Motorists are advised to take extra caution in the area as there is an expected increase in pedestrian activity.</p>",
         "arrangementElements": [],
-        "diversions": "<p>A detour will be in place via Bunker St, Pine St and Murray St.</p>",
+        "diversions": "<p>A detour will be in place via Croobyar Rd and Myrtle St.</p>",
         "additionalInfo": [],
         "weblinkName": null,
         "attendingGroups": null,
@@ -5211,141 +5335,7 @@
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Bank Street",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Lachlan Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Riverina",
-            "secondLocation": "Cadell Street",
-            "suburb": "Hay",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 270810.0,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          148.3687031,
-          -34.5548022
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1776459646000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Check signage",
-        "adviceC": " ",
-        "end": 1777082400000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1776459646697,
-        "otherAdvice": "<p><strong>Neill St and Station St will be closed intermittently between East Street and Station St for Anzac Day commemorations.</strong></p><p>Traffic controllers will be on-site to hold traffic as the ANZAC Day march crosses Albury Street and alternating (stop/slow) traffic conditions will be in place.</p><p>Motorists are advised to take extra caution in the area as there is an expected increase in pedestrian activity.</p>",
-        "arrangementElements": [],
-        "diversions": "<p>Motorists can detour via Neill St, Easter St, Swift St and Station St.</p>",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1777075200000,
-        "displayName": "ANZAC Day event",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "East Street",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Neill Street and Station Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Southern Highlands",
-            "secondLocation": "Station Street",
-            "suburb": "Harden",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 270825,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.1272596,
-          -36.2165429
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1776063561000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Plan your journey",
-        "adviceC": "Exercise caution",
-        "end": 1777082400000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1776459646858,
-        "otherAdvice": "<p>Princes Hwy will be closed in both directions between Field St and Bowen St for approximately 10 minutes for Anzac Day commemorations.</p><p>Motorists are advised to plan their journey and allow extra travel time.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1777075200000,
-        "displayName": "ANZAC Day event",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Field Street",
+            "crossStreet": "Myrtle Street",
             "delay": "",
             "impactedLanes": [],
             "locationQualifier": "between",
@@ -5353,86 +5343,8 @@
             "quadrant": "",
             "queueLength": 0,
             "region": "South Coast",
-            "secondLocation": "Bowen St",
-            "suburb": "Narooma",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 270813,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.5344691,
-          -33.4838167
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Closed",
-            "roadtype": "Road",
-            "direction": "Both directions",
-            "finishTime": "12:30pm",
-            "fromDay": "Saturday",
-            "startTime": "10:30am",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1776459645000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Use diversions",
-        "adviceC": " ",
-        "end": 1777084200000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1776459646373,
-        "otherAdvice": "<p>High St (Kidman Way) will be closed in both directions between Oxley Avenue and McGee Street from 10.30am to 12.30pm for Anzac Day commemorations.</p><p>Motorists are advised to take extra caution in the area as there is an expected increase in pedestrian activity.</p>",
-        "arrangementElements": [],
-        "diversions": "<p>A detour will be in place via Byron St and Molesworth St.</p>",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1777077000000,
-        "displayName": "ANZAC Day event",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Oxley Avenue",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "High Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Riverina",
-            "secondLocation": "McGee Street",
-            "suburb": "Hillston",
+            "secondLocation": "Croobyar Road",
+            "suburb": "Milton",
             "trafficVolume": ""
           }
         ],
@@ -5511,6 +5423,250 @@
             "region": "Southern Highlands",
             "secondLocation": "Waite Street",
             "suburb": "Moss Vale",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 270803,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.4720671,
+          -34.4596049
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Closed",
+            "roadtype": "Road",
+            "direction": "Both directions",
+            "finishTime": "12:00pm",
+            "fromDay": "Saturday",
+            "startTime": "5:00am",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1776459646000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use diversions",
+        "adviceC": " ",
+        "end": 1777082400000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1776459647264,
+        "otherAdvice": "<p>Goulburn Rd will be closed in both directions between Spring St and Warne St from 5am to 12pm for Anzac Day commemorations.</p><p>Motorists are advised to take extra caution in the area as there is an expected increase in pedestrian activity.</p>",
+        "arrangementElements": [],
+        "diversions": "<p>A detour will be in place via Roberts St, Denison St and Warne St.</p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1777057200000,
+        "displayName": "ANZAC Day event",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Warne Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Goulburn Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Southern Highlands",
+            "secondLocation": "Spring Street",
+            "suburb": "Crookwell",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 270796,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.7156122,
+          -34.4427006
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Closed",
+            "roadtype": "Road",
+            "direction": "Both directions",
+            "finishTime": "6:00am",
+            "fromDay": "Saturday",
+            "startTime": "5:30am",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Closed",
+            "roadtype": "Road",
+            "direction": "Both directions",
+            "finishTime": "11:30am",
+            "fromDay": "Saturday",
+            "startTime": "10:30am",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1776459647000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use diversions",
+        "adviceC": " ",
+        "end": 1777084200000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1776459647573,
+        "otherAdvice": "<p>Marsden St will be closed in both directions between Jugiong St and Lachlan Valley Way from 6am to 7am for Anzac Day Dawn Service and 9.30am to 12pm for Anzac Day commemorations. Motorists are advised to take extra caution in the area as there is an expected increase in pedestrian activity.</p>",
+        "arrangementElements": [],
+        "diversions": "<p>Detours will be in place via Brial Steet, Court Street, Pudman Street, Market Street and Jugiong Street.</p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1777060800000,
+        "displayName": "ANZAC Day Dawn Service",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Jugiong St",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Marsden Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Southern Highlands",
+            "secondLocation": "Lachlan Valley Way",
+            "suburb": "Boorowa",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 270923,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.0102542,
+          -35.7751597
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Closed",
+            "roadtype": "Road",
+            "direction": "Both directions",
+            "finishTime": "12:30pm",
+            "fromDay": "Saturday",
+            "startTime": "10:00am",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1776459646000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use diversions",
+        "adviceC": " ",
+        "end": 1777084200000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1776459647365,
+        "otherAdvice": "<p>The Parade will be closed in both directions between York St and Bridge St from 10am to 12.30pm for Anzac Day commemorations.</p><p>Motorists are advised to take extra caution in the area as there is an expected increase in pedestrian activity.</p>",
+        "arrangementElements": [],
+        "diversions": "<p>Motorists an detour via Regent St, Murray St and Kent St or via Hammond St and The Parade.</p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1777075200000,
+        "displayName": "ANZAC Day event",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "York Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "The Parade",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Snowy Mountains",
+            "secondLocation": "Bridge Street",
+            "suburb": "Tumbarumba",
             "trafficVolume": ""
           }
         ],
@@ -5677,250 +5833,6 @@
             "region": "The Murray",
             "secondLocation": "Jerilderie Street",
             "suburb": "Jerilderie",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 270796,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          148.7156122,
-          -34.4427006
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Closed",
-            "roadtype": "Road",
-            "direction": "Both directions",
-            "finishTime": "6:00am",
-            "fromDay": "Saturday",
-            "startTime": "5:30am",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Closed",
-            "roadtype": "Road",
-            "direction": "Both directions",
-            "finishTime": "11:30am",
-            "fromDay": "Saturday",
-            "startTime": "10:30am",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1776459647000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Use diversions",
-        "adviceC": " ",
-        "end": 1777084200000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1776459647573,
-        "otherAdvice": "<p>Marsden St will be closed in both directions between Jugiong St and Lachlan Valley Way from 6am to 7am for Anzac Day Dawn Service and 9.30am to 12pm for Anzac Day commemorations. Motorists are advised to take extra caution in the area as there is an expected increase in pedestrian activity.</p>",
-        "arrangementElements": [],
-        "diversions": "<p>Detours will be in place via Brial Steet, Court Street, Pudman Street, Market Street and Jugiong Street.</p>",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1777060800000,
-        "displayName": "ANZAC Day Dawn Service",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Jugiong St",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Marsden Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Southern Highlands",
-            "secondLocation": "Lachlan Valley Way",
-            "suburb": "Boorowa",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 270803,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          149.4720671,
-          -34.4596049
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Closed",
-            "roadtype": "Road",
-            "direction": "Both directions",
-            "finishTime": "12:00pm",
-            "fromDay": "Saturday",
-            "startTime": "5:00am",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1776459646000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Use diversions",
-        "adviceC": " ",
-        "end": 1777082400000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1776459647264,
-        "otherAdvice": "<p>Goulburn Rd will be closed in both directions between Spring St and Warne St from 5am to 12pm for Anzac Day commemorations.</p><p>Motorists are advised to take extra caution in the area as there is an expected increase in pedestrian activity.</p>",
-        "arrangementElements": [],
-        "diversions": "<p>A detour will be in place via Roberts St, Denison St and Warne St.</p>",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1777057200000,
-        "displayName": "ANZAC Day event",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Warne Street",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Goulburn Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Southern Highlands",
-            "secondLocation": "Spring Street",
-            "suburb": "Crookwell",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 270923,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          148.0102542,
-          -35.7751597
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Closed",
-            "roadtype": "Road",
-            "direction": "Both directions",
-            "finishTime": "12:30pm",
-            "fromDay": "Saturday",
-            "startTime": "10:00am",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1776459646000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Use diversions",
-        "adviceC": " ",
-        "end": 1777084200000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1776459647365,
-        "otherAdvice": "<p>The Parade will be closed in both directions between York St and Bridge St from 10am to 12.30pm for Anzac Day commemorations.</p><p>Motorists are advised to take extra caution in the area as there is an expected increase in pedestrian activity.</p>",
-        "arrangementElements": [],
-        "diversions": "<p>Motorists an detour via Regent St, Murray St and Kent St or via Hammond St and The Parade.</p>",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1777075200000,
-        "displayName": "ANZAC Day event",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "York Street",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "The Parade",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Snowy Mountains",
-            "secondLocation": "Bridge Street",
-            "suburb": "Tumbarumba",
             "trafficVolume": ""
           }
         ],
@@ -9044,97 +8956,6 @@
     },
     {
       "type": "Feature",
-      "id": 271753,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.2088478,
-          -33.8591814
-        ],
-        "collections": [
-          {
-            "type": "Point",
-            "coordinates": [
-              151.202302,
-              -33.856398
-            ]
-          },
-          {
-            "type": "Point",
-            "coordinates": [
-              151.201655,
-              -33.87733
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Vivid Sydney Official event website",
-            "linkURL": "https://www.vividsydney.com/"
-          },
-          {
-            "linkText": "TfNSW Vivid Sydney - top tips to plan your trip",
-            "linkURL": "https://transportnsw.info/events/2026/05/vivid-sydney"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>Trains will not drop off at Circular Quay from 6pm-11pm on Saturdays + Sun 7 Jun. Buses will relocate to Martin Place from 6pm Fridays and 5pm on weekends. Light rail will not run between Circular Quay and Town Hall from 6pm Fridays and 5pm on weekends. Ferries will be busy on weekends and access to wharves at Circular Quay will be different on busy nights – follow signage. For more details and top tips to plan your trip, visit <a href=\"https://transportnsw.info/events/2026/05/vivid-sydney\" target=\"_blank\">transportnsw.info</a>.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1776750362000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Use public transport",
-        "adviceB": "Check signage",
-        "adviceC": " ",
-        "end": 1781359140000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1776750523204,
-        "otherAdvice": "<p>Vivid Sydney returns to light up the city for its 16th year across 23 consecutive nights from Friday 22 May to Saturday 13 June.</p><p><strong>The city is no place for cars with road closures and clearway parking restrictions in place each night</strong> in Circular Quay, The Rocks, Dawes Point and Millers Point between<strong> 3pm and midnight daily, and until 1am on Saturday nights.</strong></p><p>Drone Shows are also returning this year but will take place at Cockle Bay in Darling Harbour twice a night on Sunday to Wednesday nights only (excl Sun 7 June).</p><p><strong>Road closures:</strong></p><ul><li><strong>Monday to Thursdays: </strong>from 3pm local roads in The Rocks, Millers Point and Dawes Point will close including sections of Lower Fort St, Merriman St and Rodens Ln. From 5pm additional roads will close including sections of George St, Argyle St and Argyle Pl, Harrington St and Pottinger St. On Mon-Wed drone show nights only, closures will also be in place from 7pm on Wheat Rd at King St Wharf/Cockle Bay,</li><li><strong>Fridays: </strong>additional closures will be in place from 3pm on High St and High Ln. From 5pm additional closures will be in place including all of Argyle St, and sections of Hickson Rd, George St, Essex St, Upper Fort St and Watson Rd. From 6pm roads in Circular Quay including Pitt, Loftus, Young, Albert and Phillip Streets will close.</li><li><strong>Saturdays + Sun 7 Jun: </strong>local closures will be in place from 3pm, and major roads in Circular Quay, The Rocks, Millers Point and Dawes Point will close from 5pm. Additionally Grosvenor St/Bridge St between York St and Loftus St will be closed - no east/west access via Bridge St during this time. Roads remain closed until 1am. Wheat Rd will close from 7pm to 11pm.</li><li><strong>Sundays + Mon 8 Jun: </strong>local closures will be in place from 3pm, and key roads in Circular Quay, The Rocks, Millers Point and Dawes Point will close from 5pm to midnight listed above. On Sunday drone show nights only, closures will also be in place from 7pm on Wheat Rd at King St Wharf/Cockle Bay,</li><li>12pm Friday to 1am Monday each weekend, George St will close between Lower Fort St and Hickson Rd for The Rocks Markets. </li></ul><p>Special event clearways will be in effect on most major roads in the city between <strong>3pm and midnight</strong> daily during Vivid Sydney. Some clearways will be in effect earlier from 1pm and 2pm on local roads.</p><p>Clearways are strict no-parking zones for all vehicle types, and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1779372000000,
-        "displayName": "Vivid Sydney",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "George St, Hickson Rd, Bridge St",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Circular Quay, The Rocks, Barangaroo, Darling Harbour",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 271757,
       "geometry": {
         "type": "Point",
@@ -9382,94 +9203,6 @@
             "region": "North Coast NSW",
             "secondLocation": "",
             "suburb": "Grafton",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 271730.0,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          149.2318456,
-          -35.3545875
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Closed",
-            "roadtype": "Road",
-            "direction": "Both directions",
-            "finishTime": "6:30am",
-            "fromDay": "Saturday",
-            "startTime": "5:00am",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Closed",
-            "roadtype": "Road",
-            "direction": "Both directions",
-            "finishTime": "11:30am",
-            "fromDay": "Saturday",
-            "startTime": "8:30am",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1776742829000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Use diversions",
-        "adviceC": " ",
-        "end": 1777080600000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1776817305413,
-        "otherAdvice": "<p>Road closures for ANZAC Day Dawn Service and commemorations.</p><p>Motorists are advised to take extra caution in the area as there is an expected increase in pedestrian activity.</p><p><br></p>",
-        "arrangementElements": [],
-        "diversions": "<p>Eastbound motorists will be detoured via Campbell St, Lowe St, Morriset St and Crawford St.</p><p>Westbound motorists will be detoured via Atkinson St, Morriset St, Lowe St, Campbell St, George St and Stornaway Rd.</p>",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1777057200000,
-        "displayName": "ANZAC Day event",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Campbell Street",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Monaro Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Southern Highlands",
-            "secondLocation": "Crawford Street",
-            "suburb": "Queanbeyan",
             "trafficVolume": ""
           }
         ],
@@ -9824,6 +9557,226 @@
             "region": "South Coast",
             "secondLocation": "",
             "suburb": "Barrack Heights",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 271753,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2088478,
+          -33.8591814
+        ],
+        "collections": [
+          {
+            "type": "Point",
+            "coordinates": [
+              151.202302,
+              -33.856398
+            ]
+          },
+          {
+            "type": "Point",
+            "coordinates": [
+              151.201655,
+              -33.87733
+            ]
+          }
+        ]
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Vivid Sydney Official event website",
+            "linkURL": "https://www.vividsydney.com/"
+          },
+          {
+            "linkText": "TfNSW Vivid Sydney - top tips to plan your trip",
+            "linkURL": "https://transportnsw.info/events/2026/05/vivid-sydney"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "<p>Trains will not drop off at Circular Quay from 6pm-11pm on Saturdays + Sun 7 Jun. Buses will relocate to Martin Place from 6pm Fridays and 5pm on weekends. Light rail will not run between Circular Quay and Town Hall from 6pm Fridays and 5pm on weekends. Ferries will be busy on weekends and access to wharves at Circular Quay will be different on busy nights – follow signage. For more details and top tips to plan your trip, visit <a href=\"https://transportnsw.info/events/2026/05/vivid-sydney\" target=\"_blank\">transportnsw.info</a>.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [
+          {
+            "displayName": "Vivid2026_Mondays-Wednesdays_RoadClosuresClearway",
+            "fileName": "Vivid2026_Mondays-Wednesdays_RoadClosuresClearway.pdf",
+            "fileType": "PDF",
+            "linkName": "Vivid2026_Mondays-Wednesdays_RoadClosuresClearway",
+            "sizeInBytes": 1152007,
+            "uniqueFileName": "766532_1776909868323_Vivid2026_Mondays-Wednesdays_RoadClosuresClearway.pdf"
+          },
+          {
+            "displayName": "Vivid2026_Thursdays_RoadClosuresClearway",
+            "fileName": "Vivid2026_Thursdays_RoadClosuresClearway.pdf",
+            "fileType": "PDF",
+            "linkName": "Vivid2026_Thursdays_RoadClosuresClearway",
+            "sizeInBytes": 617268,
+            "uniqueFileName": "750873_1776909872033_Vivid2026_Thursdays_RoadClosuresClearway.pdf"
+          },
+          {
+            "displayName": "Vivid2026_Fridays_RoadClosuresClearway",
+            "fileName": "Vivid2026_Fridays_RoadClosuresClearway.pdf",
+            "fileType": "PDF",
+            "linkName": "Vivid2026_Fridays_RoadClosuresClearway",
+            "sizeInBytes": 783933,
+            "uniqueFileName": "632736_1776909870358_Vivid2026_Fridays_RoadClosuresClearway.pdf"
+          },
+          {
+            "displayName": "Vivid2026_Saturdays_Sun7Jun_RoadClosuresClearway",
+            "fileName": "Vivid2026_Saturdays_Sun7Jun_RoadClosuresClearway.pdf",
+            "fileType": "PDF",
+            "linkName": "Vivid2026_Saturdays_Sun7Jun_RoadClosuresClearway",
+            "sizeInBytes": 808300,
+            "uniqueFileName": "622051_1776909866148_Vivid2026_Saturdays_Sun7Jun_RoadClosuresClearway.pdf"
+          },
+          {
+            "displayName": "Vivid2026_Sundays_RoadClosuresClearway",
+            "fileName": "Vivid2026_Sundays_RoadClosuresClearway.pdf",
+            "fileType": "PDF",
+            "linkName": "Vivid2026_Sundays_RoadClosuresClearway",
+            "sizeInBytes": 787310,
+            "uniqueFileName": "211057_1776909873971_Vivid2026_Sundays_RoadClosuresClearway.pdf"
+          }
+        ],
+        "isInitialReport": false,
+        "created": 1776750362000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Use public transport",
+        "adviceB": "Check signage",
+        "adviceC": " ",
+        "end": 1781359140000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1776909904557,
+        "otherAdvice": "<p>Vivid Sydney returns to light up the city for its 16th year across 23 consecutive nights from Friday 22 May to Saturday 13 June.</p><p><strong>The city is no place for cars with road closures and clearway parking restrictions in place each night</strong> in Circular Quay, The Rocks, Dawes Point and Millers Point between<strong> 3pm and midnight daily, and until 1am on Saturday nights.</strong></p><p>Drone Shows are also returning this year but will take place at Cockle Bay in Darling Harbour twice a night on Sunday to Wednesday nights only (excl Sun 7 June).</p><p><strong>Road closures:</strong></p><ul><li><strong>Monday to Thursdays: </strong>from 3pm local roads in The Rocks, Millers Point and Dawes Point will close including sections of Lower Fort St, Merriman St and Rodens Ln. From 5pm additional roads will close including sections of George St, Argyle St and Argyle Pl, Harrington St and Pottinger St. On Mon-Wed drone show nights only, closures will also be in place from 7pm on Wheat Rd at King St Wharf/Cockle Bay,</li><li><strong>Fridays: </strong>additional closures will be in place from 3pm on High St and High Ln. From 5pm additional closures will be in place including all of Argyle St, and sections of Hickson Rd, George St, Essex St, Upper Fort St and Watson Rd. From 6pm roads in Circular Quay including Pitt, Loftus, Young, Albert and Phillip Streets will close.</li><li><strong>Saturdays + Sun 7 Jun: </strong>local closures will be in place from 3pm, and major roads in Circular Quay, The Rocks, Millers Point and Dawes Point will close from 5pm. Additionally Grosvenor St/Bridge St between York St and Loftus St will be closed - no east/west access via Bridge St during this time. Roads remain closed until 1am. Wheat Rd will close from 7pm to 11pm.</li><li><strong>Sundays + Mon 8 Jun: </strong>local closures will be in place from 3pm, and key roads in Circular Quay, The Rocks, Millers Point and Dawes Point will close from 5pm to midnight listed above. On Sunday drone show nights only, closures will also be in place from 7pm on Wheat Rd at King St Wharf/Cockle Bay,</li><li>12pm Friday to 1am Monday each weekend, George St will close between Lower Fort St and Hickson Rd for The Rocks Markets. </li></ul><p>Special event clearways will be in effect on most major roads in the city between <strong>3pm and midnight</strong> daily during Vivid Sydney. Some clearways will be in effect earlier from 1pm and 2pm on local roads.</p><p>Clearways are strict no-parking zones for all vehicle types, and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1779372000000,
+        "displayName": "Vivid Sydney",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "George St, Hickson Rd, Bridge St",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Circular Quay, The Rocks, Barangaroo, Darling Harbour",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 270208,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.2772142,
+          -31.273442
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "6:30am",
+            "fromDay": "Friday",
+            "startTime": "5:30am",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "1:00pm",
+            "fromDay": "Friday",
+            "startTime": "10:00am",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1776456051000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Exercise caution",
+        "adviceB": "Check signage",
+        "adviceC": "Use diversions",
+        "end": 1777086000000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1776918326447,
+        "otherAdvice": "<p>The Newell Highway (John Street) will be closed for the following ANZAC Day events:</p><ul><li>Between Castlereagh Street and Little Timor Street from 5.50am and 6.20am for the dawn service.</li><li>Between Edwards Street and Essex Street from 10am to 1pm for the march and commemorations.</li></ul>",
+        "arrangementElements": [],
+        "diversions": "<p>There will be a detour via Edwards Street, Namoi Street and Saleyards Road and Gardener Street. Motorists should be aware of increased pedestrian activity in the area and follow the direction of signs and traffic controllers.</p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1777060200000,
+        "displayName": "ANZAC Day events",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Castlereagh Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "John Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Central NSW",
+            "secondLocation": "Little Timor Street",
+            "suburb": "Coonabarabran",
             "trafficVolume": ""
           }
         ],
