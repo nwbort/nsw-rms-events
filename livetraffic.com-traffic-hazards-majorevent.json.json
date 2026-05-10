@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1778314320000,
+  "lastPublished": 1778401050000,
   "layerName": "MajorEvent",
   "rights": {
     "copyright": "Transport for NSW",
@@ -336,360 +336,6 @@
     },
     {
       "type": "Feature",
-      "id": 269797,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.2129386,
-          -33.8706086
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>Routes 441, 504 and 506 will be diverting while road closures are in place. Visit <a href=\"https://transportnsw.info/events/2026/05/mothers-day-classic-sydney\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [
-          {
-            "displayName": "Mothers_Day_Classic_map_2026",
-            "fileName": "Mothers_Day_Classic_map_2026.pdf",
-            "fileType": "PDF",
-            "linkName": "Mothers_Day_Classic_map_2026",
-            "sizeInBytes": 680236,
-            "uniqueFileName": "592871_1775002062854_Mothers_Day_Classic_map_2026.pdf"
-          }
-        ],
-        "isInitialReport": false,
-        "created": 1776127872000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Check signage",
-        "adviceC": "Use public transport",
-        "end": 1778378400000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1777426041637,
-        "otherAdvice": "<p>Thousands of participants will take part in the 5km and 10km Mother&#39;s Day Classic fun run and walk events starting from 7am in The Domain. Participants will travel along sections of Macquarie St, College St then Art Gallery Rd and Mrs Macquarie&#39;s Rd to finish back in The Domain by approximately 12pm.</p><p>Mother&#39;s Day is traditionally one of the busiest days on the roads. Wherever you are travelling, expect it to take longer than usual and factor in extra travel time. </p><p><strong>ROAD CLOSURES</strong></p><ul><li><strong>5am to 12pm midday: </strong>Art Gallery Rd/Mrs Macquarie&#39;s Rd from Prince Albert Rd. </li><li><strong>5am to 10.30am:</strong> Hospital Rd and a section of Prince Albert Rd. Access to Sydney Hospital and Hospital Rd is via Shakespeare Pl only in both directions.</li><li><strong>6am to 10.30am: </strong>Macquarie St between St James Rd and Hunter St, College St between Park St and Prince Albert Rd and sections of St James Rd, Prince Albert Rd, St Mary&#39;s Rd and Yurong Pkwy will be closed.</li></ul><p><strong>Special event clearways will be in effect from 5am to 10.30am on sections of Macquarie St, Hunter St, College St, Prince Albert Rd, St Mary&#39;s Rd and St James Rd. Clearways will also be in effect on sections of Prince Albert Rd and Hospital Rd from 5am to 12pm midday.</strong></p><p>Clearways are strict no-parking zones for all vehicle types and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator. </p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1778335200000,
-        "displayName": "Mother's Day Classic Sydney",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "The Domain",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "to",
-            "mainStreet": "Macquarie St, Prince Albert Rd, College St, Art Gallery Rd",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Sydney CBD",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 271049,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.1998229,
-          -33.8772175
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "TikTok Entertainment Centre - What's On",
-            "linkURL": "https://tiktokentcent.com/whats-on/"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info\" target=\"_blank\">transportnsw.info</a> to plan your trip. </p>",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1777418205000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": " ",
-        "adviceC": " ",
-        "end": 1780147800000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1777824002368,
-        "otherAdvice": "<p><strong>May shows at the TikTok Entertainment Centre:</strong></p><ul><li><strong>Saturday 9 May</strong>: <a href=\"https://tiktokentcent.com/event/dr-satinder-sartaaj/\" target=\"_blank\">Dr. Satinder Sartaaj</a> at 7.30pm</li><li><strong>Saturday 16 May</strong>: <a href=\"https://tiktokentcent.com/event/five/\" target=\"_blank\">FIVE</a> at 8pm</li><li><strong>Monday 18 &amp; Tuesday 19 May</strong>: <a href=\"https://tiktokentcent.com/event/split-enz-forever-enz-tour-2026/\" target=\"_blank\">Split Enz - Forever Enz Tour 2026</a>. Shows start nightly at 8pm</li><li><strong>Wednesday 20 &amp; Thursday 21 May</strong>: <a href=\"https://tiktokentcent.com/event/michelle-obama/\" target=\"_blank\">Michelle Obama</a>. Shows starts nightly at 7.30pm</li><li><strong>Saturday 30 May</strong>: <a href=\"https://tiktokentcent.com/event/nancy-ajram/\" target=\"_blank\">Nancy Ajram</a> at 7.30pm</li></ul><p>Traffic may be heavier than usual as attendees travel to and from the event. Motorists should allow extra travel time and be aware of increased pedestrian activity on local roads.</p><p>From Friday 22 May, traffic delays are expected as Vivid takes place in and around the Harbour Foreshore. Ticketholders to ICC events are urged to plan ahead if attending a show while Vivid is also on.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1777730400000,
-        "displayName": "Shows",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "TikTok Entertainment Centre",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "Darling Drive",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Darling Harbour",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 271848,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.2720823,
-          -33.7614225
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "<p>Additional route 199 buses will also run towards Manly and Mona Vale after the game to help you get home. Major trackwork is taking place on the City Circle and Metro lines. Visit <a href=\"https://transportnsw.info/events/2026/05/nrl-sea-eagles-v-broncos\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1777862933000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Use public transport",
-        "adviceC": " ",
-        "end": 1778328000000,
-        "hideEndDate": true,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1777862934051,
-        "otherAdvice": "<p><strong>NRL: Sea Eagles v Broncos at 4 Pines Park in Brookvale. Prelim matches from 5pm. NRL kick-off at 7.35pm and full time around 9.10pm.</strong></p><p>Traffic will be heavier than usual as fans travel to and from the match. Allow extra travel time on roads approaching the stadium, including Pittwater Rd, Old Pittwater Rd, Warringah Rd and Beacon Hill Rd.</p><p>Motorists should plan to arrive early as parking will be in high demand, and also be aware of increased pedestrian activity on local roads.</p><p><strong>NOTE</strong>: There is <strong>no parking</strong> on the southern side of Federal Pde between Pine Ave and Alfred Rd permitted from 8pm the night before the match until the crowd has safely cleared the stadium after full time on game day. </p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1778248800000,
-        "displayName": "NRL",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Brookvale Oval",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Pittwater Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Brookvale",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 271844,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.0647225,
-          -33.8453388
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>Match tickets include travel on all modes of public transport for both games. Major trackwork is taking place across City Circle and Metro services. Visit <a href=\"https://transportnsw.info/events/\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1777862893000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Use public transport",
-        "adviceB": "Allow extra travel time",
-        "adviceC": " ",
-        "end": 1778321700000,
-        "hideEndDate": true,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1777862940036,
-        "otherAdvice": "<p><strong>Events on a Sydney Olympic Park on Saturday 9 May:</strong></p><ul><li><strong>AFL: GWS Giants v Essendon at ENGIE Stadium. First Bounce at 4.15pm and full time at 6.45pm.</strong></li><li><strong>NRL: Rabbitohs v Sharks at Accor Stadium. Kick off at 5.30pm, full time at 7.15pm.</strong></li></ul><p>Motorists should allow extra travel time on roads including the M4 Mwy, Homebush Bay Dr, Concord Rd, Lane Cove Rd, Parramatta Rd, Centenary Dr and Silverwater Rd.</p><p>If you need to drive, <a href=\"https://www.sydneyolympicpark.com.au/parking/\" target=\"_blank\">pre-book parking online</a> in advance to secure a space. Follow the directions of staff and have your parking ticket ready to show at the car park entry.</p><p>Sydney Olympic Park Authority may close some local roads to accommodate increased public transport services and ensure pedestrian safety during events. For road closure details, visit the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">Sydney Olympic Park interactive map</a> for more details. </p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1778248800000,
-        "displayName": "AFL & NRL",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "ENGIE Stadium",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road, Centenary Drive",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Sydney Olympic Park",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 270778,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.9980245,
-          -33.8139768
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Mother's Day Classic- Parramatta",
-            "linkURL": "https://www.mothersdayclassic.com.au/event/mothers-day-classic-parramatta"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2026/05/mothers-day-classic-parramatta\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1777863004000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Use public transport",
-        "adviceC": " ",
-        "end": 1778380200000,
-        "hideEndDate": true,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1777863005371,
-        "otherAdvice": "<p><strong>Mother&#39;s Day Classic fun run &amp; walk is taking place at Parramatta Park from 7am. </strong></p><p>Parramatta Park will be closed from 6am to 12pm. No parking or vehicle access will be available within the park during this time.</p><p>Traffic will be heavy on roads approaching and within Parramatta as attendees travel to and from the event. Allow extra travel time on Parramatta Rd, Church St, Victoria Rd, James Ruse Dr and Pennant Hills Rd.</p><p>Motorists should allow extra travel time and be aware of increased pedestrian activity on roads in the area</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1778335200000,
-        "displayName": "Mother's Day Classic",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Parramatta Park",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "O'Connell Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Parramatta",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 272548,
       "geometry": {
         "type": "Point",
@@ -752,96 +398,6 @@
           }
         ],
         "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 273088,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.2229748,
-          -33.8888367
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>City Circle trains and Sydney Metro services will not operate due to planned trackwork. Match tickets include travel on transport. Visit <a href=\"https://transportnsw.info/events/2026/05/league-men-semi-finals-sydney-fc-v-newcastle-jets\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [
-          {
-            "displayName": "ClearwayMap_MoorePark_LangRd",
-            "fileName": "ClearwayMap_MoorePark_LangRd.pdf",
-            "fileType": "PDF",
-            "linkName": "ClearwayMap_MoorePark_LangRd",
-            "sizeInBytes": 208542,
-            "uniqueFileName": "505959_1772576559472_ClearwayMap_MoorePark_LangRd.pdf"
-          },
-          {
-            "displayName": "Moore-Park-events-transport-map",
-            "fileName": "Moore-Park-events-transport-map.pdf",
-            "fileType": "PDF",
-            "linkName": "Moore-Park-events-transport-map",
-            "sizeInBytes": 692771,
-            "uniqueFileName": "103581_1775000684637_Moore-Park-events-transport-map.pdf"
-          }
-        ],
-        "isInitialReport": false,
-        "created": 1777849466000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Use public transport",
-        "adviceB": "Check signage",
-        "adviceC": "Allow extra travel time",
-        "end": 1778329800000,
-        "hideEndDate": true,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1777863296605,
-        "otherAdvice": "<p><strong>A-League Men Semi Final: Sydney FC v Newcastle Jets at Allianz Stadium. Kick off from 7.40pm, full time approximately 9.30pm</strong></p><p>Traffic will be heavier than usual in the area as fans travel to the stadium. Motorists should allow extra travel time on Anzac Pde, Lang Rd, Oxford St, Syd Einfeld Drive, Darley Rd, York Rd and Alison Rd.</p><ul><li>Driver Avenue will be partially closed outside the stadium at 4.30pm and will reopen once crowds have safely cleared the area.  </li><li>No through-traffic will be available on Driver Avenue, however access to EP3 grass car park and drop-off areas maintained from Lang Road. Car parks open at 4.40pm</li><li><strong>Special event clearways will be in effect on roads</strong> <strong>from 3pm to 11pm </strong>including sections of Albion Street, Fitzroy Street and Lang Road, and <strong>from 6am to 11pm </strong>on Cleveland Street.  </li></ul><p>Clearways are strict no-parking zones for all vehicle types and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed\" target=\"_blank\">Find My Car website</a> to find its new location, or alternatively call 132 701 to speak to an operator</p>",
-        "arrangementElements": [
-          {
-            "html": "<p>Clearways are <strong>strict</strong> no-parking zones and also apply to local residents and Mobility Scheme Permit holders. Check signs before parking as vehicles left in special event clearways will be towed and a towing fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed/what-to-do\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator. </p><p><strong>From 6am to 11pm</strong> </p><ul><li>Cleveland Street between South Dowling Street and City Road (southern side) </li><li>Cleveland Street between Abercrombie Street and South Dowling Street (northern side) </li></ul><p><strong>From 3pm to 11pm</strong> </p><ul><li>Albion Street between Bourke Street and Flinders Street (both sides) </li><li>Fitzroy Street between South Dowling Street and Bourke Street (northern side) </li><li>Lang Road between Anzac Parade and Errol Flynn Boulevard (northern side)</li></ul>",
-            "title": "Special Event Clearways",
-            "id": "827073"
-          }
-        ],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1778248800000,
-        "displayName": "A-League Semi Final",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Allianz Stadium",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Anzac Parade",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Moore Park",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "Local road",
         "CategoryIcon": "PublicEvent"
       }
     },
@@ -1221,78 +777,6 @@
     },
     {
       "type": "Feature",
-      "id": 273277,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.27999,
-          -28.810846
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Groovin The Moo",
-            "linkURL": "https://gtm.net.au/"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/\" target=\"_blank\">transportnsw.info</a> to plan your trip on public transport.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1777957191000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Check signage",
-        "adviceC": "Use diversions",
-        "end": 1778328000000,
-        "hideEndDate": true,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1778041943735,
-        "otherAdvice": "<p><strong>Groovin The Moo Music Festival returns Saturday the 9th of May</strong></p><p>There will be increased pedestrian activity with over 7,000 attendees expected</p><p>The following road closures will be in place from 11am to 10pm:</p><ul><li>Dawson Street - between Woodlark Street and Magellan Street</li><li>Magellan Street - between Dawson Street and Cathcart Street</li></ul><p>Traffic controllers will be on site to direct motorists.</p><p>For shuttle services to the event visit the website: <a href=\"https://gtm.net.au/camping-and-shuttles/\" target=\"_blank\">Groovin The Moo - Shuttles</a></p>",
-        "arrangementElements": [],
-        "diversions": "<p>Motorists will be diverted via Diadem Street and Uralba Street.</p>",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1778288400000,
-        "displayName": "Groovin The Moo",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Oakes Oval",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Dawson Street and Magellan Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "North Coast NSW",
-            "secondLocation": "",
-            "suburb": "Lismore",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 272112,
       "geometry": {
         "type": "Point",
@@ -1598,12 +1082,12 @@
     },
     {
       "type": "Feature",
-      "id": 271841,
+      "id": 271844,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.3391972,
-          -33.4280843
+          151.0647225,
+          -33.8453388
         ],
         "collections": []
       },
@@ -1616,24 +1100,24 @@
         "expectedDelay": -1,
         "ended": true,
         "isNewIncident": false,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2026/05/nrl-roosters-v-titans\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "publicTransport": "<p>Match tickets include travel on all modes of public transport for both games. Major trackwork is taking place across City Circle and Metro services. Visit <a href=\"https://transportnsw.info/events/\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
         "impactingNetwork": false,
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1777614520000,
+        "created": 1777862893000,
         "isMajor": false,
         "name": null,
         "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Exercise caution",
+        "adviceA": "Use public transport",
+        "adviceB": "Allow extra travel time",
         "adviceC": " ",
-        "end": 1778237100000,
-        "hideEndDate": false,
+        "end": 1778321700000,
+        "hideEndDate": true,
         "incidentKind": "Planned",
         "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1778237104964,
-        "otherAdvice": "<p><strong>NRL Roosters v Titans at polytec Stadium in Gosford</strong>. Kick off at 6pm, full time approximately 7.50pm</p><p>Traffic will be heavier than usual on roads approaching the stadium as fans travel to and from the match. Allow extra travel time and use local parking. </p><p>Dane Drive will be closed from 3.30pm between the Central Coast Highway and Donnison Street and will reopen once crowds have cleared the area</p>",
+        "lastUpdated": 1778321701531,
+        "otherAdvice": "<p><strong>Events on a Sydney Olympic Park on Saturday 9 May:</strong></p><ul><li><strong>AFL: GWS Giants v Essendon at ENGIE Stadium. First Bounce at 4.15pm and full time at 6.45pm.</strong></li><li><strong>NRL: Rabbitohs v Sharks at Accor Stadium. Kick off at 5.30pm, full time at 7.15pm.</strong></li></ul><p>Motorists should allow extra travel time on roads including the M4 Mwy, Homebush Bay Dr, Concord Rd, Lane Cove Rd, Parramatta Rd, Centenary Dr and Silverwater Rd.</p><p>If you need to drive, <a href=\"https://www.sydneyolympicpark.com.au/parking/\" target=\"_blank\">pre-book parking online</a> in advance to secure a space. Follow the directions of staff and have your parking ticket ready to show at the car park entry.</p><p>Sydney Olympic Park Authority may close some local roads to accommodate increased public transport services and ensure pedestrian safety during events. For road closure details, visit the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">Sydney Olympic Park interactive map</a> for more details. </p>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
@@ -1641,21 +1125,21 @@
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1778162400000,
-        "displayName": "NRL",
+        "start": 1778248800000,
+        "displayName": "AFL & NRL",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Central Coast Highway",
+            "crossStreet": "ENGIE Stadium",
             "delay": "",
             "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Dane Drive",
+            "locationQualifier": "approaching",
+            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road, Centenary Drive",
             "quadrant": "",
             "queueLength": 0,
-            "region": "Central Coast",
-            "secondLocation": "Donnison Street",
-            "suburb": "Gosford",
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Sydney Olympic Park",
             "trafficVolume": ""
           }
         ],
@@ -1665,12 +1149,12 @@
     },
     {
       "type": "Feature",
-      "id": 271846,
+      "id": 271848,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          150.9017008,
-          -34.4285234
+          151.2720823,
+          -33.7614225
         ],
         "collections": []
       },
@@ -1683,24 +1167,24 @@
         "expectedDelay": -1,
         "ended": true,
         "isNewIncident": false,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2026/05/nrl-dragons-v-knights\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "publicTransport": "<p>Additional route 199 buses will also run towards Manly and Mona Vale after the game to help you get home. Major trackwork is taking place on the City Circle and Metro lines. Visit <a href=\"https://transportnsw.info/events/2026/05/nrl-sea-eagles-v-broncos\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
         "impactingNetwork": false,
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1777614752000,
+        "created": 1777862933000,
         "isMajor": false,
         "name": null,
         "subCategoryA": "null",
-        "adviceA": "Use public transport",
-        "adviceB": "Allow extra travel time",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use public transport",
         "adviceC": " ",
-        "end": 1778313600000,
-        "hideEndDate": false,
+        "end": 1778328000000,
+        "hideEndDate": true,
         "incidentKind": "Planned",
         "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1778313603065,
-        "otherAdvice": "<p><strong>NRL: Dragons v Knights at WIN Stadium. Kick-off at 3pm, full time around 5pm.</strong></p><p>Traffic will be heavier than usual on roads approaching the Wollongong CBD and on local roads as fans travel to and from the match.</p><p>Local roads around the stadium may close before, during and after the show for the safety of pedestrians.</p><p>Fans driving to the game on the freeway are encouraged to use the Masters Rd exit to avoid congestion at Mount Ousley Rd, both in and out of Wollongong.</p><p>Motorists should allow extra time for parking and be aware of increased pedestrian activity on local roads.</p>",
+        "lastUpdated": 1778328005155,
+        "otherAdvice": "<p><strong>NRL: Sea Eagles v Broncos at 4 Pines Park in Brookvale. Prelim matches from 5pm. NRL kick-off at 7.35pm and full time around 9.10pm.</strong></p><p>Traffic will be heavier than usual as fans travel to and from the match. Allow extra travel time on roads approaching the stadium, including Pittwater Rd, Old Pittwater Rd, Warringah Rd and Beacon Hill Rd.</p><p>Motorists should plan to arrive early as parking will be in high demand, and also be aware of increased pedestrian activity on local roads.</p><p><strong>NOTE</strong>: There is <strong>no parking</strong> on the southern side of Federal Pde between Pine Ave and Alfred Rd permitted from 8pm the night before the match until the crowd has safely cleared the stadium after full time on game day. </p>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
@@ -1713,16 +1197,398 @@
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "WIN Stadium",
+            "crossStreet": "Brookvale Oval",
             "delay": "",
             "impactedLanes": [],
             "locationQualifier": "at",
-            "mainStreet": "Harbour Street",
+            "mainStreet": "Pittwater Road",
             "quadrant": "",
             "queueLength": 0,
-            "region": "South Coast",
+            "region": "Sydney",
             "secondLocation": "",
-            "suburb": "Wollongong",
+            "suburb": "Brookvale",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 273277,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.27999,
+          -28.810846
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Groovin The Moo",
+            "linkURL": "https://gtm.net.au/"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/\" target=\"_blank\">transportnsw.info</a> to plan your trip on public transport.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1777957191000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Check signage",
+        "adviceC": "Use diversions",
+        "end": 1778328000000,
+        "hideEndDate": true,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1778328005152,
+        "otherAdvice": "<p><strong>Groovin The Moo Music Festival returns Saturday the 9th of May</strong></p><p>There will be increased pedestrian activity with over 7,000 attendees expected</p><p>The following road closures will be in place from 11am to 10pm:</p><ul><li>Dawson Street - between Woodlark Street and Magellan Street</li><li>Magellan Street - between Dawson Street and Cathcart Street</li></ul><p>Traffic controllers will be on site to direct motorists.</p><p>For shuttle services to the event visit the website: <a href=\"https://gtm.net.au/camping-and-shuttles/\" target=\"_blank\">Groovin The Moo - Shuttles</a></p>",
+        "arrangementElements": [],
+        "diversions": "<p>Motorists will be diverted via Diadem Street and Uralba Street.</p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1778288400000,
+        "displayName": "Groovin The Moo",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Oakes Oval",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Dawson Street and Magellan Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "North Coast NSW",
+            "secondLocation": "",
+            "suburb": "Lismore",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 273088,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2229748,
+          -33.8888367
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p>City Circle trains and Sydney Metro services will not operate due to planned trackwork. Match tickets include travel on transport. Visit <a href=\"https://transportnsw.info/events/2026/05/league-men-semi-finals-sydney-fc-v-newcastle-jets\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [
+          {
+            "displayName": "ClearwayMap_MoorePark_LangRd",
+            "fileName": "ClearwayMap_MoorePark_LangRd.pdf",
+            "fileType": "PDF",
+            "linkName": "ClearwayMap_MoorePark_LangRd",
+            "sizeInBytes": 208542,
+            "uniqueFileName": "505959_1772576559472_ClearwayMap_MoorePark_LangRd.pdf"
+          },
+          {
+            "displayName": "Moore-Park-events-transport-map",
+            "fileName": "Moore-Park-events-transport-map.pdf",
+            "fileType": "PDF",
+            "linkName": "Moore-Park-events-transport-map",
+            "sizeInBytes": 692771,
+            "uniqueFileName": "103581_1775000684637_Moore-Park-events-transport-map.pdf"
+          }
+        ],
+        "isInitialReport": false,
+        "created": 1777849466000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Use public transport",
+        "adviceB": "Check signage",
+        "adviceC": "Allow extra travel time",
+        "end": 1778329800000,
+        "hideEndDate": true,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1778329802260,
+        "otherAdvice": "<p><strong>A-League Men Semi Final: Sydney FC v Newcastle Jets at Allianz Stadium. Kick off from 7.40pm, full time approximately 9.30pm</strong></p><p>Traffic will be heavier than usual in the area as fans travel to the stadium. Motorists should allow extra travel time on Anzac Pde, Lang Rd, Oxford St, Syd Einfeld Drive, Darley Rd, York Rd and Alison Rd.</p><ul><li>Driver Avenue will be partially closed outside the stadium at 4.30pm and will reopen once crowds have safely cleared the area.  </li><li>No through-traffic will be available on Driver Avenue, however access to EP3 grass car park and drop-off areas maintained from Lang Road. Car parks open at 4.40pm</li><li><strong>Special event clearways will be in effect on roads</strong> <strong>from 3pm to 11pm </strong>including sections of Albion Street, Fitzroy Street and Lang Road, and <strong>from 6am to 11pm </strong>on Cleveland Street.  </li></ul><p>Clearways are strict no-parking zones for all vehicle types and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed\" target=\"_blank\">Find My Car website</a> to find its new location, or alternatively call 132 701 to speak to an operator</p>",
+        "arrangementElements": [
+          {
+            "html": "<p>Clearways are <strong>strict</strong> no-parking zones and also apply to local residents and Mobility Scheme Permit holders. Check signs before parking as vehicles left in special event clearways will be towed and a towing fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed/what-to-do\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator. </p><p><strong>From 6am to 11pm</strong> </p><ul><li>Cleveland Street between South Dowling Street and City Road (southern side) </li><li>Cleveland Street between Abercrombie Street and South Dowling Street (northern side) </li></ul><p><strong>From 3pm to 11pm</strong> </p><ul><li>Albion Street between Bourke Street and Flinders Street (both sides) </li><li>Fitzroy Street between South Dowling Street and Bourke Street (northern side) </li><li>Lang Road between Anzac Parade and Errol Flynn Boulevard (northern side)</li></ul>",
+            "title": "Special Event Clearways",
+            "id": "831188"
+          }
+        ],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1778248800000,
+        "displayName": "A-League Semi Final",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Allianz Stadium",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Anzac Parade",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Moore Park",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "Local road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 271049,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1998229,
+          -33.8772175
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "TikTok Entertainment Centre - What's On",
+            "linkURL": "https://tiktokentcent.com/whats-on/"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info\" target=\"_blank\">transportnsw.info</a> to plan your trip. </p>",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1777418205000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": " ",
+        "adviceC": " ",
+        "end": 1780147800000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1778342403097,
+        "otherAdvice": "<p><strong>May shows at the TikTok Entertainment Centre:</strong></p><ul><li><strong>Saturday 16 May</strong>: <a href=\"https://tiktokentcent.com/event/five/\" target=\"_blank\">FIVE</a> at 8pm</li><li><strong>Monday 18 &amp; Tuesday 19 May</strong>: <a href=\"https://tiktokentcent.com/event/split-enz-forever-enz-tour-2026/\" target=\"_blank\">Split Enz - Forever Enz Tour 2026</a>. Shows start nightly at 8pm</li><li><strong>Wednesday 20 &amp; Thursday 21 May</strong>: <a href=\"https://tiktokentcent.com/event/michelle-obama/\" target=\"_blank\">Michelle Obama</a>. Shows starts nightly at 7.30pm</li><li><strong>Saturday 30 May</strong>: <a href=\"https://tiktokentcent.com/event/nancy-ajram/\" target=\"_blank\">Nancy Ajram</a> at 7.30pm</li></ul><p>Traffic may be heavier than usual as attendees travel to and from the event. Motorists should allow extra travel time and be aware of increased pedestrian activity on local roads.</p><p>From Friday 22 May, traffic delays are expected as Vivid takes place in and around the Harbour Foreshore. Ticketholders to ICC events are urged to plan ahead if attending a show while Vivid is also on.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1777730400000,
+        "displayName": "Shows",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "TikTok Entertainment Centre",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "approaching",
+            "mainStreet": "Darling Drive",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Darling Harbour",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 269797,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2144331,
+          -33.869796
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p>Routes 441, 504 and 506 are diverting while road closures are in place. Visit <a href=\"https://transportnsw.info/events/2026/05/mothers-day-classic-sydney\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [
+          {
+            "displayName": "Mothers_Day_Classic_map_2026",
+            "fileName": "Mothers_Day_Classic_map_2026.pdf",
+            "fileType": "PDF",
+            "linkName": "Mothers_Day_Classic_map_2026",
+            "sizeInBytes": 680236,
+            "uniqueFileName": "592871_1775002062854_Mothers_Day_Classic_map_2026.pdf"
+          }
+        ],
+        "isInitialReport": false,
+        "created": 1776127872000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Check signage",
+        "adviceC": "Use public transport",
+        "end": 1778378400000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1778378461789,
+        "otherAdvice": "<p><strong>Art Gallery Rd is closed until 12pm midday as the Mother&#39;s Day Classic fun run and walk continues within The Domain. </strong></p><p>Mother&#39;s Day is traditionally one of the busiest days on the roads. Wherever you are travelling, expect it to take longer than usual and factor in extra travel time. </p><p><strong>ROAD CLOSURES</strong></p><ul><li><strong>CLOSED**5am to 12pm midday: </strong>Art Gallery Rd/Mrs Macquarie&#39;s Rd from Prince Albert Rd. </li></ul><p><strong>Special event clearways are in still in effect until on St James Rd and on sections of Prince Albert Rd and Hospital Rd until 12pm midday.</strong></p><p>Clearways are strict no-parking zones for all vehicle types and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator. </p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1778335200000,
+        "displayName": "Mother's Day Classic Sydney",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "The Domain",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "to",
+            "mainStreet": "Macquarie St, Prince Albert Rd, College St, Art Gallery Rd",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Sydney CBD",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 270778,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.9980245,
+          -33.8139768
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Mother's Day Classic- Parramatta",
+            "linkURL": "https://www.mothersdayclassic.com.au/event/mothers-day-classic-parramatta"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2026/05/mothers-day-classic-parramatta\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1777863004000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use public transport",
+        "adviceC": " ",
+        "end": 1778380200000,
+        "hideEndDate": true,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1778380266433,
+        "otherAdvice": "<p><strong>Mother&#39;s Day Classic fun run &amp; walk is taking place at Parramatta Park from 7am. </strong></p><p>Parramatta Park will be closed from 6am to 12pm. No parking or vehicle access will be available within the park during this time.</p><p>Traffic will be heavy on roads approaching and within Parramatta as attendees travel to and from the event. Allow extra travel time on Parramatta Rd, Church St, Victoria Rd, James Ruse Dr and Pennant Hills Rd.</p><p>Motorists should allow extra travel time and be aware of increased pedestrian activity on roads in the area</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1778335200000,
+        "displayName": "Mother's Day Classic",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Parramatta Park",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "O'Connell Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Parramatta",
             "trafficVolume": ""
           }
         ],
