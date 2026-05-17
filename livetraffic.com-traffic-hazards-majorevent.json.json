@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1778919480000,
+  "lastPublished": 1779006780000,
   "layerName": "MajorEvent",
   "rights": {
     "copyright": "Transport for NSW",
@@ -204,285 +204,6 @@
     },
     {
       "type": "Feature",
-      "id": 272548,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.0628424,
-          -33.8429427
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "<p>Major trackwork is taking place on metro, trains and light rail network. Visit <a href=\"https://transportnsw.info/events/2026/05/bikes-bulls\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1777863074000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Use public transport",
-        "adviceC": " ",
-        "end": 1778932800000,
-        "hideEndDate": true,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1777863075645,
-        "otherAdvice": "<p><strong>Bikes &amp; Bulls at Qudos Bank Arena in Sydney Olympic Park on Saturday 16 May. Show starts at 6.30pm</strong></p><p>Traffic delays are expected as attendees make their way to Olympic Park each day. Motorists should allow extra travel time on roads including the M4 Mwy, Homebush Bay Dr, Concord Rd, Lane Cove Rd, Parramatta Rd, Centenary Dr and Silverwater Rd.</p><p>Fans driving should <a href=\"https://www.sydneyolympicpark.com.au/parking/\" target=\"_blank\">pre-book parking online</a> in advance to secure a space, available until 11:59pm the night before the show unless sold out prior. If you have pre-booked your parking, follow the directions of staff and have your parking ticket ready to show at the car park entry.</p><p>Road closures may be in place. Check out the Sydney Olympic Park Authority <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a> for more details.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1778853600000,
-        "displayName": "Show",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Qudos Bank Arena",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Sydney Olympic Park",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 272549,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.724538,
-          -32.9181979
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "<p>Buses replace trains on the Central Coast &amp; Newcastle Line as well as the Hunter Line due to planned weekend trackwork. Free event shuttle bus services will operate for the game. Visit <a href=\"https://transportnsw.info/events/2026/05/league-men-semi-final-newcastle-jets-v-tbc\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1777863327000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": " ",
-        "adviceC": " ",
-        "end": 1778935500000,
-        "hideEndDate": true,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1777863328137,
-        "otherAdvice": "<p><strong>A-League Men Semi Final Newcastle Jets v Syd FC at McDonald Jones Stadium. Kick-off at 7.40pm. Full time at approx. 9.40pm.</strong></p><p>Traffic may be heavier than usual as fans travel to and from the match. Allow extra travel time on Turton Rd, Griffiths Rd, Newcastle Rd, Lambton Rd and Bridges Rd through Broadmeadow while fans are making their way to and from the stadium.</p><p>For passenger drop-off, use the allocated 10-minute loading zone in the McDonald Jones Stadium car park. Entry is via the driveway off Turton Road.</p><p>Motorists should allow extra travel time and be aware of increased pedestrian activity on local roads.<strong>﻿</strong></p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1778853600000,
-        "displayName": "A-League Semi Final 2",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Turton Road",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Griffiths Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Hunter",
-            "secondLocation": "",
-            "suburb": "Broadmeadow",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 273253,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.0630035,
-          -33.8509274
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Sydney 10",
-            "linkURL": "https://www.nswathletics.org.au/events/337781"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "<p><strong>﻿</strong>Visit <a href=\"https://transportnsw.info\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1777947986000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Use public transport",
-        "adviceC": " ",
-        "end": 1778988600000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1777947987421,
-        "otherAdvice": "<p><strong>Sydney 10 running event at Sydney Olympic Park on Sunday May 17. 10km events start from 6:45am, 5km starts from 9:10am and 2.5km starts from 9:55am. </strong></p><p><strong>Expect traffic delays approaching Sydney Olympic Park and entering car parks</strong> as the precinct will be busy.</p><p>Motorists should allow extra travel time on the M4 Mwy, Homebush Bay Dr, Concord Rd, Lane Cove Rd, Parramatta Rd, Centenary Dr and Silverwater Rd.</p><p>Carpool with your group <a href=\"https://www.sydneyolympicpark.nsw.gov.au/parking\" target=\"_blank\">pre-book your parking online</a> ahead of time to secure a space – available until 11:59pm the night before the event unless sold out prior. If you have pre-booked your parking, follow the directions of staff and have your parking ticket ready to show at the car park entry.</p><p>Sydney Olympic Park Authority will close local roads in the precinct to ensure pedestrian safety during events. View the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a> for closure details</p>",
-        "arrangementElements": [
-          {
-            "html": "<p><strong>From 1.30am to 1.30pm </strong></p><ul><li>Dawn Fraser Avenue from Olympic Boulevard to Edwin Flack Avenue </li><li>Marjorie Jackson Parkway from Australia Avenue to Bennelong Parkway </li><li>Holker Busway from Hill Road to Kevin Coombs Avenue</li></ul>",
-            "title": "Road Closures",
-            "id": "827872"
-          }
-        ],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1778940000000,
-        "displayName": "Sydney 10",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Athletics Centre",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "Dawn Fraser Avenue",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Sydney Olympic Park",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 272551,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.0715235,
-          -33.8454334
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2026/05/pregnancy-babies-childrens-expo\" target=\"_blank\">transportnsw.info </a>to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1777863551000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Use public transport",
-        "adviceB": "Allow extra travel time",
-        "adviceC": " ",
-        "end": 1779001200000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1777863552247,
-        "otherAdvice": "<p><strong>PBC Baby Expo at Sydney Showground on Saturday 16 &amp; Sunday 17 May. Expo starts at 10am and finishes at 4pm daily. </strong></p><p>Attendees are encouraged to plan their trip and consider all the available travel options ahead of time.  </p><p>Motorists should allow plenty of extra travel time on roads approaching Olympic Park including the M4 Mwy, Homebush Bay Dr, Concord Rd, Lane Cove Rd, Parramatta Rd, Centenary Dr and Silverwater Rd.</p><p>Sydney Olympic Park Authority may close local roads in the precinct and traffic congestion is expected before and after the events. For road closure details, visit the Sydney Olympic Park Authority <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a>.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1778853600000,
-        "displayName": "Expo",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Sydney Showground",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road, Centenary Drive",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Sydney Olympic Park",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 272112,
       "geometry": {
         "type": "Point",
@@ -547,73 +268,6 @@
             "region": "Sydney",
             "secondLocation": "",
             "suburb": "Sydney Olympic Park",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 273673,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.218,
-          -33.8666
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>Major trackwork is taking place on Metro and L2/L3 light rail services. Visit <a href=\"https://transportnsw.info/events/2026/05/flower-market-by-cj-hendry\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1778197355000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Use public transport",
-        "adviceC": " ",
-        "end": 1778976000000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1778197472435,
-        "otherAdvice": "<p><strong>Thousands are expected to attend the Flower Market by CJ Hendry from Friday 15 to Sunday 17 May in The Domain Sydney</strong></p><p>Motorists should allow extra travel time, be aware of increased pedestrian activity and use alternative routes while closures are in place.</p><p>If you are catching rideshare or taxis, use the dedicated drop-off location on Hospital Road at Art Gallery Road. For pick-ups after the event head towards Elizabeth Street or Sir John Young Crescent.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1778767200000,
-        "displayName": "Exhibition",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "The Domain",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "Art Gallery Rd, Mrs Macquaries Rd & Hospital Rd",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Sydney CBD",
             "trafficVolume": ""
           }
         ],
@@ -712,78 +366,6 @@
             "region": "Sydney",
             "secondLocation": "",
             "suburb": "Surry Hills",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 271049,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.1998229,
-          -33.8772175
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "TikTok Entertainment Centre - What's On",
-            "linkURL": "https://tiktokentcent.com/whats-on/"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info\" target=\"_blank\">transportnsw.info</a> to plan your trip. </p>",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1777418205000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": " ",
-        "adviceC": " ",
-        "end": 1780147800000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1778342403097,
-        "otherAdvice": "<p><strong>May shows at the TikTok Entertainment Centre:</strong></p><ul><li><strong>Saturday 16 May</strong>: <a href=\"https://tiktokentcent.com/event/five/\" target=\"_blank\">FIVE</a> at 8pm</li><li><strong>Monday 18 &amp; Tuesday 19 May</strong>: <a href=\"https://tiktokentcent.com/event/split-enz-forever-enz-tour-2026/\" target=\"_blank\">Split Enz - Forever Enz Tour 2026</a>. Shows start nightly at 8pm</li><li><strong>Wednesday 20 &amp; Thursday 21 May</strong>: <a href=\"https://tiktokentcent.com/event/michelle-obama/\" target=\"_blank\">Michelle Obama</a>. Shows starts nightly at 7.30pm</li><li><strong>Saturday 30 May</strong>: <a href=\"https://tiktokentcent.com/event/nancy-ajram/\" target=\"_blank\">Nancy Ajram</a> at 7.30pm</li></ul><p>Traffic may be heavier than usual as attendees travel to and from the event. Motorists should allow extra travel time and be aware of increased pedestrian activity on local roads.</p><p>From Friday 22 May, traffic delays are expected as Vivid takes place in and around the Harbour Foreshore. Ticketholders to ICC events are urged to plan ahead if attending a show while Vivid is also on.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1777730400000,
-        "displayName": "Shows",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "TikTok Entertainment Centre",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "Darling Drive",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Darling Harbour",
             "trafficVolume": ""
           }
         ],
@@ -1224,82 +806,6 @@
     },
     {
       "type": "Feature",
-      "id": 274051,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.21259,
-          -33.873683
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [
-          {
-            "displayName": "Police_Operation_map",
-            "fileName": "Police_Operation_map.pdf",
-            "fileType": "PDF",
-            "linkName": "Police_Operation_map",
-            "sizeInBytes": 238805,
-            "uniqueFileName": "150023_1778557229572_Police_Operation_map.pdf"
-          }
-        ],
-        "isInitialReport": false,
-        "created": 1778557427000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Follow directions on site",
-        "adviceC": " ",
-        "end": 1778926500000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1778558071365,
-        "otherAdvice": "<p>College St (including cycleway) will be closed between William St and Prince Albert Rd from 7:15pm to 8:15pm for a processional march. </p><p>Participants will assemble at St Mary’s Cathedral from 6pm. The processional march will start at 7:30pm and finish by 8pm.</p><p>Motorists should allow extra travel time and also be aware of increased pedestrian activity. </p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1778922900000,
-        "displayName": "Processional march",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "William Street",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "College Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "Prince Albert Road",
-            "suburb": "Sydney",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 273264,
       "geometry": {
         "type": "Point",
@@ -1369,154 +875,6 @@
             "region": "Sydney",
             "secondLocation": "",
             "suburb": "Sydney Olympic Park",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 272552,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.2084307,
-          -33.8310353
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Beer, Footy & Food Festival",
-            "linkURL": "https://www.beerfootyfood.com/"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>Sydney Metro services will not operate due to planned maintenance, catch trains to North Sydney. Visit <a href=\"https://transportnsw.info/events/2026/05/beer-footy-food-festival\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1777863484000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Check signage",
-        "adviceC": "Use public transport",
-        "end": 1779003900000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1778713822045,
-        "otherAdvice": "<p><strong>Beer, Footy &amp; Food Festival at North Sydney Oval on Saturday 16 &amp; Sunday 17 May. Festival starts daily at 12pm, Saturday finish at 5.45pm &amp; Sunday finish at 4.45pm</strong></p><p>Traffic may be heavier than usual on roads approaching and around North Sydney Oval throughout the weekend.</p><p>Allow extra time and travel with a group if you have to drive as parking is limited.</p><p>Limited street parking is available in the area and Ridge St car park is within walking distance of the Oval. Fees apply.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1778853600000,
-        "displayName": "Festival",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "North Sydney Oval",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Miller Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "North Sydney",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 274311,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.797864,
-          -34.563173
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Wings over Shellharbour",
-            "linkURL": "https://wingsovershellharbour.com.au/"
-          },
-          {
-            "linkText": "Plan your trip",
-            "linkURL": "https://transportnsw.info/events/2026/05/wings-over-shellharbour"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/\" target=\"_blank\">transportnsw.info</a> to plan your trip on public transport.</p><p>Trains run regularly to Albion Park station on the South Coast Line and is less than 100 metres from the airshow entry gate. Local buses also service the area, with bus stops within walking distance. </p><p>A designated ‘Park and Ride’ parking area will be available at the corner of Croome Road and Tongarra Road with shuttle buses to get you to and from the event. This offsite parking area will have a free shuttle bus service to and from the main airshow gates from 8:30am until 6:00pm.</p>",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1778732669000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Expect delays",
-        "adviceC": "Plan your journey",
-        "end": 1779001200000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1778737551177,
-        "otherAdvice": "<p>Thousands are expected to attend the Wings Over Shellharbour Airshow at Shellharbour Airport. Gates open daily at 9am, with the show starting from 9am and finishing at 5pm.</p><p>Traffic will be heavy along the Princes Hwy, the M1 Princes Mwy and Tongarra Road with changed traffic conditions in place approaching Park and Ride facilities at the corner of Tongarra Rd and Croome Rd. Motorists are advised to take care and allow extra travel time in the area over the weekend.</p><p>Local road closures and changed traffic conditions will be in place around the airport. Follow the directions of traffic controllers on site.</p><p>Those attending the event are advised to catch public transport and are reminded that no general parking is available at Shellharbour Airport.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1778886000000,
-        "displayName": "Wings Over the Shellharbour",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Princes Highway, M1 Princes Motorway, Tongarra Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "South Coast",
-            "secondLocation": "",
-            "suburb": "Albion Park Rail",
             "trafficVolume": ""
           }
         ],
@@ -1797,12 +1155,12 @@
     },
     {
       "type": "Feature",
-      "id": 272546,
+      "id": 274051,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.2237731,
-          -33.8942485
+          151.21259,
+          -33.873683
         ],
         "collections": []
       },
@@ -1815,46 +1173,383 @@
         "expectedDelay": -1,
         "ended": true,
         "isNewIncident": false,
-        "publicTransport": "<p>Travel on transport is included in AFL tickets. Visit <a href=\"https://transportnsw.info/events/2026/05/afl-sydney-swans-v-collingwood-fc\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": true,
+        "publicTransport": "",
+        "impactingNetwork": false,
         "subCategoryB": null,
         "arrangementAttachments": [
           {
-            "displayName": "Moore Park Transport & Walking Map",
-            "fileName": "Moore Park Transport & Walking Map.pdf",
+            "displayName": "Police_Operation_map",
+            "fileName": "Police_Operation_map.pdf",
             "fileType": "PDF",
-            "linkName": "Moore Park Transport & Walking Map",
-            "sizeInBytes": 445320,
-            "uniqueFileName": "844145_1660175234704_Moore Park Transport & Walking Map.pdf"
-          },
-          {
-            "displayName": "ClearwayMap_MoorePark_NorthSouth",
-            "fileName": "ClearwayMap_MoorePark_NorthSouth.pdf",
-            "fileType": "PDF",
-            "linkName": "ClearwayMap_MoorePark_NorthSouth",
-            "sizeInBytes": 747896,
-            "uniqueFileName": "743375_1777420571152_ClearwayMap_MoorePark_NorthSouth.pdf"
+            "linkName": "Police_Operation_map",
+            "sizeInBytes": 238805,
+            "uniqueFileName": "150023_1778557229572_Police_Operation_map.pdf"
           }
         ],
         "isInitialReport": false,
-        "created": 1777863232000,
+        "created": 1778557427000,
         "isMajor": false,
         "name": null,
         "subCategoryA": "null",
         "adviceA": "Allow extra travel time",
-        "adviceB": "Check signage",
-        "adviceC": "Use public transport",
-        "end": 1778850900000,
+        "adviceB": "Follow directions on site",
+        "adviceC": " ",
+        "end": 1778926500000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1778926501959,
+        "otherAdvice": "<p>College St (including cycleway) will be closed between William St and Prince Albert Rd from 7:15pm to 8:15pm for a processional march. </p><p>Participants will assemble at St Mary’s Cathedral from 6pm. The processional march will start at 7:30pm and finish by 8pm.</p><p>Motorists should allow extra travel time and also be aware of increased pedestrian activity. </p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1778922900000,
+        "displayName": "Processional march",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "William Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "College Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "Prince Albert Road",
+            "suburb": "Sydney",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 272548,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0628424,
+          -33.8429427
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p>Major trackwork is taking place on metro, trains and light rail network. Visit <a href=\"https://transportnsw.info/events/2026/05/bikes-bulls\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1777863074000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use public transport",
+        "adviceC": " ",
+        "end": 1778932800000,
         "hideEndDate": true,
         "incidentKind": "Planned",
         "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1778850904329,
-        "otherAdvice": "<p><strong>AFL: Swans v Collingwood game at the SCG. First bounce at 7.30pm, full time at 10.10pm</strong></p><p>With up to 40,000 fans attending significant traffic delays are expected on roads approaching Moore Park during the already busy evening peak.</p><p>Motorists should allow plenty of extra travel time on roads including the Eastern Distributor, Moore Park Rd, Cleveland St, Anzac Pde and Lang Rd.</p><p>Attendees are urged to catch public transport and leave the car at home to avoid significant traffic delays and the high demand for parking.</p><p><strong>Changed traffic conditions:</strong></p><ul><li>Driver Avenue will be partially closed outside the stadium from 3pm and will reopen once crowds have safely cleared the area.  </li><li>No through-traffic will be available on Driver Avenue, however access to EP2 Kippax car park will be maintained via Moore Park Road and access to EP3 grass car park and drop-off areas will be maintained from Lang Road. Grass car parks open from 4.30pm. </li><li><strong>Special event clearways will be in effect on roads in Moore Park and surrounding areas from 3pm to midnight</strong> on sections of Albion Street, Moore Park Road and Lang Road, and <strong>from 6am to midnight</strong> on sections of Cleveland Street and Fitzroy Street </li></ul><p>Clearways are strict no-parking zones for all vehicle types, and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator.</p>",
+        "lastUpdated": 1778932810185,
+        "otherAdvice": "<p><strong>Bikes &amp; Bulls at Qudos Bank Arena in Sydney Olympic Park on Saturday 16 May. Show starts at 6.30pm</strong></p><p>Traffic delays are expected as attendees make their way to Olympic Park each day. Motorists should allow extra travel time on roads including the M4 Mwy, Homebush Bay Dr, Concord Rd, Lane Cove Rd, Parramatta Rd, Centenary Dr and Silverwater Rd.</p><p>Fans driving should <a href=\"https://www.sydneyolympicpark.com.au/parking/\" target=\"_blank\">pre-book parking online</a> in advance to secure a space, available until 11:59pm the night before the show unless sold out prior. If you have pre-booked your parking, follow the directions of staff and have your parking ticket ready to show at the car park entry.</p><p>Road closures may be in place. Check out the Sydney Olympic Park Authority <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a> for more details.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1778853600000,
+        "displayName": "Show",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Qudos Bank Arena",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "approaching",
+            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Sydney Olympic Park",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 272549,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.724538,
+          -32.9181979
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p>Buses replace trains on the Central Coast &amp; Newcastle Line as well as the Hunter Line due to planned weekend trackwork. Free event shuttle bus services will operate for the game. Visit <a href=\"https://transportnsw.info/events/2026/05/league-men-semi-final-newcastle-jets-v-tbc\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1777863327000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": " ",
+        "adviceC": " ",
+        "end": 1778935500000,
+        "hideEndDate": true,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1778935501429,
+        "otherAdvice": "<p><strong>A-League Men Semi Final Newcastle Jets v Syd FC at McDonald Jones Stadium. Kick-off at 7.40pm. Full time at approx. 9.40pm.</strong></p><p>Traffic may be heavier than usual as fans travel to and from the match. Allow extra travel time on Turton Rd, Griffiths Rd, Newcastle Rd, Lambton Rd and Bridges Rd through Broadmeadow while fans are making their way to and from the stadium.</p><p>For passenger drop-off, use the allocated 10-minute loading zone in the McDonald Jones Stadium car park. Entry is via the driveway off Turton Road.</p><p>Motorists should allow extra travel time and be aware of increased pedestrian activity on local roads.<strong>﻿</strong></p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1778853600000,
+        "displayName": "A-League Semi Final 2",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Turton Road",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Griffiths Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Hunter",
+            "secondLocation": "",
+            "suburb": "Broadmeadow",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 271049,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1998229,
+          -33.8772175
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "TikTok Entertainment Centre - What's On",
+            "linkURL": "https://tiktokentcent.com/whats-on/"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info\" target=\"_blank\">transportnsw.info</a> to plan your trip. </p>",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1777418205000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": " ",
+        "adviceC": " ",
+        "end": 1780147800000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1778947206471,
+        "otherAdvice": "<p><strong>May shows at the TikTok Entertainment Centre:</strong></p><ul><li><strong>Monday 18 &amp; Tuesday 19 May</strong>: <a href=\"https://tiktokentcent.com/event/split-enz-forever-enz-tour-2026/\" target=\"_blank\">Split Enz - Forever Enz Tour 2026</a>. Shows start nightly at 8pm</li><li><strong>Wednesday 20 &amp; Thursday 21 May</strong>: <a href=\"https://tiktokentcent.com/event/michelle-obama/\" target=\"_blank\">Michelle Obama</a>. Shows starts nightly at 7.30pm</li><li><strong>Saturday 30 May</strong>: <a href=\"https://tiktokentcent.com/event/nancy-ajram/\" target=\"_blank\">Nancy Ajram</a> at 7.30pm</li></ul><p>Traffic may be heavier than usual as attendees travel to and from the event. Motorists should allow extra travel time and be aware of increased pedestrian activity on local roads.</p><p>From Friday 22 May, traffic delays are expected as Vivid takes place in and around the Harbour Foreshore. Ticketholders to ICC events are urged to plan ahead if attending a show while Vivid is also on.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1777730400000,
+        "displayName": "Shows",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "TikTok Entertainment Centre",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "approaching",
+            "mainStreet": "Darling Drive",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Darling Harbour",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 273673,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.218,
+          -33.8666
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p>Major trackwork is taking place on Metro and L2/L3 light rail services. Visit <a href=\"https://transportnsw.info/events/2026/05/flower-market-by-cj-hendry\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1778197355000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use public transport",
+        "adviceC": " ",
+        "end": 1778976000000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1778976002701,
+        "otherAdvice": "<p><strong>Thousands are expected to attend the Flower Market by CJ Hendry from Friday 15 to Sunday 17 May in The Domain Sydney</strong></p><p>Motorists should allow extra travel time, be aware of increased pedestrian activity and use alternative routes while closures are in place.</p><p>If you are catching rideshare or taxis, use the dedicated drop-off location on Hospital Road at Art Gallery Road. For pick-ups after the event head towards Elizabeth Street or Sir John Young Crescent.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1778767200000,
+        "displayName": "Exhibition",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "The Domain",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "approaching",
+            "mainStreet": "Art Gallery Rd, Mrs Macquaries Rd & Hospital Rd",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Sydney CBD",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 273253,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0630035,
+          -33.8509274
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Sydney 10",
+            "linkURL": "https://www.nswathletics.org.au/events/337781"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p><strong>﻿</strong>Visit <a href=\"https://transportnsw.info\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1777947986000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use public transport",
+        "adviceC": " ",
+        "end": 1778988600000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1778988602109,
+        "otherAdvice": "<p><strong>Sydney 10 running event at Sydney Olympic Park on Sunday May 17. 10km events start from 6:45am, 5km starts from 9:10am and 2.5km starts from 9:55am. </strong></p><p><strong>Expect traffic delays approaching Sydney Olympic Park and entering car parks</strong> as the precinct will be busy.</p><p>Motorists should allow extra travel time on the M4 Mwy, Homebush Bay Dr, Concord Rd, Lane Cove Rd, Parramatta Rd, Centenary Dr and Silverwater Rd.</p><p>Carpool with your group <a href=\"https://www.sydneyolympicpark.nsw.gov.au/parking\" target=\"_blank\">pre-book your parking online</a> ahead of time to secure a space – available until 11:59pm the night before the event unless sold out prior. If you have pre-booked your parking, follow the directions of staff and have your parking ticket ready to show at the car park entry.</p><p>Sydney Olympic Park Authority will close local roads in the precinct to ensure pedestrian safety during events. View the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a> for closure details</p>",
         "arrangementElements": [
           {
-            "html": "<p><strong>Special event clearways will be in place on roads in Moore Park and surrounding areas from 3pm to midnight</strong> on sections of Albion Street, Moore Park Road and Lang Road, and <strong>from 6am to midnight</strong> on sections of Cleveland Street and Fitzroy Street </p><p><strong>From 6am to midnight</strong></p><ul><li>Cleveland Street between South Dowling Street and City Road (southern side) </li><li>Cleveland Street between Abercrombie Street and South Dowling Street (northern side) </li><li>Fitzroy Street between South Dowling Street and Bourke Street (northern side) </li></ul><p><strong>From 3pm to midnight</strong></p><ul><li>Albion Street between Bourke Street and Flinders Street (both sides) </li><li>Moore Park Road between Flinders Street and Greens Road (northern side) </li><li>Moore Park Road between Cook Road and Poate Road (southern side) </li><li>Lang Road between Anzac Parade and Errol Flynn Boulevard (northern side) </li></ul><p>Special event clearways are strict no-parking zones for all vehicle types, and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator.</p>",
-            "title": "Special Event Clearways",
-            "id": "834631"
+            "html": "<p><strong>From 1.30am to 1.30pm </strong></p><ul><li>Dawn Fraser Avenue from Olympic Boulevard to Edwin Flack Avenue </li><li>Marjorie Jackson Parkway from Australia Avenue to Bennelong Parkway </li><li>Holker Busway from Hill Road to Kevin Coombs Avenue</li></ul>",
+            "title": "Road Closures",
+            "id": "835015"
           }
         ],
         "diversions": "",
@@ -1863,21 +1558,236 @@
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1778767200000,
-        "displayName": "AFL",
+        "start": 1778940000000,
+        "displayName": "Sydney 10",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "the SCG",
+            "crossStreet": "Athletics Centre",
             "delay": "",
             "impactedLanes": [],
             "locationQualifier": "approaching",
-            "mainStreet": "Moore Park Road, Anzac Parade, Lang Road, Eastern Distributor",
+            "mainStreet": "Dawn Fraser Avenue",
             "quadrant": "",
             "queueLength": 0,
             "region": "Sydney",
             "secondLocation": "",
-            "suburb": "Moore Park",
+            "suburb": "Sydney Olympic Park",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 272551,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0715235,
+          -33.8454334
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2026/05/pregnancy-babies-childrens-expo\" target=\"_blank\">transportnsw.info </a>to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1777863551000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Use public transport",
+        "adviceB": "Allow extra travel time",
+        "adviceC": " ",
+        "end": 1779001200000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1779001203537,
+        "otherAdvice": "<p><strong>PBC Baby Expo at Sydney Showground on Saturday 16 &amp; Sunday 17 May. Expo starts at 10am and finishes at 4pm daily. </strong></p><p>Attendees are encouraged to plan their trip and consider all the available travel options ahead of time.  </p><p>Motorists should allow plenty of extra travel time on roads approaching Olympic Park including the M4 Mwy, Homebush Bay Dr, Concord Rd, Lane Cove Rd, Parramatta Rd, Centenary Dr and Silverwater Rd.</p><p>Sydney Olympic Park Authority may close local roads in the precinct and traffic congestion is expected before and after the events. For road closure details, visit the Sydney Olympic Park Authority <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">interactive map</a>.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1778853600000,
+        "displayName": "Expo",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Sydney Showground",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "approaching",
+            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road, Centenary Drive",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Sydney Olympic Park",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 274311,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.797864,
+          -34.563173
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Wings over Shellharbour",
+            "linkURL": "https://wingsovershellharbour.com.au/"
+          },
+          {
+            "linkText": "Plan your trip",
+            "linkURL": "https://transportnsw.info/events/2026/05/wings-over-shellharbour"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/\" target=\"_blank\">transportnsw.info</a> to plan your trip on public transport.</p><p>Trains run regularly to Albion Park station on the South Coast Line and is less than 100 metres from the airshow entry gate. Local buses also service the area, with bus stops within walking distance. </p><p>A designated ‘Park and Ride’ parking area will be available at the corner of Croome Road and Tongarra Road with shuttle buses to get you to and from the event. This offsite parking area will have a free shuttle bus service to and from the main airshow gates from 8:30am until 6:00pm.</p>",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1778732669000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Expect delays",
+        "adviceC": "Plan your journey",
+        "end": 1779001200000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1779001203206,
+        "otherAdvice": "<p>Thousands are expected to attend the Wings Over Shellharbour Airshow at Shellharbour Airport. Gates open daily at 9am, with the show starting from 9am and finishing at 5pm.</p><p>Traffic will be heavy along the Princes Hwy, the M1 Princes Mwy and Tongarra Road with changed traffic conditions in place approaching Park and Ride facilities at the corner of Tongarra Rd and Croome Rd. Motorists are advised to take care and allow extra travel time in the area over the weekend.</p><p>Local road closures and changed traffic conditions will be in place around the airport. Follow the directions of traffic controllers on site.</p><p>Those attending the event are advised to catch public transport and are reminded that no general parking is available at Shellharbour Airport.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1778886000000,
+        "displayName": "Wings Over the Shellharbour",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Princes Highway, M1 Princes Motorway, Tongarra Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "South Coast",
+            "secondLocation": "",
+            "suburb": "Albion Park Rail",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 272552,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2084307,
+          -33.8310353
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Beer, Footy & Food Festival",
+            "linkURL": "https://www.beerfootyfood.com/"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p>Sydney Metro services will not operate due to planned maintenance, catch trains to North Sydney. Visit <a href=\"https://transportnsw.info/events/2026/05/beer-footy-food-festival\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1777863484000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Check signage",
+        "adviceC": "Use public transport",
+        "end": 1779003900000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1779003901481,
+        "otherAdvice": "<p><strong>Beer, Footy &amp; Food Festival at North Sydney Oval on Saturday 16 &amp; Sunday 17 May. Festival starts daily at 12pm, Saturday finish at 5.45pm &amp; Sunday finish at 4.45pm</strong></p><p>Traffic may be heavier than usual on roads approaching and around North Sydney Oval throughout the weekend.</p><p>Allow extra time and travel with a group if you have to drive as parking is limited.</p><p>Limited street parking is available in the area and Ridge St car park is within walking distance of the Oval. Fees apply.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1778853600000,
+        "displayName": "Festival",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "North Sydney Oval",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Miller Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "North Sydney",
             "trafficVolume": ""
           }
         ],
