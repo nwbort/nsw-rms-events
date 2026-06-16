@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1781527260000,
+  "lastPublished": 1781609460000,
   "layerName": "MajorEvent",
   "rights": {
     "copyright": "Transport for NSW",
@@ -644,87 +644,6 @@
             "region": "South Coast",
             "secondLocation": "Russell St",
             "suburb": "Albion Park",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 266545,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.1763367,
-          -33.8661363
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "White Bay Power Station - Biennale of Sydney",
-            "linkURL": "https://www.whitebaypowerstation.com/whats-on/events/25th-biennale-of-sydney"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "<p>Route 441 and 442 buses run regularly to Rozelle. As well, route 443 heritage buses will run on weekends and public holidays. See details at <a href=\"https://transportnsw.info/events/2026/03/biennale-of-sydney-rozelle\" target=\"_blank\">transportnsw.info</a></p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [
-          {
-            "displayName": "Biennale_RoadClosure_12June",
-            "fileName": "Biennale_RoadClosure_12June.pdf",
-            "fileType": "PDF",
-            "linkName": "Biennale_RoadClosure_12June",
-            "sizeInBytes": 292506,
-            "uniqueFileName": "749339_1780449203086_Biennale_RoadClosure_12June.pdf"
-          }
-        ],
-        "isInitialReport": false,
-        "created": 1772405573000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Use public transport",
-        "adviceB": "Allow extra travel time",
-        "adviceC": " ",
-        "end": 1781442000000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1781442062498,
-        "otherAdvice": "<p><strong>The Biennale of Sydney will be held at White Bay Power Station open from Tuesday-Sundays 10am-5pm daily, from Saturday 14 March to Sunday 14 June. The exhibition will also be open on public holidays.</strong></p><p>Traffic will be heavy on roads approaching White Bay Power Station as crowds travel to and from the event,</p><p>Attendees driving should carpool with their group, plan to arrive early as local parking is limited.</p><p>Motorists should allow extra travel time on Victoria Rd, the City West Link and Robert St.</p><p><strong>Friday 12 June - After Dark event and street party - traffic changes and parking restrictions</strong></p><ul><li>From 5pm Fri 12 June to 4am Sat 13 Jun - Full road closure on Robert St between Mullens St and Port Access Rd</li><li>8am Temporary no parking zone on southern side of Robert St</li><li>4pm Temporary no parking zone on northern side of Robert St</li></ul><p><br></p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1773406800000,
-        "displayName": "Biennale",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "White Bay Power Station",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Robert Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Rozelle",
             "trafficVolume": ""
           }
         ],
@@ -1581,6 +1500,150 @@
             "region": "Sydney",
             "secondLocation": "",
             "suburb": "Parramatta, Westmead",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 278176,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.2805278,
+          -28.8100964
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Lismore Lantern Parade",
+            "linkURL": "https://www.lismorelanternparade.com.au/about-lismore-lantern-parade"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1781574371000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Check signage",
+        "adviceB": "Use diversions",
+        "adviceC": "Allow extra travel time",
+        "end": 1781953200000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1781574371648,
+        "otherAdvice": "<p><strong>Lismore Lantern Parade 2026 returns Saturday, June 20th.</strong> </p><p>Dawson Street will be closed with detours being implemented via local roads. </p><p>Traffic controllers will be on site to direct motorists.</p><p><br></p>",
+        "arrangementElements": [],
+        "diversions": "<p>Motorists will be diverted via Ballina Road, Diadem Street and Uralba Street.</p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1781920800000,
+        "displayName": "Lismore Lantern Parade",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Magellan Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Dawson Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "North Coast NSW",
+            "secondLocation": "Woodlark Street",
+            "suburb": "Lismore",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 278183,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.1190947,
+          -30.2915834
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Outdoor Living & Caravan Expo",
+            "linkURL": "https://www.outdoorlivingcaravanexpo.com.au/coffs-harbour/"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1781579921000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Check signage",
+        "adviceC": " ",
+        "end": 1782021600000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1781579922007,
+        "otherAdvice": "<p><strong>The Outdoor Living &amp; Caravan Expo will be held from Friday 19 to Sunday 21 June at the Coffs Harbour Showground. </strong></p><p>The right turn into the showground will be closed and traffic may be heavier than usual on the Pacific Hwy as attendees travel to and from the event.</p>",
+        "arrangementElements": [],
+        "diversions": "<p>Northbound detour via Beryl and Marcia Streets to enable patrons to head south and turn left into the Showgrounds.</p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1781823600000,
+        "displayName": "Outdoor Living & Caravan Expo",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Coffs Harbour Showground",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Pacific Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "North Coast NSW",
+            "secondLocation": "",
+            "suburb": "Coffs Harbour",
             "trafficVolume": ""
           }
         ],
