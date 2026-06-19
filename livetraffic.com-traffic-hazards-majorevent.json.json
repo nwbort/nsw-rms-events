@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1781779560000,
+  "lastPublished": 1781866590000,
   "layerName": "MajorEvent",
   "rights": {
     "copyright": "Transport for NSW",
@@ -1430,78 +1430,6 @@
     },
     {
       "type": "Feature",
-      "id": 278183,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.1190947,
-          -30.2915834
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Outdoor Living & Caravan Expo",
-            "linkURL": "https://www.outdoorlivingcaravanexpo.com.au/coffs-harbour/"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1781579921000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Check signage",
-        "adviceC": " ",
-        "end": 1782021600000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1781579922007,
-        "otherAdvice": "<p><strong>The Outdoor Living &amp; Caravan Expo will be held from Friday 19 to Sunday 21 June at the Coffs Harbour Showground. </strong></p><p>The right turn into the showground will be closed and traffic may be heavier than usual on the Pacific Hwy as attendees travel to and from the event.</p>",
-        "arrangementElements": [],
-        "diversions": "<p>Northbound detour via Beryl and Marcia Streets to enable patrons to head south and turn left into the Showgrounds.</p>",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1781823600000,
-        "displayName": "Outdoor Living & Caravan Expo",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Coffs Harbour Showground",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Pacific Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "North Coast NSW",
-            "secondLocation": "",
-            "suburb": "Coffs Harbour",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 277555,
       "geometry": {
         "type": "Point",
@@ -1586,17 +1514,22 @@
     },
     {
       "type": "Feature",
-      "id": 276748,
+      "id": 278183,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.0624443,
-          -33.8424232
+          153.1190947,
+          -30.2915834
         ],
         "collections": []
       },
       "properties": {
-        "webLinks": [],
+        "webLinks": [
+          {
+            "linkText": "Outdoor Living & Caravan Expo",
+            "linkURL": "https://www.outdoorlivingcaravanexpo.com.au/coffs-harbour/"
+          }
+        ],
         "headline": "",
         "periods": [],
         "speedLimit": -1,
@@ -1604,24 +1537,24 @@
         "expectedDelay": -1,
         "ended": true,
         "isNewIncident": false,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2026/06/leehom\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "publicTransport": "",
         "impactingNetwork": false,
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1780987525000,
+        "created": 1781579921000,
         "isMajor": false,
         "name": null,
         "subCategoryA": "null",
         "adviceA": "Allow extra travel time",
-        "adviceB": "Use public transport",
+        "adviceB": "Check signage",
         "adviceC": " ",
-        "end": 1781701200000,
-        "hideEndDate": true,
+        "end": 1782021600000,
+        "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1781701262750,
-        "otherAdvice": "<p><strong>Leehom at Qudos Bank Arena. Show starts at 7pm</strong></p><p>Traffic delays are expected as attendees make their way to Olympic Park during the busy evening peak. Motorists should allow extra travel time on roads including the M4 Mwy, Homebush Bay Dr, Concord Rd, Lane Cove Rd, Parramatta Rd, Centenary Dr and Silverwater Rd.</p><p>If you&#39;re driving, <a href=\"https://www.sydneyolympicpark.com.au/parking/\" target=\"_blank\">pre-book parking online</a> in advance to secure a space, available until 11:59pm the night before the show unless sold out prior. If you have pre-booked your parking, follow the directions of staff and have your parking ticket ready to show at the car park entry.</p><p>Sydney Olympic Park Authority may close some local roads to accommodate increased public transport services and ensure pedestrian safety during events. For road closure details, visit the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" target=\"_blank\">Sydney Olympic Park interactive map</a> for more details.  </p>",
+        "lastUpdated": 1781821265335,
+        "otherAdvice": "<p><strong>The Outdoor Living &amp; Caravan Expo has been postponed.</strong></p>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
@@ -1629,21 +1562,21 @@
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1781618400000,
-        "displayName": "Concert",
+        "start": 1781823600000,
+        "displayName": "Outdoor Living & Caravan Expo",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Qudos Bank Arena",
+            "crossStreet": "Coffs Harbour Showground",
             "delay": "",
             "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road",
+            "locationQualifier": "at",
+            "mainStreet": "Pacific Highway",
             "quadrant": "",
             "queueLength": 0,
-            "region": "Sydney",
+            "region": "North Coast NSW",
             "secondLocation": "",
-            "suburb": "Sydney Olympic Park",
+            "suburb": "Coffs Harbour",
             "trafficVolume": ""
           }
         ],
