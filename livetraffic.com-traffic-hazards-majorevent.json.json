@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1781866590000,
+  "lastPublished": 1781948490000,
   "layerName": "MajorEvent",
   "rights": {
     "copyright": "Transport for NSW",
@@ -81,73 +81,6 @@
     },
     {
       "type": "Feature",
-      "id": 276755,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.2265093,
-          -33.904483
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2026/06/stakes-day\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1780987195000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Use public transport",
-        "adviceC": " ",
-        "end": 1781940600000,
-        "hideEndDate": true,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1780987196376,
-        "otherAdvice": "<p><strong>Stakes Day at Royal Randwick Racecourse</strong>. First race from 11am, last race from 4.25pm.</p><p>Traffic will be heavier than usual on Anzac Pde, Doncaster Ave, High St, Alison Rd and Darley Rd as crowds travel to and from the event.</p><p>Motorists should allow extra travel time and be aware of increased pedestrian activity on local roads.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1781877600000,
-        "displayName": "Race Day",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Royal Randwick Racecourse",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "Anzac Parade, Alison Road, High Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Randwick",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 276761,
       "geometry": {
         "type": "Point",
@@ -211,73 +144,6 @@
             "region": "Sydney",
             "secondLocation": "",
             "suburb": "Sydney Olympic Park",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 276749,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.7245507,
-          -32.918225
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "<p>Free shuttle bus services will operate for the game. Visit <a href=\"https://transportnsw.info/events/2026/06/nrl-knights-v-dragons\" target=\"_blank\">transportnsw.info</a> to plan your trip</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1781151142000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": " ",
-        "adviceC": " ",
-        "end": 1781874000000,
-        "hideEndDate": true,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1781151143374,
-        "otherAdvice": "<p><strong>NRL Knights v Dragons at McDonald Jones Stadium. Kick off at 8pm, full time at 10pm.</strong></p><p>Traffic may be heavier than usual as fans travel to and from the match. Allow extra travel time on Turton Rd, Griffiths Rd, Newcastle Rd, Lambton Rd and Bridges Rd through Broadmeadow while fans are making their way to and from the stadium.</p><p>For passenger drop-off, use the allocated 10-minute loading zone in the McDonald Jones Stadium car park. Entry is via the driveway off Turton Road.</p><p>Motorists should allow extra travel time and be aware of increased pedestrian activity on local roads.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1781791200000,
-        "displayName": "NRL",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Turton Road",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Griffiths Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Hunter",
-            "secondLocation": "",
-            "suburb": "Broadmeadow",
             "trafficVolume": ""
           }
         ],
@@ -412,73 +278,6 @@
             "region": "Sydney",
             "secondLocation": "",
             "suburb": "Sydney Olympic Park",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 276752,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.835112,
-          -34.0510412
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2026/06/nrl-wests-tigers-v-dolphins\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1781151675000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": " ",
-        "adviceC": " ",
-        "end": 1781941500000,
-        "hideEndDate": true,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1781151957098,
-        "otherAdvice": "<p><strong>NRL: Wests Tigers v Dolphins at Campbelltown Sports Stadium. Kick-off at 3pm, full time around 5pm.</strong></p><p>Traffic may be heavier than usual as fans travel to the match. Allow extra travel time on roads including Pembroke Rd, Rose Payten Dr and Leumeah Rd.</p><p>Motorists should also be aware of increased pedestrian activity in the area.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1781877600000,
-        "displayName": "NRL",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Campbelltown Sports Stadium",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "Pembroke Road and Rose Payten Drive",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Leumeah",
             "trafficVolume": ""
           }
         ],
@@ -1514,22 +1313,17 @@
     },
     {
       "type": "Feature",
-      "id": 278183,
+      "id": 276749,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          153.1190947,
-          -30.2915834
+          151.7245507,
+          -32.918225
         ],
         "collections": []
       },
       "properties": {
-        "webLinks": [
-          {
-            "linkText": "Outdoor Living & Caravan Expo",
-            "linkURL": "https://www.outdoorlivingcaravanexpo.com.au/coffs-harbour/"
-          }
-        ],
+        "webLinks": [],
         "headline": "",
         "periods": [],
         "speedLimit": -1,
@@ -1537,24 +1331,24 @@
         "expectedDelay": -1,
         "ended": true,
         "isNewIncident": false,
-        "publicTransport": "",
+        "publicTransport": "<p>Free shuttle bus services will operate for the game. Visit <a href=\"https://transportnsw.info/events/2026/06/nrl-knights-v-dragons\" target=\"_blank\">transportnsw.info</a> to plan your trip</p>",
         "impactingNetwork": false,
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1781579921000,
+        "created": 1781151142000,
         "isMajor": false,
         "name": null,
         "subCategoryA": "null",
         "adviceA": "Allow extra travel time",
-        "adviceB": "Check signage",
+        "adviceB": " ",
         "adviceC": " ",
-        "end": 1782021600000,
-        "hideEndDate": false,
+        "end": 1781874000000,
+        "hideEndDate": true,
         "incidentKind": "Planned",
         "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1781821265335,
-        "otherAdvice": "<p><strong>The Outdoor Living &amp; Caravan Expo has been postponed.</strong></p>",
+        "lastUpdated": 1781874063292,
+        "otherAdvice": "<p><strong>NRL Knights v Dragons at McDonald Jones Stadium. Kick off at 8pm, full time at 10pm.</strong></p><p>Traffic may be heavier than usual as fans travel to and from the match. Allow extra travel time on Turton Rd, Griffiths Rd, Newcastle Rd, Lambton Rd and Bridges Rd through Broadmeadow while fans are making their way to and from the stadium.</p><p>For passenger drop-off, use the allocated 10-minute loading zone in the McDonald Jones Stadium car park. Entry is via the driveway off Turton Road.</p><p>Motorists should allow extra travel time and be aware of increased pedestrian activity on local roads.</p>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
@@ -1562,21 +1356,155 @@
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1781823600000,
-        "displayName": "Outdoor Living & Caravan Expo",
+        "start": 1781791200000,
+        "displayName": "NRL",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Coffs Harbour Showground",
+            "crossStreet": "Turton Road",
             "delay": "",
             "impactedLanes": [],
             "locationQualifier": "at",
-            "mainStreet": "Pacific Highway",
+            "mainStreet": "Griffiths Road",
             "quadrant": "",
             "queueLength": 0,
-            "region": "North Coast NSW",
+            "region": "Hunter",
             "secondLocation": "",
-            "suburb": "Coffs Harbour",
+            "suburb": "Broadmeadow",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 276755,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2265093,
+          -33.904483
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2026/06/stakes-day\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1780987195000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use public transport",
+        "adviceC": " ",
+        "end": 1781940600000,
+        "hideEndDate": true,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1781940602200,
+        "otherAdvice": "<p><strong>Stakes Day at Royal Randwick Racecourse</strong>. First race from 11am, last race from 4.25pm.</p><p>Traffic will be heavier than usual on Anzac Pde, Doncaster Ave, High St, Alison Rd and Darley Rd as crowds travel to and from the event.</p><p>Motorists should allow extra travel time and be aware of increased pedestrian activity on local roads.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1781877600000,
+        "displayName": "Race Day",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Royal Randwick Racecourse",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "approaching",
+            "mainStreet": "Anzac Parade, Alison Road, High Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Randwick",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 276752,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.835112,
+          -34.0510412
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2026/06/nrl-wests-tigers-v-dolphins\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1781151675000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": " ",
+        "adviceC": " ",
+        "end": 1781941500000,
+        "hideEndDate": true,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1781941501445,
+        "otherAdvice": "<p><strong>NRL: Wests Tigers v Dolphins at Campbelltown Sports Stadium. Kick-off at 3pm, full time around 5pm.</strong></p><p>Traffic may be heavier than usual as fans travel to the match. Allow extra travel time on roads including Pembroke Rd, Rose Payten Dr and Leumeah Rd.</p><p>Motorists should also be aware of increased pedestrian activity in the area.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1781877600000,
+        "displayName": "NRL",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Campbelltown Sports Stadium",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "approaching",
+            "mainStreet": "Pembroke Road and Rose Payten Drive",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Leumeah",
             "trafficVolume": ""
           }
         ],
