@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1782380490000,
+  "lastPublished": 1782467490000,
   "layerName": "MajorEvent",
   "rights": {
     "copyright": "Transport for NSW",
@@ -72,78 +72,6 @@
             "region": "Sydney",
             "secondLocation": "",
             "suburb": "Parramatta",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 276761,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.0651488,
-          -33.8459075
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Sydney Olympic Park - World Cup FIFA Men's live site",
-            "linkURL": "https://www.sydneyolympicpark.nsw.gov.au/things-to-see-and-do/world-cup-live-site"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "<p><strong>﻿</strong>Visit <a href=\"https://transportnsw.info/events/2026/06/world-cup-live-site-sydney-olympic-park\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1780987473000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Use public transport",
-        "adviceC": " ",
-        "end": 1782453600000,
-        "hideEndDate": true,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1780987474222,
-        "otherAdvice": "<p><strong>A free live site will be open at Cathy Freeman Park screening the FIFA World Cup men&#39;s matches live on the big screen from Sunday 14 to Friday 26 June. </strong></p><ul><li><strong>Sunday 14 June</strong>: Australia vs Türkiye, kick off 2pm AEST</li><li><strong>Saturday 20 June</strong>: USA v Australia, kick off 5am AEST</li><li><strong>Friday 26 June</strong>: Paraguay v Australia, kick off 12pm AEST</li></ul><p>Motorists should allow extra travel time on the M4 Mwy, Homebush Bay Dr, Concord Rd, Lane Cove Rd, Parramatta Rd, Centenary Dr and Silverwater Rd.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1781359200000,
-        "displayName": "World Cup live site",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Cathy Freeman Park",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road, Centenary Drive",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Sydney Olympic Park",
             "trafficVolume": ""
           }
         ],
@@ -654,90 +582,6 @@
             "region": "Sydney",
             "secondLocation": "",
             "suburb": "Darling Harbour",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 277555,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.0018832,
-          -33.8072487
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "<p>Match tickets include travel on transport. Visit <a href=\"https://transportnsw.info/events/2026/06/nrl-eels-v-rabbitohs\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [
-          {
-            "displayName": "CommBankStadium_Transport_WalkingRoute_Map",
-            "fileName": "CommBankStadium_Transport_WalkingRoute_Map.pdf",
-            "fileType": "PDF",
-            "linkName": "CommBankStadium_Transport_WalkingRoute_Map",
-            "sizeInBytes": 3930899,
-            "uniqueFileName": "919826_1728350438314_CommBankStadium_Transport_WalkingRoute_Map.pdf"
-          },
-          {
-            "displayName": "CommBankStadium_EventRoadClosureMap_PLR",
-            "fileName": "CommBankStadium_EventRoadClosureMap_PLR.pdf",
-            "fileType": "PDF",
-            "linkName": "CommBankStadium_EventRoadClosureMap_PLR",
-            "sizeInBytes": 276835,
-            "uniqueFileName": "689282_1760318577717_CommBankStadium_EventRoadClosureMap_PLR.pdf"
-          }
-        ],
-        "isInitialReport": false,
-        "created": 1781484422000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Use public transport",
-        "adviceC": " ",
-        "end": 1782390600000,
-        "hideEndDate": true,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1781484423256,
-        "otherAdvice": "<p><strong>NRL: Eels v Rabbitohs at CommBank Stadium in Parramatta. Kick-off at 7.50pm, full time around 9.35pm.</strong></p><p>With thousands of fans expected, traffic will be heavy on roads approaching Parramatta and nearby car parks are expected to be in high demand, particularly during busy evening peaks.</p><p>Allow extra travel time on roads including Parramatta Road, Church Street, Victoria Road, James Ruse Drive and Pennant Hills Road. </p><p>Motorists should also exercise caution as pedestrian activity will be high on roads between Parramatta Interchange and the stadium. </p><p>Drivers are reminded that light rail services are running through Parramatta CBD. Trams can’t stop quickly or easily – so exercise extra caution when driving in the area. </p><p><strong>Road closures </strong></p><p>Roads around the stadium will close from <strong>9.35pm until 10.05pm</strong> approx. to allow crowds to safely leave the venue. Roads will re-open once crowds have cleared the area. </p><ul><li>O’Connell Street from Grose Street to George Street </li><li>Ross Street from O’Connell Street to Trott Street </li><li>Victoria Road from O’Connell Street to Villiers Street </li></ul><p>While closures are in place motorists are encouraged to avoid driving through Parramatta CBD and detour around the closures via Grose Street, Brickfield Street, Victoria Road and Wilde Avenue in both directions. </p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1782309600000,
-        "displayName": "NRL",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Victoria Road",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "O'Connell Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Parramatta",
             "trafficVolume": ""
           }
         ],
@@ -1998,6 +1842,162 @@
             "region": "Hunter",
             "secondLocation": "",
             "suburb": "Hamilton North",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 277555,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0018832,
+          -33.8072487
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p>Match tickets include travel on transport. Visit <a href=\"https://transportnsw.info/events/2026/06/nrl-eels-v-rabbitohs\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [
+          {
+            "displayName": "CommBankStadium_Transport_WalkingRoute_Map",
+            "fileName": "CommBankStadium_Transport_WalkingRoute_Map.pdf",
+            "fileType": "PDF",
+            "linkName": "CommBankStadium_Transport_WalkingRoute_Map",
+            "sizeInBytes": 3930899,
+            "uniqueFileName": "919826_1728350438314_CommBankStadium_Transport_WalkingRoute_Map.pdf"
+          },
+          {
+            "displayName": "CommBankStadium_EventRoadClosureMap_PLR",
+            "fileName": "CommBankStadium_EventRoadClosureMap_PLR.pdf",
+            "fileType": "PDF",
+            "linkName": "CommBankStadium_EventRoadClosureMap_PLR",
+            "sizeInBytes": 276835,
+            "uniqueFileName": "689282_1760318577717_CommBankStadium_EventRoadClosureMap_PLR.pdf"
+          }
+        ],
+        "isInitialReport": false,
+        "created": 1781484422000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use public transport",
+        "adviceC": " ",
+        "end": 1782390600000,
+        "hideEndDate": true,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1782390662523,
+        "otherAdvice": "<p><strong>NRL: Eels v Rabbitohs at CommBank Stadium in Parramatta. Kick-off at 7.50pm, full time around 9.35pm.</strong></p><p>With thousands of fans expected, traffic will be heavy on roads approaching Parramatta and nearby car parks are expected to be in high demand, particularly during busy evening peaks.</p><p>Allow extra travel time on roads including Parramatta Road, Church Street, Victoria Road, James Ruse Drive and Pennant Hills Road. </p><p>Motorists should also exercise caution as pedestrian activity will be high on roads between Parramatta Interchange and the stadium. </p><p>Drivers are reminded that light rail services are running through Parramatta CBD. Trams can’t stop quickly or easily – so exercise extra caution when driving in the area. </p><p><strong>Road closures </strong></p><p>Roads around the stadium will close from <strong>9.35pm until 10.05pm</strong> approx. to allow crowds to safely leave the venue. Roads will re-open once crowds have cleared the area. </p><ul><li>O’Connell Street from Grose Street to George Street </li><li>Ross Street from O’Connell Street to Trott Street </li><li>Victoria Road from O’Connell Street to Villiers Street </li></ul><p>While closures are in place motorists are encouraged to avoid driving through Parramatta CBD and detour around the closures via Grose Street, Brickfield Street, Victoria Road and Wilde Avenue in both directions. </p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1782309600000,
+        "displayName": "NRL",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Victoria Road",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "O'Connell Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Parramatta",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 276761,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0651488,
+          -33.8459075
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Sydney Olympic Park - World Cup FIFA Men's live site",
+            "linkURL": "https://www.sydneyolympicpark.nsw.gov.au/things-to-see-and-do/world-cup-live-site"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p><strong>﻿</strong>Visit <a href=\"https://transportnsw.info/events/2026/06/world-cup-live-site-sydney-olympic-park\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1780987473000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use public transport",
+        "adviceC": " ",
+        "end": 1782453600000,
+        "hideEndDate": true,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1782453603823,
+        "otherAdvice": "<p><strong>A free live site will be open at Cathy Freeman Park screening the FIFA World Cup men&#39;s matches live on the big screen from Sunday 14 to Friday 26 June. </strong></p><ul><li><strong>Sunday 14 June</strong>: Australia vs Türkiye, kick off 2pm AEST</li><li><strong>Saturday 20 June</strong>: USA v Australia, kick off 5am AEST</li><li><strong>Friday 26 June</strong>: Paraguay v Australia, kick off 12pm AEST</li></ul><p>Motorists should allow extra travel time on the M4 Mwy, Homebush Bay Dr, Concord Rd, Lane Cove Rd, Parramatta Rd, Centenary Dr and Silverwater Rd.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1781359200000,
+        "displayName": "World Cup live site",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Cathy Freeman Park",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "approaching",
+            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road, Centenary Drive",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Sydney Olympic Park",
             "trafficVolume": ""
           }
         ],
