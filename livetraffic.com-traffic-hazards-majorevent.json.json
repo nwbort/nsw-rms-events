@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1784190900000,
+  "lastPublished": 1784276700000,
   "layerName": "MajorEvent",
   "rights": {
     "copyright": "Transport for NSW",
@@ -986,90 +986,6 @@
     },
     {
       "type": "Feature",
-      "id": 280067,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.0016239,
-          -33.8081873
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>Match tickets include travel on transport. Visit <a href=\"https://transportnsw.info/events/2026/07/nrl-panthers-double-header\" rel=\"noopener noreferrer\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [
-          {
-            "displayName": "CommBankStadium_Transport_WalkingRoute_Map",
-            "fileName": "CommBankStadium_Transport_WalkingRoute_Map.pdf",
-            "fileType": "PDF",
-            "linkName": "CommBankStadium_Transport_WalkingRoute_Map",
-            "sizeInBytes": 3930899,
-            "uniqueFileName": "919826_1728350438314_CommBankStadium_Transport_WalkingRoute_Map.pdf"
-          },
-          {
-            "displayName": "CommBankStadium_EventRoadClosureMap_PLR",
-            "fileName": "CommBankStadium_EventRoadClosureMap_PLR.pdf",
-            "fileType": "PDF",
-            "linkName": "CommBankStadium_EventRoadClosureMap_PLR",
-            "sizeInBytes": 276835,
-            "uniqueFileName": "689282_1760318577717_CommBankStadium_EventRoadClosureMap_PLR.pdf"
-          }
-        ],
-        "isInitialReport": false,
-        "created": 1783294255000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Use public transport",
-        "adviceC": " ",
-        "end": 1784205000000,
-        "hideEndDate": true,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1783470411565,
-        "otherAdvice": "<p><strong>NRL: Panthers v Broncos at CommBank Stadium in Parramatta. Preliminary game at 5.30pm. Kick off at 7.50pm, full time at 9.35pm.</strong></p><p>Traffic will be heavy on roads approaching Parramatta and nearby car parks are expected to be in high demand.</p><p>Allow extra travel time on roads including Parramatta Road, Church Street, Victoria Road, James Ruse Drive and Pennant Hills Road. </p><p>Motorists should also exercise caution as pedestrian activity will be high on roads between Parramatta Interchange and the stadium. </p><p>Drivers are reminded that light rail services are running through Parramatta CBD. Trams can’t stop quickly or easily – so exercise extra caution when driving in the area. </p><p><strong>Road closures </strong></p><p>Roads around the stadium will close from <strong>9.35pm until 10.05pm</strong> approx. to allow crowds to safely leave the venue. Roads will re-open once crowds have cleared the area. </p><ul><li>O’Connell Street from Grose Street to George Street </li><li>Ross Street from O’Connell Street to Trott Street </li><li>Victoria Road from O’Connell Street to Villiers Street </li></ul><p>While closures are in place motorists are encouraged to avoid driving through Parramatta CBD and detour around the closures via Grose Street, Brickfield Street, Victoria Road and Wilde Avenue in both directions. </p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1784124000000,
-        "displayName": "NRL",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Victoria Road",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "O'Connell Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Parramatta",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 279789,
       "geometry": {
         "type": "Point",
@@ -1980,78 +1896,6 @@
     },
     {
       "type": "Feature",
-      "id": 276759,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.2034479,
-          -33.8758846
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "World Cup live site - Darling Harbour",
-            "linkURL": "https://www.darlingharbour.com/whats-on/events/world-cup-live-site"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2026/06/world-cup-live-site-darling-harbour-0\" rel=\"noopener noreferrer\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1780465514000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Use public transport",
-        "adviceB": "Allow extra travel time",
-        "adviceC": " ",
-        "end": 1784555100000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1783983669874,
-        "otherAdvice": "<p>A free live site is open at Tumbalong Park in Darling Harbour from Sunday 14 June to Monday 20 July showing the upcoming FIFA World Cup Men&#39;s matches on the big-screen!</p><ul><li><strong>Wednesday 15 July:</strong> France v Spain Semi-final, kick off 5am AEST</li><li><strong>Thursday 16 July</strong>: England v Argentina Semi-final, kick off 5am AEST</li><li><strong>Sunday 19 July</strong>: Play off for third place, kick off 7am AEST</li><li><strong>Monday 20 July:</strong> Final, kick off 5am AEST</li></ul><p>Attendees are encouraged to catch public transport as traffic may be heavier than usual.</p><p>Motorists should allow extra travel time and be aware of increased pedestrian activity on local roads throughout the Sydney CBD.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1781359200000,
-        "displayName": "World Cup Live Site",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Tumbalong Park",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Harbour Street, Darling Drive",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Sydney",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 280213,
       "geometry": {
         "type": "Point",
@@ -2355,6 +2199,162 @@
             "region": "Sydney",
             "secondLocation": "",
             "suburb": "Moore Park",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 280067,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0016239,
+          -33.8081873
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p>Match tickets include travel on transport. Visit <a href=\"https://transportnsw.info/events/2026/07/nrl-panthers-double-header\" rel=\"noopener noreferrer\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [
+          {
+            "displayName": "CommBankStadium_Transport_WalkingRoute_Map",
+            "fileName": "CommBankStadium_Transport_WalkingRoute_Map.pdf",
+            "fileType": "PDF",
+            "linkName": "CommBankStadium_Transport_WalkingRoute_Map",
+            "sizeInBytes": 3930899,
+            "uniqueFileName": "919826_1728350438314_CommBankStadium_Transport_WalkingRoute_Map.pdf"
+          },
+          {
+            "displayName": "CommBankStadium_EventRoadClosureMap_PLR",
+            "fileName": "CommBankStadium_EventRoadClosureMap_PLR.pdf",
+            "fileType": "PDF",
+            "linkName": "CommBankStadium_EventRoadClosureMap_PLR",
+            "sizeInBytes": 276835,
+            "uniqueFileName": "689282_1760318577717_CommBankStadium_EventRoadClosureMap_PLR.pdf"
+          }
+        ],
+        "isInitialReport": false,
+        "created": 1783294255000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use public transport",
+        "adviceC": " ",
+        "end": 1784205000000,
+        "hideEndDate": true,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1784205001983,
+        "otherAdvice": "<p><strong>NRL: Panthers v Broncos at CommBank Stadium in Parramatta. Preliminary game at 5.30pm. Kick off at 7.50pm, full time at 9.35pm.</strong></p><p>Traffic will be heavy on roads approaching Parramatta and nearby car parks are expected to be in high demand.</p><p>Allow extra travel time on roads including Parramatta Road, Church Street, Victoria Road, James Ruse Drive and Pennant Hills Road. </p><p>Motorists should also exercise caution as pedestrian activity will be high on roads between Parramatta Interchange and the stadium. </p><p>Drivers are reminded that light rail services are running through Parramatta CBD. Trams can’t stop quickly or easily – so exercise extra caution when driving in the area. </p><p><strong>Road closures </strong></p><p>Roads around the stadium will close from <strong>9.35pm until 10.05pm</strong> approx. to allow crowds to safely leave the venue. Roads will re-open once crowds have cleared the area. </p><ul><li>O’Connell Street from Grose Street to George Street </li><li>Ross Street from O’Connell Street to Trott Street </li><li>Victoria Road from O’Connell Street to Villiers Street </li></ul><p>While closures are in place motorists are encouraged to avoid driving through Parramatta CBD and detour around the closures via Grose Street, Brickfield Street, Victoria Road and Wilde Avenue in both directions. </p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1784124000000,
+        "displayName": "NRL",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Victoria Road",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "O'Connell Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Parramatta",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 276759,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2034479,
+          -33.8758846
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "World Cup live site - Darling Harbour",
+            "linkURL": "https://www.darlingharbour.com/whats-on/events/world-cup-live-site"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2026/06/world-cup-live-site-darling-harbour-0\" rel=\"noopener noreferrer\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1780465514000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Use public transport",
+        "adviceB": "Allow extra travel time",
+        "adviceC": " ",
+        "end": 1784502000000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1784264810685,
+        "otherAdvice": "<p>A free live site is open at Tumbalong Park in Darling Harbour from Sunday 14 June to Monday 20 July showing the upcoming FIFA World Cup Men&#39;s matches on the big-screen!</p><ul><li><strong>Wednesday 15 July:</strong> France v Spain Semi-final, kick off 5am AEST</li><li><strong>Thursday 16 July</strong>: England v Argentina Semi-final, kick off 5am AEST</li><li><strong>Sunday 19 July</strong>: France v England Play off for third place, kick off 7am AEST</li><li><strong>Monday 20 July:</strong> Spain v Argentina Final, kick off 5am AEST</li></ul><p>Attendees are encouraged to catch public transport as traffic may be heavier than usual.</p><p>Motorists should allow extra travel time and be aware of increased pedestrian activity on local roads throughout the Sydney CBD.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1781359200000,
+        "displayName": "World Cup Live Site",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Tumbalong Park",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Harbour Street, Darling Drive",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Sydney",
             "trafficVolume": ""
           }
         ],
