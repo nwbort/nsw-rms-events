@@ -1,119 +1,12 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1784967780000,
+  "lastPublished": 1785055080000,
   "layerName": "MajorEvent",
   "rights": {
     "copyright": "Transport for NSW",
     "licence": "https://opendata.transport.nsw.gov.au/dataset/live-traffic-hazards"
   },
   "features": [
-    {
-      "type": "Feature",
-      "id": 278290.0,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.2090314,
-          -33.8579724
-        ],
-        "collections": [
-          {
-            "type": "Point",
-            "coordinates": [
-              151.202894,
-              -33.861876
-            ]
-          },
-          {
-            "type": "Point",
-            "coordinates": [
-              151.196554,
-              -33.868329
-            ]
-          }
-        ]
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Harbour 10",
-            "linkURL": "https://harbour10.com.au/"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>Buses will be diverting while roads are closed. Plan your trip at <a href=\"http://transportnsw.info/Harbour-10\" target=\"_blank\">transportnsw.info</a>.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [
-          {
-            "displayName": "Harbour10_map",
-            "fileName": "Harbour10_map.pdf",
-            "fileType": "PDF",
-            "linkName": "Harbour10_map",
-            "sizeInBytes": 863144,
-            "uniqueFileName": "979519_1782105986204_Harbour10_map.pdf"
-          }
-        ],
-        "isInitialReport": false,
-        "created": 1782173826000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Use public transport",
-        "adviceB": "Use an alternative route",
-        "adviceC": " ",
-        "end": 1785034800000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1782687100498,
-        "otherAdvice": "<p><strong>Up to 9,500 participants are expected to take part in this year’s Harbour 10 event</strong>, formerly known as Sydney Harbour 10k &amp; 5k.</p><p>The course starts on George Street in Circular Quay from 7.30am and ends at the Overseas Passenger Terminal by 10.30am. All event festivities will be complete by 1pm. </p><p>The course travels around the harbour foreshore using on and off-road pathways via Dawes Point, Millers Point, Barangaroo, King St Wharf, Darling Harbour and Pyrmont.</p><p>Road closures will be in place to safely facilitate the event. Motorists should allow extra travel time and follow directions of traffic controllers on site.</p><p><strong>Key road closures:</strong></p><ul><li><strong>Circular Quay West – 4am to 1pm</strong>: at the Overseas Passenger Terminal (OPT), from Argyle Street to the roundabout.</li><li><strong>Sydney CBD &amp; The Rocks – 4.30am to 11am</strong>: George Street from Alfred Street to Hickson Road; Hickson Road from George Street to Pottinger Street; and the OPT Upper Roadway.</li><li><strong>The Rocks – 6am to 11am</strong>: Hickson Road from Barton Street and Pottinger Street; Napoleon Street from Kent Street to Sussex Street; and sections of Dalgety Road and Towns Place.</li><li><strong>Dawes Point, Millers Point &amp; Barangaroo – 6am to 10am</strong>: Sections of Hickson Road, Barton Street, Slip Street and Sussex Street.</li><li><strong>Pyrmont – 7.30am to 10am</strong>: Sections of Murray Street, Pirrama Road and the Wharf 7 &amp; 10 access road.</li><li><strong>Changed access – King St Wharf and Barangaroo South - 8:15am to 9:30am</strong>: due to the closure of Sussex St, there is no exit from King St Wharf/Barangaroo South between 8:15am and 9.30am. Entry via Harbour St and Wheat Rd only. Roads affected include Barangaroo Ave, Cuthbert St, Erskine St, King St, Lime St, Shelley St and Watermans Quay.</li></ul>",
-        "arrangementElements": [
-          {
-            "html": "<p>All closures affect both directions unless stated otherwise.</p><p><strong>ROAD CLOSURES</strong></p><p><strong>THE ROCKS // 4AM SAT 25 – 10PM SUN 26 JULY</strong></p><ul><li>George Street between Lower Fort Street and Hickson Road</li></ul><p><strong>SUNDAY 26 JULY</strong></p><p><strong>THE ROCKS // 4AM TO 1PM</strong></p><ul><li>Circular Quay West from Argyle Street to the CQW Roundabout</li></ul><p><strong>SYDNEY CBD &amp; THE ROCKS // 4.30AM TO 11AM</strong></p><ul><li>George Street between Alfred Street and Hickson Road</li><li>Hickson Road between George Street and Pottinger Street</li><li>OPT Upper Roadway from Hickson Road to Overseas Passenger Terminal</li></ul><p><strong>THE ROCKS // 6AM TO 11AM</strong></p><ul><li>Dalgety Road between Windmill Street and Towns Place</li><li>Hickson Road between Barton Street and Pottinger Street</li><li>Towns Place between Dalgety Road and Hickson Road</li><li>Napoleon Street between Kent Street and Sussex Street</li></ul><p><strong>BARANGAROO, DAWES POINT &amp; MILLERS POINT // 6AM TO 10AM</strong></p><ul><li>Barton Street between Barangaroo Avenue to Hickson Road</li><li>Hickson Road between Napoleon Street and Barton Street</li><li>Slip Street from Sussex Street to the roundabout</li><li>Sussex Street between Napoleon Street and Erskine Street</li><li>Sussex Street between King Street and Erskine Street (northbound ONLY)</li></ul><p><strong>PYRMONT // 7.30AM TO 10AM</strong></p><ul><li>Murray Street* between Darling Drive and Pirrama Road</li><li>Pirrama Road** between Murray Street and Jones Bay Road</li><li>Wharf 7 &amp; 10 Access Road^ from Pirrama Road</li></ul><p>*No access to or from Australian National Maritime Museum.</p><p>**Exit only from The Star carpark northbound on Pirrama Road. Access to Star Casino via Edward Street.</p><p>^Exit only until 8.00am northbound on Pirrama Road</p><p><strong>SHARED PATHWAY CLOSURE – SYDNEY CBD // 8.15AM TO 9.30AM</strong></p><ul><li>King Street off-ramp between Pyrmont Bridge and Sussex Street</li></ul><p><strong>CYCLEWAY CLOSURE – SYDNEY CBD // 8.15AM TO 9.30AM</strong></p><ul><li>King Street between Kent Street and Sussex Street</li><li>Cyclists can detour via Market Street</li></ul>",
-            "title": "Road, cycleway and shared pathway closures",
-            "id": "864014"
-          },
-          {
-            "html": "<p>Due to road closures between 8.15am and 9.30am, vehicles will not be able to exit the King St Wharf precinct between 8.15am and 9.30am. Entry only will remain available via Wheat Rd during this time.</p><p><strong>BARANGAROO SOUTH &amp; KING STREET WHARF // 8.15AM TO 9.30AM</strong></p><ul><li>Barangaroo Avenue between Lime Street and Barton Street</li><li>Cuthbert Street between Lime Street and Shelley Street</li><li>Erskine Street between Lime Street and Sussex Street</li><li>King Street between Shelley Street and Lime Street</li><li>Lime Street between King Street and Barangaroo Avenue</li><li>Shelley Street between Lime Street and King Street</li><li>Watermans Quay between Barangaroo Avenue and Hickson Road</li></ul><p>No exit from King Street Wharf area between 8.15am and 9:30am due to closure of Sussex Street. Access via Harbour St / Wheat Rd. No exit during closure times.</p>",
-            "title": "Local access changes",
-            "id": "864015"
-          }
-        ],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1784988000000,
-        "displayName": "Harbour 10 fun run",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "George Street, Hickson Road, Pirrama Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Sydney CBD, The Rocks, Millers Point, Barangaroo & Pyrmont",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
     {
       "type": "Feature",
       "id": 279762,
@@ -174,78 +67,6 @@
             "region": "Sydney",
             "secondLocation": "",
             "suburb": "Moore Park",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 280075,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.1761892,
-          -33.8662009
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "What's On - White Bay Power Station",
-            "linkURL": "https://www.whitebaypowerstation.com/events"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "<p>Buses and light rail services run regularly to Rozelle. Metro trackwork may affect your travel on both weekends. Plan your trip at <a href=\"https://transportnsw.info/events/2026/07/ministry-of-sound-testament-90s-00s\" rel=\"noopener noreferrer\" target=\"_blank\">transportnsw.info</a></p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1783052082000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Use public transport",
-        "adviceB": "Allow extra travel time",
-        "adviceC": " ",
-        "end": 1784987940000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1783052082574,
-        "otherAdvice": "<p><strong>Upcoming events at White Bay Power Station on Saturday 18, Friday 24 &amp; Saturday 25 July</strong></p><ul><li><a href=\"https://www.whitebaypowerstation.com/whats-on/events/ministry-of-sound-testament-90s-2026\" rel=\"noopener noreferrer\" target=\"_blank\">Ministry of Sound: Testament 90s</a> - Saturday 18 July 4pm to midnight</li><li><a href=\"https://www.whitebaypowerstation.com/whats-on/events/ministry-of-sound-testament-00s-2026\" rel=\"noopener noreferrer\" target=\"_blank\">Ministry of Sound: Testament 00s</a> - Friday 24 and Saturday 25 July 4pm to midnight nightly</li></ul><p>Traffic will be heavy on roads approaching White Bay Power Station as large crowds travel to and from the event.</p><p>Parking in the area is very limited, attendees are encouraged to catch public transport.</p><p>Motorists should allow extra travel time on Victoria Rd, the City West Link and Robert St.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1784296800000,
-        "displayName": "Music event",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "White Bay Power Station",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Robert Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Rozelle",
             "trafficVolume": ""
           }
         ],
@@ -391,145 +212,6 @@
             "region": "Sydney",
             "secondLocation": "",
             "suburb": "Sydney CBD to Bondi Beach",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 278318,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.199756,
-          -33.8769567
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "TikTok Entertainment Centre - What's On",
-            "linkURL": "https://tiktokentcent.com/whats-on/"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info\" target=\"_blank\">transportnsw.info</a> to plan your trip. </p>",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1782166441000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": " ",
-        "adviceC": " ",
-        "end": 1784986200000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1783778507215,
-        "otherAdvice": "<p><a href=\"https://tiktokentcent.com/event/asap-australia/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>ASAP Australia</strong></a> <strong>at TikTok Entertainment Centre on Saturday 25 July</strong>.<strong> </strong>Shows start at 10:30am &amp; 6pm.</p><p>Traffic may be heavier than usual as attendees travel to and from the event.</p><p>Motorists should allow extra travel time and be aware of increased pedestrian activity on local roads.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1780408800000,
-        "displayName": "Shows",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "TikTok Entertainment Centre",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "Darling Drive",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Darling Harbour",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 280892,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.1304656,
-          -33.9729543
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2026/07/nrl-dragons-v-titans\" rel=\"noopener noreferrer\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1783911313000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": " ",
-        "adviceC": " ",
-        "end": 1785048300000,
-        "hideEndDate": true,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1783911314591,
-        "otherAdvice": "<p><strong>NRL: Dragons v Titans at St George Venues Jubilee Stadium in Kogarah. </strong>Kick-off at 2pm, full time at 3.40pm.</p><p>Traffic will be heavier than usual in both directions on the Princes Hwy approaching Kogarah as fans travel to and from the stadium.</p><p>Local roads around the stadium may close ahead of match start including Jubilee Ave, Park St and English St. Roads will re-open once crowds have cleared the area.</p><p>Fans driving to the game should allow extra time for parking and be aware of increased pedestrian activity on local roads.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1784988000000,
-        "displayName": "NRL",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Princes Highway",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Jubilee Avenue, English Street, Park Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Kogarah",
             "trafficVolume": ""
           }
         ],
@@ -729,140 +411,6 @@
             "region": "Sydney",
             "secondLocation": "",
             "suburb": "Dee Why to Newport",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 281983,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.2798854,
-          -28.8110035
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1784506645000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Check signage",
-        "adviceB": "Use diversions",
-        "adviceC": "Allow extra travel time",
-        "end": 1784984400000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1784506645748,
-        "otherAdvice": "<p><strong>Northern Rivers Performing Arts (NORPA) street activation 5pm Thursday 23 July to 11pm Saturday 25 July.</strong></p><p>Hampton Street will be closed with signage and detour in place.</p><p><br></p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1784790000000,
-        "displayName": "SPECIAL EVENT The Joinery NORPA street activation",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Magellan Street",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Dawson Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "North Coast NSW",
-            "secondLocation": "Hampton Street",
-            "suburb": "Lismore",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 280902,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.0631036,
-          -33.8432522
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2026/07/spence-jr-v-tszyu\" rel=\"noopener noreferrer\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1784508663000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Use public transport",
-        "adviceC": " ",
-        "end": 1785045600000,
-        "hideEndDate": true,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1784508664462,
-        "otherAdvice": "<p><strong>Spence Jr v Tszyu at Afterpay Arena (formerly Qudos Bank Arena). Matches start at 9am, finish by 3pm</strong></p><p>Traffic delays are expected as attendees make their way to Olympic Park. Motorists should allow extra travel time on roads including the M4 Mwy, Homebush Bay Dr, Concord Rd, Lane Cove Rd, Parramatta Rd, Centenary Dr and Silverwater Rd.</p><p>If you&#39;re driving, <a href=\"https://www.sydneyolympicpark.com.au/parking/\" rel=\"noopener noreferrer\" target=\"_blank\">pre-book parking online</a> in advance to secure a space, available until 11:59pm the night before the event unless sold out prior. If you have pre-booked your parking, follow the directions of staff and have your parking ticket ready to show at the car park entry.</p><p>Sydney Olympic Park Authority may close some local roads to accommodate increased public transport services and ensure pedestrian safety during events. For road closure details, visit the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" rel=\"noopener noreferrer\" target=\"_blank\">Sydney Olympic Park interactive map</a> for more details.  </p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1784988000000,
-        "displayName": "Boxing",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Afterpay Arena",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Sydney Olympic Park",
             "trafficVolume": ""
           }
         ],
@@ -1081,78 +629,6 @@
             "region": "Sydney",
             "secondLocation": "",
             "suburb": "Parramatta",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 280903,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.2236664,
-          -33.8932445
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Red Bull Dance Your Style",
-            "linkURL": "https://thehordern.com.au/event/red-bull-dance-your-style/"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>Event tickets include travel on public transport. Visit <a href=\"https://transportnsw.info/\" rel=\"noopener noreferrer\" target=\"_blank\">transportnsw.info</a> to plan your trip. The Hordern Pavilion is easily accessible by light rail and buses.</p>",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1784510010000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Use public transport",
-        "adviceB": " ",
-        "adviceC": " ",
-        "end": 1784984400000,
-        "hideEndDate": true,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1784510061859,
-        "otherAdvice": "<p><strong>Red Bull Dance Your Style at Hordern Pavilion. Event starts at 7pm</strong></p><p>Motorists should allow extra travel time on roads including the Eastern Distributor, Moore Park Rd, Cleveland St, Anzac Pde and Lang Rd.</p><p>Attendees are encouraged to catch public transport and leave the car at home to avoid traffic delays.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1784901600000,
-        "displayName": "Show",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Hordern Pavilion",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "Moore Park Road, Anzac Parade, Lang Road, Eastern Distributor",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Moore Park",
             "trafficVolume": ""
           }
         ],
@@ -1636,7 +1112,7 @@
         "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
-        "ended": false,
+        "ended": true,
         "isNewIncident": false,
         "publicTransport": "<p>Match tickets include travel on public transport for both NRL and AFL matches. Visit <a href=\"https://transportnsw.info/events\" rel=\"noopener noreferrer\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
         "impactingNetwork": false,
@@ -1654,7 +1130,7 @@
         "hideEndDate": true,
         "incidentKind": "Planned",
         "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1784783876578,
+        "lastUpdated": 1784974501830,
         "otherAdvice": "<p><strong>Sydney Olympic Park will be busy on Saturday 25 July with AFL and NRL matches taking place within the park and around 40,000 fans expected:</strong></p><ul><li><a href=\"https://www.accorstadium.com.au/events\" rel=\"noopener noreferrer\" target=\"_blank\">NRL Bulldogs Double Header</a> at Accor Stadium. NRLW kick off at 3.15pm, NRL kick off at 5.30pm, full time at 7.15pm</li><li><a href=\"https://www.sydneyshowground.com.au/whats-on/giants-vs-sydney-swans/\" rel=\"noopener noreferrer\" target=\"_blank\">AFL GWS Giants v Sydney Swans</a> at ENGIE Stadium. First bounce at 4.35pm, full time at 7pm</li></ul><p>Traffic will be heavy as fans travel to and from the matches. Motorists should allow extra travel time on roads including the M4 Mwy, Homebush Bay Dr, Concord Rd, Lane Cove Rd, Parramatta Rd, Centenary Dr and Silverwater Rd.</p><p>If you need to drive, <a href=\"https://www.sydneyolympicpark.com.au/parking/\" rel=\"noopener noreferrer\" target=\"_blank\">pre-book parking online</a> in advance to secure a space. Follow the directions of staff and have your parking ticket ready to show at the car park entry.</p><p>Sydney Olympic Park Authority may close some local roads to accommodate increased public transport services and ensure pedestrian safety during events. For road closure details, visit the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" rel=\"noopener noreferrer\" target=\"_blank\">Sydney Olympic Park interactive map</a> for more details.  </p>",
         "arrangementElements": [],
         "diversions": "",
@@ -1687,17 +1163,22 @@
     },
     {
       "type": "Feature",
-      "id": 280890.0,
+      "id": 280903,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.7246144,
-          -32.9180207
+          151.2236664,
+          -33.8932445
         ],
         "collections": []
       },
       "properties": {
-        "webLinks": [],
+        "webLinks": [
+          {
+            "linkText": "Red Bull Dance Your Style",
+            "linkURL": "https://thehordern.com.au/event/red-bull-dance-your-style/"
+          }
+        ],
         "headline": "",
         "periods": [],
         "speedLimit": -1,
@@ -1705,24 +1186,24 @@
         "expectedDelay": -1,
         "ended": true,
         "isNewIncident": false,
-        "publicTransport": "<p>Match tickets include travel on stadium shuttle buses. Visit <a href=\"https://transportnsw.info/events/2026/07/nrl-knights-v-roosters\" rel=\"noopener noreferrer\" target=\"_blank\">transportnsw.info</a> to plan your trip</p>",
-        "impactingNetwork": false,
+        "publicTransport": "<p>Event tickets include travel on public transport. Visit <a href=\"https://transportnsw.info/\" rel=\"noopener noreferrer\" target=\"_blank\">transportnsw.info</a> to plan your trip. The Hordern Pavilion is easily accessible by light rail and buses.</p>",
+        "impactingNetwork": true,
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1783911253000,
+        "created": 1784510010000,
         "isMajor": false,
         "name": null,
         "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
+        "adviceA": "Use public transport",
         "adviceB": " ",
         "adviceC": " ",
-        "end": 1784890800000,
+        "end": 1784984400000,
         "hideEndDate": true,
         "incidentKind": "Planned",
         "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1784890802419,
-        "otherAdvice": "<p><strong>NRL Knights v Roosters at McDonald Jones Stadium in Broadmeadow. Kick-off at 6pm and full time around 8pm.</strong></p><p>Traffic will be heavier than usual as fans travel to and from the match. Allow extra travel time on Turton Rd, Griffiths Rd, Newcastle Rd, Lambton Rd and Bridges Rd through Broadmeadow while fans are making their way to and from the stadium.</p><p>For passenger drop-off, use the allocated 10-minute loading zone in the McDonald Jones Stadium car park. Entry is via the driveway off Turton Road.</p><p>Motorists should allow extra travel time and be aware of increased pedestrian activity on local roads.</p>",
+        "lastUpdated": 1784984404609,
+        "otherAdvice": "<p><strong>Red Bull Dance Your Style at Hordern Pavilion. Event starts at 7pm</strong></p><p>Motorists should allow extra travel time on roads including the Eastern Distributor, Moore Park Rd, Cleveland St, Anzac Pde and Lang Rd.</p><p>Attendees are encouraged to catch public transport and leave the car at home to avoid traffic delays.</p>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
@@ -1730,21 +1211,21 @@
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1784815200000,
-        "displayName": "NRL",
+        "start": 1784901600000,
+        "displayName": "Show",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Turton Road",
+            "crossStreet": "Hordern Pavilion",
             "delay": "",
             "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Griffiths Road",
+            "locationQualifier": "approaching",
+            "mainStreet": "Moore Park Road, Anzac Parade, Lang Road, Eastern Distributor",
             "quadrant": "",
             "queueLength": 0,
-            "region": "Hunter",
+            "region": "Sydney",
             "secondLocation": "",
-            "suburb": "Broadmeadow",
+            "suburb": "Moore Park",
             "trafficVolume": ""
           }
         ],
@@ -1754,12 +1235,12 @@
     },
     {
       "type": "Feature",
-      "id": 280897,
+      "id": 281983,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.0628616,
-          -33.8493186
+          153.2798854,
+          -28.8110035
         ],
         "collections": []
       },
@@ -1772,24 +1253,24 @@
         "expectedDelay": -1,
         "ended": true,
         "isNewIncident": false,
-        "publicTransport": "<p>Match tickets include travel on public transport. Visit <a href=\"https://transportnsw.info/events/2026/07/nrl-rabbitohs-v-storm\" rel=\"noopener noreferrer\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "publicTransport": "",
         "impactingNetwork": false,
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1783911456000,
+        "created": 1784506645000,
         "isMajor": false,
         "name": null,
         "subCategoryA": "null",
-        "adviceA": "Use public transport",
-        "adviceB": "Allow extra travel time",
-        "adviceC": " ",
-        "end": 1784897100000,
-        "hideEndDate": true,
+        "adviceA": "Check signage",
+        "adviceB": "Use diversions",
+        "adviceC": "Allow extra travel time",
+        "end": 1784984400000,
+        "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1784897146750,
-        "otherAdvice": "<p><strong>NRL: Rabbitohs v Storm at Accor Stadium in Olympic Park. Kick-off at 8pm, full time around 9.45pm.</strong></p><p>Traffic will be heavy as fans travel to the match in the busy evening peak. Motorists should allow extra travel time on roads including the M4 Mwy, Homebush Bay Dr, Concord Rd, Lane Cove Rd, Parramatta Rd, Centenary Dr and Silverwater Rd.</p><p>If you need to drive, <a href=\"https://www.sydneyolympicpark.com.au/parking/\" rel=\"noopener noreferrer\" target=\"_blank\">pre-book parking online</a> in advance to secure a space. Follow the directions of staff and have your parking ticket ready to show at the car park entry.</p><p>Sydney Olympic Park Authority may close some local roads to accommodate increased public transport services and ensure pedestrian safety during events. For road closure details, visit the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" rel=\"noopener noreferrer\" target=\"_blank\">Sydney Olympic Park interactive map</a> for more details.  </p>",
+        "lastUpdated": 1784984405116,
+        "otherAdvice": "<p><strong>Northern Rivers Performing Arts (NORPA) street activation 5pm Thursday 23 July to 11pm Saturday 25 July.</strong></p><p>Hampton Street will be closed with signage and detour in place.</p><p><br></p>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
@@ -1797,16 +1278,319 @@
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1784815200000,
-        "displayName": "NRL",
+        "start": 1784790000000,
+        "displayName": "SPECIAL EVENT The Joinery NORPA street activation",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Accor Stadium",
+            "crossStreet": "Magellan Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Dawson Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "North Coast NSW",
+            "secondLocation": "Hampton Street",
+            "suburb": "Lismore",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 278318,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.199756,
+          -33.8769567
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "TikTok Entertainment Centre - What's On",
+            "linkURL": "https://tiktokentcent.com/whats-on/"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info\" target=\"_blank\">transportnsw.info</a> to plan your trip. </p>",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1782166441000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": " ",
+        "adviceC": " ",
+        "end": 1784986200000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1784986202548,
+        "otherAdvice": "<p><a href=\"https://tiktokentcent.com/event/asap-australia/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>ASAP Australia</strong></a> <strong>at TikTok Entertainment Centre on Saturday 25 July</strong>.<strong> </strong>Shows start at 10:30am &amp; 6pm.</p><p>Traffic may be heavier than usual as attendees travel to and from the event.</p><p>Motorists should allow extra travel time and be aware of increased pedestrian activity on local roads.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1780408800000,
+        "displayName": "Shows",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "TikTok Entertainment Centre",
             "delay": "",
             "impactedLanes": [],
             "locationQualifier": "approaching",
-            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road, Centenary Drive",
+            "mainStreet": "Darling Drive",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Darling Harbour",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 280075,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1761892,
+          -33.8662009
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "What's On - White Bay Power Station",
+            "linkURL": "https://www.whitebaypowerstation.com/events"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p>Buses and light rail services run regularly to Rozelle. Metro trackwork may affect your travel on both weekends. Plan your trip at <a href=\"https://transportnsw.info/events/2026/07/ministry-of-sound-testament-90s-00s\" rel=\"noopener noreferrer\" target=\"_blank\">transportnsw.info</a></p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1783052082000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Use public transport",
+        "adviceB": "Allow extra travel time",
+        "adviceC": " ",
+        "end": 1784987940000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1784987941367,
+        "otherAdvice": "<p><strong>Upcoming events at White Bay Power Station on Saturday 18, Friday 24 &amp; Saturday 25 July</strong></p><ul><li><a href=\"https://www.whitebaypowerstation.com/whats-on/events/ministry-of-sound-testament-90s-2026\" rel=\"noopener noreferrer\" target=\"_blank\">Ministry of Sound: Testament 90s</a> - Saturday 18 July 4pm to midnight</li><li><a href=\"https://www.whitebaypowerstation.com/whats-on/events/ministry-of-sound-testament-00s-2026\" rel=\"noopener noreferrer\" target=\"_blank\">Ministry of Sound: Testament 00s</a> - Friday 24 and Saturday 25 July 4pm to midnight nightly</li></ul><p>Traffic will be heavy on roads approaching White Bay Power Station as large crowds travel to and from the event.</p><p>Parking in the area is very limited, attendees are encouraged to catch public transport.</p><p>Motorists should allow extra travel time on Victoria Rd, the City West Link and Robert St.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1784296800000,
+        "displayName": "Music event",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "White Bay Power Station",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Robert Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Rozelle",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 278290.0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2088559,
+          -33.859182
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Harbour 10",
+            "linkURL": "https://harbour10.com.au/"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p>Plan your trip at <a href=\"http://transportnsw.info/Harbour-10\" rel=\"noopener noreferrer\" target=\"_blank\">transportnsw.info</a>.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [
+          {
+            "displayName": "Harbour10_map",
+            "fileName": "Harbour10_map.pdf",
+            "fileType": "PDF",
+            "linkName": "Harbour10_map",
+            "sizeInBytes": 863144,
+            "uniqueFileName": "979519_1782105986204_Harbour10_map.pdf"
+          }
+        ],
+        "isInitialReport": false,
+        "created": 1782173826000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Use public transport",
+        "adviceB": "Use an alternative route",
+        "adviceC": " ",
+        "end": 1785034800000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1785034846909,
+        "otherAdvice": "<p><strong>Up to 9,500 participants are expected to take part in this year’s Harbour 10 event</strong>, formerly known as Sydney Harbour 10k &amp; 5k.</p><p>The course starts on George Street in Circular Quay from 7.30am and ends at the Overseas Passenger Terminal by 10.30am. All event festivities will be complete by 1pm. </p><p>The course travels around the harbour foreshore using on and off-road pathways via Dawes Point, Millers Point, Barangaroo, King St Wharf, Darling Harbour and Pyrmont.</p><p>Road closures are in place to safely facilitate the event. Motorists should allow extra travel time and follow directions of traffic controllers on site.</p><p><strong>Key road closures:</strong></p><ul><li><strong>*CLOSED* Circular Quay West – 4am to 1pm</strong>: at the Overseas Passenger Terminal (OPT), from Argyle Street to the roundabout.</li></ul>",
+        "arrangementElements": [
+          {
+            "html": "<p>All closures affect both directions unless stated otherwise.</p><p><strong>ROAD CLOSURES</strong></p><p><strong>THE ROCKS // 4AM SAT 25 – 10PM SUN 26 JULY</strong></p><ul><li>George Street between Lower Fort Street and Hickson Road</li></ul><p><strong>SUNDAY 26 JULY</strong></p><p><strong>THE ROCKS // 4AM TO 1PM</strong></p><ul><li>Circular Quay West from Argyle Street to the CQW Roundabout</li></ul><p><strong>SYDNEY CBD &amp; THE ROCKS // 4.30AM TO 11AM</strong></p><ul><li>George Street between Alfred Street and Hickson Road</li><li>Hickson Road between George Street and Pottinger Street</li><li>OPT Upper Roadway from Hickson Road to Overseas Passenger Terminal</li></ul><p><strong>THE ROCKS // 6AM TO 11AM</strong></p><ul><li>Dalgety Road between Windmill Street and Towns Place</li><li>Hickson Road between Barton Street and Pottinger Street</li><li>Towns Place between Dalgety Road and Hickson Road</li><li>Napoleon Street between Kent Street and Sussex Street</li></ul><p><strong>BARANGAROO, DAWES POINT &amp; MILLERS POINT // 6AM TO 10AM</strong></p><ul><li>Barton Street between Barangaroo Avenue to Hickson Road</li><li>Hickson Road between Napoleon Street and Barton Street</li><li>Slip Street from Sussex Street to the roundabout</li><li>Sussex Street between Napoleon Street and Erskine Street</li><li>Sussex Street between King Street and Erskine Street (northbound ONLY)</li></ul><p><strong>PYRMONT // 7.30AM TO 10AM</strong></p><ul><li>Murray Street* between Darling Drive and Pirrama Road</li><li>Pirrama Road** between Murray Street and Jones Bay Road</li><li>Wharf 7 &amp; 10 Access Road^ from Pirrama Road</li></ul><p>*No access to or from Australian National Maritime Museum.</p><p>**Exit only from The Star carpark northbound on Pirrama Road. Access to Star Casino via Edward Street.</p><p>^Exit only until 8.00am northbound on Pirrama Road</p><p><strong>SHARED PATHWAY CLOSURE – SYDNEY CBD // 8.15AM TO 9.30AM</strong></p><ul><li>King Street off-ramp between Pyrmont Bridge and Sussex Street</li></ul><p><strong>CYCLEWAY CLOSURE – SYDNEY CBD // 8.15AM TO 9.30AM</strong></p><ul><li>King Street between Kent Street and Sussex Street</li><li>Cyclists can detour via Market Street</li></ul>",
+            "title": "Road, cycleway and shared pathway closures",
+            "id": "880667"
+          },
+          {
+            "html": "<p>Due to road closures between 8.15am and 9.30am, vehicles will not be able to exit the King St Wharf precinct between 8.15am and 9.30am. Entry only will remain available via Wheat Rd during this time.</p><p><strong>BARANGAROO SOUTH &amp; KING STREET WHARF // 8.15AM TO 9.30AM</strong></p><ul><li>Barangaroo Avenue between Lime Street and Barton Street</li><li>Cuthbert Street between Lime Street and Shelley Street</li><li>Erskine Street between Lime Street and Sussex Street</li><li>King Street between Shelley Street and Lime Street</li><li>Lime Street between King Street and Barangaroo Avenue</li><li>Shelley Street between Lime Street and King Street</li><li>Watermans Quay between Barangaroo Avenue and Hickson Road</li></ul><p>No exit from King Street Wharf area between 8.15am and 9:30am due to closure of Sussex Street. Access via Harbour St / Wheat Rd. No exit during closure times.</p>",
+            "title": "Local access changes",
+            "id": "880668"
+          }
+        ],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1785027600000,
+        "displayName": "Harbour 10 fun run",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "George Street, Hickson Road, Pirrama Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Sydney CBD, The Rocks, Millers Point, Barangaroo & Pyrmont",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 280902,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0631036,
+          -33.8432522
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2026/07/spence-jr-v-tszyu\" rel=\"noopener noreferrer\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1784508663000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use public transport",
+        "adviceC": " ",
+        "end": 1785045600000,
+        "hideEndDate": true,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1785045646779,
+        "otherAdvice": "<p><strong>Spence Jr v Tszyu at Afterpay Arena (formerly Qudos Bank Arena). Matches start at 9am, finish by 3pm</strong></p><p>Traffic delays are expected as attendees make their way to Olympic Park. Motorists should allow extra travel time on roads including the M4 Mwy, Homebush Bay Dr, Concord Rd, Lane Cove Rd, Parramatta Rd, Centenary Dr and Silverwater Rd.</p><p>If you&#39;re driving, <a href=\"https://www.sydneyolympicpark.com.au/parking/\" rel=\"noopener noreferrer\" target=\"_blank\">pre-book parking online</a> in advance to secure a space, available until 11:59pm the night before the event unless sold out prior. If you have pre-booked your parking, follow the directions of staff and have your parking ticket ready to show at the car park entry.</p><p>Sydney Olympic Park Authority may close some local roads to accommodate increased public transport services and ensure pedestrian safety during events. For road closure details, visit the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" rel=\"noopener noreferrer\" target=\"_blank\">Sydney Olympic Park interactive map</a> for more details.  </p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1784988000000,
+        "displayName": "Boxing",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Afterpay Arena",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "approaching",
+            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road",
             "quadrant": "",
             "queueLength": 0,
             "region": "Sydney",
@@ -1821,12 +1605,12 @@
     },
     {
       "type": "Feature",
-      "id": 280891,
+      "id": 280892,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.2274611,
-          -33.9048496
+          151.1304656,
+          -33.9729543
         ],
         "collections": []
       },
@@ -1839,24 +1623,24 @@
         "expectedDelay": -1,
         "ended": true,
         "isNewIncident": false,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2026/07/industry-celebration-day\" rel=\"noopener noreferrer\" target=\"_blank\">transportnsw.info</a> to plan your trip</p>",
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2026/07/nrl-dragons-v-titans\" rel=\"noopener noreferrer\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
         "impactingNetwork": false,
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1783911287000,
+        "created": 1783911313000,
         "isMajor": false,
         "name": null,
         "subCategoryA": "null",
         "adviceA": "Allow extra travel time",
-        "adviceB": "Use public transport",
+        "adviceB": " ",
         "adviceC": " ",
-        "end": 1784965500000,
+        "end": 1785048300000,
         "hideEndDate": true,
         "incidentKind": "Planned",
         "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1784965501582,
-        "otherAdvice": "<p><strong>Industry Celebration Day at Royal Randwick Racecourse</strong>. First race from 11.20am, last race from 4.45pm.</p><p>Traffic will be heavier than usual on Anzac Pde, Doncaster Ave, High St, Alison Rd and Darley Rd as crowds travel to and from the event.</p><p>Motorists should allow extra travel time and be aware of increased pedestrian activity on local roads.</p>",
+        "lastUpdated": 1785048301575,
+        "otherAdvice": "<p><strong>NRL: Dragons v Titans at St George Venues Jubilee Stadium in Kogarah. </strong>Kick-off at 2pm, full time at 3.40pm.</p><p>Traffic will be heavier than usual in both directions on the Princes Hwy approaching Kogarah as fans travel to and from the stadium.</p><p>Local roads around the stadium may close ahead of match start including Jubilee Ave, Park St and English St. Roads will re-open once crowds have cleared the area.</p><p>Fans driving to the game should allow extra time for parking and be aware of increased pedestrian activity on local roads.</p>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
@@ -1864,21 +1648,21 @@
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1784901600000,
-        "displayName": "Race Day",
+        "start": 1784988000000,
+        "displayName": "NRL",
         "roads": [
           {
             "conditionTendency": "",
-            "crossStreet": "Royal Randwick Racecourse",
+            "crossStreet": "Princes Highway",
             "delay": "",
             "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "Anzac Parade, Alison Road, High Street",
+            "locationQualifier": "at",
+            "mainStreet": "Jubilee Avenue, English Street, Park Street",
             "quadrant": "",
             "queueLength": 0,
             "region": "Sydney",
             "secondLocation": "",
-            "suburb": "Randwick",
+            "suburb": "Kogarah",
             "trafficVolume": ""
           }
         ],
