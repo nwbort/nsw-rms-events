@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1785316080000,
+  "lastPublished": 1785402180000,
   "layerName": "MajorEvent",
   "rights": {
     "copyright": "Transport for NSW",
@@ -358,96 +358,6 @@
             "region": "Sydney",
             "secondLocation": "",
             "suburb": "Sydney Olympic Park",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 276293,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.2220693,
-          -33.8878911
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>Travel on transport is included in match tickets and additional light rail services will run. Visit <a href=\"https://transportnsw.info/events/2026/07/sydney-super-cup-tottenham-hotspur-v-sydney-fc\" rel=\"noopener noreferrer\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [
-          {
-            "displayName": "Moore-Park-events-transport-map",
-            "fileName": "Moore-Park-events-transport-map.pdf",
-            "fileType": "PDF",
-            "linkName": "Moore-Park-events-transport-map",
-            "sizeInBytes": 692771,
-            "uniqueFileName": "327493_1763955212233_Moore-Park-events-transport-map.pdf"
-          },
-          {
-            "displayName": "ClearwayMap_MoorePark_North",
-            "fileName": "ClearwayMap_MoorePark_North.pdf",
-            "fileType": "PDF",
-            "linkName": "ClearwayMap_MoorePark_North",
-            "sizeInBytes": 200520,
-            "uniqueFileName": "334416_1784677500670_ClearwayMap_MoorePark_North.pdf"
-          }
-        ],
-        "isInitialReport": false,
-        "created": 1784080415000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Expect delays",
-        "adviceB": "Check signage",
-        "adviceC": "Use public transport",
-        "end": 1785330900000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1784677518375,
-        "otherAdvice": "<p><strong>Tottenham Hotspur v Sydney FC at Allianz Stadium on Wednesday 29 July. Kick-off at 7.45pm, full time around 9.40pm.</strong></p><p>Traffic delays are expected on roads approaching Moore Park as football fans make their way to the precinct in the already busy weeknight peak.</p><p>Motorists should carpool and allow plenty of extra travel time on roads including the Eastern Distributor, Moore Park Rd, Cleveland St, Anzac Pde and Lang Rd.</p><p><strong>Changed traffic conditions:</strong></p><ul><li>Driver Avenue will be partially closed outside the stadium from 4pm and will reopen once crowds have safely cleared the area.   </li><li>No through-traffic will be available on Driver Avenue, however access to EP3 grass car park and drop-off areas maintained from Moore Park Road and Lang Road. Car Parks open from 4.45pm. </li><li><strong>Special event clearways will be in place on roads in Moore Park and surrounding areas from 3pm to midnight </strong>on sections of Albion Street, Moore Park Road and Lang Road, and <strong>from 6am to midnight</strong> on sections of Cleveland Street and Fitzroy Street. </li></ul><p>Clearways are strict no-parking zones for all vehicle types, and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed\" rel=\"noopener noreferrer\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator.</p>",
-        "arrangementElements": [
-          {
-            "html": "<p>Clearways are <strong>strict</strong> no-parking zones and also apply to local residents and Mobility Scheme Permit holders. Check signs before parking as vehicles left in special event clearways will be towed and a towing fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed/what-to-do\" rel=\"noopener noreferrer\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator. </p><p><strong>From 6am to midnight</strong></p><ul><li>Cleveland Street between South Dowling Street and City Road (southern side) </li><li>Cleveland Street between Abercrombie Street and South Dowling Street (northern side) </li><li>Fitzroy Street between South Dowling Street and Bourke Street (northern side) </li></ul><p><strong>From 3pm to midnight</strong></p><ul><li>Albion Street between Bourke Street and Flinders Street (both sides) </li><li>Lang Road between Anzac Parade and Errol Flynn Boulevard (northern side) </li><li>Moore Park Road between Flinders Street and Greens Road (northern side)  </li></ul>",
-            "title": "Special Event Clearways",
-            "id": "878498"
-          }
-        ],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1785247200000,
-        "displayName": "Tottenham Hotspur v Sydney FC",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Allianz Stadium, SCG",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "Moore Park Road, Anzac Parade, Lang Road, Eastern Distributor",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Moore Park",
             "trafficVolume": ""
           }
         ],
@@ -1262,166 +1172,6 @@
     },
     {
       "type": "Feature",
-      "id": 278997,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.0667134,
-          -33.8479072
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "<p>Match tickets include travel on public transport. Visit <a href=\"https://transportnsw.info/events/2026/07/sydney-super-cup-chelsea-fc-v-western-sydney-wanderers\" rel=\"noopener noreferrer\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1783489125000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Use public transport",
-        "adviceB": "Allow extra travel time",
-        "adviceC": " ",
-        "end": 1785243600000,
-        "hideEndDate": true,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1785243664623,
-        "otherAdvice": "<p><strong>Sydney Super Cup: Chelsea F.C. v Western Sydney Wanderers at Accor Stadium on Tuesday 28 July. Gates open at 6:15pm. Game kick-off 7:45pm. Full-time 9.40pm. </strong></p><p>With thousands of football fans expected to attend Chelsea FC v Western Sydney Wanderers, delays are expected on roads approaching the precinct.  </p><p>Motorists should allow plenty of extra travel time on roads approaching Olympic Park including the M4 Mwy, Homebush Bay Dr, Concord Rd, Lane Cove Rd, Parramatta Rd, Centenary Dr and Silverwater Rd.</p><ul><li><strong>PARKING:</strong> car parks are expected to be in high demand, fans are urged to <a href=\"https://www.sydneyolympicpark.nsw.gov.au/parking\" rel=\"noopener noreferrer\" target=\"_blank\">pre-book parking online</a> ahead of time to secure a space. A flat rate $40 parking fee applies. </li><li>If you have pre-booked your parking, follow the directions of staff and have your parking ticket ready to show at the car park entry.</li><li>Carpool with your group and allow plenty of extra travel time as traffic will be heavy during the busy weeknight peak.</li><li>Alternatively, consider parking at a nearby train station commuter car park and continuing your trip by train to Olympic Park, at no extra cost.</li></ul><p>Sydney Olympic Park Authority will close local roads in the precinct <strong>from 4pm to 11.30pm on Tuesday 28 July  </strong>including Olympic Boulevard from Grand Parade to Dawn Fraser Avenue, and Showground Road from Murray Rose Avenue to Dawn Fraser Avenue. For road closure details, visit the <a href=\"https://www.sopa.nsw.gov.au/Map\" rel=\"noopener noreferrer\" target=\"_blank\">Sydney Olympic Park Authority interactive map</a>. </p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1785160800000,
-        "displayName": "Chelsea FC v Western Sydney Wanderers",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Accor Stadium",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road, Centenary Drive",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Sydney Olympic Park",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 282876,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.2123471,
-          -33.8672167
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "TCS Sydney Marathon",
-            "linkURL": "https://www.tcssydneymarathon.com/minimarathon"
-          },
-          {
-            "linkText": "TfNSW Mini Marathon - transport info",
-            "linkURL": "https://transportnsw.info/events/2026/08/sydney-mini-marathon"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>Travel on transport is included for participants. Visit <a href=\"https://transportnsw.info/events/2026/08/sydney-mini-marathon\" rel=\"noopener noreferrer\" target=\"_blank\">transportnsw.info</a> for details.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [
-          {
-            "displayName": "Mini_Marathon_2026_RoadClosureClearwayMap",
-            "fileName": "Mini_Marathon_2026_RoadClosureClearwayMap.pdf",
-            "fileType": "PDF",
-            "linkName": "Mini_Marathon_2026_RoadClosureClearwayMap",
-            "sizeInBytes": 508195,
-            "uniqueFileName": "349915_1785287633672_Mini_Marathon_2026_RoadClosureClearwayMap.pdf"
-          },
-          {
-            "displayName": "Mini_Marathon_2026_Hospital_Access_Map",
-            "fileName": "Mini_Marathon_2026_Hospital_Access_Map.pdf",
-            "fileType": "PDF",
-            "linkName": "Mini_Marathon_2026_Hospital_Access_Map",
-            "sizeInBytes": 277543,
-            "uniqueFileName": "785095_1785287635005_Mini_Marathon_2026_Hospital_Access_Map.pdf"
-          }
-        ],
-        "isInitialReport": false,
-        "created": 1785287842000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Check signage",
-        "adviceB": "Expect delays",
-        "adviceC": "Use public transport",
-        "end": 1787963400000,
-        "hideEndDate": true,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1785287878971,
-        "otherAdvice": "<p>Sydney Marathon events are taking place over two days on Saturday 29 and Sunday 30 August. On Saturday the 5km Mini Marathon will see 10,000 participants run through the Sydney CBD and The Domain.</p><p>Roads will be closed and clearways will be in effect between 2am and 10am.</p><p><strong>Road closures:</strong></p><ul><li><strong>2am – 10am</strong>: Macquarie St between Bridge St and Bent St </li><li><strong>4am – 10am</strong>: Macquarie St between Bridge St and the Opera House roundabout, and Albert St, roads in the Royal Botanic Garden &amp; The Domain including Art Gallery Rd and Mrs Macquaries Rd.</li><li><strong>5am – 10am</strong>: Macquarie St between Bent St and College St, including Cahill Expressway on and off ramps to Macquarie St, St James Rd to Elizabeth St, College St to Park St, Hunter St and Phillip St. </li><li><strong>6.30am – 9.30am</strong>: St Mary’s Rd, Hospital Rd and Shakespeare Place/Bent Street.</li><li><strong>From 5am Sat 29 Aug until 1am Mon 31 Aug</strong>: Road closures will be in place on sections of Loftus St, Loftus Lane, Young St and Alfred St in Circular Quay for the Motion Festival (Marathon official live site). No road closures will be in place on Thursday 27 or Friday 28 August.</li></ul><p><strong>Cycleway closures from 5am to 10am:</strong></p><ul><li>College Street between Park Street and Prince Albert Road (western side)</li><li>Macquarie St between St James Rd and King St (western side)</li></ul><p><strong>Special event clearways</strong> will be in effect on key roads in the Sydney CBD <strong>from 2am to 10am</strong> including sections of Albert St, Art Gallery Rd, Bent St, Bridge St, College St, Conservatorium Rd, Hospital Rd, Hunter St, Macquarie St, Mrs Macquaries Rd, Phillip Ln, Prince Albert Rd, Shakespeare Place, St James Rd and St Marys Rd. Clearways will also be in effect from 5am Sat 29 Aug to 1am Mon 31 Aug on O’Connell St and Bligh St.</p><p>Clearways are strict no-parking zones for all vehicle types and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed\" rel=\"noopener noreferrer\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1787925600000,
-        "displayName": "Mini Marathon",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "-",
-            "mainStreet": "Macquarie Street, Bridge Street, College Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Sydney",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 280213,
       "geometry": {
         "type": "Point",
@@ -1643,6 +1393,261 @@
             "region": "Sydney",
             "secondLocation": "Lyons Road",
             "suburb": "Five Dock",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 276293,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2220693,
+          -33.8878911
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p>Travel on transport is included in match tickets and additional light rail services will run. Visit <a href=\"https://transportnsw.info/events/2026/07/sydney-super-cup-tottenham-hotspur-v-sydney-fc\" rel=\"noopener noreferrer\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [
+          {
+            "displayName": "Moore-Park-events-transport-map",
+            "fileName": "Moore-Park-events-transport-map.pdf",
+            "fileType": "PDF",
+            "linkName": "Moore-Park-events-transport-map",
+            "sizeInBytes": 692771,
+            "uniqueFileName": "327493_1763955212233_Moore-Park-events-transport-map.pdf"
+          },
+          {
+            "displayName": "ClearwayMap_MoorePark_North",
+            "fileName": "ClearwayMap_MoorePark_North.pdf",
+            "fileType": "PDF",
+            "linkName": "ClearwayMap_MoorePark_North",
+            "sizeInBytes": 200520,
+            "uniqueFileName": "334416_1784677500670_ClearwayMap_MoorePark_North.pdf"
+          }
+        ],
+        "isInitialReport": false,
+        "created": 1784080415000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Expect delays",
+        "adviceB": "Check signage",
+        "adviceC": "Use public transport",
+        "end": 1785330900000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1785330946553,
+        "otherAdvice": "<p><strong>Tottenham Hotspur v Sydney FC at Allianz Stadium on Wednesday 29 July. Kick-off at 7.45pm, full time around 9.40pm.</strong></p><p>Traffic delays are expected on roads approaching Moore Park as football fans make their way to the precinct in the already busy weeknight peak.</p><p>Motorists should carpool and allow plenty of extra travel time on roads including the Eastern Distributor, Moore Park Rd, Cleveland St, Anzac Pde and Lang Rd.</p><p><strong>Changed traffic conditions:</strong></p><ul><li>Driver Avenue will be partially closed outside the stadium from 4pm and will reopen once crowds have safely cleared the area.   </li><li>No through-traffic will be available on Driver Avenue, however access to EP3 grass car park and drop-off areas maintained from Moore Park Road and Lang Road. Car Parks open from 4.45pm. </li><li><strong>Special event clearways will be in place on roads in Moore Park and surrounding areas from 3pm to midnight </strong>on sections of Albion Street, Moore Park Road and Lang Road, and <strong>from 6am to midnight</strong> on sections of Cleveland Street and Fitzroy Street. </li></ul><p>Clearways are strict no-parking zones for all vehicle types, and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed\" rel=\"noopener noreferrer\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator.</p>",
+        "arrangementElements": [
+          {
+            "html": "<p>Clearways are <strong>strict</strong> no-parking zones and also apply to local residents and Mobility Scheme Permit holders. Check signs before parking as vehicles left in special event clearways will be towed and a towing fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed/what-to-do\" rel=\"noopener noreferrer\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator. </p><p><strong>From 6am to midnight</strong></p><ul><li>Cleveland Street between South Dowling Street and City Road (southern side) </li><li>Cleveland Street between Abercrombie Street and South Dowling Street (northern side) </li><li>Fitzroy Street between South Dowling Street and Bourke Street (northern side) </li></ul><p><strong>From 3pm to midnight</strong></p><ul><li>Albion Street between Bourke Street and Flinders Street (both sides) </li><li>Lang Road between Anzac Parade and Errol Flynn Boulevard (northern side) </li><li>Moore Park Road between Flinders Street and Greens Road (northern side)  </li></ul>",
+            "title": "Special Event Clearways",
+            "id": "882851"
+          }
+        ],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1785247200000,
+        "displayName": "Tottenham Hotspur v Sydney FC",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Allianz Stadium, SCG",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "approaching",
+            "mainStreet": "Moore Park Road, Anzac Parade, Lang Road, Eastern Distributor",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Moore Park",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 283007,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.929288,
+          -31.0900834
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Event website",
+            "linkURL": "https://www.tamworthregion.com.au/event/a-winters-night-01-aug-2026-peel-street-tamworth"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1785380294000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Check signage",
+        "adviceC": " ",
+        "end": 1785582000000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1785380361190,
+        "otherAdvice": "<p>Tamworth&#39;s CBD will be transformed into a winter wonderland on Saturday 1 August.</p><p>The event will be held on Peel Street (between Fitzroy and White Streets).</p><p>During the event, motorists will not be able to turn off the Oxley Highway into Peel Street. </p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1785553200000,
+        "displayName": "SPECIAL EVENT A Winter Night",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Peel Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Oxley Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "New England North West",
+            "secondLocation": "",
+            "suburb": "Tamworth",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 282876,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2123471,
+          -33.8672167
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "TCS Sydney Marathon",
+            "linkURL": "https://www.tcssydneymarathon.com/minimarathon"
+          },
+          {
+            "linkText": "TfNSW Mini Marathon - transport info",
+            "linkURL": "https://transportnsw.info/events/2026/08/sydney-mini-marathon"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "<p>Travel on transport is included for participants. Visit <a href=\"https://transportnsw.info/events/2026/08/sydney-mini-marathon\" rel=\"noopener noreferrer\" target=\"_blank\">transportnsw.info</a> for details.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [
+          {
+            "displayName": "Mini_Marathon_2026_RoadClosureClearwayMap",
+            "fileName": "Mini_Marathon_2026_RoadClosureClearwayMap.pdf",
+            "fileType": "PDF",
+            "linkName": "Mini_Marathon_2026_RoadClosureClearwayMap",
+            "sizeInBytes": 508195,
+            "uniqueFileName": "349915_1785287633672_Mini_Marathon_2026_RoadClosureClearwayMap.pdf"
+          },
+          {
+            "displayName": "Mini_Marathon_2026_Hospital_Access_Map",
+            "fileName": "Mini_Marathon_2026_Hospital_Access_Map.pdf",
+            "fileType": "PDF",
+            "linkName": "Mini_Marathon_2026_Hospital_Access_Map",
+            "sizeInBytes": 277543,
+            "uniqueFileName": "785095_1785287635005_Mini_Marathon_2026_Hospital_Access_Map.pdf"
+          }
+        ],
+        "isInitialReport": false,
+        "created": 1785287842000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Check signage",
+        "adviceB": "Expect delays",
+        "adviceC": "Use public transport",
+        "end": 1787963400000,
+        "hideEndDate": true,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1785394485821,
+        "otherAdvice": "<p>Sydney Marathon events are taking place over two days on Saturday 29 and Sunday 30 August. On Saturday the 5km Mini Marathon will see 10,000 participants run through the Sydney CBD and The Domain.</p><p>Roads will be closed and clearways will be in effect between 2am and 10am.</p><p><strong>Road closures:</strong></p><ul><li><strong>5am Sat 29 Aug - 1am Mon 31 Aug</strong>: Road closures will be in place on sections of Loftus St, Loftus Lane, Young St and Alfred St in Circular Quay for the Motion Festival (Marathon official live site). No road closures will be in place on Thursday 27 or Friday 28 August.</li><li><strong>2am – 10am</strong>: Macquarie St between Bridge St and Bent St </li><li><strong>4am – 10am</strong>: Macquarie St between Bridge St and the Opera House roundabout, and Albert St, roads in the Royal Botanic Garden &amp; The Domain including Art Gallery Rd and Mrs Macquaries Rd.</li><li><strong>5am – 10am</strong>: Macquarie St between Bent St and College St, including Cahill Expressway on and off ramps to Macquarie St, St James Rd to Elizabeth St, College St to Park St, Hunter St and Phillip St.</li><li>No access to Macquarie St from the Cahill Expressway, motorists should use the Grosvenor St or York St off ramps from the Harbour Bridge instead.</li><li><strong>6.30am – 9.30am</strong>: St Mary’s Rd, Hospital Rd and Shakespeare Place/Bent Street. Two-way access maintained to Hospital Rd via Shakespeare Place.</li></ul><p><strong>Cycleway closures from 5am to 10am:</strong></p><ul><li>College Street between Park Street and Prince Albert Road (western side)</li><li>Macquarie St between St James Rd and King St (western side)</li></ul><p><strong>Special event clearways</strong> will be in effect on key roads in the Sydney CBD <strong>from 2am to 10am</strong> including sections of Albert St, Art Gallery Rd, Bent St, Bridge St, College St, Conservatorium Rd, Hospital Rd, Hunter St, Macquarie St, Mrs Macquaries Rd, Phillip Ln, Prince Albert Rd, Shakespeare Place, St James Rd and St Marys Rd. Clearways will also be in effect from 5am Sat 29 Aug to 1am Mon 31 Aug on O’Connell St and Bligh St.</p><p>Clearways are strict no-parking zones for all vehicle types and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed\" rel=\"noopener noreferrer\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1787925600000,
+        "displayName": "Mini Marathon",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "-",
+            "mainStreet": "Macquarie Street, Bridge Street, College Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Sydney",
             "trafficVolume": ""
           }
         ],
