@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1790337330000,
+  "lastPublished": 1790421960000,
   "layerName": "MajorEvent",
   "rights": {
     "copyright": "Transport for NSW",
@@ -390,146 +390,6 @@
     },
     {
       "type": "Feature",
-      "id": 287602,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.0218626,
-          -33.8202113
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "<p>Race day tickets include travel on public transport.<strong> </strong>Visit <a href=\"https://transportnsw.info/events/2026/09/golden-rose-day-everest-carnival\" rel=\"noopener noreferrer\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1789435049000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Use public transport",
-        "adviceC": " ",
-        "end": 1790411400000,
-        "hideEndDate": true,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1789435050071,
-        "otherAdvice": "<p><strong>Everest Carnival: Golden Rose Day at Rosehill Gardens Racecourse. First race at 11.55am, last race from 5:25pm. </strong></p><p>Traffic may be heavier than usual on James Ruse Dr and Hassall St as attendees arrive and leave the racecourse.</p><p>Motorists should allow extra travel time and be aware of increased pedestrian activity on local roads in the area.</p><p><strong>Special event clearway parking restrictions will be in effect at the following locations:</strong></p><ul><li><strong>From 7am to 8pm</strong>: Grand Avenue from 100m Prior to Gate 1 Australian Turf Club Rosehill Gardens to opposite Grand Avenue North (southern side).</li></ul><p>Clearways are strict no-parking zones for all vehicle types and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed\" rel=\"noopener noreferrer\" target=\"_blank\">Find My Car website</a> to find its new location, or alternatively call 132 701 to speak to an operator.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1790344800000,
-        "displayName": "Everest Carnival Race Day",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Rosehill Gardens Racecourse",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "James Ruse Drive",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Rosehill",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 287600.0,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.0708044,
-          -33.8441337
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2026/09/restricted\" rel=\"noopener noreferrer\" target=\"_blank\">transportnsw.info</a> to plan your trip</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1789434951000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Use public transport",
-        "adviceC": " ",
-        "end": 1790348400000,
-        "hideEndDate": true,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1789534904122,
-        "otherAdvice": "<p><strong>Restricted at Sydney Showground. Show starts at 6pm and finishes at midnight</strong></p><p>Traffic will be heavier than usual on roads approaching the precinct. Travel with your group and allow extra travel time on the M4, Parramatta Rd, Homebush Bay Dr and Concord Rd.</p><p>If you have to drive, carpool with your group <a href=\"https://www.sydneyolympicpark.nsw.gov.au/parking\" rel=\"noopener noreferrer\" target=\"_blank\">pre-book your parking online</a> ahead of time to secure a space – available until 11:59pm the night before the event unless sold out prior.</p><p><br></p>",
-        "arrangementElements": [
-          {
-            "html": "<p>Sydney Olympic Park Authority will close some local roads to accommodate increased public transport services and ensure pedestrian safety during events. For road closure details, visit the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" rel=\"noopener noreferrer\" target=\"_blank\">Sydney Olympic Park interactive map</a> for more details.</p><p><strong>From 1am Thursday 24 September to 1am Tuesday 6 October</strong></p><ul><li>Grand Parade from Showground Road to Australia Avenue</li></ul>",
-            "title": "Road Closures",
-            "id": "911014"
-          }
-        ],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1790258400000,
-        "displayName": "Show",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Sydney Showground",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Sydney Olympic Park",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 283105,
       "geometry": {
         "type": "Point",
@@ -604,78 +464,6 @@
             "region": "Central NSW",
             "secondLocation": "Castlereagh Highway",
             "suburb": "Gilgandra",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 285180.0,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.1997802,
-          -33.8770097
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "TikTok Entertainment Centre - What's On",
-            "linkURL": "https://tiktokentcent.com/whats-on/"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>L1 Light rail service run regularly to Darling Harbour. Visit <a href=\"https://transportnsw.info\" rel=\"noopener noreferrer\" target=\"_blank\">transportnsw.info</a> to plan your trip. </p>",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1787550127000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": " ",
-        "adviceC": " ",
-        "end": 1790515800000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1789916408678,
-        "otherAdvice": "<p><strong>September shows at the TikTok Entertainment Centre:</strong></p><ul><li><strong>Friday 25 September - </strong><a href=\"https://tiktokentcent.com/event/mamamoo/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Mamamoo</strong></a><strong>.</strong> Show starts at 8pm</li><li><strong>Sunday 27 September - </strong><a href=\"https://tiktokentcent.com/event/bini/\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>BINI</strong></a><strong>.</strong> Show starts at 6pm</li></ul><p>Traffic may be heavier than usual as attendees travel to and from the event. Motorists should allow extra travel time and be aware of increased pedestrian activity on local roads.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1788184800000,
-        "displayName": "Upcoming events",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "TikTok Entertainment Centre",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "Darling Drive",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Darling Harbour",
             "trafficVolume": ""
           }
         ],
@@ -1580,78 +1368,6 @@
     },
     {
       "type": "Feature",
-      "id": 288681,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.080475,
-          -36.315334
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Tilba Festival",
-            "linkURL": "https://visittilba.com.au/tilba-event/tilba-festival-2026/"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "<p>Festival goers are encouraged to park at the sportsground in Tilba Tilba and catch the shuttle bus to the festival site in Bate St.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1790050922000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Reduce your speed",
-        "adviceB": "Exercise caution",
-        "adviceC": "Check signage",
-        "end": 1790411400000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1790050923598,
-        "otherAdvice": "<p>The Tilba Festival street fair will be held on Saturday 26 September, including a day of markets, competitions and music. </p><p>The road closures will be in place:</p><ul><li>Bate Street will be closed with no resident access</li><li>Corkhill Drive will be closed between the northern intersection with Princes Highway and the access road to the sports ground in Tilba Tilba. Local residents will be able to access Corkhill Drive from the northern entry.</li></ul><p>Motorists should allow extra travel time and be aware of extra pedestrian activity.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1790366400000,
-        "displayName": "Tilba Festival",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Princes Highway",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Corkhill Drive",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "South Coast",
-            "secondLocation": "Bate Street",
-            "suburb": "Tilba",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 287649,
       "geometry": {
         "type": "Point",
@@ -2043,73 +1759,6 @@
     },
     {
       "type": "Feature",
-      "id": 288933,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.738474,
-          -32.918192
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1790134688000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Check signage",
-        "adviceC": " ",
-        "end": 1790337600000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1790134688953,
-        "otherAdvice": "<p>Bill Bailey will be at Newcastle Entertainment Centre on Friday 25 September. </p><p>There will be changed traffic conditions on Griffiths Road and around the event area with restrictions to right hand turns. Follow signage on site and the direction of traffic control. </p><p>There may be increased pedestrian activity around the event precinct. </p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1790330400000,
-        "displayName": "SPECIAL EVENT Bill Bailey",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Chatham Street",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "near",
-            "mainStreet": "Griffiths Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Hunter",
-            "secondLocation": "",
-            "suburb": "Broadmeadow",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 288941,
       "geometry": {
         "type": "Point",
@@ -2173,82 +1822,6 @@
             "region": "Central Coast",
             "secondLocation": "",
             "suburb": "The Entrance North",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 288145,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.1075816,
-          -30.3041764
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Holiday and Journey Planning",
-            "linkURL": "https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/holiday-and-journey-planning"
-          },
-          {
-            "linkText": "Pinch Point Journey Planner",
-            "linkURL": "https://www.myjourneynsw.info/"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1790193646000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Plan your journey",
-        "adviceB": "Allow extra travel time",
-        "adviceC": " ",
-        "end": 1791809100000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1790193647130,
-        "otherAdvice": "<p>High volumes of holiday traffic are expected approaching and through Coffs Harbour during peak travel periods.</p><p>For details about known holiday traffic pinch points, see the NSW Holiday and Journey planning <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/holiday-and-journey-planning\" target=\"_blank\">website</a> and the pinch point journey planning <a href=\"https://www.myjourneynsw.info/\" target=\"_blank\">tool</a>.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1790172000000,
-        "displayName": "HOLIDAY TRAFFIC EXPECTED",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Pacific Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "North Coast NSW",
-            "secondLocation": "",
-            "suburb": "Coffs Harbour",
             "trafficVolume": ""
           }
         ],
@@ -2392,6 +1965,82 @@
             "region": "Sydney",
             "secondLocation": "",
             "suburb": "Wahroonga to Calga",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 288145,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.1075816,
+          -30.3041764
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Holiday and Journey Planning",
+            "linkURL": "https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/holiday-and-journey-planning"
+          },
+          {
+            "linkText": "Pinch Point Journey Planner",
+            "linkURL": "https://www.myjourneynsw.info/"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1790193646000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Plan your journey",
+        "adviceB": "Allow extra travel time",
+        "adviceC": " ",
+        "end": 1791809100000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1790193647130,
+        "otherAdvice": "<p>High volumes of holiday traffic are expected approaching and through Coffs Harbour during peak travel periods.</p><p>For details about known holiday traffic pinch points, see the NSW Holiday and Journey planning <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/holiday-and-journey-planning\" target=\"_blank\">website</a> and the pinch point journey planning <a href=\"https://www.myjourneynsw.info/\" target=\"_blank\">tool</a>.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1790172000000,
+        "displayName": "HOLIDAY TRAFFIC EXPECTED",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Pacific Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "North Coast NSW",
+            "secondLocation": "",
+            "suburb": "Coffs Harbour",
             "trafficVolume": ""
           }
         ],
@@ -2955,6 +2604,285 @@
     },
     {
       "type": "Feature",
+      "id": 288933,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.738474,
+          -32.918192
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1790134688000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Check signage",
+        "adviceC": " ",
+        "end": 1790337600000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1790337606132,
+        "otherAdvice": "<p>Bill Bailey will be at Newcastle Entertainment Centre on Friday 25 September. </p><p>There will be changed traffic conditions on Griffiths Road and around the event area with restrictions to right hand turns. Follow signage on site and the direction of traffic control. </p><p>There may be increased pedestrian activity around the event precinct. </p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1790330400000,
+        "displayName": "SPECIAL EVENT Bill Bailey",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Chatham Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "near",
+            "mainStreet": "Griffiths Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Hunter",
+            "secondLocation": "",
+            "suburb": "Broadmeadow",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 285180.0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1997802,
+          -33.8770097
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "BINI",
+            "linkURL": "https://tiktokentcent.com/event/bini/"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "<p>L1 Light rail service run regularly to Darling Harbour. Visit <a href=\"https://transportnsw.info\" rel=\"noopener noreferrer\" target=\"_blank\">transportnsw.info</a> to plan your trip. </p>",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1787550127000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": " ",
+        "adviceC": " ",
+        "end": 1790515800000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1790348403517,
+        "otherAdvice": "<p><strong>BINI on Sunday 27 September at the TikTok Entertainment Centre. Show starts at 6pm</strong></p><p>Traffic may be heavier than usual as attendees travel to and from the event. Motorists should allow extra travel time and be aware of increased pedestrian activity on local roads.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1788184800000,
+        "displayName": "Upcoming events",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "TikTok Entertainment Centre",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "approaching",
+            "mainStreet": "Darling Drive",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Darling Harbour",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 287600.0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0708044,
+          -33.8441337
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2026/09/restricted\" rel=\"noopener noreferrer\" target=\"_blank\">transportnsw.info</a> to plan your trip</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1789434951000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use public transport",
+        "adviceC": " ",
+        "end": 1790348400000,
+        "hideEndDate": true,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1790348405442,
+        "otherAdvice": "<p><strong>Restricted at Sydney Showground. Show starts at 6pm and finishes at midnight</strong></p><p>Traffic will be heavier than usual on roads approaching the precinct. Travel with your group and allow extra travel time on the M4, Parramatta Rd, Homebush Bay Dr and Concord Rd.</p><p>If you have to drive, carpool with your group <a href=\"https://www.sydneyolympicpark.nsw.gov.au/parking\" rel=\"noopener noreferrer\" target=\"_blank\">pre-book your parking online</a> ahead of time to secure a space – available until 11:59pm the night before the event unless sold out prior.</p><p><br></p>",
+        "arrangementElements": [
+          {
+            "html": "<p>Sydney Olympic Park Authority will close some local roads to accommodate increased public transport services and ensure pedestrian safety during events. For road closure details, visit the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" rel=\"noopener noreferrer\" target=\"_blank\">Sydney Olympic Park interactive map</a> for more details.</p><p><strong>From 1am Thursday 24 September to 1am Tuesday 6 October</strong></p><ul><li>Grand Parade from Showground Road to Australia Avenue</li></ul>",
+            "title": "Road Closures",
+            "id": "916433"
+          }
+        ],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1790258400000,
+        "displayName": "Show",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Sydney Showground",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "approaching",
+            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Sydney Olympic Park",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 288943,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.2779857,
+          -31.2754334
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1790366405000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Use diversions",
+        "adviceB": "Reduce your speed",
+        "adviceC": "Exercise caution",
+        "end": 1790919000000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1790366406170,
+        "otherAdvice": "<p>The Coonabarabran Pony Club Street Parade will be held on Friday 2 October 2026. The parade will commence at the Coonabarabran Showground on Edward St and will proceed onto the Newell Hwy (Edward St) for the main parade. The Newell Hwy is expected to be closed from 3pm to 3.30pm. Detours in place for all vehicles.</p>",
+        "arrangementElements": [],
+        "diversions": "<p>All vehicles will be detoured for both north and south traffic via Saleyards Rd / Gardener St, Namoi St, Edward St. Note Edward St will be closed up to 5 minutes whilst the parade travels from the showground and onto the highway.</p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1790917200000,
+        "displayName": "Coonabarabran Pony Club Parade",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Edwards Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Newell Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Central NSW",
+            "secondLocation": "Dalgarno Street",
+            "suburb": "Coonabarabran",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 289142,
       "geometry": {
         "type": "Point",
@@ -2987,8 +2915,8 @@
         "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
+        "ended": true,
+        "isNewIncident": false,
         "publicTransport": "",
         "impactingNetwork": false,
         "subCategoryB": null,
@@ -3005,7 +2933,7 @@
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1790310116005,
+        "lastUpdated": 1790409604532,
         "otherAdvice": "<p>Road closures of Kembla Street between Burelli Street and Market Street, and Crown Street between Corrimal Street and Kembla Street will be in place for the Wollongong Culture Mix. </p><p>Traffic controllers will be on site to direct motorists. </p><p><br></p>",
         "arrangementElements": [],
         "diversions": "<p>Southbound motorists will be detoured via Market Street, Corrimal Street and Burelli Street. </p><p>Northbound motorists will be detoured via Stewart Street, Burelli Street, Corrimal Street and Market Street</p>",
@@ -3029,6 +2957,145 @@
             "region": "South Coast",
             "secondLocation": "Corrimal Street",
             "suburb": "Wollongong",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 287602,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0218626,
+          -33.8202113
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p>Race day tickets include travel on public transport.<strong> </strong>Visit <a href=\"https://transportnsw.info/events/2026/09/golden-rose-day-everest-carnival\" rel=\"noopener noreferrer\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1789435049000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use public transport",
+        "adviceC": " ",
+        "end": 1790411400000,
+        "hideEndDate": true,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1790411402650,
+        "otherAdvice": "<p><strong>Everest Carnival: Golden Rose Day at Rosehill Gardens Racecourse. First race at 11.55am, last race from 5:25pm. </strong></p><p>Traffic may be heavier than usual on James Ruse Dr and Hassall St as attendees arrive and leave the racecourse.</p><p>Motorists should allow extra travel time and be aware of increased pedestrian activity on local roads in the area.</p><p><strong>Special event clearway parking restrictions will be in effect at the following locations:</strong></p><ul><li><strong>From 7am to 8pm</strong>: Grand Avenue from 100m Prior to Gate 1 Australian Turf Club Rosehill Gardens to opposite Grand Avenue North (southern side).</li></ul><p>Clearways are strict no-parking zones for all vehicle types and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed\" rel=\"noopener noreferrer\" target=\"_blank\">Find My Car website</a> to find its new location, or alternatively call 132 701 to speak to an operator.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1790344800000,
+        "displayName": "Everest Carnival Race Day",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Rosehill Gardens Racecourse",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "James Ruse Drive",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Rosehill",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 288681,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.080475,
+          -36.315334
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Tilba Festival",
+            "linkURL": "https://visittilba.com.au/tilba-event/tilba-festival-2026/"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p>Festival goers are encouraged to park at the sportsground in Tilba Tilba and catch the shuttle bus to the festival site in Bate St.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1790050922000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Reduce your speed",
+        "adviceB": "Exercise caution",
+        "adviceC": "Check signage",
+        "end": 1790411400000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1790411402219,
+        "otherAdvice": "<p>The Tilba Festival street fair will be held on Saturday 26 September, including a day of markets, competitions and music. </p><p>The road closures will be in place:</p><ul><li>Bate Street will be closed with no resident access</li><li>Corkhill Drive will be closed between the northern intersection with Princes Highway and the access road to the sports ground in Tilba Tilba. Local residents will be able to access Corkhill Drive from the northern entry.</li></ul><p>Motorists should allow extra travel time and be aware of extra pedestrian activity.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1790366400000,
+        "displayName": "Tilba Festival",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Princes Highway",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Corkhill Drive",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "South Coast",
+            "secondLocation": "Bate Street",
+            "suburb": "Tilba",
             "trafficVolume": ""
           }
         ],
