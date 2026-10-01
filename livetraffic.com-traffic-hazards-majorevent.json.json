@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1790772060000,
+  "lastPublished": 1790860920000,
   "layerName": "MajorEvent",
   "rights": {
     "copyright": "Transport for NSW",
@@ -231,84 +231,6 @@
             "region": "Sydney",
             "secondLocation": "",
             "suburb": "Darling Harbour",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 288240.0,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.2216573,
-          -33.8613081
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "What's On Botanic Gardens of Sydney",
-            "linkURL": "https://www.botanicgardens.org.au/whats-on?garden%5B641%5D=641&event_date_start=2026-09-30&event_date_end=2026-10-31"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1789950904000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": " ",
-        "adviceC": " ",
-        "end": 1790948700000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1789950905184,
-        "otherAdvice": "<p><strong>Upcoming shows at Fleet Steps, Mrs Macquaries Point:</strong></p><ul><li><strong>Wednesday 30 September - </strong><a href=\"https://www.botanicgardens.org.au/whats-on/icehouse-harbour-2026\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Icehouse</strong></a><strong>. Show starts from 7pm</strong></li><li><strong>Thursday 1 October - </strong><a href=\"https://www.botanicgardens.org.au/whats-on/missy-higgins\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Missy Higgins</strong></a>. <strong>Show starts from 7pm</strong></li><li><strong>Friday 2 October - </strong><a href=\"https://www.botanicgardens.org.au/whats-on/teskey-brothers\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Teskey Brothers</strong></a><strong>. Show starts from 7pm</strong></li></ul><p>Traffic may be heavier than usual in the Sydney CBD on approaches to The Domain as attendees travel to and from each concert.</p><p>Delays are expected on Mrs Macquaries Road while crowds leave the area.</p><p>Motorists in the area should allow extra time and watch out for pedestrians.</p><p>Road closures will be in place for the events, so please allow additional travel time due to increased traffic on detour routes.</p><p>Please note that no right turn will be permitted onto Hospital Road from Art Gallery Road from 5pm-111pm on Thursday 1 and Friday 2 October. </p>",
-        "arrangementElements": [
-          {
-            "html": "<p>The following roads will be closes on Thursday 1 and Friday 2 October:</p><ul><li><strong>12PM - Midnight</strong>: The Northern Loop of Mrs Macquaries Road at the turning circle </li><li><strong>9.30PM - 11.30PM</strong>: Art Gallery Road and the Southern Loop of Mrs Macquaries Road </li></ul><p><em>Please note that the above roads will remain open for the show on Wednesday 30 September.</em></p>",
-            "title": "Road Closures",
-            "id": "913485"
-          }
-        ],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1790690400000,
-        "displayName": "Concerts",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Fleet Steps, Mrs Macquaries Point",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Mrs Macquaries Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Sydney",
             "trafficVolume": ""
           }
         ],
@@ -2621,6 +2543,325 @@
             "region": "New England North West",
             "secondLocation": "Logan Street",
             "suburb": "Tenterfield",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 288240.0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2216573,
+          -33.8613081
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "What's On Botanic Gardens of Sydney",
+            "linkURL": "https://www.botanicgardens.org.au/whats-on?garden%5B641%5D=641&event_date_start=2026-09-30&event_date_end=2026-10-31"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1789950904000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": " ",
+        "adviceC": " ",
+        "end": 1790948700000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1790784067975,
+        "otherAdvice": "<p><strong>Upcoming shows at Fleet Steps, Mrs Macquaries Point:</strong></p><ul><li><strong>Thursday 1 October - </strong><a href=\"https://www.botanicgardens.org.au/whats-on/missy-higgins\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Missy Higgins</strong></a>. <strong>Show starts from 7pm</strong></li><li><strong>Friday 2 October - </strong><a href=\"https://www.botanicgardens.org.au/whats-on/teskey-brothers\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Teskey Brothers</strong></a><strong>. Show starts from 7pm</strong></li></ul><p>Traffic may be heavier than usual in the Sydney CBD on approaches to The Domain as attendees travel to and from each concert.</p><p>Delays are expected on Mrs Macquaries Road while crowds leave the area.</p><p>Motorists in the area should allow extra time and watch out for pedestrians.</p><p>Road closures will be in place for the events, so please allow additional travel time due to increased traffic on detour routes.</p><p>Please note that no right turn will be permitted onto Hospital Road from Art Gallery Road from 5pm-111pm on Thursday 1 and Friday 2 October. </p>",
+        "arrangementElements": [
+          {
+            "html": "<p>The following roads will be closes on Thursday 1 and Friday 2 October:</p><ul><li><strong>12PM - Midnight</strong>: The Northern Loop of Mrs Macquaries Road at the turning circle </li><li><strong>9.30PM - 11.30PM</strong>: Art Gallery Road and the Southern Loop of Mrs Macquaries Road </li></ul><p><em>Please note that the above roads will remain open for the show on Wednesday 30 September.</em></p>",
+            "title": "Road Closures",
+            "id": "918778"
+          }
+        ],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1790690400000,
+        "displayName": "Concerts",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Fleet Steps, Mrs Macquaries Point",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Mrs Macquaries Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Sydney",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 287418,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.9222429,
+          -36.0713009
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "John Woodman Memorial Cycling Festival",
+            "linkURL": "https://auscycling.org.au/events/2026-auscycling-victorian-road-series-round-2-john-woodman-memorial-cycling-festival"
+          }
+        ],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Closed",
+            "roadtype": "Road",
+            "direction": "All directions",
+            "finishTime": "5:30pm",
+            "fromDay": "Saturday",
+            "startTime": "10:00am",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Closed",
+            "roadtype": "Road",
+            "direction": "All directions",
+            "finishTime": "4:00pm",
+            "fromDay": "Sunday",
+            "startTime": "6:00am",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1790802046000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Check signage",
+        "adviceB": "Use an alternative route",
+        "adviceC": "Plan your journey",
+        "end": 1791090000000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1790802047384,
+        "otherAdvice": "<p>The John Woodman Memorial Cycling Festival will take over the weekend. The following local road closures will be in place:</p><ul><li>Macauley Street - between North Street and Perry Street</li><li>Perry Street - between David Street and Macauley Street</li></ul><p>Traffic controllers will be on site to direct motorists. </p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1790985600000,
+        "displayName": "Cycling Festival",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Perry St",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "-",
+            "mainStreet": "Macauley Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "The Murray",
+            "secondLocation": "",
+            "suburb": "Albury",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 289645,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.7246876,
+          -32.9178518
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "MJS Stadium website",
+            "linkURL": "https://www.mcdonaldjonesstadium.com/events/newcastle_knights_nrl_grand_final_live_site"
+          },
+          {
+            "linkText": "transportnsw.info event page",
+            "linkURL": "https://transportnsw.info/events/2026/10/newcastle-knights-nrl-grand-final-live-site"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "<p>Additional trains will run on the Central Coast &amp; Newcastle Line and Hunter Line. Free shuttle buses will also run to the stadium. Visit <a href=\"https://transportnsw.info/events/2026/10/newcastle-knights-nrl-grand-final-live-site\" rel=\"noopener noreferrer\" target=\"_blank\">transportnsw.info</a> to plan your trip</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1790817877000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": " ",
+        "adviceC": " ",
+        "end": 1791113400000,
+        "hideEndDate": true,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1790817877930,
+        "otherAdvice": "<p><strong>Newcastle Knights NRL Grand Final Live Site at McDonald Jones Stadium in Broadmeadow. Gates open 3.30pm. NRLW kick-off at 4pm &amp; NRL kick-off at 7.30pm, full-time 9.20pm.</strong></p><p><strong>Ticket allocation for this event has been exhausted.</strong></p><p>Traffic will be heavier than usual as fans travel to and from the stadium. Allow extra travel time on Turton Rd, Griffiths Rd, Newcastle Rd, Lambton Rd and Bridges Rd through Broadmeadow. Motorists should allow extra travel time and be aware of increased pedestrian activity on local roads.</p><p>For passenger drop-off, use the allocated 10-minute loading zone in the McDonald Jones Stadium car park. Entry is via the driveway off Turton Road.</p><p>No ticketed parking is available for this event.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1791036000000,
+        "displayName": "NRL Grand Final Live Site",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Turton Road",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Griffiths Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Hunter",
+            "secondLocation": "",
+            "suburb": "Broadmeadow",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 289665,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1698933,
+          -33.8140642
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Lane Cove Rotary Fair",
+            "linkURL": "https://inthecove.com.au/2026/07/29/lane-cove-rotary-fair-2026/"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "<p>Buses will be diverting from their regular routes while roads are closed. Visit <a href=\"https://transportnsw.info/trip\" rel=\"noopener noreferrer\" target=\"_blank\">transportnsw.info</a> plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1790827773000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Exercise caution",
+        "adviceB": "Expect delays",
+        "adviceC": " ",
+        "end": 1791706500000,
+        "hideEndDate": true,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1790827774485,
+        "otherAdvice": "<p>Thousands of people are expected at the Lane Cove Rotary Fair on Sunday from 9am to 4pm.</p><p>Heavy traffic is expected in the area while roads are closed to safely facilitate the event. Motorists should expect delays and allow extra travel time or avoid the area where possible.</p><p><strong>Road closures from 6am to 7pm:</strong></p><ul><li>Longueville Road between Birdwood Avenue and Austin Street</li><li>Burns Bay Road between Tambourine Bay Road and Finlayson Street.</li><li>Birdwood Avenue/Longueville Road intersection will operate under traffic control with No Right Turn to Longueville Road from Birdwood Avenue.</li><li>Birdwood Lane (vehicle access for residents permitted when safe to do so)</li></ul><p>Motorists should slow down, watch for pedestrians and follow directions of traffic controllers.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1791637200000,
+        "displayName": "Local Fair",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Birdwood Avenue",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Longueville Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "Austin Street",
+            "suburb": "Lane Cove",
             "trafficVolume": ""
           }
         ],
