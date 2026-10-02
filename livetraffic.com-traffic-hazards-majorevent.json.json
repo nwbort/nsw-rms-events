@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1790860920000,
+  "lastPublished": 1790944920000,
   "layerName": "MajorEvent",
   "rights": {
     "copyright": "Transport for NSW",
@@ -240,91 +240,6 @@
     },
     {
       "type": "Feature",
-      "id": 288676,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.7481641,
-          -32.7570071
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Koori Knockout council page",
-            "linkURL": "https://www.portstephens.nsw.gov.au/community/events/2026/all-events/nsw-koori-knockout-comes-to-raymond-terrace"
-          },
-          {
-            "linkText": "2026 Annual NSW Koori Knockout event page",
-            "linkURL": "https://newcastleyowies.com/"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [
-          {
-            "displayName": "KooriKnockout_ParkingMap",
-            "fileName": "KooriKnockout_ParkingMap.pdf",
-            "fileType": "PDF",
-            "linkName": "KooriKnockout_ParkingMap",
-            "sizeInBytes": 470791,
-            "uniqueFileName": "489663_1789962883852_KooriKnockout_ParkingMap.pdf"
-          }
-        ],
-        "isInitialReport": false,
-        "created": 1789963797000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Plan your journey",
-        "adviceC": " ",
-        "end": 1791180000000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1790035864500,
-        "otherAdvice": "<p>The Koori Knockout is one of Australia’s largest Aboriginal sporting and cultural events, combining elite rugby league with 4 days of culture, connection and celebration. The event attracts around 10,000 per day.</p><p>This years knockout will be held at Kings Park Sports Complex.</p><p>Traffic delays may be experienced around the event precinct. Congestions is expected on or around:</p><ul><li>Pacific Highway towards Richardson Road exit</li><li>Richardson Road</li><li>Adelaide Street</li><li>Seaham Road</li><li>Newline Road</li><li>Port Stephens Street</li><li>Kangaroo Street</li></ul><p>There will be increased pedestrian activity around the event precinct.</p><p><br></p><p><br></p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1790888400000,
-        "displayName": "SPECIAL EVENT Koori Knockout",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Port Stephens Street",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "William Bailey Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Hunter",
-            "secondLocation": "",
-            "suburb": "Raymond Terrace",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 287649,
       "geometry": {
         "type": "Point",
@@ -495,73 +410,6 @@
             "region": "Central NSW",
             "secondLocation": "Derribong Lane",
             "suburb": "Grenfell",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 288232,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.9020764,
-          -34.4266465
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2026/10/nbl-illawarra-hawks-v-adelaide-36ers\" rel=\"noopener noreferrer\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1789948911000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Use public transport",
-        "adviceB": "Allow extra travel time",
-        "adviceC": " ",
-        "end": 1790942400000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1789948911691,
-        "otherAdvice": "<p><strong>NBL: Illawarra Hawks v Adelaide 36ers at WIN Entertainment Centre. Tip-off at 7.30pm, full time around 9.30pm.</strong></p><p>Traffic may be heavier than usual on roads approaching the Wollongong CBD and on local roads around WIN Entertainment Centre as fans travel to and from the match during the busy evening peak.</p><p>Local roads around the stadium may close before, during and after the game for the safety of pedestrians.</p><p>Fans driving to the game on the freeway are encouraged to use the Masters Rd exit to avoid congestion at Mount Ousley Rd, both in and out of Wollongong.</p><p>Motorists should allow extra time for parking and be aware of increased pedestrian activity on local roads.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1790863200000,
-        "displayName": "NBL",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "WIN Entertainment Centre",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Harbour Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "South Coast",
-            "secondLocation": "",
-            "suburb": "Wollongong",
             "trafficVolume": ""
           }
         ],
@@ -744,145 +592,6 @@
             "region": "Sydney",
             "secondLocation": "William Street",
             "suburb": "Leichhardt",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 289017,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.569813,
-          -34.2840427
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Barellan Good Old Days",
-            "linkURL": "https://barellanclydesdales.com.au/"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1790280063000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Exercise caution",
-        "adviceB": "Allow extra travel time",
-        "adviceC": " ",
-        "end": 1790917200000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1790280064461,
-        "otherAdvice": "<p>Stop/slow traffic control for eastbound traffic with vehicle escorts following the parade. Westbound speed reduction only.</p><p>Exercise caution in the area with increased pedestrian activity.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1790899200000,
-        "displayName": "Barellan Good Old Days",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "-",
-            "mainStreet": "Burley Griffin Way",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Riverina",
-            "secondLocation": "",
-            "suburb": "Barellan",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 288943,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          149.2779857,
-          -31.2754334
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1790366405000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Use diversions",
-        "adviceB": "Reduce your speed",
-        "adviceC": "Exercise caution",
-        "end": 1790919000000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1790366406170,
-        "otherAdvice": "<p>The Coonabarabran Pony Club Street Parade will be held on Friday 2 October 2026. The parade will commence at the Coonabarabran Showground on Edward St and will proceed onto the Newell Hwy (Edward St) for the main parade. The Newell Hwy is expected to be closed from 3pm to 3.30pm. Detours in place for all vehicles.</p>",
-        "arrangementElements": [],
-        "diversions": "<p>All vehicles will be detoured for both north and south traffic via Saleyards Rd / Gardener St, Namoi St, Edward St. Note Edward St will be closed up to 5 minutes whilst the parade travels from the showground and onto the highway.</p>",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1790917200000,
-        "displayName": "Coonabarabran Pony Club Parade",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Edwards Street",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Newell Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Central NSW",
-            "secondLocation": "Dalgarno Street",
-            "suburb": "Coonabarabran",
             "trafficVolume": ""
           }
         ],
@@ -1552,73 +1261,6 @@
             "region": "Central NSW",
             "secondLocation": "",
             "suburb": "Cowra",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 289422,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.2798854,
-          -28.8110035
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1790634601000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Check signage",
-        "adviceB": "Use diversions",
-        "adviceC": "Allow extra travel time",
-        "end": 1791032400000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1790634601581,
-        "otherAdvice": "<p><strong>Northern Rivers Performing Arts (NORPA) street activation 5pm Wednesday 30 September to 11pm Saturday 3 October.</strong></p><p>Hampton Street will be closed with signage and detour in place.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1790751600000,
-        "displayName": "SPECIAL EVENT The Joinery NORPA street activation",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Magellan Street",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Dawson Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "North Coast NSW",
-            "secondLocation": "Hampton Street",
-            "suburb": "Lismore",
             "trafficVolume": ""
           }
         ],
@@ -2552,84 +2194,6 @@
     },
     {
       "type": "Feature",
-      "id": 288240.0,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.2216573,
-          -33.8613081
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "What's On Botanic Gardens of Sydney",
-            "linkURL": "https://www.botanicgardens.org.au/whats-on?garden%5B641%5D=641&event_date_start=2026-09-30&event_date_end=2026-10-31"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1789950904000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": " ",
-        "adviceC": " ",
-        "end": 1790948700000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1790784067975,
-        "otherAdvice": "<p><strong>Upcoming shows at Fleet Steps, Mrs Macquaries Point:</strong></p><ul><li><strong>Thursday 1 October - </strong><a href=\"https://www.botanicgardens.org.au/whats-on/missy-higgins\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Missy Higgins</strong></a>. <strong>Show starts from 7pm</strong></li><li><strong>Friday 2 October - </strong><a href=\"https://www.botanicgardens.org.au/whats-on/teskey-brothers\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Teskey Brothers</strong></a><strong>. Show starts from 7pm</strong></li></ul><p>Traffic may be heavier than usual in the Sydney CBD on approaches to The Domain as attendees travel to and from each concert.</p><p>Delays are expected on Mrs Macquaries Road while crowds leave the area.</p><p>Motorists in the area should allow extra time and watch out for pedestrians.</p><p>Road closures will be in place for the events, so please allow additional travel time due to increased traffic on detour routes.</p><p>Please note that no right turn will be permitted onto Hospital Road from Art Gallery Road from 5pm-111pm on Thursday 1 and Friday 2 October. </p>",
-        "arrangementElements": [
-          {
-            "html": "<p>The following roads will be closes on Thursday 1 and Friday 2 October:</p><ul><li><strong>12PM - Midnight</strong>: The Northern Loop of Mrs Macquaries Road at the turning circle </li><li><strong>9.30PM - 11.30PM</strong>: Art Gallery Road and the Southern Loop of Mrs Macquaries Road </li></ul><p><em>Please note that the above roads will remain open for the show on Wednesday 30 September.</em></p>",
-            "title": "Road Closures",
-            "id": "918778"
-          }
-        ],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1790690400000,
-        "displayName": "Concerts",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Fleet Steps, Mrs Macquaries Point",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Mrs Macquaries Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Sydney",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 287418,
       "geometry": {
         "type": "Point",
@@ -2862,6 +2426,581 @@
             "region": "Sydney",
             "secondLocation": "Austin Street",
             "suburb": "Lane Cove",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 288240.0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2216573,
+          -33.8613081
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Teskey Brothers - Fleet Steps",
+            "linkURL": "https://www.botanicgardens.org.au/whats-on/teskey-brothers"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1789950904000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": " ",
+        "adviceC": " ",
+        "end": 1790948700000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1790870446383,
+        "otherAdvice": "<p><strong>Teskey Brothers at Fleet Steps, Mrs Macquaries Point on Friday 2 October. </strong>Show starts from 7pm</p><p>Traffic may be heavier than usual in the Sydney CBD on approaches to The Domain as attendees travel to and from each concert.</p><p>Delays are expected on Mrs Macquaries Road while crowds leave the area.</p><p>Motorists in the area should allow extra time and watch out for pedestrians.</p><p>Road closures will be in place for the events, so please allow additional travel time due to increased traffic on detour routes.</p><p>Please note that no right turn will be permitted onto Hospital Road from Art Gallery Road from 5pm-111pm on Friday 2 October. </p>",
+        "arrangementElements": [
+          {
+            "html": "<p>The following roads will be closes on Friday 2 October:</p><ul><li><strong>12PM - Midnight</strong>: The Northern Loop of Mrs Macquaries Road at the turning circle</li><li><strong>9.30PM - 11.30PM</strong>: Art Gallery Road and the Southern Loop of Mrs Macquaries Road</li></ul><p><br></p>",
+            "title": "Road Closures",
+            "id": "919432"
+          }
+        ],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1790690400000,
+        "displayName": "Concerts",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Fleet Steps, Mrs Macquaries Point",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Mrs Macquaries Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Sydney",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 288676,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.7481641,
+          -32.7570071
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Koori Knockout council page",
+            "linkURL": "https://www.portstephens.nsw.gov.au/community/events/2026/all-events/nsw-koori-knockout-comes-to-raymond-terrace"
+          },
+          {
+            "linkText": "2026 Annual NSW Koori Knockout event page",
+            "linkURL": "https://newcastleyowies.com/"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [
+          {
+            "displayName": "KooriKnockout_ParkingMap",
+            "fileName": "KooriKnockout_ParkingMap.pdf",
+            "fileType": "PDF",
+            "linkName": "KooriKnockout_ParkingMap",
+            "sizeInBytes": 470791,
+            "uniqueFileName": "489663_1789962883852_KooriKnockout_ParkingMap.pdf"
+          }
+        ],
+        "isInitialReport": false,
+        "created": 1789963797000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Plan your journey",
+        "adviceC": " ",
+        "end": 1791180000000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1790885694197,
+        "otherAdvice": "<p>The Koori Knockout is one of Australia’s largest Aboriginal sporting and cultural events, combining elite rugby league with 4 days of culture, connection and celebration. The event attracts around 10,000 per day.</p><p>This years knockout will be held at Kings Park Sports Complex.</p><p>Traffic delays may be experienced around the event precinct. Congestions is expected on or around:</p><ul><li>Pacific Highway towards Richardson Road exit</li><li>Richardson Road</li><li>Adelaide Street</li><li>Seaham Road</li><li>Newline Road</li><li>Port Stephens Street</li><li>Kangaroo Street</li></ul><p>Motorists travelling southbound on the M1 Pacific Motorway should consider using the Tomago Road interchange to get to the event. Motorists travelling from Newcastle should exit the Pacific Highway via Adelaide street.</p><p>There will be increased pedestrian activity around the event precinct.</p><p><br></p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1790888400000,
+        "displayName": "SPECIAL EVENT Koori Knockout",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Port Stephens Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "William Bailey Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Hunter",
+            "secondLocation": "",
+            "suburb": "Raymond Terrace",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 289747,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2496235,
+          -33.8931813
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1790897869000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": " ",
+        "adviceC": " ",
+        "end": 1791126000000,
+        "hideEndDate": true,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT CLEARWAYS",
+        "lastUpdated": 1790898051042,
+        "otherAdvice": "<p>To safely facilitate large crowds at Bondi Easts, road closures will be in place from 8.30pm:</p><ul><li>Spring St mid-block to Bronte Rd</li><li>Bronte Rd between Oxford St and Ebley St</li><li>Gray St and Ann St</li></ul><p>Motorists will be diverted via local roads. Follow directions of traffic controllers and NSW Police on site.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1791036000000,
+        "displayName": "NRL Grand Final Roosters event",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Spring Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Bronte Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Bondi Junction",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 289422,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.2798854,
+          -28.8110035
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1790634601000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Check signage",
+        "adviceB": "Use diversions",
+        "adviceC": "Allow extra travel time",
+        "end": 1791032400000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1790634601581,
+        "otherAdvice": "<p><strong>Northern Rivers Performing Arts (NORPA) street activation 5pm Wednesday 30 September to 11pm Saturday 3 October.</strong></p><p>Hampton Street will be closed with signage and detour in place.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1790751600000,
+        "displayName": "SPECIAL EVENT The Joinery NORPA street activation",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Magellan Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Dawson Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "North Coast NSW",
+            "secondLocation": "Hampton Street",
+            "suburb": "Lismore",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 289790.0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.5085899,
+          -32.1800023
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Forster Spring Carnival",
+            "linkURL": "https://barringtoncoast.com.au/whats-on/spring-festival-forster"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1790915596000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Exercise caution",
+        "adviceB": "Check signage",
+        "adviceC": "Allow extra travel time",
+        "end": 1791608400000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1790915596846,
+        "otherAdvice": "<p>The Forster Spring Festival will be held on Saturday 10 October from 8am to 3pm. <strong>Wharf Street will be closed</strong> and traffic control will be in place during the event.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1791586800000,
+        "displayName": "Forster Spring Carnival",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Head Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Wharf Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "North Coast NSW",
+            "secondLocation": "",
+            "suburb": "Forster",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 289017,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.569813,
+          -34.2840427
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Barellan Good Old Days",
+            "linkURL": "https://barellanclydesdales.com.au/"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1790280063000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Exercise caution",
+        "adviceB": "Allow extra travel time",
+        "adviceC": " ",
+        "end": 1790917200000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1790917262043,
+        "otherAdvice": "<p>Stop/slow traffic control for eastbound traffic with vehicle escorts following the parade. Westbound speed reduction only.</p><p>Exercise caution in the area with increased pedestrian activity.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1790899200000,
+        "displayName": "Barellan Good Old Days",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "-",
+            "mainStreet": "Burley Griffin Way",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Riverina",
+            "secondLocation": "",
+            "suburb": "Barellan",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 288943,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.2779857,
+          -31.2754334
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1790366405000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Use diversions",
+        "adviceB": "Reduce your speed",
+        "adviceC": "Exercise caution",
+        "end": 1790919000000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1790919002655,
+        "otherAdvice": "<p>The Coonabarabran Pony Club Street Parade will be held on Friday 2 October 2026. The parade will commence at the Coonabarabran Showground on Edward St and will proceed onto the Newell Hwy (Edward St) for the main parade. The Newell Hwy is expected to be closed from 3pm to 3.30pm. Detours in place for all vehicles.</p>",
+        "arrangementElements": [],
+        "diversions": "<p>All vehicles will be detoured for both north and south traffic via Saleyards Rd / Gardener St, Namoi St, Edward St. Note Edward St will be closed up to 5 minutes whilst the parade travels from the showground and onto the highway.</p>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1790917200000,
+        "displayName": "Coonabarabran Pony Club Parade",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Edwards Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Newell Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Central NSW",
+            "secondLocation": "Dalgarno Street",
+            "suburb": "Coonabarabran",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 288232,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.9020764,
+          -34.4266465
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2026/10/nbl-illawarra-hawks-v-adelaide-36ers\" rel=\"noopener noreferrer\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1789948911000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Use public transport",
+        "adviceB": "Allow extra travel time",
+        "adviceC": " ",
+        "end": 1790942400000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1790942448681,
+        "otherAdvice": "<p><strong>NBL: Illawarra Hawks v Adelaide 36ers at WIN Entertainment Centre. Tip-off at 7.30pm, full time around 9.30pm.</strong></p><p>Traffic may be heavier than usual on roads approaching the Wollongong CBD and on local roads around WIN Entertainment Centre as fans travel to and from the match during the busy evening peak.</p><p>Local roads around the stadium may close before, during and after the game for the safety of pedestrians.</p><p>Fans driving to the game on the freeway are encouraged to use the Masters Rd exit to avoid congestion at Mount Ousley Rd, both in and out of Wollongong.</p><p>Motorists should allow extra time for parking and be aware of increased pedestrian activity on local roads.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1790863200000,
+        "displayName": "NBL",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "WIN Entertainment Centre",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Harbour Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "South Coast",
+            "secondLocation": "",
+            "suburb": "Wollongong",
             "trafficVolume": ""
           }
         ],
