@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1791211650000,
+  "lastPublished": 1791292950000,
   "layerName": "MajorEvent",
   "rights": {
     "copyright": "Transport for NSW",
@@ -489,146 +489,6 @@
             "region": "Sydney",
             "secondLocation": "",
             "suburb": "Moore Park",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 288901,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.062132,
-          -33.8495822
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>Match tickets include travel on public transport. Weekend trackwork is taking place between Parramatta and Olympic Park. Visit <a href=\"https://transportnsw.info/events/2026/10/monster-jam\" rel=\"noopener noreferrer\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1790659541000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Use public transport",
-        "adviceB": "Allow extra travel time",
-        "adviceC": " ",
-        "end": 1791626400000,
-        "hideEndDate": true,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1790660842739,
-        "otherAdvice": "<p><strong>Monster Jam at Accor Stadium. Gates open 4.30pm, show starts at 6pm and finishes 8pm.</strong></p><p>With up to 40,000 attendees expected, traffic will be heavier than usual on roads approaching Sydney Olympic Park.</p><ul><li>Motorists should allow extra travel time on roads including the M4 Mwy, Homebush Bay Dr, Concord Rd, Lane Cove Rd, Parramatta Rd, Centenary Dr and Silverwater Rd.</li><li>If you have to drive, carpool with your group <a href=\"https://www.sydneyolympicpark.nsw.gov.au/parking\" rel=\"noopener noreferrer\" target=\"_blank\">pre-book your parking online</a> ahead of time to secure a space – available until 11:59pm the night before the event unless sold out prior. Other events will be taking place on Saturday, so attendees are encouraged to plan ahead.</li><li>If you have pre-booked your parking, follow the directions of staff and have your parking ticket ready to show at the car park entry.</li></ul><p>Sydney Olympic Park Authority may close local roads in the precinct to ensure pedestrian safety during events. View the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" rel=\"noopener noreferrer\" target=\"_blank\">interactive map</a> for closure details</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1791550800000,
-        "displayName": "Monster Jam",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Accor Stadium",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road, Centenary Drive",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Sydney Olympic Park",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 288231,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.0631071,
-          -33.8432775
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events\" rel=\"noopener noreferrer\" target=\"_blank\">transportnsw.info</a> to plan your trip. Planned weekend trackwork is taking place Sat 10 - Sun 11 Oct between Parramatta and Olympic Park. </p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1789948811000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Use public transport",
-        "adviceC": " ",
-        "end": 1791702000000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1790661313226,
-        "otherAdvice": "<p><strong>Upcoming events at Afterpay Arena (formerly Qudos Bank Arena):</strong></p><ul><li><strong>Wednesday 30 September - </strong><a href=\"https://afterpayarena.com.au/event/sydney-kings-26-27-season\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>NBL Sydney Kings v Brisbane Bullets</strong></a><strong>. </strong>Tip-off at 7.30pm, finish by 9.30pm</li><li><strong>Thursday 1 October - </strong><a href=\"https://afterpayarena.com.au/event/conan-gray\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Conan Gray</strong></a><strong>.</strong> Show starts at 8pm, finishes at 11pm</li><li><strong>Friday 2, Saturday 3, Monday 5 &amp; Tuesday 6 October - </strong><a href=\"https://afterpayarena.com.au/event/noah-kahan\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Noah Kahan</strong></a><strong>. </strong>Show starts nightly at 8pm, finishes at 10.45pm</li><li><strong>Friday 9 &amp; Saturday 10 October - </strong><a href=\"https://afterpayarena.com.au/event/olivia-dean\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Olivia Dean</strong></a><strong>. </strong>Shows start nightly at 7pm and finish at 11pm</li><li><strong>Sunday 11 October - </strong><a href=\"https://afterpayarena.com.au/event/sydney-kings-26-27-season\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>NBL Sydney Kings v Adelaide 36ers</strong></a><strong>. </strong>Tip off at 3pm, finish approximately 5pm</li></ul><p>Traffic delays are expected as attendees make their way to and from Olympic Park, particularly during busy evening peak periods. Motorists should allow extra travel time on roads including the M4 Mwy, Homebush Bay Dr, Concord Rd, Lane Cove Rd, Parramatta Rd, Centenary Dr and Silverwater Rd.</p><p>If you&#39;re driving, <a href=\"https://www.sydneyolympicpark.com.au/parking/\" rel=\"noopener noreferrer\" target=\"_blank\">pre-book parking online</a> in advance to secure a space, available until 11:59pm the night before the event unless sold out prior. If you have pre-booked your parking, follow the directions of staff and have your parking ticket ready to show at the car park entry.</p><p>Sydney Olympic Park Authority will close some local roads to accommodate increased public transport services and ensure pedestrian safety during events. For road closure details, visit the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" rel=\"noopener noreferrer\" target=\"_blank\">Sydney Olympic Park interactive map</a> for more details.  </p>",
-        "arrangementElements": [
-          {
-            "html": "<p><strong>Roads will be closed </strong>in the precinct for the safety of event crowds arriving and leaving the venue. For road closure details, visit the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" rel=\"noopener noreferrer\" target=\"_blank\">Sydney Olympic Park interactive map</a> for more details.</p><p><strong>From 1am Thursday 24 September to 1am Tuesday 6 October</strong></p><ul><li>Grand Parade from Showground Road to Australia Avenue</li></ul><p><strong>From 1am Friday 2 October to 1am Monday 5 October</strong></p><ul><li>Grand Parade from Olympic Boulevard to Showground Road </li><li>Showground Road from Murray Rose Avenue to Grand Parade </li><li>Olympic Boulevard from Dawn Fraser Avenue to Northern Turning circle.</li></ul><p><strong>From 1am Saturday 3 October to 1am Monday 5 October</strong></p><ul><li>Murray Rose Avenue from Showground Road to Gate 15</li><li>Showground road from Murray Rose Avneue to Dawn Fraser Avenue</li></ul><p><strong>From 1.30am Saturday 3 October to 3am Monday 5 October</strong></p><ul><li>Dawn Fraser Avenue from Showground Road to Olympic Boulevard </li><li>Dawn Fraser Avenue from Olympic Boulevard to NRL Centre of Excellence</li><li>Olympic Boulevard from Dawn Fraser Avenue to Herb Elliott Avenue</li></ul><p><strong>From 12pm Saturday 3 October to 1am Monday 5 October</strong></p><ul><li>Dawn Fraser Avenue from Park Street to Showground Road </li><li>Showground Road from Dawn Fraser Avenue to Novotel Loading dock</li></ul><p><strong>From 9pm Saturday 3 October to 12am Sunday 4 October</strong></p><ul><li>Murray Rose Avenue from Gate 15 to park Street</li></ul><p><br></p>",
-            "title": "Road Closures",
-            "id": "917955"
-          }
-        ],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1790690400000,
-        "displayName": "Shows",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Afterpay Arena",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Sydney Olympic Park",
             "trafficVolume": ""
           }
         ],
@@ -1339,822 +1199,6 @@
     },
     {
       "type": "Feature",
-      "id": 289352,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.0608034,
-          -33.8469764
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "<p>Match tickets include travel on public transport. Extra trains and Major event buses will run. Visit <a href=\"https://transportnsw.info/Bledisloe-Cup\" rel=\"noopener noreferrer\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1791119762000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Use public transport",
-        "adviceB": "Allow extra travel time",
-        "adviceC": " ",
-        "end": 1792222200000,
-        "hideEndDate": true,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1791120052704,
-        "otherAdvice": "<p><strong>International Rugby showcase at Accor Stadium on Saturday 17 October, including the Bledisloe Cup from 3.45pm</strong>. Wallaroos v Scotland from 12pm; Men&#39;s 7s Australia v Fiji at 2.05pm and Women&#39;s 7s Australia v New Zealand at 2.25pm. Wallabies v All Blacks from 3.45pm and full time around 5.45pm.</p><p><strong>With up to 70,000 rugby fans expected to attend, significant traffic delays are expected on roads approaching the precinct and entering car parks</strong>. Delays are also expected after the match as attendees exit car parks and the precinct while NBL fans make also make their way into Olympic Park.</p><p>Motorists should allow plenty of extra travel time on roads including on the M4 Mwy, Homebush Bay Dr, Concord Rd, Lane Cove Rd, Parramatta Rd, Centenary Dr and Silverwater Rd.</p><ul><li><strong>PARKING: car parks are in high demand. Fans are urged to </strong><a href=\"https://www.sydneyolympicpark.nsw.gov.au/parking\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>pre-book parking online</strong></a><strong> ahead of time to secure a space. A flat rate $40 parking fee applies. </strong></li><li>If you have pre-booked your parking, follow the directions of staff and have your parking ticket ready to show at the car park entry.</li><li>Carpool with your group and allow plenty of extra travel time as traffic will be heavy.</li><li>Alternatively, consider parking at a nearby train station commuter car park and continuing your trip by train to Olympic Park, at no extra cost.</li></ul><p>Sydney Olympic Park Authority will close local roads in the precinct and traffic congestion is expected before and after the match. For road closure details, visit the <a href=\"https://www.sopa.nsw.gov.au/Map\" rel=\"noopener noreferrer\" target=\"_blank\">Sydney Olympic Park Authority interactive map</a>. </p>",
-        "arrangementElements": [
-          {
-            "html": "<p>Sydney Olympic Park Authority will close some local roads to accommodate increased public transport services and ensure pedestrian safety during events. For road closure details, visit the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" rel=\"noopener noreferrer\" target=\"_blank\">Sydney Olympic Park interactive map</a> for more details.  </p>",
-            "title": "Road Closures",
-            "id": "920646"
-          }
-        ],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1792155600000,
-        "displayName": "International Rugby",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Accor Stadium",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road, Centenary Drive",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Sydney Olympic Park",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 289747,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.2496235,
-          -33.8931813
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1790897869000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": " ",
-        "adviceC": " ",
-        "end": 1791126000000,
-        "hideEndDate": true,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT CLEARWAYS",
-        "lastUpdated": 1791126006362,
-        "otherAdvice": "<p>To safely facilitate large crowds at Bondi Easts, road closures will be in place from 8.30pm:</p><ul><li>Spring St mid-block to Bronte Rd</li><li>Bronte Rd between Oxford St and Ebley St</li><li>Gray St and Ann St</li></ul><p>Motorists will be diverted via local roads. Follow directions of traffic controllers and NSW Police on site.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1791036000000,
-        "displayName": "NRL Grand Final Roosters event",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Spring Street",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Bronte Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Bondi Junction",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 289833,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.7241957,
-          -32.9193864
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info\" rel=\"noopener noreferrer\" target=\"_blank\">transportnsw.info</a> to plan your trip</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1791113401000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": " ",
-        "adviceC": " ",
-        "end": 1791172800000,
-        "hideEndDate": true,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1791172846612,
-        "otherAdvice": "<p><strong>NRL Grand Final post-event at McDonald Jones Stadium, from 11.30am.</strong></p><p>Traffic will be heavier than usual as fans travel to and from the stadium. </p><p>Allow extra travel time on Turton Rd, Griffiths Rd, Newcastle Rd, Lambton Rd and Bridges Rd through Broadmeadow. </p><p>Motorists should allow extra travel time and be aware of increased pedestrian activity on local roads.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1791118800000,
-        "displayName": "NRL event",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Turton Road",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Griffiths Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Hunter",
-            "secondLocation": "",
-            "suburb": "Broadmeadow",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 289443,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.4170895,
-          -34.482592
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Visit Southern Highlands",
-            "linkURL": "https://www.visitsouthernhighlands.com.au/event/horizontal-festival-2/"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1790712002000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Exercise caution",
-        "adviceB": "Reduce your speed",
-        "adviceC": " ",
-        "end": 1791176400000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1791176403706,
-        "otherAdvice": "<p>Increased traffic volumes on Bong Bong St and Bowral St due to temporary bus zone in Station St. </p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1790926200000,
-        "displayName": "Horizontal Festival",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Bong Bong Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Southern Highlands",
-            "secondLocation": "",
-            "suburb": "Bowral",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 288676,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.7481641,
-          -32.7570071
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Koori Knockout council page",
-            "linkURL": "https://www.portstephens.nsw.gov.au/community/events/2026/all-events/nsw-koori-knockout-comes-to-raymond-terrace"
-          },
-          {
-            "linkText": "2026 Annual NSW Koori Knockout event page",
-            "linkURL": "https://newcastleyowies.com/"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [
-          {
-            "displayName": "KooriKnockout_ParkingMap",
-            "fileName": "KooriKnockout_ParkingMap.pdf",
-            "fileType": "PDF",
-            "linkName": "KooriKnockout_ParkingMap",
-            "sizeInBytes": 470791,
-            "uniqueFileName": "489663_1789962883852_KooriKnockout_ParkingMap.pdf"
-          }
-        ],
-        "isInitialReport": false,
-        "created": 1789963797000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Plan your journey",
-        "adviceC": " ",
-        "end": 1791180000000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1791180047158,
-        "otherAdvice": "<p>The Koori Knockout is one of Australia’s largest Aboriginal sporting and cultural events, combining elite rugby league with 4 days of culture, connection and celebration. The event attracts around 10,000 per day.</p><p>This years knockout will be held at Kings Park Sports Complex.</p><p>Traffic delays may be experienced around the event precinct. Congestions is expected on or around:</p><ul><li>Pacific Highway towards Richardson Road exit</li><li>Richardson Road</li><li>Adelaide Street</li><li>Seaham Road</li><li>Newline Road</li><li>Port Stephens Street</li><li>Kangaroo Street</li></ul><p>Motorists travelling southbound on the M1 Pacific Motorway should consider using the Tomago Road interchange to get to the event. Motorists travelling from Newcastle should exit the Pacific Highway via Adelaide street.</p><p>There will be increased pedestrian activity around the event precinct.</p><p><br></p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1790888400000,
-        "displayName": "SPECIAL EVENT Koori Knockout",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Port Stephens Street",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "William Bailey Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Hunter",
-            "secondLocation": "",
-            "suburb": "Raymond Terrace",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 288138,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.1684522,
-          -33.4794537
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Holiday and Journey Planning",
-            "linkURL": "https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/holiday-and-journey-planning"
-          },
-          {
-            "linkText": "Pinch Point Journey Planner",
-            "linkURL": "https://www.myjourneynsw.info/"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1790193646000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Plan your journey",
-        "adviceB": "Allow extra travel time",
-        "adviceC": " ",
-        "end": 1791809100000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1791185041770,
-        "otherAdvice": "<p>High volumes of holiday traffic are expected through Lithgow during peak holiday travel periods due to the closure of Great Western Highway at Victoria Pass.</p><p>For details about known holiday traffic pinch points, see the NSW Holiday and Journey planning <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/holiday-and-journey-planning\" target=\"_blank\">website</a> and the pinch point journey planning <a href=\"https://www.myjourneynsw.info/\" target=\"_blank\">tool</a>.</p><p>For more information about the work we are undertaking at Victoria Pass,<a href=\"https://www.transport.nsw.gov.au/projects/current-projects/great-western-highway-road-closure-at-victoria-pass\" target=\"_blank\"> click here.</a></p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1790172000000,
-        "displayName": "HOLIDAY TRAFFIC EXPECTED",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Mort Street",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "-",
-            "mainStreet": "Chifley Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Blue Mountains",
-            "secondLocation": "",
-            "suburb": "Lithgow",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 288924,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          148.678718,
-          -33.95292
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Facebook - Morongla Show",
-            "linkURL": "https://www.facebook.com/moronglashow/"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": 40,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1790625618000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Reduced speed limit",
-        "adviceB": "Exercise caution",
-        "adviceC": " ",
-        "end": 1791185400000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1791185446243,
-        "otherAdvice": "<p>The Morongla Show will be held on Monday 5  October 2026. A speed reduction of 40km/h will be in place on Lachlan Valley Way and Morongla Road</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1791149400000,
-        "displayName": "Morongla Show",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Morongla Road",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Lachlan Valley Way",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Central NSW",
-            "secondLocation": "",
-            "suburb": "Cowra",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 288136,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.2845311,
-          -33.6303657
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Holiday and Journey Planning",
-            "linkURL": "https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/holiday-and-journey-planning"
-          },
-          {
-            "linkText": "Pinch Point Journey Planner",
-            "linkURL": "https://www.myjourneynsw.info/"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1790193646000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Plan your journey",
-        "adviceB": "Allow extra travel time",
-        "adviceC": " ",
-        "end": 1791809100000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1791186330786,
-        "otherAdvice": "<p>High volumes of holiday traffic are expected approaching and through Blackheath, during peak holiday travel periods.</p><p>For details about known holiday traffic pinch points, see the NSW Holiday and Journey planning <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/holiday-and-journey-planning\" target=\"_blank\">website</a> and the pinch point journey planning <a href=\"https://www.myjourneynsw.info/\" target=\"_blank\">tool</a>.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1790172000000,
-        "displayName": "HOLIDAY TRAFFIC EXPECTED",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "-",
-            "mainStreet": "Great Western Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Blue Mountains",
-            "secondLocation": "",
-            "suburb": "Blackheath",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 288142,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.441137,
-          -35.317857
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Holiday and Journey Planning",
-            "linkURL": "https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/holiday-and-journey-planning"
-          },
-          {
-            "linkText": "Pinch Point Journey Planner",
-            "linkURL": "https://www.myjourneynsw.info/"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1790193646000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Plan your journey",
-        "adviceB": "Allow extra travel time",
-        "adviceC": " ",
-        "end": 1791809100000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1791186747759,
-        "otherAdvice": "<p>High volumes of holiday traffic are expected approaching and through Nowra, Jervis Bay, and Milton/Ulladulla during peak holiday travel periods.</p><p>For details about known holiday traffic pinch points, see the NSW Holiday and Journey planning <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/holiday-and-journey-planning\" target=\"_blank\">website</a> and the pinch point journey planning <a href=\"https://www.myjourneynsw.info/\" target=\"_blank\">tool</a>.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1790172000000,
-        "displayName": "HOLIDAY TRAFFIC EXPECTED",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Princes Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "South Coast",
-            "secondLocation": "",
-            "suburb": "Milton",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 288145,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          153.1075816,
-          -30.3041764
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Holiday and Journey Planning",
-            "linkURL": "https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/holiday-and-journey-planning"
-          },
-          {
-            "linkText": "Pinch Point Journey Planner",
-            "linkURL": "https://www.myjourneynsw.info/"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1790193646000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Plan your journey",
-        "adviceB": "Allow extra travel time",
-        "adviceC": " ",
-        "end": 1791809100000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1791186790381,
-        "otherAdvice": "<p>High volumes of holiday traffic are expected approaching and through Coffs Harbour during peak travel periods.</p><p>For details about known holiday traffic pinch points, see the NSW Holiday and Journey planning <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/holiday-and-journey-planning\" target=\"_blank\">website</a> and the pinch point journey planning <a href=\"https://www.myjourneynsw.info/\" target=\"_blank\">tool</a>.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1790172000000,
-        "displayName": "HOLIDAY TRAFFIC EXPECTED",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Pacific Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "North Coast NSW",
-            "secondLocation": "",
-            "suburb": "Coffs Harbour",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 288144,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          149.818504,
-          -35.452746
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Holiday and Journey Planning",
-            "linkURL": "https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/holiday-and-journey-planning"
-          },
-          {
-            "linkText": "Pinch Point Journey Planner",
-            "linkURL": "https://www.myjourneynsw.info/"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1790193646000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Plan your journey",
-        "adviceB": "Allow extra travel time",
-        "adviceC": " ",
-        "end": 1791809100000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1791186829522,
-        "otherAdvice": "<p>High volumes of holiday traffic are expected approaching and through Nowra, Jervis Bay, and Milton/Ulladulla during peak holiday travel periods.</p><p>For details about known holiday traffic pinch points, see the NSW Holiday and Journey planning <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/holiday-and-journey-planning\" target=\"_blank\">website</a> and the pinch point journey planning <a href=\"https://www.myjourneynsw.info/\" target=\"_blank\">tool</a>.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1790172000000,
-        "displayName": "HOLIDAY TRAFFIC EXPECTED",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Kings Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Southern Highlands",
-            "secondLocation": "",
-            "suburb": "Braidwood",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 287649,
       "geometry": {
         "type": "Point",
@@ -2231,17 +1275,1406 @@
     },
     {
       "type": "Feature",
-      "id": 288140.0,
+      "id": 288786,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.1128047,
-          -33.7148738
+          152.811029,
+          -31.392327
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Ironman 70.3 Port Macquarie",
+            "linkURL": "https://www.ironman.com/races/im-australia"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1791237654000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use diversions",
+        "adviceC": "Plan your journey",
+        "end": 1792303200000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1791237655504,
+        "otherAdvice": "<p><strong>Ironman Port Macquarie </strong>will take place on Sunday 18 October and <strong>Blackmans Point Interchange will be closed</strong> from 4am to 5pm. Delays are expected throughout Port Macquarie on the day with increased volume of pedestrians. Speed restrictions, multiple road closures and detours will be in place from 3.30am Sunday 18 October through to 1am Monday 19 October. Follow the direction of signage and traffic control. Further information and a list of all road closures, including maps, are available on<strong> </strong><a href=\"https://www.ironman.com/races/im703-port-macquarie/traffic-impact\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Traffic Impact | IRONMAN Australia</strong></a></p>",
+        "arrangementElements": [],
+        "diversions": "<p>During the event hours of 4am to 5pm, motorists will need to allow additional travel time.</p><p>Southbound motorists wanting to access Port Macquarie via Hastings River Drive will detour via the Port Macquarie Interchange and take the exit to Oxley Highway.</p><p>Northbound motorists wanting to access Telegraph Point:</p><ul><li>Travel 14km north of Blackmans Point Interchange, exit the M1 using Yarabee Road exit.</li><li>Turn right to Taree using the underpass.</li><li>Turn right to Taree to access the M1 southbound and travel about 3km south</li><li>Use the Telegraph Point exit to Haydons Wharf Road.</li></ul>",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1792256400000,
+        "displayName": "Ironman Australia",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Blackmans Point Road",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Pacific Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "North Coast NSW",
+            "secondLocation": "",
+            "suburb": "Port Macquarie",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 288901,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0658002,
+          -33.8467332
         ],
         "collections": []
       },
       "properties": {
         "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "<p>Match tickets include travel on public transport. Weekend trackwork is taking place between Parramatta and Olympic Park. Visit <a href=\"https://transportnsw.info/events/2026/10/monster-jam\" rel=\"noopener noreferrer\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1790659541000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Use public transport",
+        "adviceB": "Allow extra travel time",
+        "adviceC": " ",
+        "end": 1791626400000,
+        "hideEndDate": true,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1791239929318,
+        "otherAdvice": "<p><strong>Monster Jam at Accor Stadium. Gates open 4.30pm, show starts at 6pm and finishes 8pm.</strong></p><p>With up to 40,000 attendees expected, traffic will be heavier than usual on roads approaching Sydney Olympic Park.</p><ul><li>Motorists should allow extra travel time on roads including the M4 Mwy, Homebush Bay Dr, Concord Rd, Lane Cove Rd, Parramatta Rd, Centenary Dr and Silverwater Rd.</li><li>If you have to drive, carpool with your group <a href=\"https://www.sydneyolympicpark.nsw.gov.au/parking\" rel=\"noopener noreferrer\" target=\"_blank\">pre-book your parking online</a> ahead of time to secure a space – available until 11:59pm the night before the event unless sold out prior. Other events will be taking place on Saturday, so attendees are encouraged to plan ahead.</li><li>If you have pre-booked your parking, follow the directions of staff and have your parking ticket ready to show at the car park entry.</li></ul><p>Sydney Olympic Park Authority will close local roads in the precinct to ensure pedestrian safety during events. View the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" rel=\"noopener noreferrer\" target=\"_blank\">interactive map</a> for closure details</p><p><strong>Road closure from 1am Friday 9 October to 7pm Sunday 11 October</strong></p><ul><li>Showground Road from Murray Rose Avenue to Dawn Fraser Avenue</li><li>Olympic Boulevard from Dawn Fraser Avenue to Northern Turning Circle</li></ul>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1791550800000,
+        "displayName": "Monster Jam",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Accor Stadium",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "approaching",
+            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road, Centenary Drive",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Sydney Olympic Park",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 288231,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.064186,
+          -33.8446664
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events\" rel=\"noopener noreferrer\" target=\"_blank\">transportnsw.info</a> to plan your trip. Planned weekend trackwork is taking place Sat 10 - Sun 11 Oct between Parramatta and Olympic Park. </p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1789948811000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use public transport",
+        "adviceC": " ",
+        "end": 1791702000000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1791239981458,
+        "otherAdvice": "<p><strong>Upcoming events at Afterpay Arena (formerly Qudos Bank Arena):</strong></p><ul><li><strong>Friday 2, Saturday 3, Monday 5 &amp; Tuesday 6 October - </strong><a href=\"https://afterpayarena.com.au/event/noah-kahan\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Noah Kahan</strong></a><strong>. </strong>Show starts nightly at 8pm, finishes at 10.45pm</li><li><strong>Friday 9 &amp; Saturday 10 October - </strong><a href=\"https://afterpayarena.com.au/event/olivia-dean\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Olivia Dean</strong></a><strong>. </strong>Shows start nightly at 7pm and finish at 11pm</li><li><strong>Sunday 11 October - </strong><a href=\"https://afterpayarena.com.au/event/sydney-kings-26-27-season\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>NBL Sydney Kings v Adelaide 36ers</strong></a><strong>. </strong>Tip off at 3pm, finish approximately 5pm</li></ul><p>Traffic delays are expected as attendees make their way to and from Olympic Park, particularly during busy evening peak periods. Motorists should allow extra travel time on roads including the M4 Mwy, Homebush Bay Dr, Concord Rd, Lane Cove Rd, Parramatta Rd, Centenary Dr and Silverwater Rd.</p><p>If you&#39;re driving, <a href=\"https://www.sydneyolympicpark.com.au/parking/\" rel=\"noopener noreferrer\" target=\"_blank\">pre-book parking online</a> in advance to secure a space, available until 11:59pm the night before the event unless sold out prior. If you have pre-booked your parking, follow the directions of staff and have your parking ticket ready to show at the car park entry.</p><p>Sydney Olympic Park Authority will close some local roads to accommodate increased public transport services and ensure pedestrian safety during events. For road closure details, visit the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" rel=\"noopener noreferrer\" target=\"_blank\">Sydney Olympic Park interactive map</a> for more details.</p>",
+        "arrangementElements": [
+          {
+            "html": "<p><strong>Roads will be closed </strong>in the precinct for the safety of event crowds arriving and leaving the venue. For road closure details, visit the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" rel=\"noopener noreferrer\" target=\"_blank\">Sydney Olympic Park interactive map</a> for more details.</p><p><strong>From 1am Thursday 24 September to 1am Tuesday 6 October</strong></p><ul><li>Grand Parade from Showground Road to Australia Avenue</li></ul><p><strong>From 1am Friday 2 October to 1am Monday 5 October</strong></p><ul><li>Grand Parade from Olympic Boulevard to Showground Road </li><li>Showground Road from Murray Rose Avenue to Grand Parade </li><li>Olympic Boulevard from Dawn Fraser Avenue to Northern Turning circle.</li></ul><p><strong>From 1am Saturday 3 October to 1am Monday 5 October</strong></p><ul><li>Murray Rose Avenue from Showground Road to Gate 15</li><li>Showground road from Murray Rose Avneue to Dawn Fraser Avenue</li></ul><p><strong>From 1.30am Saturday 3 October to 3am Monday 5 October</strong></p><ul><li>Dawn Fraser Avenue from Showground Road to Olympic Boulevard </li><li>Dawn Fraser Avenue from Olympic Boulevard to NRL Centre of Excellence</li><li>Olympic Boulevard from Dawn Fraser Avenue to Herb Elliott Avenue</li></ul><p><strong>From 12pm Saturday 3 October to 1am Monday 5 October</strong></p><ul><li>Dawn Fraser Avenue from Park Street to Showground Road </li><li>Showground Road from Dawn Fraser Avenue to Novotel Loading dock</li></ul><p><strong>From 9pm Saturday 3 October to 12am Sunday 4 October</strong></p><ul><li>Murray Rose Avenue from Gate 15 to park Street</li></ul><p><strong>From 1am Friday 9th October to 7pm Sunday 11 October</strong></p><ul><li>Showground Road from Murray Rose Avenue to Dawn Fraser Avenue</li><li>Olympic Boulevard from Dawn Fraser Avenue to Northern Turning Circle</li></ul>",
+            "title": "Road Closures",
+            "id": "921117"
+          }
+        ],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1790690400000,
+        "displayName": "Shows",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Afterpay Arena",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "approaching",
+            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Sydney Olympic Park",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 289474,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.8341929,
+          -34.051693
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2026/10/league-men-macarthur-fc-v-perth-glory\" rel=\"noopener noreferrer\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1791240133000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": " ",
+        "adviceC": " ",
+        "end": 1792227600000,
+        "hideEndDate": true,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1791240134068,
+        "otherAdvice": "<p><strong>A-League Men: Macarthur FC v Perth Glory at Campbelltown Sports Stadium. Kick-off at 5pm, full time around 7pm. </strong></p><p>Traffic may be heavier than usual as fans travel to and from the match. Allow extra travel time on roads including Pembroke Rd, Rose Payten Dr and Leumeah Rd.</p><p>Motorists should also be aware of increased pedestrian activity in the area.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1792155600000,
+        "displayName": "A-League Men",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Campbelltown Sports Stadium",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "approaching",
+            "mainStreet": "Pembroke Road and Rose Payten Drive",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Leumeah",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 289464,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.3391474,
+          -33.4282475
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2026/10/league-men-central-coast-mariners-v-newcastle-jets\" rel=\"noopener noreferrer\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1791240237000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Exercise caution",
+        "adviceC": " ",
+        "end": 1792234800000,
+        "hideEndDate": true,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1791240238458,
+        "otherAdvice": "<p>.<strong>A-League Men: Central Coast Mariners v Newcastle Jets at polytec Stadium in Gosford</strong>. Kick off at 7.40pm, full time approximately 9.30pm</p><p>Traffic will be heavier than usual on roads approaching the stadium as fans travel to and from the match. Allow extra travel time and use local parking. </p><p>Dane Drive will be closed from 5.40pm between the Central Coast Highway and Donnison Street and will reopen once crowds have cleared the area</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1792155600000,
+        "displayName": "A-League Men",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Central Coast Highway",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Dane Drive",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Central Coast",
+            "secondLocation": "Donnison Street",
+            "suburb": "Gosford",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 289469,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0616026,
+          -33.8429508
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events\" rel=\"noopener noreferrer\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1791239998000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use public transport",
+        "adviceC": " ",
+        "end": 1792236600000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1791241277716,
+        "otherAdvice": "<p><strong>Upcoming events at Afterpay Arena (formerly Qudos Bank Arena):</strong></p><ul><li><strong>Wednesday 14 October - </strong><a href=\"https://afterpayarena.com.au/event/xg\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>XG</strong></a><strong>. </strong>Show starts at 8pm, finishes at 10.30pm</li><li><strong>Friday 16 October -</strong><a href=\"https://afterpayarena.com.au/event/avenged-sevenfold\" rel=\"noopener noreferrer\" target=\"_blank\"><strong> Avenged Sevenfold</strong></a><strong>. </strong>Show starts 6.15pm, finishes at 10.20pm</li><li><strong>Saturday 17 October - </strong><a href=\"https://afterpayarena.com.au/event/sydney-kings-26-27-season\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>NBL Sydney Kings v Perth Wildcats</strong></a><strong>. </strong>Tip off at 7.30pm, finishes at 9.30pm</li></ul><p>Traffic delays are expected as attendees make their way to and from Olympic Park, particularly during busy evening peak periods. Motorists should allow extra travel time on roads including the M4 Mwy, Homebush Bay Dr, Concord Rd, Lane Cove Rd, Parramatta Rd, Centenary Dr and Silverwater Rd.</p><p>On Saturday 17 October, the precinct will be very busy with 60,000 rugby fans leaving the Bledisloe Cup next door as NBL fans arrive, so traffic will be heavy and parking will be in high demand. Attendees are urged to plan ahead. </p><p>If you&#39;re driving, <a href=\"https://www.sydneyolympicpark.com.au/parking/\" rel=\"noopener noreferrer\" target=\"_blank\">pre-book parking online</a> in advance to secure a space, available until 11:59pm the night before the event unless sold out prior. If you have pre-booked your parking, follow the directions of staff and have your parking ticket ready to show at the car park entry.</p><p>Sydney Olympic Park Authority will close some local roads to accommodate increased public transport services and ensure pedestrian safety during events. For road closure details, visit the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" rel=\"noopener noreferrer\" target=\"_blank\">Sydney Olympic Park interactive map</a> for more details.  </p>",
+        "arrangementElements": [
+          {
+            "html": "<p>Sydney Olympic Park Authority will close some local roads to accommodate increased public transport services and ensure pedestrian safety during events. For road closure details, visit the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" rel=\"noopener noreferrer\" target=\"_blank\">Sydney Olympic Park interactive map</a> for more details.  </p><p><strong>From 1am Friday 16 October to 12pm Sunday 18 October</strong></p><ul><li>Dawn Fraser Avenue from Olympic Boulevard to Showground Road</li></ul><p><strong>From 4pm Friday 16 October to midnight Thursday 22 October</strong></p><ul><li>Showground Road from Murray Rose Avenue to Dawn Fraser Avenue</li><li>Olympic Boulevard from Dawn Fraser Avenue to Grand Parade</li></ul><p><strong>From 1am to 8pm Saturday 17 October</strong></p><ul><li>Grand Parade from Showground Road to Australia Avenue </li><li>Showground Road from Grand Parade to Murray Rose Avenue </li><li>Murray Rose Avenue from Showground Road to Gate 15</li></ul><p><strong>From 1am Saturday 17 October to 12pm Sunday 18 October</strong></p><ul><li>Olympic Boulevard from Northern Turning Circle to Edwin Flack Avenue </li></ul><p><strong>From 1.30am Saturday 17 October to 12pm Sunday 18 October</strong></p><ul><li>Olympic Boulevard from Herb Elliott Avenue to Northern Turning circle.</li><li>Dawn Fraser Avenue from Olympic Boulevard to NRL Centre of Excellence.</li></ul><p><strong>From 8am to 7pm Saturday 17 October</strong></p><ul><li>Kevin Coombs Avenue between Pondage Link and Australia Avenue (east bound) </li></ul><p><strong>From 8.45am to 7pm Saturday 17 October</strong></p><ul><li>Olympic Boulevard between Sarah Durack Avenue and Herb Elliott Avenue </li><li>Shirley Strickland Avenue between P4 Roundabout and Rod Laver Drive. </li><li>Rod Laver Drive at the rear of Tennis Centre. </li></ul><p><strong>From 9.30am to 7pm Saturday 17 October</strong></p><ul><li>Dawn Fraser Avenue from Park Street to Showground Road</li><li>Showground Road from Dawn Fraser Avenue to Novotel Loading dock</li></ul><p><strong>From 11am to 7pm Saturday 17 October</strong></p><ul><li>Kevin Coombs Avenue between Pondage Link and Australia Avenue (west bound) </li><li>Holker Bus Way. </li></ul><p><strong>From 5pm to 7pm Saturday 17 October</strong></p><ul><li>Edwin Flack Ave from Pondage Link to Old Hill Link (westbound) (Route Buses will be allowed access through closure via Pondage Link Avenue.)</li><li>Edwin Flack Avenue North bound from Bernie Avenue to Old Hill Link (Route Buses will be allowed access through closure)</li><li>Murray Rose Avenue from Gate 15 to Australia Avenue</li><li>Dawn Fraser Avenue from Park Street to Australia Avenue (route bus access for route buses to rear of station).</li><li>Birnie Avenue from Carter Street to Edwin Flack Avenue </li><li>Uhrig Road from Grazier Street to Edwin Flack Avenue</li><li>Pondage Link from Hill Road to Edwin Flack Avenue </li></ul><p><strong>From 5am to 12pm Sunday 18 October</strong></p><ul><li>Kevin Coombs Avenue from Pondage Link to Australia Avenue</li><li>Marjorie Jackson Parkway from Bennelong Parkway to Australia Avenue</li><li>Holker Busway from Hill Road to Kevin Coombs Avenue</li><li>Australia Avenue from New England Avenue to Kevin Coombs Avenue</li></ul>",
+            "title": "Road Closures",
+            "id": "921138"
+          }
+        ],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1791896400000,
+        "displayName": "Shows",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Afterpay Arena",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "approaching",
+            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Sydney Olympic Park",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 288929,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.724542,
+          -32.9182067
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "<p>Match tickets include travel on stadium shuttle buses. Visit <a href=\"https://transportnsw.info/events/2026/08/nrl-knights-double-header-0\" rel=\"noopener noreferrer\" target=\"_blank\">transportnsw.info</a> to plan your trip</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1791241306000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": " ",
+        "adviceC": " ",
+        "end": 1794052800000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1791241307366,
+        "otherAdvice": "<p><strong>Upcoming Rugby League World Cup games at McDonald Jones Stadium:</strong></p><ul><li><strong>Sunday 18 October - </strong><a href=\"https://www.mcdonaldjonesstadium.com/events/rugby_league_world_cup_2026__new_zealand_v_fiji\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Women&#39;s New Zealand v Fiji</strong></a><strong>, </strong>kick off at 1.50pm and<strong> </strong><a href=\"https://www.mcdonaldjonesstadium.com/events/rugby_league_world_cup_2026__fiji_v_cook_islands\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Men&#39;s Fiji v Cook Islands</strong></a><strong>, </strong>kick off at 4.05pm</li><li><strong>Saturday 7 November - Semi Finals Men&#39;s &amp; Women&#39;s double header. </strong><a href=\"https://www.mcdonaldjonesstadium.com/events/rugby_league_world_cup_2026__women_s_semi_final_7d0888b\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Women&#39;s Semi-Final</strong></a><strong>, </strong>kick off at 5.45pm and <a href=\"https://www.mcdonaldjonesstadium.com/events/rugby_league_world_cup_2026__men_s_semi_final_ce5b2a6\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Men&#39;s Semi-Final</strong></a><strong>, </strong>kick off at 8.05pm</li></ul><p>Traffic will be heavier than usual as fans travel to and from the match. Allow extra travel time on Turton Rd, Griffiths Rd, Newcastle Rd, Lambton Rd and Bridges Rd through Broadmeadow while fans are making their way to and from the stadium.</p><p>For passenger drop-off, use the allocated 10-minute loading zone in the McDonald Jones Stadium car park. Entry is via the driveway off Turton Road.</p><p>Motorists should allow extra travel time and be aware of increased pedestrian activity on local roads.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1792242000000,
+        "displayName": "Rugby League World Cup",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Turton Road",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Griffiths Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Hunter",
+            "secondLocation": "",
+            "suburb": "Broadmeadow",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 289352,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0608034,
+          -33.8469764
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "<p>Match tickets include travel on public transport. Extra trains and Major event buses will run. Visit <a href=\"https://transportnsw.info/Bledisloe-Cup\" rel=\"noopener noreferrer\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1791119762000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Use public transport",
+        "adviceB": "Allow extra travel time",
+        "adviceC": " ",
+        "end": 1792222200000,
+        "hideEndDate": true,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1791241337386,
+        "otherAdvice": "<p><strong>International Rugby showcase at Accor Stadium on Saturday 17 October, including the Bledisloe Cup from 3.45pm</strong>. Wallaroos v Scotland from 12pm; Men&#39;s 7s Australia v Fiji at 2.05pm and Women&#39;s 7s Australia v New Zealand at 2.25pm. Wallabies v All Blacks from 3.45pm and full time around 5.45pm.</p><p><strong>With up to 70,000 rugby fans expected to attend, significant traffic delays are expected on roads approaching the precinct and entering car parks</strong>. Delays are also expected after the match as attendees exit car parks and the precinct while NBL fans make also make their way into Olympic Park.</p><p>Motorists should allow plenty of extra travel time on roads including on the M4 Mwy, Homebush Bay Dr, Concord Rd, Lane Cove Rd, Parramatta Rd, Centenary Dr and Silverwater Rd.</p><ul><li><strong>PARKING: car parks are in high demand. Fans are urged to </strong><a href=\"https://www.sydneyolympicpark.nsw.gov.au/parking\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>pre-book parking online</strong></a><strong> ahead of time to secure a space. A flat rate $40 parking fee applies. </strong></li><li>If you have pre-booked your parking, follow the directions of staff and have your parking ticket ready to show at the car park entry.</li><li>Carpool with your group and allow plenty of extra travel time as traffic will be heavy.</li><li>Alternatively, consider parking at a nearby train station commuter car park and continuing your trip by train to Olympic Park, at no extra cost.</li></ul><p>Sydney Olympic Park Authority will close local roads in the precinct and traffic congestion is expected before and after the match. For road closure details, visit the <a href=\"https://www.sopa.nsw.gov.au/Map\" rel=\"noopener noreferrer\" target=\"_blank\">Sydney Olympic Park Authority interactive map</a>. </p>",
+        "arrangementElements": [
+          {
+            "html": "<p>Sydney Olympic Park Authority will close some local roads to accommodate increased public transport services and ensure pedestrian safety during events. For road closure details, visit the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" rel=\"noopener noreferrer\" target=\"_blank\">Sydney Olympic Park interactive map</a> for more details.  </p><p><strong>From 1am Friday 16 October to 12pm Sunday 18 October</strong></p><ul><li>Dawn Fraser Avenue from Olympic Boulevard to Showground Road</li></ul><p><strong>From 4pm Friday 16 October to midnight Thursday 22 October</strong></p><ul><li>Showground Road from Murray Rose Avenue to Dawn Fraser Avenue</li><li>Olympic Boulevard from Dawn Fraser Avenue to Grand Parade</li></ul><p><strong>From 1am to 8pm Saturday 17 October</strong></p><ul><li>Grand Parade from Showground Road to Australia Avenue </li><li>Showground Road from Grand Parade to Murray Rose Avenue </li><li>Murray Rose Avenue from Showground Road to Gate 15</li></ul><p><strong>From 1am Saturday 17 October to 12pm Sunday 18 October</strong></p><ul><li>Olympic Boulevard from Northern Turning Circle to Edwin Flack Avenue </li></ul><p><strong>From 1.30am Saturday 17 October to 12pm Sunday 18 October</strong></p><ul><li>Olympic Boulevard from Herb Elliott Avenue to Northern Turning circle.</li><li>Dawn Fraser Avenue from Olympic Boulevard to NRL Centre of Excellence.</li></ul><p><strong>From 8am to 7pm Saturday 17 October</strong></p><ul><li>Kevin Coombs Avenue between Pondage Link and Australia Avenue (east bound) </li></ul><p><strong>From 8.45am to 7pm Saturday 17 October</strong></p><ul><li>Olympic Boulevard between Sarah Durack Avenue and Herb Elliott Avenue </li><li>Shirley Strickland Avenue between P4 Roundabout and Rod Laver Drive. </li><li>Rod Laver Drive at the rear of Tennis Centre. </li></ul><p><strong>From 9.30am to 7pm Saturday 17 October</strong></p><ul><li>Dawn Fraser Avenue from Park Street to Showground Road</li><li>Showground Road from Dawn Fraser Avenue to Novotel Loading dock</li></ul><p><strong>From 11am to 7pm Saturday 17 October</strong></p><ul><li>Kevin Coombs Avenue between Pondage Link and Australia Avenue (west bound) </li><li>Holker Bus Way. </li></ul><p><strong>From 5pm to 7pm Saturday 17 October</strong></p><ul><li>Edwin Flack Ave from Pondage Link to Old Hill Link (westbound) (Route Buses will be allowed access through closure via Pondage Link Avenue.)</li><li>Edwin Flack Avenue North bound from Bernie Avenue to Old Hill Link (Route Buses will be allowed access through closure)</li><li>Murray Rose Avenue from Gate 15 to Australia Avenue</li><li>Dawn Fraser Avenue from Park Street to Australia Avenue (route bus access for route buses to rear of station).</li><li>Birnie Avenue from Carter Street to Edwin Flack Avenue </li><li>Uhrig Road from Grazier Street to Edwin Flack Avenue</li><li>Pondage Link from Hill Road to Edwin Flack Avenue </li></ul><p><strong>From 5am to 12pm Sunday 18 October</strong></p><ul><li>Kevin Coombs Avenue from Pondage Link to Australia Avenue</li><li>Marjorie Jackson Parkway from Bennelong Parkway to Australia Avenue</li><li>Holker Busway from Hill Road to Kevin Coombs Avenue</li><li>Australia Avenue from New England Avenue to Kevin Coombs Avenue</li></ul>",
+            "title": "Road Closures",
+            "id": "921140"
+          }
+        ],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1792155600000,
+        "displayName": "International Rugby",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Accor Stadium",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "approaching",
+            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road, Centenary Drive",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Sydney Olympic Park",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 289477,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2008742,
+          -33.8254078
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Crows Nest Fest 2026",
+            "linkURL": "https://crows-nest.com.au/"
+          },
+          {
+            "linkText": "Crows Nest Fest - Road Closure flyer",
+            "linkURL": "https://crows-nest.com.au/wp-content/uploads/2026/09/NotificationFlyer-2026-web.pdf"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "<p>Route buses 115 and 263 will divert around Willoughby Rd and use temporary stops from 12:01am to 11pm while roads are closed for the event. Allow extra time and plan your trip at <a href=\"https://transportnsw.info/events/2026/10/crows-nest-fest\" rel=\"noopener noreferrer\" target=\"_blank\">transportnsw.info</a></p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1791241465000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Use public transport",
+        "adviceB": "Allow extra travel time",
+        "adviceC": "Expect delays",
+        "end": 1792325700000,
+        "hideEndDate": true,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1791241465919,
+        "otherAdvice": "<p><strong>Large crowds are expected to attend the annual Crows Nest Fest from 10am to 5pm on Sunday 18 October.</strong></p><p>Changed traffic conditions including road closures and parking restrictions will be in place to safely facilitate the event.</p><p>Traffic is expected to be heavy on roads approaching Crows Nest including along the Pacific Hwy and Falcon St throughout the day.</p><p><strong>Road closures from 12:01am to 11pm</strong></p><ul><li>Willoughby Road between Burlington Street and Albany Street  </li><li>Willoughby Road (one-way) closed from Burlington Street to Falcon Street </li><li>Clarke Street between Willoughby Road and Oxley Street </li><li>Clarke Lane between Hume Street and Oxley Street </li><li>Burlington Street between Willoughby Road and Willoughby Lane  </li><li>Holtermann Street between Willoughby Road and Zig Zag Lane </li><li>Hume Street between Pacific Highway and Pole Lane  </li><li>Hume Lane between Clarke Lane and Pole Lane  </li><li>Zig Zag Lane closed near Burlington Street </li></ul><p>Motorists should allow plenty of extra travel time, follow the directions of traffic controllers on site and be aware of increased pedestrian activity in the area.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1792242000000,
+        "displayName": "Street Fair",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Burlington Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "between",
+            "mainStreet": "Willoughby Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "Albany Street",
+            "suburb": "Crows Nest",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 288930.0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0014389,
+          -33.8087757
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "<p>Parramatta Light Rail will not run between Parramatta Sq and Westmead from 5pm to 11.30pm on Friday 23 October due to Parramatta Lanes Festival. Match tickets include travel on transport. Visit <a href=\"https://transportnsw.info/events/2026/10/rugby-league-world-cup-commbank-stadium\" rel=\"noopener noreferrer\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [
+          {
+            "displayName": "CommBankStadium_Transport_WalkingRoute_Map",
+            "fileName": "CommBankStadium_Transport_WalkingRoute_Map.pdf",
+            "fileType": "PDF",
+            "linkName": "CommBankStadium_Transport_WalkingRoute_Map",
+            "sizeInBytes": 3930899,
+            "uniqueFileName": "919826_1728350438314_CommBankStadium_Transport_WalkingRoute_Map.pdf"
+          },
+          {
+            "displayName": "CommBankStadium_EventRoadClosureMap_PLR",
+            "fileName": "CommBankStadium_EventRoadClosureMap_PLR.pdf",
+            "fileType": "PDF",
+            "linkName": "CommBankStadium_EventRoadClosureMap_PLR",
+            "sizeInBytes": 276835,
+            "uniqueFileName": "689282_1760318577717_CommBankStadium_EventRoadClosureMap_PLR.pdf"
+          }
+        ],
+        "isInitialReport": false,
+        "created": 1791243510000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use public transport",
+        "adviceC": " ",
+        "end": 1793534400000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1791243512024,
+        "otherAdvice": "<p><strong>Upcoming Rugby League World Cup games at CommBank Stadium:</strong></p><ul><li><strong>Friday 16 October – </strong><a href=\"https://www.commbankstadium.com.au/events/rugby_league_world_cup_2026__samoa_v_france\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Men’s Samoa v France</strong></a>, kick off at 5.45pm, <a href=\"https://www.commbankstadium.com.au/events/women_s_rugby_league_world_cup_2026_australia_v_samoa\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Women’s Australia v Samoa</strong></a><strong>, </strong>kick off at 8.05pm </li><li><strong>Friday 23 October – </strong><a href=\"https://www.commbankstadium.com.au/events/women_s_rugby_league_world_cup_2026__samoa_v_wales\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Women&#39;s Samoa v Wales</strong></a>, kick off at 5.45pm, <a href=\"https://www.commbankstadium.com.au/events/rugby_league_world_cup_2026__tonga_v_lebanon\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Men’s Tonga v Lebanon</strong></a>, kick off at 8.05pm </li><li><strong>Sunday 1 November – </strong><a href=\"https://www.commbankstadium.com.au/events/rugby_league_world_cup_2026__tonga_v_samoa\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Women&#39;s Australia v Wales</strong></a>, kick off at 3.40pm, <a href=\"https://www.commbankstadium.com.au/events/rugby_league_world_cup_2026__lebanon_v_france\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Men’s Lebanon v France</strong></a><strong> </strong>kick off at 5.40pm, <a href=\"https://www.commbankstadium.com.au/events/rugby_league_world_cup_2026__tonga_v_samoa\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Men’s Tonga v Samoa</strong></a><strong> </strong>kick off at 8.05pm </li></ul><p>Traffic will be heavy on roads approaching Parramatta and nearby car parks are expected to be in high demand. Allow extra travel time on roads including Parramatta Road, Church Street, Victoria Road, James Ruse Drive and Pennant Hills Road. Motorists should also exercise caution as pedestrian activity will be high on roads between Parramatta Interchange and the stadium.</p><p><strong>Note, Parramatta CBD will be busier than usual and roads will be closed on Friday 23 October for the Parramatta Lanes Festival.</strong></p><p>Drivers are reminded that light rail services are running through Parramatta CBD. Trams can’t stop quickly or easily – so exercise extra caution when driving in the area. </p><p><strong>Road closures </strong></p><p>Roads around the stadium will close from <strong>9.50pm until 10.20pm nightly</strong> approx. to allow crowds to safely leave the venue. Roads will re-open once crowds have cleared the area. </p><ul><li>O’Connell Street from Grose Street to George Street </li><li>Ross Street from O’Connell Street to Trott Street </li><li>Victoria Road from O’Connell Street to Villiers Street </li></ul><p>While closures are in place motorists are encouraged to avoid driving through Parramatta CBD and detour around the closures via Grose Street, Brickfield Street, Victoria Road and Wilde Avenue in both directions. </p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1792069200000,
+        "displayName": "Rugby League World Cup",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Victoria Road",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "O'Connell Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Parramatta",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 288939,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.235613,
+          -33.549013
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Supercars Bathurst 1000",
+            "linkURL": "https://www.supercars.com/events/2026-bathurst-1000"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1791244862000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Exercise caution",
+        "adviceC": "Expect delays",
+        "end": 1791874800000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1791244863201,
+        "otherAdvice": "<p><strong>Delays are expected through Blayney on Mid Western Highway due to Bathurst 1000 bump out.</strong></p><p>Motorists should allow plenty of extra travel time and expect delays on <strong>Monday 12 October and Tuesday 13 October.</strong></p><p>Peak delay times on Monday 12 and Tuesday 13 on roads through Blayney are expected to be 7am - 2pm.</p><p><strong>Motorists are advised to stay on major roads and follow the directions of traffic control and emergency services.</strong></p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1791748800000,
+        "displayName": "Bathurst 1000 - heavy traffic expected",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Mid Western Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Central NSW",
+            "secondLocation": "",
+            "suburb": "Blayney",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 288940.0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.2848509,
+          -33.6355169
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Supercars Bathurst 1000",
+            "linkURL": "https://www.supercars.com/events/2026-bathurst-1000"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1791244862000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Exercise caution",
+        "adviceC": "Expect delays",
+        "end": 1791874800000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1791244863213,
+        "otherAdvice": "<p><strong>Delays are expected through Blackheath on Mid Western Highway due to Bathurst 1000 bump out.</strong></p><p>Motorists should allow plenty of extra travel time and expect delays on <strong>Monday 12 October and Tuesday 13 October.</strong></p><p>Peak delay times on Monday 12 and Tuesday 13 on roads through Blayney are expected to be 1pm - 5pm.</p><p><strong>Motorists are advised to stay on major roads and follow the directions of traffic control and emergency services.</strong></p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1791770400000,
+        "displayName": "Bathurst 1000 - heavy traffic expected",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Great Western Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Blue Mountains",
+            "secondLocation": "",
+            "suburb": "Blackheath",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 288937,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.6863045,
+          -33.8339767
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Supercars Bathurst 1000",
+            "linkURL": "https://www.supercars.com/events/2026-bathurst-1000"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1791244863000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Exercise caution",
+        "adviceC": "Expect delays",
+        "end": 1791874800000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1791244863720,
+        "otherAdvice": "<p><strong>Delays are expected through Cowra on Mid Western Highway due to Bathurst 1000 bump out.</strong></p><p>Motorists should allow plenty of extra travel time and expect delays on <strong>Monday 12 October and Tuesday 13 October.</strong></p><p>Peak delay times on Monday 12 and Tuesday 13 on roads through Cowra are expected to be 7am - 2pm.</p><p><strong>Motorists are advised to stay on major roads and follow the directions of traffic control and emergency services.</strong></p><p> </p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1791748800000,
+        "displayName": "Bathurst 1000 - heavy traffic expected",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Mid Western Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Central NSW",
+            "secondLocation": "",
+            "suburb": "Cowra",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 288936,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.164695,
+          -33.480333
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Supercars Bathurst 1000",
+            "linkURL": "https://www.supercars.com/events/2026-bathurst-1000"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1791244862000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Exercise caution",
+        "adviceC": "Expect delays",
+        "end": 1791874800000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1791244863304,
+        "otherAdvice": "<p><strong>Delays are expected through Lithgow and on the Great Western Highway detour via Chifley Road and Darling Causeway due to Bathurst 1000 bump out.</strong></p><p>Motorists should allow plenty of extra travel time and expect delays on <strong>Monday 12 October and Tuesday 13 October.</strong></p><p>Peak delay times on Monday 12 and Tuesday 13 on roads through Lithgow are expected to be 10am - 2pm.</p><p><strong>Motorists are advised to stay on major roads and follow the directions of traffic control and emergency services.</strong> </p><p>In the event of eastbound traffic queues, traffic management will be in place at the bottom of Scenic Hill on Chifley Road. Traffic will be held at this location to avoid breakdowns resulting from queuing on Scenic Hill, and to ensure the safe passage of motorists up the hill.</p><p> </p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1791752400000,
+        "displayName": "Bathurst 1000 - heavy traffic expected",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Mort Street, Chifley Road, Darling Causeway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Blue Mountains",
+            "secondLocation": "",
+            "suburb": "Lithgow",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 288909,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.578693,
+          -33.411186
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Supercars Bathurst 1000",
+            "linkURL": "https://www.supercars.com/events/2026-bathurst-1000"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1791244871000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Exercise caution",
+        "adviceC": "Expect delays",
+        "end": 1791874800000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1791244871713,
+        "otherAdvice": "<p><strong>Delays are expected on major roads approaching Bathurst including the M4 Mwy, Great Western Hwy and Bells Line of Rd from Sydney, Mitchell Hwy from Orange, Mid Western Hwy from Cowra and Castlereagh Hwy from Mudgee.</strong></p><p>Traffic controllers will be on-site on local roads to manage access to and from the Mount Panorama precinct.</p><p>Motorists should allow plenty of extra travel time over the weekend and expect delays on <strong>Monday 12 October and Tuesday 13 October</strong> as fans head home from Bathurst.</p><p>Peak delay times on Monday 12 and Tuesday 13 on roads around Bathurst are 6am - 10am.</p><p><strong>Motorists are advised to stay on major roads and follow the directions of traffic control and emergency services.</strong> </p><p> </p><p><br></p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1791205200000,
+        "displayName": "Bathurst 1000 - heavy traffic expected",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Various roads out of Bathurst",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Central NSW",
+            "secondLocation": "",
+            "suburb": "Bathurst",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 289475,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2142658,
+          -33.8699196
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2026/10/anyma\" rel=\"noopener noreferrer\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1791240574000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use public transport",
+        "adviceC": " ",
+        "end": 1792241940000,
+        "hideEndDate": true,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1791245087600,
+        "otherAdvice": "<p><strong>Anyma at The Domain Sydney from 5pm to 11pm on Saturday.</strong></p><p>With thousands of people expected, traffic will be heavier than usual within the Sydney CBD on Macquarie St, College St and William St. Motorists should avoid driving through the area or expect delays and watch out for pedestrians in the area.</p><p>Attendees should use the dedicated drop-off location on Hospital Road at Art Gallery Road. For pick-ups after the event go to Elizabeth Street or Sir John Young Crescent.  </p><p><strong>Roads within and around The Domain will close for crowd safety before, during and after the event.</strong></p><ul><li><strong>From 8pm to midnight:</strong> Art Gallery Road will be closed to incoming traffic.<strong> </strong></li><li><strong>From 10pm to midnight </strong>Hospital Road from Art Gallery Road to Shakespeare Place will close.</li></ul><p>Follow directions of NSW Police on site.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1792155600000,
+        "displayName": "Concert",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "The Domain Sydney",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "to",
+            "mainStreet": "Macquarie St, Prince Albert Rd, College St, Art Gallery Rd",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Sydney CBD",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 289473,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2234473,
+          -33.8908395
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "<p>Travel on transport is included in match tickets and additional light rail services will run. Visit <a href=\"https://transportnsw.info/events/2026/10/league-men-sydney-fc-v-western-sydney-wanderers\" rel=\"noopener noreferrer\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [
+          {
+            "displayName": "Moore-Park-events-transport-map",
+            "fileName": "Moore-Park-events-transport-map.pdf",
+            "fileType": "PDF",
+            "linkName": "Moore-Park-events-transport-map",
+            "sizeInBytes": 692771,
+            "uniqueFileName": "327493_1763955212233_Moore-Park-events-transport-map.pdf"
+          },
+          {
+            "displayName": "ClearwayMap_MoorePark_North",
+            "fileName": "ClearwayMap_MoorePark_North.pdf",
+            "fileType": "PDF",
+            "linkName": "ClearwayMap_MoorePark_North",
+            "sizeInBytes": 200520,
+            "uniqueFileName": "977239_1791247660753_ClearwayMap_MoorePark_North.pdf"
+          }
+        ],
+        "isInitialReport": false,
+        "created": 1791240078000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Expect delays",
+        "adviceB": "Check signage",
+        "adviceC": "Use public transport",
+        "end": 1792151100000,
+        "hideEndDate": true,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1791247707482,
+        "otherAdvice": "<p><strong>A-League Men Sydney FC v Western Sydney Wanderers at Allianz Stadium. Kick off at 8pm, full time around 9.50pm</strong></p><p>Traffic delays are expected on roads approaching Moore Park as fans make their way to the precinct during the busy evening peak.</p><p>Motorists should carpool and allow plenty of extra travel time on roads including the Eastern Distributor, Moore Park Rd, Cleveland St, Anzac Pde and Lang Rd.</p><p><strong>Changed traffic conditions:</strong></p><ul><li>Driver Avenue will be partially closed outside the stadium from 3.30pm and will reopen once crowds have safely cleared the area.</li><li>No through-traffic will be available on Driver Avenue, however access to EP2 Kippax car park will be maintained via Moore Park Road and access to EP3 grass car park and drop-off areas will be maintained from Lang Road. Grass car parks open from 5pm. </li><li><strong>Special event clearways will be in place on roads in Moore Park and surrounding areas</strong> <strong>from 3pm to midnight </strong>on sections of Albion Street, Lang Road and Moore Park Road, and <strong>from 6am to midnight </strong>on Cleveland Street and Fitzroy Street.</li></ul><p>Clearways are strict no-parking zones for all vehicle types, and apply even to local residents and TfNSW Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed\" rel=\"noopener noreferrer\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator</p>",
+        "arrangementElements": [
+          {
+            "html": "<p>Clearways are <strong>strict</strong> no-parking zones and also apply to local residents and Mobility Scheme Permit holders. Check signs before parking as vehicles left in special event clearways will be towed and a towing fee applies. If your vehicle is towed, you can search your vehicle registration at the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed/what-to-do\" rel=\"noopener noreferrer\" target=\"_blank\">Find My Car</a> website to find its new location, or alternatively call 132 701 to speak to an operator. </p><p><strong>From 6am to midnight</strong> </p><ul><li>Cleveland Street between South Dowling Street and City Road (southern side) </li><li>Cleveland Street between Abercrombie Street and South Dowling Street (northern side) </li><li>Fitzroy Street between South Dowling Street and Bourke Street (northern side) </li></ul><p><strong>From 3pm to midnight</strong> </p><ul><li>Albion Street between Bourke Street and Flinders Street (both sides) </li><li>Lang Road between Anzac Parade and Errol Flynn Boulevard (northern side) </li><li>Moore Park Road between Flinders Street and Greens Road (northern side)  </li></ul>",
+            "title": "Special Event Clearways",
+            "id": "921205"
+          }
+        ],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1792069200000,
+        "displayName": "A-League Men",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Allianz Stadium",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "approaching",
+            "mainStreet": "Moore Park Road, Anzac Parade, Lang Road, Eastern Distributor",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Moore Park",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 289480.0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.7241653,
+          -32.9195249
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "AFC Champion League Elite Champions: Newcastle Jets v Gamba Osaka",
+            "linkURL": "https://www.mcdonaldjonesstadium.com/events/acl_elite__newcastle_jets_v_gamba_osaka"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info\" rel=\"noopener noreferrer\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1791247752000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": " ",
+        "adviceC": " ",
+        "end": 1791887400000,
+        "hideEndDate": true,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1791247753660,
+        "otherAdvice": "<p><strong>AFC Champion League Elite Champions: Newcastle Jets v Gamba Osaka at McDonald Jones Stadium. Kick-off at 6.45pm</strong></p><p>Traffic may be heavier than usual as fans travel to and from the match during the busy evening peak. Allow extra travel time on Turton Rd, Griffiths Rd, Newcastle Rd, Lambton Rd and Bridges Rd through Broadmeadow while fans are making their way to and from the stadium.</p><p>For passenger drop-off, use the allocated 10-minute loading zone in the McDonald Jones Stadium car park. Entry is via the driveway off Turton Road.</p><p>Motorists should allow extra travel time and be aware of increased pedestrian activity on local roads.<strong>﻿</strong></p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1791810000000,
+        "displayName": "AFC Elite",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Turton Road",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Griffiths Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Hunter",
+            "secondLocation": "",
+            "suburb": "Broadmeadow",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 288138,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.1684522,
+          -33.4794537
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Holiday and Journey Planning",
+            "linkURL": "https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/holiday-and-journey-planning"
+          },
+          {
+            "linkText": "Pinch Point Journey Planner",
+            "linkURL": "https://www.myjourneynsw.info/"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1790193646000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Plan your journey",
+        "adviceB": "Allow extra travel time",
+        "adviceC": " ",
+        "end": 1791722700000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1791256691088,
+        "otherAdvice": "<p>High volumes of holiday traffic are expected through Lithgow during peak holiday travel periods due to the closure of Great Western Highway at Victoria Pass.</p><p>For details about known holiday traffic pinch points, see the NSW Holiday and Journey planning <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/holiday-and-journey-planning\" rel=\"noopener noreferrer\" target=\"_blank\">website</a>.</p><p>For more information about the work we are undertaking at Victoria Pass,<a href=\"https://www.transport.nsw.gov.au/projects/current-projects/great-western-highway-road-closure-at-victoria-pass\" rel=\"noopener noreferrer\" target=\"_blank\"> click here.</a></p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1790172000000,
+        "displayName": "HOLIDAY TRAFFIC EXPECTED",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Mort Street",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "-",
+            "mainStreet": "Chifley Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Blue Mountains",
+            "secondLocation": "",
+            "suburb": "Lithgow",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 288136,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.2845311,
+          -33.6303657
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Holiday and Journey Planning",
+            "linkURL": "https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/holiday-and-journey-planning"
+          }
+        ],
         "headline": "",
         "periods": [],
         "speedLimit": -1,
@@ -2265,8 +2698,80 @@
         "hideEndDate": false,
         "incidentKind": "Planned",
         "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1791188465256,
-        "otherAdvice": "<p>High volumes of holiday traffic are expected from Wahroonga to Calga on the M1 Pacific Motorway during peak holiday travel periods.</p><p>For details about known holiday traffic pinch points, see the NSW Holiday and Journey planning <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/holiday-and-journey-planning\" target=\"_blank\">website</a> and the pinch point journey planning <a href=\"https://www.myjourneynsw.info/\" target=\"_blank\">tool</a>.</p>",
+        "lastUpdated": 1791257793160,
+        "otherAdvice": "<p>High volumes of holiday traffic are expected approaching and through Blackheath, during peak holiday travel periods.</p><p>For details about known holiday traffic pinch points, see the NSW Holiday and Journey planning <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/holiday-and-journey-planning\" rel=\"noopener noreferrer\" target=\"_blank\">website</a></p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1790172000000,
+        "displayName": "HOLIDAY TRAFFIC EXPECTED",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "-",
+            "mainStreet": "Great Western Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Blue Mountains",
+            "secondLocation": "",
+            "suburb": "Blackheath",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 288140.0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1128047,
+          -33.7148738
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "NSW Holiday and Journey Planning",
+            "linkURL": "https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/holiday-and-journey-planning"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1790193646000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Plan your journey",
+        "adviceB": "Allow extra travel time",
+        "adviceC": " ",
+        "end": 1791809100000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1791257906775,
+        "otherAdvice": "<p>High volumes of holiday traffic are expected from Wahroonga to Calga on the M1 Pacific Motorway during peak holiday travel periods.</p><p>For details about known holiday traffic pinch points, see the <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/holiday-and-journey-planning\" rel=\"noopener noreferrer\" target=\"_blank\">NSW Holiday and Journey planning website</a> </p>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
@@ -2298,12 +2803,306 @@
     },
     {
       "type": "Feature",
-      "id": 289396,
+      "id": 288142,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.0621088,
-          -34.0819774
+          150.441137,
+          -35.317857
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Holiday and Journey Planning",
+            "linkURL": "https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/holiday-and-journey-planning"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1790193646000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Plan your journey",
+        "adviceB": "Allow extra travel time",
+        "adviceC": " ",
+        "end": 1791809100000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1791257944388,
+        "otherAdvice": "<p>High volumes of holiday traffic are expected approaching and through Nowra, Jervis Bay, and Milton/Ulladulla during peak holiday travel periods.</p><p>For details about known holiday traffic pinch points, see the NSW Holiday and Journey planning <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/holiday-and-journey-planning\" rel=\"noopener noreferrer\" target=\"_blank\">website</a> </p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1790172000000,
+        "displayName": "HOLIDAY TRAFFIC EXPECTED",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Princes Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "South Coast",
+            "secondLocation": "",
+            "suburb": "Milton",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 288144,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.818504,
+          -35.452746
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Holiday and Journey Planning",
+            "linkURL": "https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/holiday-and-journey-planning"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1790193646000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Plan your journey",
+        "adviceB": "Allow extra travel time",
+        "adviceC": " ",
+        "end": 1791809100000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1791257975883,
+        "otherAdvice": "<p>High volumes of holiday traffic are expected approaching and through Nowra, Jervis Bay, and Milton/Ulladulla during peak holiday travel periods.</p><p>For details about known holiday traffic pinch points, see the NSW Holiday and Journey planning <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/holiday-and-journey-planning\" rel=\"noopener noreferrer\" target=\"_blank\">website</a> </p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1790172000000,
+        "displayName": "HOLIDAY TRAFFIC EXPECTED",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Kings Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Southern Highlands",
+            "secondLocation": "",
+            "suburb": "Braidwood",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 288145,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.1075816,
+          -30.3041764
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Holiday and Journey Planning",
+            "linkURL": "https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/holiday-and-journey-planning"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1790193646000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Plan your journey",
+        "adviceB": "Allow extra travel time",
+        "adviceC": " ",
+        "end": 1791809100000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1791258008739,
+        "otherAdvice": "<p>High volumes of holiday traffic are expected approaching and through Coffs Harbour during peak travel periods.</p><p>For details about known holiday traffic pinch points, see the NSW Holiday and Journey planning <a href=\"https://www.nsw.gov.au/driving-boating-and-transport/plan-your-trip/holiday-driving/holiday-and-journey-planning\" rel=\"noopener noreferrer\" target=\"_blank\">website</a> </p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1790172000000,
+        "displayName": "HOLIDAY TRAFFIC EXPECTED",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Pacific Highway",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "North Coast NSW",
+            "secondLocation": "",
+            "suburb": "Coffs Harbour",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 289047,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0028329,
+          -33.8150078
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Parramatta Lanes",
+            "linkURL": "https://atparramatta.com/lanes"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": false,
+        "isNewIncident": true,
+        "publicTransport": "<p>ight rail services will not run between Parramatta Square and Westmead from 5pm to 11pm (Wednesday and Thursday) and from 5pm to 11.30pm (Friday and Saturday) while roads are closed for the event. Buses will replace services between Westmead and Parramatta Square. Visit <a href=\"https://transportnsw.info/parramatta-lanes\" rel=\"noopener noreferrer\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1791260588000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Use public transport",
+        "adviceC": "Check signage",
+        "end": 1792843200000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1791260588801,
+        "otherAdvice": "<p><strong>Parramatta Lanes is taking place in the Parramatta CBD from Wednesday 21 to Saturday 24 October</strong>. </p><p>Held at over 20+ sites including gardens, rooftop carparks and lanes, the event starts daily at 5pm. The event will finish at 10pm on Wednesday and Thursday, and at 10.30pm on Friday and Saturday.</p><p><strong>Road closures will be in place from Monday 19 to Sunday 25 October on sections of Macquarie St, Phillip St and George St to safely facilitate the event</strong>. </p><p>Parking restrictions will also be in place on George St, Macquarie St and Phillip St so check signs carefully.</p><p>Traffic will be heavy on roads approaching the area and on detour routes as attendees travel to and from the event. Motorists should allow extra travel time on Parramatta Rd, Church St, Victoria Rd, James Ruse Dr and Pennant Hills Rd, and be aware of increased pedestrian activity on roads in the area1</p>",
+        "arrangementElements": [
+          {
+            "html": "<p><strong>PARRAMATTA CBD</strong></p><p><strong>From 6pm Monday 19 to 1am Tuesday 20 October </strong></p><ul><li>George St between Marsden St and Freemasons Arms  </li><li>George St between Freemasons Arms Lane and Horwood Pl  </li><li>George St between Horwood Pl and Smith St  </li><li>Phillip St between Freemasons Arms Lane and Erby Pl  (eastbound) </li><li>Phillip St  between Erby Pl and Dirribarri Lane  </li><li>Phillip St between Dirribarri Lane and Smith St </li></ul><p><strong>From 1pm Wednesday 21 to 1am Thursday 22 October, from 1pm Thursday 22 to 1am Friday 23 October, from 1pm Friday 23 to 1am Saturday 24 October, from 1pm Saturday 24 to 4:45am Sunday 25 October.</strong></p><ul><li>Auctioneer Lane from Horwood Pl  </li><li>George St between Marsden St and Freemasons Arms Lane    </li><li>George St between Freemasons Arms Lane and Horwood Pl  </li><li>George St between Horwood Pl and Smith St </li></ul><p><strong>From 2pm to Midnight Wednesday 21 to Saturday 24 October </strong></p><ul><li>Macquarie Lane between Horwood Pl and Smith St  </li><li>Macquarie St between Marsden St and Horwood Pl  </li><li>Phillip St between Church St and Freemasons Arm Lane  </li><li>Phillip St between Dirribarri Lane and Smith St  </li><li>United Ln, from Macquarie St </li></ul><p><strong>From 2pm to 4.45pm Wednesday 21 to Saturday 24 October </strong></p><ul><li>Phillip St between Freemasons Arms Lane and Dirribarri Ln (eastbound)</li></ul><p><strong>From 4.45pm to Midnight Wednesday 21 October to Saturday 24 October</strong></p><ul><li>China Rose Walk from Erby Pl</li><li>Erby Pl from Phillip St</li><li>Philip Ln from Phillip St</li><li>Phillip St between Freemasons Arms Ln and Dirribarri Ln </li></ul>",
+            "title": "Road Closures",
+            "id": "921316"
+          }
+        ],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1792501200000,
+        "displayName": "Festival",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Parramatta CBD",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Phillip St, Macquarie St, George St",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Parramatta",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 290120.0,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2065893,
+          -33.8743278
         ],
         "collections": []
       },
@@ -2314,26 +3113,26 @@
         "speedLimit": -1,
         "weblinkUrl": null,
         "expectedDelay": -1,
-        "ended": true,
+        "ended": false,
         "isNewIncident": false,
-        "publicTransport": "",
+        "publicTransport": "<p>Bus services in Sydney CBD may be impacted while roads are closed. Visit <a href=\"https://transportnsw.info/\" rel=\"noopener noreferrer\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
         "impactingNetwork": false,
         "subCategoryB": null,
         "arrangementAttachments": [],
         "isInitialReport": false,
-        "created": 1790583876000,
+        "created": 1791266517000,
         "isMajor": false,
         "name": null,
         "subCategoryA": "null",
-        "adviceA": "Plan your journey",
-        "adviceB": "Expect delays",
-        "adviceC": "Exercise caution",
-        "end": 1791204300000,
-        "hideEndDate": false,
+        "adviceA": "Allow extra travel time",
+        "adviceB": "Follow directions on site",
+        "adviceC": "Expect delays",
+        "end": 1791347400000,
+        "hideEndDate": true,
         "incidentKind": "Planned",
         "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1791204346028,
-        "otherAdvice": "<p><strong>The Royal National Park is expected to be busy over the October Long Weekend (October 3 - 5).</strong></p><p><strong>Road closures will be implemented as precincts and car parks reach full at Wattamolla Beach, Audley, Maianbar, and Bundeena.</strong></p><p>Visitors are encouraged to check the <a href=\"https://www.nationalparks.nsw.gov.au/visit-a-park/parks/royal-national-park/local-alerts\" rel=\"noopener noreferrer\" target=\"_blank\">Royal National Park local alerts</a> before travelling for updates on precinct access.</p><p><strong>Road closures when precincts reach capacity:</strong></p><ul><li>Wattamolla Rd between Sir Bertram Stevens Dr and Wattamolla Beach</li><li>Garie Rd between Sir Bertram Stevens Dr and Garie Beach</li><li>Maianbar Rd between Bundeena Dr and Maianbar township</li><li>Bundeena Dr between Sir Bertram Stevens Dr and Bundeena township</li></ul>",
+        "lastUpdated": 1791276759043,
+        "otherAdvice": "<p>A planned Police Operation will take place around St Andrews Cathedral.</p><p>Motorists travelling in the area should expect delays, allow extra travel time and follow directions of NSW Police.</p><p><strong>The following road closures will be in place:</strong></p><p><strong>From 9:30am to 3:30pm</strong></p><ul><li>Bathurst St eastbound between Kent St and George St</li></ul><p><strong>From 2:15pm to 3:30pm</strong></p><ul><li>Bathurst St eastbound between George St and Castlereagh St</li><li>Castlereagh St southbound between Park St and Bathurst St</li><li>Pitt St northbound between Liverpool St and Bathurst St</li></ul>",
         "arrangementElements": [],
         "diversions": "",
         "additionalInfo": [],
@@ -2341,21 +3140,21 @@
         "attendingGroups": null,
         "encodedPolylines": [],
         "duration": null,
-        "start": 1790949600000,
-        "displayName": "SPECIAL EVENT",
+        "start": 1791291600000,
+        "displayName": "Police Operation",
         "roads": [
           {
             "conditionTendency": "",
             "crossStreet": "",
             "delay": "",
             "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "McKell Ave, Farnell Ave & various roads",
+            "locationQualifier": "-",
+            "mainStreet": "Bathurst Street, Castlereagh Street",
             "quadrant": "",
             "queueLength": 0,
             "region": "Sydney",
             "secondLocation": "",
-            "suburb": "Royal National Park McKell Ave, Farnell Ave & various roads",
+            "suburb": "Sydney",
             "trafficVolume": ""
           }
         ],
