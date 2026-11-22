@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "lastPublished": 1795272090000,
+  "lastPublished": 1795358190000,
   "layerName": "MajorEvent",
   "rights": {
     "copyright": "Transport for NSW",
@@ -312,88 +312,6 @@
             "region": "Sydney",
             "secondLocation": "",
             "suburb": "The Rocks",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 290809,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.2084428,
-          -33.8675005
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "<p>Buses will be diverting and using different stops while roads are closed. Check bus service alerts at <a href=\"https://transportnsw.info/alerts#/bus\" target=\"_blank\">transportnsw.info</a> for the latest info.</p>",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [
-          {
-            "displayName": "Walk_with_Christ_2026_",
-            "fileName": "Walk_with_Christ_2026_.pdf",
-            "fileType": "PDF",
-            "linkName": "Walk_with_Christ_2026_",
-            "sizeInBytes": 516047,
-            "uniqueFileName": "730261_1791859525362_Walk_with_Christ_2026_.pdf"
-          }
-        ],
-        "isInitialReport": false,
-        "created": 1793658124000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Expect delays",
-        "adviceB": "Check signage",
-        "adviceC": "Use an alternative route",
-        "end": 1795328100000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1793658125250,
-        "otherAdvice": "<p>Up to 6,000 people are expected to take part in the annual Walk with Christ Religious Procession which will travel from Martin Place to St Mary&#39;s Cathedral. Road closures will be in place between 2pm and 4:30pm, while special event clearways will be in effect between 1pm and 4pm</p><p>Traffic will be heavy in the city while roads are closed. Motorists should avoid unnecessary travel through the city where possible or allow plenty of extra travel time.</p><p><strong>Road closures:</strong></p><ul><li><strong>From 2pm to 4:30pm: </strong>Pitt St between Bridge St and Martin Pl. </li><li><strong>From 2:15pm to 4:30pm </strong>sections of O&#39;Connell, Bligh, Spring, Castlereagh, Phillip, King, Elizabeth, George and Hunter Streets will close. </li><li><strong>From 2:50pm to 4:30pm</strong> sections of College St, Macquarie St, Prince Albert Rd and St James Rd will close.</li></ul><p><strong>Special event clearways will be in effect from 1pm until 4pm </strong>on sections of College, Hunter, Macquarie and Pitt Streets. Clearways are strict no-parking zones and apply even to local residents and Mobility Scheme Permit Holders. Check signs carefully before parking as vehicles left in clearways will be towed and a fee applies.</p>",
-        "arrangementElements": [
-          {
-            "html": "<p><strong>ROAD CLOSURES</strong></p><p><strong>SYDNEY CBD</strong></p><p><strong>FROM 2PM to 4:30PM</strong></p><ul><li>Pitt Street between Bridge Street and Martin Place</li></ul><p><strong>FROM 2.15PM TO 4.30PM</strong></p><ul><li>Bligh Street between Bent Street and Hunter Street</li><li>Castlereagh Street between Hunter Street and King Street</li><li>Elizabeth Street between Market Street and King Street (northbound only)   </li><li>Elizabeth Street between King Street and Hunter Street</li><li>Hunter Street between Pitt Street and Macquarie Street</li><li>King Street between Phillip Street and Elizabeth Street</li><li>O Connell Street between Bent Street and Hunter Street    </li><li>Phillip Street between Bent Street and Hunter Street </li><li>Phillip Street between Hunter Street and King Street    </li><li>Spring Street between Gresham Street and Pitt Street</li></ul><p><strong>FROM 2.50PM* TO 4.30PM</strong></p><ul><li>Macquarie Street between Bent Street and St James Road   </li><li>Prince Albert Road between Macquarie Street and St Mary&#39;s Road</li><li>St James Road between Elizabeth Street and Macquarie Street</li><li>College Street between Prince Albert Road and William Street   </li></ul><p>*Approximately 2:50pm, once the rear of the procession passes the corner of Pitt St and Hunter St </p><p><br></p><p><strong>SPECIAL EVENT CLEARWAYS</strong></p><p>Special event clearways are strict no-parking zones that apply to all vehicle types, and to local residents, businesses or Transport for New South Wales Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, call 132 701 to find its new location. </p><p><strong>SYDNEY CBD</strong></p><p><strong>FROM 1PM TO 4PM</strong></p><ul><li>College Street between Prince Albert Road and William Street (eastern side)</li><li>Hunter Street between Pitt Street and Macquarie Street (both sides)</li><li>Macquarie Street between St James Road and Hunter Street (western side)</li><li>Pitt Street between Hunter Street and Martin Place (eastern side)</li></ul><p><strong>CYCLEWAY CLOSURE</strong></p><p><strong>SYDNEY CBD</strong></p><p><strong>FROM 2PM TO 4:30PM</strong></p><ul><li>Pitt Street between Bridge Street and Martin Pace</li></ul><p><strong>FROM 2:50PM TO 4:30PM</strong></p><ul><li>College Street between Park Street and Prince Albert Road</li></ul>",
-            "title": "Road Closures, Cycleway Closure and Special Event Clearways",
-            "id": "937246"
-          }
-        ],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1795266000000,
-        "displayName": "Religious Procession",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Hunter Street, Macquarie Street, College Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Sydney CBD",
             "trafficVolume": ""
           }
         ],
@@ -1588,186 +1506,6 @@
     },
     {
       "type": "Feature",
-      "id": 294723,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.1602528,
-          -32.5657779
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Singleton Bypass Community Open Day",
-            "linkURL": "https://caportal.com.au/rms/singleton-bypass/community-open-day"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1794965264000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Check signage",
-        "adviceB": "Allow extra travel time",
-        "adviceC": "Exercise caution",
-        "end": 1795323600000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1794965264538,
-        "otherAdvice": "<p><strong>The Singleton Bypass Community Open Day will be held from 10am to 3pm on Sunday 22 November. </strong></p><p>Traffic will be heavier than usual as the community travel to and from the open day. Traffic controllers will be on site to direct motorists. </p><p>Parking is available at <strong>Rose Point Park</strong> with staff on site to direct visitors to the main entry point near the Putty Road interchange. </p><p>Motorists should allow extra travel time and be aware of increased pedestrian activity on local and surrounding roads.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1795302000000,
-        "displayName": "Singleton Bypass Community Open Day",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Rose Point Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Hunter",
-            "secondLocation": "",
-            "suburb": "Singleton",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 294747,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.422111,
-          -33.3130222
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "7:00pm",
-            "fromDay": "Thursday",
-            "startTime": "3:00pm",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "8:30pm",
-            "fromDay": "Friday",
-            "startTime": "7:30am",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "8:30pm",
-            "fromDay": "Saturday",
-            "startTime": "7:30am",
-            "toDay": ""
-          },
-          {
-            "closureType": "ROAD_CLOSURE",
-            "roadextent": "Affected",
-            "roadtype": "",
-            "direction": "Both directions",
-            "finishTime": "5:00pm",
-            "fromDay": "Sunday",
-            "startTime": "7:30am",
-            "toDay": ""
-          }
-        ],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": false,
-        "isNewIncident": true,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1794976716000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Exercise caution",
-        "adviceB": "Check signage",
-        "adviceC": "Allow extra travel time",
-        "end": 1795334400000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1794976717167,
-        "otherAdvice": "<p>The tournament will be held from <strong>Thursday 19 to Sunday 22 November</strong>. Motorists are advised to follow signage, traffic control and be aware of increased pedestrian activity during the event. There will be extra parking at Tuggerah fenced dog park.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1795060800000,
-        "displayName": "3P Tag NSW All Nations 2026 (Rugby League Tag)",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Lake Road",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "on",
-            "mainStreet": "Central Coast Regional Sporting & Recreation Complex",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Central Coast",
-            "secondLocation": "",
-            "suburb": "Tuggerah",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "Local road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 295195,
       "geometry": {
         "type": "Point",
@@ -1826,494 +1564,6 @@
             "region": "Hunter",
             "secondLocation": "",
             "suburb": "Newcastle",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 293992,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.5933087,
-          -30.9852236
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1794351284000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Check signage",
-        "adviceB": "Expect delays",
-        "adviceC": "Exercise caution",
-        "end": 1795219200000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1795219205953,
-        "otherAdvice": "<p>The Walcha Motorcycle Rally will be held on Saturday 21 November at 10am to 11am. Alternating (stop/slow) traffic conditions will be in place during parade.  </p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1795215600000,
-        "displayName": "Walcha Motorcycle Rally",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Oxley Highway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "New England North West",
-            "secondLocation": "",
-            "suburb": "Walcha",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "Local road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 293279,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.3391519,
-          -33.4282419
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2026/11/league-men-central-coast-mariners-v-perth-glory\" rel=\"noopener noreferrer\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1793935712000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Exercise caution",
-        "adviceC": " ",
-        "end": 1795249800000,
-        "hideEndDate": true,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1795249801529,
-        "otherAdvice": "<p>.<strong>A-League Men: Central Coast Mariners v Perth Glory at polytec Stadium in Gosford</strong>. Kick off at 5pm, full time around 7pm.</p><p>Traffic will be heavier than usual on roads approaching the stadium as fans travel to and from the match. Allow extra travel time and use local parking. </p><p>Dane Drive will be closed from 3pm between the Central Coast Highway and Donnison Street and will reopen once crowds have cleared the area</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1795179600000,
-        "displayName": "A-League Men",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Central Coast Highway",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "between",
-            "mainStreet": "Dane Drive",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Central Coast",
-            "secondLocation": "Donnison Street",
-            "suburb": "Gosford",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 293286,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.063042,
-          -33.8509914
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "A-League Women: Sydney FC v Canberra United",
-            "linkURL": "https://sydneyfc.com/match/a-league-women/sydney-vs-canberra-united-21-11-2026"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info\" rel=\"noopener noreferrer\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1793938072000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Use public transport",
-        "adviceC": " ",
-        "end": 1795251600000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1795251602035,
-        "otherAdvice": "<p><strong>A-League Women: Sydney FC v Canberra United at Sydney Olympic Park Athletic Centre on Saturday 21 November. Game starts at 5pm.</strong></p><p>Olympic Park will be very busy with thousands of people also travelling to concerts in the precinct.</p><p>Motorists should carpoll with their group and allow plenty of extra travel time on roads including the M4 Mwy, Homebush Bay Dr, Concord Rd, Lane Cove Rd, Parramatta Rd, Centenary Dr and Silverwater Rd.</p><p>Parking is in high demand so <a href=\"https://www.sydneyolympicpark.com.au/parking/\" rel=\"noopener noreferrer\" target=\"_blank\">pre-book online</a> in advance to secure a space, available until 11:59pm the night before the event unless sold out prior. If you have pre-booked your parking, follow the directions of staff and have your parking ticket ready to show at the car park entry.</p><p><strong>Road closures</strong></p><p>Sydney Olympic Park Authority may close some local roads to accommodate increased public transport services and ensure pedestrian safety during events. For road closure details, visit the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" rel=\"noopener noreferrer\" target=\"_blank\">Sydney Olympic Park interactive map</a> for more details.  </p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1795179600000,
-        "displayName": "A-League Women",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Edwin Flack Avenue",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Sydney Olympic Park",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 293284,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.2216516,
-          -33.8613058
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "What's On Botanic Gardens of Sydney",
-            "linkURL": "https://www.botanicgardens.org.au/whats-on?garden%5B641%5D=641&event_date_start=&event_date_end="
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": true,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1793937859000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": " ",
-        "adviceC": " ",
-        "end": 1795260600000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1795260649319,
-        "otherAdvice": "<p><strong>Upcoming shows at Fleet Steps, Mrs Macquaries Point:</strong></p><ul><li><strong>Friday 20 November: </strong><a href=\"https://www.botanicgardens.org.au/whats-on/hot-dub-harbour\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Hot Dub on the Harbour</strong></a> from 6pm to 10.30pm.</li><li><strong>Saturday 21 November: </strong><a href=\"https://www.botanicgardens.org.au/whats-on/harbourlife-2026\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Harbourlife</strong></a><strong> from 2pm to 10pm.</strong></li></ul><p>Traffic may be heavier than usual in through Sydney CBD as attendees travel to and from each concert.</p><p><strong>Road closures will be in place on each event day:</strong></p><ul><li>From 12.30pm Friday 20 November to midnight Saturday 21 November - The Northern Loop of Mrs Macquaries Road at the turning circle </li><li>Art Gallery Road and the Southern Loop of Mrs Macquaries Road will be closed the following times:</li><li>          9:30pm to 11:30pm - Friday 20 November</li><li>          8:30pm to 11:00pm - Saturday 21 November</li></ul><p>Motorists should allow extra time, follow detour routes and watch out for pedestrians.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1795093200000,
-        "displayName": "Concerts",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Fleet Steps, Mrs Macquaries Point",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Mrs Macquaries Road",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Sydney",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 292416,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.6954963,
-          -34.054612
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [
-          {
-            "linkText": "Camden Christmas Festival",
-            "linkURL": "https://www.camden.nsw.gov.au/whats-on/annual-signature-events/camden-christmas-festival"
-          },
-          {
-            "linkText": "Road Closure Map",
-            "linkURL": "https://www.camden.nsw.gov.au/assets/Events/2025/Camden-Christmas/Camden_Christmas_Festival_2024_PARKING_MAP.png"
-          }
-        ],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "<p>Visit <a href=\"https://www.transportnsw.info\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1792994843000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Use diversions",
-        "adviceC": " ",
-        "end": 1795264200000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1795264201578,
-        "otherAdvice": "<p><strong>Camden Christmas Festival today from 4pm to 9pm. </strong></p><p>Traffic may be heavier than usual on roads approaching and around Camden Town Centre while roads are closed for the event.</p><p>Motorists are advised to allow extra travel time and be aware of increased pedestrian activity in the area.</p><p><strong>The following roads in Camden are now closed until 11.30pm</strong></p><ul><li>Argyle St between Murray St and Elizabeth St</li><li>John St between Broughton St and Mitchell St</li><li>Oxley St between Argyle and Mitchell St</li><li>Hill St between Broughton St</li><li>Larking Pl stopping vehicles from exiting onto John St</li><li>Camden War Memorial Pool parking (bus access only)</li></ul>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1795179600000,
-        "displayName": "Christmas Festival",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "John Street",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Argyle Street",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Camden",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 293282,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          150.7445293,
-          -34.1082649
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "<p>Courtesy shuttle buses will run for the event. Visit <a href=\"https://transportnsw.info/events/2026/11/eureka-harness-race-day\" rel=\"noopener noreferrer\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1793937457000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Allow extra travel time",
-        "adviceB": "Use public transport",
-        "adviceC": " ",
-        "end": 1795264200000,
-        "hideEndDate": false,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1795264202013,
-        "otherAdvice": "<p><strong>Eureka Harness Race Day at Club Menangle Trackside. Event runs from 5pm until 11pm. </strong></p><p>Traffic may be heavier than usual on roads approaching the racecourse as crowds travel to and from the event. </p><p>Motorists should allow extra travel time and be aware of increased pedestrian activity on local roads in the area.</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1795179600000,
-        "displayName": "Race Day",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "Racecourse Avenue",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "at",
-            "mainStreet": "Hume Motorway",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Menangle Park",
-            "trafficVolume": ""
-          }
-        ],
-        "isLocalRoad": "State road",
-        "CategoryIcon": "PublicEvent"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 293283,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.0693574,
-          -33.8414665
-        ],
-        "collections": []
-      },
-      "properties": {
-        "webLinks": [],
-        "headline": "",
-        "periods": [],
-        "speedLimit": -1,
-        "weblinkUrl": null,
-        "expectedDelay": -1,
-        "ended": true,
-        "isNewIncident": false,
-        "publicTransport": "<p>Visit <a href=\"https://transportnsw.info/events/2026/11/jay-chou\" rel=\"noopener noreferrer\" target=\"_blank\">transportnsw.info</a> to plan your trip.</p>",
-        "impactingNetwork": false,
-        "subCategoryB": null,
-        "arrangementAttachments": [],
-        "isInitialReport": false,
-        "created": 1793937292000,
-        "isMajor": false,
-        "name": null,
-        "subCategoryA": "null",
-        "adviceA": "Use public transport",
-        "adviceB": "Allow extra travel time",
-        "adviceC": " ",
-        "end": 1795265940000,
-        "hideEndDate": true,
-        "incidentKind": "Planned",
-        "mainCategory": "SPECIAL EVENT",
-        "lastUpdated": 1795265944655,
-        "otherAdvice": "<p><strong>Jay Chou at ENGIE Stadium on Saturday 21 November. Show runs from 7.30pm until 10.30pm.</strong></p><p>Olympic Park will be very busy with thousands of people also travelling to a concert at Afterpay Arena.</p><p>Motorists should car poll with their group and allow plenty of extra travel time on the M4, Parramatta Rd, Homebush Bay Drive, Silverwater Rd, Centenary Dr and Concord Rd. </p><p>Parking is in high demand so <a href=\"https://www.sydneyolympicpark.nsw.gov.au/parking\" rel=\"noopener noreferrer\" target=\"_blank\">pre-book your parking online</a> ahead of time to secure a space – available until 11:59pm the night before the event unless sold out prior. </p><p>To get to your carpark and avoid the heavy traffic congestion expected at the Homebush Bay Drive roundabout, use Silverwater Road, Holker Street and Hill Road.</p><p>Sydney Olympic Park Authority may close local roads in the precinct to ensure pedestrian safety during the event. View the <a href=\"https://www.sydneyolympicpark.nsw.gov.au/map\" rel=\"noopener noreferrer\" target=\"_blank\">interactive map</a> for closure details</p>",
-        "arrangementElements": [],
-        "diversions": "",
-        "additionalInfo": [],
-        "weblinkName": null,
-        "attendingGroups": null,
-        "encodedPolylines": [],
-        "duration": null,
-        "start": 1795179600000,
-        "displayName": "Concert",
-        "roads": [
-          {
-            "conditionTendency": "",
-            "crossStreet": "ENGIE Stadium",
-            "delay": "",
-            "impactedLanes": [],
-            "locationQualifier": "approaching",
-            "mainStreet": "M4 Motorway, Homebush Bay Drive, Parramatta Road, Centenary Drive",
-            "quadrant": "",
-            "queueLength": 0,
-            "region": "Sydney",
-            "secondLocation": "",
-            "suburb": "Sydney Olympic Park",
             "trafficVolume": ""
           }
         ],
@@ -2462,6 +1712,268 @@
           }
         ],
         "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 294723,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1602528,
+          -32.5657779
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [
+          {
+            "linkText": "Singleton Bypass Community Open Day",
+            "linkURL": "https://caportal.com.au/rms/singleton-bypass/community-open-day"
+          }
+        ],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1794965264000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Check signage",
+        "adviceB": "Allow extra travel time",
+        "adviceC": "Exercise caution",
+        "end": 1795323600000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1795323653420,
+        "otherAdvice": "<p><strong>The Singleton Bypass Community Open Day will be held from 10am to 3pm on Sunday 22 November. </strong></p><p>Traffic will be heavier than usual as the community travel to and from the open day. Traffic controllers will be on site to direct motorists. </p><p>Parking is available at <strong>Rose Point Park</strong> with staff on site to direct visitors to the main entry point near the Putty Road interchange. </p><p>Motorists should allow extra travel time and be aware of increased pedestrian activity on local and surrounding roads.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1795302000000,
+        "displayName": "Singleton Bypass Community Open Day",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Rose Point Road",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Hunter",
+            "secondLocation": "",
+            "suburb": "Singleton",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 290809,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2084677,
+          -33.8675684
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "<p>Buses are diverting and using different stops while roads are closed. Check bus service alerts at <a href=\"https://transportnsw.info/alerts#/bus\" rel=\"noopener noreferrer\" target=\"_blank\">transportnsw.info</a> for the latest info.</p>",
+        "impactingNetwork": true,
+        "subCategoryB": null,
+        "arrangementAttachments": [
+          {
+            "displayName": "Walk_with_Christ_2026_",
+            "fileName": "Walk_with_Christ_2026_.pdf",
+            "fileType": "PDF",
+            "linkName": "Walk_with_Christ_2026_",
+            "sizeInBytes": 516047,
+            "uniqueFileName": "730261_1791859525362_Walk_with_Christ_2026_.pdf"
+          }
+        ],
+        "isInitialReport": false,
+        "created": 1793658124000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Expect delays",
+        "adviceB": "Check signage",
+        "adviceC": "Use an alternative route",
+        "end": 1795325400000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1795325401713,
+        "otherAdvice": "<p><strong>Road closures are in place as up to 6,000 people are expected to take part in the annual Walk with Christ Religious Procession which will travel from Martin Place to St Mary&#39;s Cathedral</strong>.</p><p>Road closures are in place until 4:30pm, while special event clearways are in effect since 1pm until 4pm</p><p>Traffic will be heavy in the city while roads are closed. Motorists should avoid unnecessary travel through the city where possible or allow plenty of extra travel time.</p><p><strong>Road closures:</strong></p><ul><li><strong>CLOSED**From 2pm to 4:30pm: </strong>Pitt St between Bridge St and Martin Pl.</li><li><strong>CLOSED**From 2:15pm to 4:30pm </strong>sections of O&#39;Connell, Bligh, Spring, Castlereagh, Phillip, King, Elizabeth, George and Hunter Streets will close.</li><li><strong>**CLOSED 2:50pm to 4:30pm</strong> sections of College St, Macquarie St, Prince Albert Rd and St James Rd will close.</li></ul><p><strong>Special event clearways are in effect since 1pm until 4pm </strong>on sections of College, Hunter, Macquarie and Pitt Streets. Clearways are strict no-parking zones and apply even to local residents and Mobility Scheme Permit Holders. Check signs carefully before parking as vehicles left in clearways will be towed and a fee applies.</p>",
+        "arrangementElements": [
+          {
+            "html": "<p><strong>ROAD CLOSURES</strong></p><p><strong>SYDNEY CBD</strong></p><p><strong>FROM 2PM to 4:30PM</strong></p><ul><li>Pitt Street between Bridge Street and Martin Place</li></ul><p><strong>FROM 2.15PM TO 4.30PM</strong></p><ul><li>Bligh Street between Bent Street and Hunter Street</li><li>Castlereagh Street between Hunter Street and King Street</li><li>Elizabeth Street between Market Street and King Street (northbound only)   </li><li>Elizabeth Street between King Street and Hunter Street</li><li>Hunter Street between Pitt Street and Macquarie Street</li><li>King Street between Phillip Street and Elizabeth Street</li><li>O Connell Street between Bent Street and Hunter Street    </li><li>Phillip Street between Bent Street and Hunter Street </li><li>Phillip Street between Hunter Street and King Street    </li><li>Spring Street between Gresham Street and Pitt Street</li></ul><p><strong>FROM 2.50PM* TO 4.30PM</strong></p><ul><li>Macquarie Street between Bent Street and St James Road   </li><li>Prince Albert Road between Macquarie Street and St Mary&#39;s Road</li><li>St James Road between Elizabeth Street and Macquarie Street</li><li>College Street between Prince Albert Road and William Street   </li></ul><p>*Approximately 2:50pm, once the rear of the procession passes the corner of Pitt St and Hunter St </p><p><br></p><p><strong>SPECIAL EVENT CLEARWAYS</strong></p><p>Special event clearways are strict no-parking zones that apply to all vehicle types, and to local residents, businesses or Transport for New South Wales Mobility Scheme Permit holders. Check signs carefully as vehicles left in clearways will be towed and a fee applies. If your vehicle is towed, call 132 701 to find its new location. </p><p><strong>SYDNEY CBD</strong></p><p><strong>FROM 1PM TO 4PM</strong></p><ul><li>College Street between Prince Albert Road and William Street (eastern side)</li><li>Hunter Street between Pitt Street and Macquarie Street (both sides)</li><li>Macquarie Street between St James Road and Hunter Street (western side)</li><li>Pitt Street between Hunter Street and Martin Place (eastern side)</li></ul><p><strong>CYCLEWAY CLOSURE</strong></p><p><strong>SYDNEY CBD</strong></p><p><strong>FROM 2PM TO 4:30PM</strong></p><ul><li>Pitt Street between Bridge Street and Martin Pace</li></ul><p><strong>FROM 2:50PM TO 4:30PM</strong></p><ul><li>College Street between Park Street and Prince Albert Road</li></ul>",
+            "title": "Road Closures, Cycleway Closure and Special Event Clearways",
+            "id": "948674"
+          }
+        ],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1795266000000,
+        "displayName": "Religious Procession",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "at",
+            "mainStreet": "Hunter Street, Macquarie Street, College Street",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Sydney",
+            "secondLocation": "",
+            "suburb": "Sydney CBD",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "State road",
+        "CategoryIcon": "PublicEvent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 294747,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.422111,
+          -33.3130222
+        ],
+        "collections": []
+      },
+      "properties": {
+        "webLinks": [],
+        "headline": "",
+        "periods": [
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "7:00pm",
+            "fromDay": "Thursday",
+            "startTime": "3:00pm",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "8:30pm",
+            "fromDay": "Friday",
+            "startTime": "7:30am",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "8:30pm",
+            "fromDay": "Saturday",
+            "startTime": "7:30am",
+            "toDay": ""
+          },
+          {
+            "closureType": "ROAD_CLOSURE",
+            "roadextent": "Affected",
+            "roadtype": "",
+            "direction": "Both directions",
+            "finishTime": "5:00pm",
+            "fromDay": "Sunday",
+            "startTime": "7:30am",
+            "toDay": ""
+          }
+        ],
+        "speedLimit": -1,
+        "weblinkUrl": null,
+        "expectedDelay": -1,
+        "ended": true,
+        "isNewIncident": false,
+        "publicTransport": "",
+        "impactingNetwork": false,
+        "subCategoryB": null,
+        "arrangementAttachments": [],
+        "isInitialReport": false,
+        "created": 1794976716000,
+        "isMajor": false,
+        "name": null,
+        "subCategoryA": "null",
+        "adviceA": "Exercise caution",
+        "adviceB": "Check signage",
+        "adviceC": "Allow extra travel time",
+        "end": 1795334400000,
+        "hideEndDate": false,
+        "incidentKind": "Planned",
+        "mainCategory": "SPECIAL EVENT",
+        "lastUpdated": 1795334464963,
+        "otherAdvice": "<p>The tournament will be held from <strong>Thursday 19 to Sunday 22 November</strong>. Motorists are advised to follow signage, traffic control and be aware of increased pedestrian activity during the event. There will be extra parking at Tuggerah fenced dog park.</p>",
+        "arrangementElements": [],
+        "diversions": "",
+        "additionalInfo": [],
+        "weblinkName": null,
+        "attendingGroups": null,
+        "encodedPolylines": [],
+        "duration": null,
+        "start": 1795060800000,
+        "displayName": "3P Tag NSW All Nations 2026 (Rugby League Tag)",
+        "roads": [
+          {
+            "conditionTendency": "",
+            "crossStreet": "Lake Road",
+            "delay": "",
+            "impactedLanes": [],
+            "locationQualifier": "on",
+            "mainStreet": "Central Coast Regional Sporting & Recreation Complex",
+            "quadrant": "",
+            "queueLength": 0,
+            "region": "Central Coast",
+            "secondLocation": "",
+            "suburb": "Tuggerah",
+            "trafficVolume": ""
+          }
+        ],
+        "isLocalRoad": "Local road",
         "CategoryIcon": "PublicEvent"
       }
     }
